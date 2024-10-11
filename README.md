@@ -105,15 +105,20 @@ On recent MacOS versions, you can use Retroactive to use iTunes 10.7 alongside t
 
 ## Credits
 Project started, documented and maintained by OlsroFR
+
 https://github.com/Olsro/ipodclickwheelgamespreservationproject
+
 https://old.reddit.com/r/ipod/comments/1fydso6/preservation_of_ipod_clickwheel_games_read_this/
 
 This project could not be possible without all of the contributors who authed their owned games on this virtual machine !
 
 ## Contact
 https://www.patreon.com/Olsro
+
 https://www.reddit.com/user/OlsroFR/
+
 Mail: olsroparadise@proton.me
+
 Discord: Inurayama
 
 Contact me especially if you own any clickwheel game so we can preserve it together for everyone ! It takes no more than around 15 minutes of your time to auth your .ipg files to this communitarian virtual machine together.
