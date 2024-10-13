@@ -111,6 +111,8 @@ Old iTunes versions are downloadable from here: https://theapplewiki.com/wiki/IT
 
 On recent MacOS versions, you can use Retroactive to use iTunes 10.7 alongside the "Music" app: https://github.com/cormiertyshawn895/Retroactive/releases/tag/2.1 but it's a bit more risky since those old versions of iTunes are not tested to run on modern MacOS versions.
 
+![Alt text](images/phaseplaylist.png?raw=true "Phase auto-generated playlist to put your music tracks in")
+
 ## Credits
 Project started, documented and maintained by OlsroFR
 
