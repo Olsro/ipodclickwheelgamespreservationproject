@@ -73,7 +73,8 @@ You need to extract "iPod Clickwheel Games Preservation Project.utm.7z.001" whic
 - On MacOS
 	- 1) Download and install UTM: https://mac.getutm.app/ (avoid the Mac App Store version, because it has some limitations)
 	- 2) Just import the .utm virtual machine file into UTM
-	- 3) You should be able to launch it straight
+	- 3) You should be able to launch it straight. Check the capture just below to know where to click to connect your iPod in the Virtual Machine.
+	![Alt text](images/mac/utm-usb-passthrough.png?raw=true "USB Passthrough on Mac with UTM")
 - On Linux:
 	- 1) Copy the .utm file on this folder, because it will be needed by the script "start_qemu.sh".
 	- 2) Open a Terminal on the folder of this cloned repo where start_qemu.sh is located.
@@ -81,10 +82,10 @@ You need to extract "iPod Clickwheel Games Preservation Project.utm.7z.001" whic
 	- 4) Run Qemu: ```chmod a+x ./start_qemu.sh && ./start_qemu.sh``` or if your arch is ARM64 (for example if you are using an Apple Silicon Mac on Asahi Linux) you can emulate the x64 arch (which will be much slower) with this script ```chmod a+x ./start_qemu.sh && ./slow_start_qemu.sh```.
 	- 5) Now you can start Remmina to control it
 	- 6) Setup a new SPICE connection with the following address: 127.0.0.1:17474 and connect to it
-	![Alt text](images/remmina.png?raw=true "Remmina")
+	![Alt text](images/linux/remmina.png?raw=true "Remmina")
 	- 7) You should now see the Virtual Machine booting and be able to interact with it
 	- 8) You can USB passthrough your iPod to the Virtual Machine by clicking on the "Adjustable wrench" icon that is located near the bottom of the left panel to redirect your iPod to the Virtual Machine.
-	![Alt text](images/virtualmachineusbredir.png?raw=true "Virtual Machine USB Passthrough")
+	![Alt text](images/linux/virtualmachineusbredir.png?raw=true "Virtual Machine USB Passthrough")
 
 ### 4) Syncing using iTunes
 To use this, connect your iPod to the virtual machine using USB passthrough then open iTunes and sync the games.
