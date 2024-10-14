@@ -73,6 +73,7 @@ You need to extract "iPod Clickwheel Games Preservation Project.utm.7z.001" whic
 - On MacOS
 	- 1) Download and install UTM: https://mac.getutm.app/ (avoid the Mac App Store version, because it has some limitations)
 	- 2) Just import the .utm virtual machine file into UTM
+	![Alt text](images/mac/utm-file-open.png?raw=true "Import the VM in UTM")
 	- 3) You should be able to launch it straight. Check the capture just below to know where to click to connect your iPod in the Virtual Machine.
 	![Alt text](images/mac/utm-usb-passthrough.png?raw=true "USB Passthrough on Mac with UTM")
 - On Linux:
