@@ -140,64 +140,64 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 
 # Preservation status for each game
 
-| Game Name | Preservation Status | Internal Code* | Developer | Genre |
-| :--- | :---: | :---: | :---: | :---: |
-| Asphalt 4: Elite Racing                | ❌ | 22020 | Gameloft | Sports |
-| Bejeweled                              | ❌ | 55555 | PopCap Games | Puzzle & Trivia |
-| Block Breaker Deluxe                   | ❌ | 21004 | Gameloft | Action |
-| Bomberman                              | ❌ | 20000 | Hudson Software Company, Limited | Action |
-| Brain Challenge                        | ❌ | 21000 | Gameloft S.A. | Puzzle & Trivia |
-| Bubble Bash                            | ❌ | 21008 | Gameloft | Puzzle & Trivia |
-| Cake Mania 3                           | ❌ | 25002 | Sandlot Games | Action |
-| Chalkboard Sports Baseball             | ❌ | 23000 | D2C Games | Sports |
-| Chess & Backgammon Classics            | ❌ | 21002 | Gameloft | Cards, Casino, & Board |
-| Chinese Checkers                       | ❌ | 11802 | Apple Inc. | Cards, Casino, & Board |
-| CRYSTAL DEFENDERS                      | ❌ | 24002 | Square Enix | Strategy |
-| CSI Miami                              | ❌ | 22014 | Gameloft | Simulation |
-| Cubis 2                                | ❌ | 99999 | FreshGames | Puzzle & Trivia |
-| iQuiz (NOT THE PRE-INSTALLED VERSION)  | ❌ | 11002 | Apple Inc. | Puzzle & Trivia |
-| Lode Runner                            | ❌ | 20002 | Hudson Software Company, Limited | Action |
-| LOST                                   | ❌ | 1B200 | Gameloft | Role-Playing |
-| Mahjong                                | ❌ | 77777 | Electronic Arts | Cards, Casino, & Board |
-| Mini Golf                              | ❌ | 88888 | Electronic Arts | Sports |
-| Monopoly                               | ❌ | 15040 | Electronic Arts | Cards, Casino & Board |
-| Ms. PAC-MAN                            | ❌ | 14004 (v1.1 is 14024) | Namco | Action |
-| Ms. PAC-MAN Demo                       | ❌ | 14005 | Namco | Action |
-| musika                                 | ❌ | 1C300 | NanaOn-Sha / Sony BMG | Rythm |
-| Mystery Mansion Pinball                | ❌ | 22010 | Gameloft | Action |
-| Naval Battle                           | ❌ | 21006 | Gameloft | Strategy |
-| PAC-MAN                                | ❌ | AAAAA | Namco Networks America | Action |
-| Peggle                                 | ❌ | 12104 | PopCap Games | Action |
-| Phase                                  | ✅ | 1D000 | MTV Games - Harmonix | Rythm |
-| Pirates of the Caribbean: Aegir's Fire | ❌ | 22000 | Disney Online Studios | Action |
-| Pole Position Remix                    | ❌ | 14003 | Namco Networks America | Sports |
-| Real Soccer 2009                       | ❌ | 22018 | Gameloft | Sports |
-| Reversi                                | ❌ | 11800 | Apple Inc. | Cards, Casino, & Board |
-| Royal Solitaire                        | ❌ | 50514 | Electronic Arts | Cards, Casino, & Board |
-| SAT Prep Mathematics - 2008            | ❌ | 11052 | Kaplan | Education |
-| SAT Prep Reading - 2008                | ❌ | 11050 | Kaplan | Education |
-| SAT Prep Writing - 2008                | ❌ | 11051 | Kaplan | Education |
-| Scrabble                               | ❌ | 15012 | Electronic Arts | Cards, Casino & Board Games |
-| Slyder Adventures                      | ❌ | 25000 | Sandlot Games | Action |
-| Song Summoner: The Unsung Heroes       | ❌ | 24000 | Square Enix | Role-Playing |
-| Sonic the Hedgehog                     | ❌ | 18000 | Sega of America | Action |
-| Spore Origins                          | ❌ | 15010 | Electronic Arts | Simulation |
-| Star Trigon                            | ❌ | 14006 | Namco Networks America | Action |
-| Sudoku                                 | ❌ | 50513 | Electronic Arts | Puzzle & Trivia |
-| Tamagotchi 'Round the World            | ❌ | 14008 | NAMCO BANDAI Games America | Kids & Learning |
-| Tetris                                 | ❌ | 66666 | Electronic Arts | Puzzle & Trivia |
-| Texas Hold'em                          | ✅ (v1.1) | 33333 (v1.1 is 33353) | Apple Inc. | Cards, Casino, & Board |
-| The Sims Bowling                       | ❌ | 1500C | Electronic Arts | Sports |
-| The Sims DJ                            | ❌ | 15036 | Electronic Arts | Simulation |
-| The Sims Pool                          | ❌ | 1500E | Electronic Arts | Sports |
-| Tiger Woods PGA TOUR                   | ❌ | 15038 | Electronic Arts | Sports |
-| Trivial Pursuit                        | ❌ | 15042 | Electronic Arts | Cards, Casino, & Board |
-| UNO                                    | ❌ | 22012 | Gameloft | Cards, Casino, & Board |
-| Vortex (NOT THE PRE-INSTALLED VERSION) | ❌ | 12345 | Apple Inc. | Action |
-| Vortex Demo                            | ❌ | 12346 | Apple Inc. | Action |
-| Wonder Blocks                          | ❌ | 22022 | Gameloft | Puzzle |
-| Yahtzee                                | ❌ | 15014 | Electronic Arts | Cards, Casino, & Board Games |
-| Zuma                                   | ❌ | 44444 | PopCap Games | Action |
+| Game Name | Preservation Status | Internal Code* | Developer | Genre | Release Date |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| Asphalt 4: Elite Racing                | ❌ | 22020 | Gameloft | Sports | 2008-08-28 |
+| Bejeweled                              | ❌ | 55555 | PopCap Games | Puzzle & Trivia | 2008-04-15 |
+| Block Breaker Deluxe                   | ❌ | 21004 | Gameloft | Action | 2008-01-15 |
+| Bomberman                              | ❌ | 20000 | Hudson Software Company, Limited | Action | 2007-12-18 |
+| Brain Challenge                        | ❌ | 21000 | Gameloft S.A. | Puzzle & Trivia | 2007-09-05 |
+| Bubble Bash                            | ❌ | 21008 | Gameloft | Puzzle & Trivia | 2008-02-25 |
+| Cake Mania 3                           | ❌ | 25002 | Sandlot Games | Action | 2009-02-04 |
+| Chalkboard Sports Baseball             | ❌ | 23000 | D2C Games | Sports | 2008-08 |
+| Chess & Backgammon Classics            | ❌ | 21002 | Gameloft | Cards, Casino, & Board | 2008-02-04 |
+| Chinese Checkers                       | ❌ | 11802 | Apple Inc. | Cards, Casino, & Board | 2008-12 |
+| CRYSTAL DEFENDERS                      | ❌ | 24002 | Square Enix | Strategy | 2008-12 |
+| CSI Miami                              | ❌ | 22014 | Gameloft | Simulation | 2008-09 |
+| Cubis 2                                | ❌ | 99999 | FreshGames | Puzzle & Trivia | 2006-09-12 |
+| iQuiz (NOT THE PRE-INSTALLED VERSION)  | ❌ | 11002 | Apple Inc. | Puzzle & Trivia | 2007-04 |
+| Lode Runner                            | ❌ | 20002 | Hudson Software Company, Limited | Action | 2008-12 |
+| LOST                                   | ❌ | 1B200 | Gameloft | Role-Playing | 2007-05 |
+| Mahjong                                | ❌ | 77777 | Electronic Arts | Cards, Casino, & Board | 2008-04-22 |
+| Mini Golf                              | ❌ | 88888 | Electronic Arts | Sports | 2006-09-12 |
+| Monopoly                               | ❌ | 15040 | Electronic Arts | Cards, Casino & Board | 2008-06-03 |
+| Ms. PAC-MAN                            | ❌ | 14004 (v1.1 is 14024) | Namco | Action | 2007-02-27 |
+| Ms. PAC-MAN Demo                       | ❌ | 14005 | Namco | Action | 2007-02-27 |
+| musika                                 | ❌ | 1C300 | NanaOn-Sha / Sony BMG | Rythm | 2007-08-07 |
+| Mystery Mansion Pinball                | ❌ | 22010 | Gameloft | Action | 2008-08 |
+| Naval Battle                           | ❌ | 21006 | Gameloft | Strategy | 2008-02-04 |
+| PAC-MAN                                | ❌ | AAAAA | Namco Networks America | Action | 2006-09-12 |
+| Peggle                                 | ❌ | 12104 | PopCap Games | Action | 2007-12-18 |
+| Phase                                  | ✅ | 1D000 | MTV Games - Harmonix | Rythm | 2007-11-06 |
+| Pirates of the Caribbean: Aegir's Fire | ❌ | 22000 | Disney Online Studios | Action | 2008-02-20 |
+| Pole Position Remix                    | ❌ | 14003 | Namco Networks America | Sports | 2008-01-21 |
+| Real Soccer 2009                       | ❌ | 22018 | Gameloft | Sports | 2008-12 |
+| Reversi                                | ❌ | 11800 | Apple Inc. | Cards, Casino, & Board | 2008-12 |
+| Royal Solitaire                        | ❌ | 50514 | Electronic Arts | Cards, Casino, & Board | 2006-12 |
+| SAT Prep Mathematics - 2008            | ❌ | 11052 | Kaplan | Education | 2007-06-22 |
+| SAT Prep Reading - 2008                | ❌ | 11050 | Kaplan | Education | 2007-06-22 |
+| SAT Prep Writing - 2008                | ❌ | 11051 | Kaplan | Education | 2007-06-22 |
+| Scrabble                               | ❌ | 15012 | Electronic Arts | Cards, Casino & Board Games | 2008-03-03 |
+| Slyder Adventures                      | ❌ | 25000 | Sandlot Games | Action | 2008-12 |
+| Song Summoner: The Unsung Heroes       | ❌ | 24000 | Square Enix | Role-Playing | 2008-07-08 |
+| Sonic the Hedgehog                     | ❌ | 18000 | Sega of America | Action | 2007-12-18 |
+| Spore Origins                          | ❌ | 15010 | Electronic Arts | Simulation | 2008-08-25 |
+| Star Trigon                            | ❌ | 14006 | Namco Networks America | Action | 2008-09 |
+| Sudoku                                 | ❌ | 50513 | Electronic Arts | Puzzle & Trivia | 2006-12-19 |
+| Tamagotchi 'Round the World            | ❌ | 14008 | NAMCO BANDAI Games America | Kids & Learning | 2008-11 |
+| Tetris                                 | ❌ | 66666 | Electronic Arts | Puzzle & Trivia | 2006-09-12 |
+| Texas Hold'em                          | ✅ (v1.1) | 33333 (v1.1 is 33353) | Apple Inc. | Cards, Casino, & Board | 2006-09-12 |
+| The Sims Bowling                       | ❌ | 1500C | Electronic Arts | Sports | 2007-07-17 |
+| The Sims DJ                            | ❌ | 15036 | Electronic Arts | Simulation | 2008-06-09 |
+| The Sims Pool                          | ❌ | 1500E | Electronic Arts | Sports | 2007-07-31 |
+| Tiger Woods PGA TOUR                   | ❌ | 15038 | Electronic Arts | Sports | 2008-12 |
+| Trivial Pursuit                        | ❌ | 15042 | Electronic Arts | Cards, Casino, & Board | 2008-12 |
+| UNO                                    | ❌ | 22012 | Gameloft | Cards, Casino, & Board | 2008-07 |
+| Vortex (NOT THE PRE-INSTALLED VERSION) | ❌ | 12345 | Apple Inc. | Action | 2006-09-12 |
+| Vortex Demo                            | ❌ | 12346 | Apple Inc. | Action | 2006-09-12 |
+| Wonder Blocks                          | ❌ | 22022 | Gameloft | Puzzle | 2008-12 |
+| Yahtzee                                | ❌ | 15014 | Electronic Arts | Cards, Casino, & Board Games | 2008-02-11 |
+| Zuma                                   | ❌ | 44444 | PopCap Games | Action | 2006-09-12 |
 
 * This is the name of the folder when you try to retrieve the games after you've synced those on the iPod, in the hidden folder called ```iPod_Control/Games_RO```.
 
