@@ -47,6 +47,8 @@ https://workupload.com/archive/DJxtLjH7u6
 
 Re-uploads appreciated !
 
+Be aware that you need around **10 GB** of free space on your hard drive to extract the .utm file from the splitted archive !
+
 #### SHA signatures
 So you can check the authenticity of the files if you download them elsewhere.
 
