@@ -8,7 +8,7 @@ The virtual machine is based on a community-trusted very lite version of Windows
 This virtual machine is a fully offline distribution center setup that you can setup at home on your own PC to distribute authed games yourself on your iPod ! This Virtual Machine can also be useful towards any security+archeologist researcher who want to understand how the DRM worked.
 
 ## Games Compatibility
-- iPod Classic 5G, 5.5G, 6G, 6.5G, and 7G. All iPod Classics that it at least a 5G is basically compatible with this. **You do NOT need to flash any kind of cracked firmware to use this !**
+- iPod Classic 5G, 5.5G, 6G, 6.5G, and 7G. Any iPod Classic that it at least a 5G is basically compatible with this. **You do NOT need to flash any kind of cracked firmware to use this !**
 - iPod Nano 3G or 4G
 - iPod Nano 5G (with black borders because the screen is too large)
 
@@ -50,6 +50,7 @@ Re-uploads appreciated !
 So you can check the authenticity of the files if you download them elsewhere.
 
 **Version 1**
+
 iPod Clickwheel Games Preservation Project.utm.7z.001
 ```9019f51c6021f365fc750d20fe6cb7402bb8df44fa25ac9b13be3424736cb786```
 
