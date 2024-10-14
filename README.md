@@ -161,7 +161,7 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | Mahjong                                | ❌ | 77777 | Electronic Arts | Cards, Casino, & Board |
 | Mini Golf                              | ❌ | 88888 | Electronic Arts | Sports |
 | Monopoly                               | ❌ | 15040 | Electronic Arts | Cards, Casino & Board |
-| Ms. PAC-MAN                            | ❌ | 14004 (v 1.1 is 14024) | Namco | Action |
+| Ms. PAC-MAN                            | ❌ | 14004 (v1.1 is 14024) | Namco | Action |
 | Ms. PAC-MAN Demo                       | ❌ | 14005 | Namco | Action |
 | musika                                 | ❌ | 1C300 | NanaOn-Sha / Sony BMG | Rythm |
 | Mystery Mansion Pinball                | ❌ | 22010 | Gameloft | Action |
@@ -186,7 +186,7 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | Sudoku                                 | ❌ | 50513 | Electronic Arts | Puzzle & Trivia |
 | Tamagotchi 'Round the World            | ❌ | 14008 | NAMCO BANDAI Games America | Kids & Learning |
 | Tetris                                 | ❌ | 66666 | Electronic Arts | Puzzle & Trivia |
-| Texas Hold'em                          | ✅ (v1.1) | 33333 (v 1.1 is 33353) | Apple Inc. | Cards, Casino, & Board |
+| Texas Hold'em                          | ✅ (v1.1) | 33333 (v1.1 is 33353) | Apple Inc. | Cards, Casino, & Board |
 | The Sims Bowling                       | ❌ | 1500C | Electronic Arts | Sports |
 | The Sims DJ                            | ❌ | 15036 | Electronic Arts | Simulation |
 | The Sims Pool                          | ❌ | 1500E | Electronic Arts | Sports |
