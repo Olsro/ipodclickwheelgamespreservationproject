@@ -1,6 +1,6 @@
 
 # iPod Clickwheel Games Preservation Project
-2/54 clickwheel games preserved for the moment and playable right now on your own pod !
+3/54 clickwheel games preserved for the moment and playable right now on your own pod !
 
 ## Introduction and context
 The virtual machine is based on a community-trusted very lite version of Windows 10 LTSC 2019, so it can boot as fast as possible and be generally reasonably fast even without hardware virtualization enabled (ARM64 macs has to emulate x64 code). That version of Windows 10 is still modern enough about SSL and other components to use the required iTunes version and to connect to Apple servers without unreliable workarounds so I can auth the games on it.
@@ -27,6 +27,10 @@ After doing the whole procedure, you may backup completely the hidden folder "iP
 - Added game: Phase
 - Added game: Texas Hold'Em
 
+### Version 2 (2024-10-16)
+- Added game: CRYSTAL DEFENDERS
+- On UTM (Mac), the VM will now use 2 cores per default to run much faster.
+
 ## How to use
 ### Requirements
 - (Recommended) A Mac computer that can run UTM (https://mac.getutm.app/). Don't download the Mac App Store version because it has limitations. An Intel Mac is preferrable for speed but all of this was developed and tested on an Apple Silicon Mac where it run slowly but just fine.
@@ -40,9 +44,9 @@ Please be aware that it is probably possible to run this in a much more exotic s
 ### 1) Download the Virtual Machine
 Unfortunately, the Virtual Machine is too heavy (around 10GB) to be hosted directly on GitHub. When the Virtual Machine will be completed, it will be shared as a torrent so it will avoid getting lost over time.
 
-You can download the latest version (version 1) from here: 
+You can download the latest version (version 2) from here: 
 #### Workupload
-https://workupload.com/archive/DJxtLjH7u6
+https://workupload.com/archive/qZeTNQSFXd
 (click on each download buttons about each parts. Do **not** click on the button with the label "Download archive")
 
 Re-uploads appreciated !
@@ -50,7 +54,18 @@ Re-uploads appreciated !
 Be aware that you need around **10 GB** of free space on your hard drive to extract the .utm file from the splitted archive !
 
 #### SHA signatures
-So you can check the authenticity of the files if you download them elsewhere.
+So you can check the authenticity of the files if you download those elsewhere.
+
+**Version 2**
+
+iPod Clickwheel Games Preservation Project.utm.7z.001
+```c9da57289ada9e08484912202a74689cbaf64f8f26fb4c7aa64b9dc8fee341ae```
+
+iPod Clickwheel Games Preservation Project.utm.7z.002
+```51daab50253b4fb4dad19e8cae2b4af4df1b46e241e5f2cefe3ecc52a95a29c9```
+
+iPod Clickwheel Games Preservation Project.utm.7z.003
+```c6e87f06a442154c23773448348d5e63327f2a495ad78af4c486681456543550```
 
 **Version 1**
 
@@ -93,8 +108,7 @@ You need to extract "iPod Clickwheel Games Preservation Project.utm.7z.001" whic
 	![Alt text](images/linux/virtualmachineusbredir.png?raw=true "Virtual Machine USB Passthrough")
 
 ### 4) Syncing using iTunes
-To use this, connect your iPod to the virtual machine using USB passthrough then open iTunes and sync the games.
-When doing the USB passthrough, it is recommended that you connect your iPod directly to your computer or to the port number 1 of your USB Hub. If USB passthrough does not work for you, try to use another port and retry.
+To use this, connect your iPod to the virtual machine using USB passthrough then open iTunes and sync the games. If USB passthrough does not work for you, try to use another port and retry. On MacOS, I recommend to let the iPod connect to the host then eject it on the Finder before doing the passthrough, it seems more reliable this way.
 
 On your real computer, never try to sync the games or those will be all erased. If you are bothered by the popup which asks you to transfer your purchases at each sync, you may import all of the .ipg also on your real library (without authorizing the games, it's not needed just to avoid the annoying popup). You can find all of the ipg files in a folder called "ipg" in this GitHub repo.
 
@@ -152,7 +166,7 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | Chalkboard Sports Baseball             | ❌ | 23000 | D2C Games | Sports | 2008-08 |
 | Chess & Backgammon Classics            | ❌ | 21002 | Gameloft | Cards, Casino, & Board | 2008-02-04 |
 | Chinese Checkers                       | ❌ | 11802 | Apple Inc. | Cards, Casino, & Board | 2008-12 |
-| CRYSTAL DEFENDERS                      | ❌ | 24002 | Square Enix | Strategy | 2008-12 |
+| CRYSTAL DEFENDERS                      | ✅ | 24002 | Square Enix | Strategy | 2008-12 |
 | CSI Miami                              | ❌ | 22014 | Gameloft | Simulation | 2008-09 |
 | Cubis 2                                | ❌ | 99999 | FreshGames | Puzzle & Trivia | 2006-09-12 |
 | iQuiz (NOT THE PRE-INSTALLED VERSION)  | ❌ | 11002 | Apple Inc. | Puzzle & Trivia | 2007-04 |
