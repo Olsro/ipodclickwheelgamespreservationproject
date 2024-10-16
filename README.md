@@ -1,6 +1,6 @@
 
 # iPod Clickwheel Games Preservation Project
-6/54 clickwheel games preserved for the moment and playable right now on your own pod !
+10/54 clickwheel games preserved for the moment and playable right now on your own pod !
 
 ## Introduction and context
 The virtual machine is based on a community-trusted very lite version of Windows 10 LTSC 2019, so it can boot as fast as possible and be generally reasonably fast even without hardware virtualization enabled (ARM64 macs have to emulate x64 code). That version of Windows 10 is still modern enough about SSL and other components to use the required iTunes version and to connect to Apple servers without unreliable workarounds so I can auth the games on it.
@@ -42,6 +42,12 @@ GitHub does not allow to upload any file larger than 100MB, so I had to compress
 - Added game: Sonic the Hedgehog
 - Added game: Spore Origins
 
+### Version 4 (2024-10-16)
+- Added game: Asphalt 4: Elite Racing
+- Added game: Chinese Checkers
+- Added game: Monopoly
+- Added game: Reversi
+
 ## How to use
 ### Requirements
 - (Recommended) A Mac computer that can run UTM (https://mac.getutm.app/). Don't download the Mac App Store version because it has limitations. An Intel Mac is preferrable for speed but all of this was developed and tested on an Apple Silicon Mac where it run slowly but just fine.
@@ -55,9 +61,9 @@ Please be aware that it is probably possible to run this in a much more exotic s
 ### 1) Download the Virtual Machine
 Unfortunately, the Virtual Machine is too heavy (around 10GB) to be hosted directly on GitHub. When the Virtual Machine will be completed, it will be shared as a torrent so it will avoid getting lost over time.
 
-You can download the latest version (version 3) from here: 
+You can download the latest version (version 4) from here: 
 #### Workupload
-https://workupload.com/archive/PFyNz43Nkp
+https://workupload.com/archive/AC3LUXXVW
 (click on each download buttons about each parts. Do **not** click on the button with the label "Download archive")
 
 Re-uploads appreciated !
@@ -66,6 +72,17 @@ Be aware that you need around **10 GB** of free space on your hard drive to extr
 
 #### SHA signatures
 So you can check the authenticity of the files if you download those elsewhere.
+
+**Version 4**
+
+iPod Clickwheel Games Preservation Project.utm.7z.001
+```80700c44b162b6a77d5ef3c6e6b6cd83fade95dc2e887ac06940b1faae9c0850```
+
+iPod Clickwheel Games Preservation Project.utm.7z.002
+```8f3df383926588e90eb9e1845cbfdbacdfa7d840581d0dfb0e05aa228eefbafb```
+
+iPod Clickwheel Games Preservation Project.utm.7z.003
+```044373f7d6aaeb72fb52e1cb27428e2a3d0191b10a44d9fa1a7142cd1c59243e```
 
 **Version 3**
 
@@ -178,7 +195,7 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 
 | Game Name | Preservation Status | Internal Code* | Developer | Genre | Release Date |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| Asphalt 4: Elite Racing                | ❌ | 22020 | Gameloft | Sports | 2008-08-28 |
+| Asphalt 4: Elite Racing                | ✅ | 22020 | Gameloft | Sports | 2008-08-28 |
 | Bejeweled                              | ❌ | 55555 | PopCap Games | Puzzle & Trivia | 2008-04-15 |
 | Block Breaker Deluxe                   | ❌ | 21004 | Gameloft | Action | 2008-01-15 |
 | Bomberman                              | ❌ | 20000 | Hudson Software Company, Limited | Action | 2007-12-18 |
@@ -187,7 +204,7 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | Cake Mania 3                           | ❌ | 25002 | Sandlot Games | Action | 2009-02-04 |
 | Chalkboard Sports Baseball             | ❌ | 23000 | D2C Games | Sports | 2008-08 |
 | Chess & Backgammon Classics            | ❌ | 21002 | Gameloft | Cards, Casino, & Board | 2008-02-04 |
-| Chinese Checkers                       | ❌ | 11802 | Apple Inc. | Cards, Casino, & Board | 2008-12 |
+| Chinese Checkers                       | ✅ | 11802 | Apple Inc. | Cards, Casino, & Board | 2008-12 |
 | CRYSTAL DEFENDERS                      | ✅ | 24002 | Square Enix | Strategy | 2008-12 |
 | CSI Miami                              | ❌ | 22014 | Gameloft | Simulation | 2008-09 |
 | Cubis 2                                | ❌ | 99999 | FreshGames | Puzzle & Trivia | 2006-09-12 |
@@ -196,7 +213,7 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | LOST                                   | ❌ | 1B200 | Gameloft | Role-Playing | 2007-05 |
 | Mahjong                                | ❌ | 77777 | Electronic Arts | Cards, Casino, & Board | 2008-04-22 |
 | Mini Golf                              | ❌ | 88888 | Electronic Arts | Sports | 2006-09-12 |
-| Monopoly                               | ❌ | 15040 | Electronic Arts | Cards, Casino & Board | 2008-06-03 |
+| Monopoly                               | ✅ | 15040 | Electronic Arts | Cards, Casino & Board | 2008-06-03 |
 | Ms. PAC-MAN                            | ❌ | 14004 (v1.1 is 14024) | Namco | Action | 2007-02-27 |
 | Ms. PAC-MAN Demo                       | ❌ | 14005 | Namco | Action | 2007-02-27 |
 | musika                                 | ❌ | 1C300 | NanaOn-Sha / Sony BMG | Rythm | 2007-08-07 |
@@ -208,7 +225,7 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | Pirates of the Caribbean: Aegir's Fire | ❌ | 22000 | Disney Online Studios | Action | 2008-02-20 |
 | Pole Position Remix                    | ❌ | 14003 | Namco Networks America | Sports | 2008-01-21 |
 | Real Soccer 2009                       | ❌ | 22018 | Gameloft | Sports | 2008-12 |
-| Reversi                                | ❌ | 11800 | Apple Inc. | Cards, Casino, & Board | 2008-12 |
+| Reversi                                | ✅ | 11800 | Apple Inc. | Cards, Casino, & Board | 2008-12 |
 | Royal Solitaire                        | ❌ | 50514 | Electronic Arts | Cards, Casino, & Board | 2006-12 |
 | SAT Prep Mathematics - 2008            | ❌ | 11052 | Kaplan | Education | 2007-06-22 |
 | SAT Prep Reading - 2008                | ❌ | 11050 | Kaplan | Education | 2007-06-22 |
