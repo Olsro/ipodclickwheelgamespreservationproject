@@ -1,6 +1,6 @@
 
 # iPod Clickwheel Games Preservation Project
-3/54 clickwheel games preserved for the moment and playable right now on your own pod !
+6/54 clickwheel games preserved for the moment and playable right now on your own pod !
 
 ## Introduction and context
 The virtual machine is based on a community-trusted very lite version of Windows 10 LTSC 2019, so it can boot as fast as possible and be generally reasonably fast even without hardware virtualization enabled (ARM64 macs have to emulate x64 code). That version of Windows 10 is still modern enough about SSL and other components to use the required iTunes version and to connect to Apple servers without unreliable workarounds so I can auth the games on it.
@@ -22,6 +22,9 @@ Yes, but this will be an useless thing to do when all games will be preserved on
 ### The Virtual Machine is so slow and I am too lazy to keep it around
 After doing the whole procedure, you may backup completely the hidden folder "iPod_Control" on your iPod so you will be able to restore your games on that specific pod only by copying the same folder again if you need to erase/restore your iPod in the future. Be aware that copying the iPod_Control folder to other iPods devices will not work because of the DRM tied directly with the serial number of your specific iPod.
 
+### How to update the Virtual Machine when a new version is released ?
+It's simple, you just remove the previous .utm file from your computer to replace it with the new released one.
+
 ## Changelog
 ### Version 1 (2024-10-11)
 - Added game: Phase
@@ -30,6 +33,11 @@ After doing the whole procedure, you may backup completely the hidden folder "iP
 ### Version 2 (2024-10-16)
 - Added game: CRYSTAL DEFENDERS
 - On UTM (Mac), the VM will now use 2 cores per default to run much faster.
+
+### Version 3 (2024-10-16)
+- Added game: Song Summoner: The Unsung Heroes
+- Added game: Sonic the Hedgehog
+- Added game: Spore Origins
 
 ## How to use
 ### Requirements
@@ -44,9 +52,9 @@ Please be aware that it is probably possible to run this in a much more exotic s
 ### 1) Download the Virtual Machine
 Unfortunately, the Virtual Machine is too heavy (around 10GB) to be hosted directly on GitHub. When the Virtual Machine will be completed, it will be shared as a torrent so it will avoid getting lost over time.
 
-You can download the latest version (version 2) from here: 
+You can download the latest version (version 3) from here: 
 #### Workupload
-https://workupload.com/archive/qZeTNQSFXd
+https://workupload.com/archive/PFyNz43Nkp
 (click on each download buttons about each parts. Do **not** click on the button with the label "Download archive")
 
 Re-uploads appreciated !
@@ -55,6 +63,17 @@ Be aware that you need around **10 GB** of free space on your hard drive to extr
 
 #### SHA signatures
 So you can check the authenticity of the files if you download those elsewhere.
+
+**Version 3**
+
+iPod Clickwheel Games Preservation Project.utm.7z.001
+```a82ff588a86ed8faed818467107791cdb04c2ed3bfe94bf71a29bf83d58b64ee```
+
+iPod Clickwheel Games Preservation Project.utm.7z.002
+```fbb92077c54e87e50837cee48fba29229ddacba5d15839012b9734ce121fd328```
+
+iPod Clickwheel Games Preservation Project.utm.7z.003
+```27208ee804230e15a0080e65371ab283658764c7b67a06f24f835c6467e03c33```
 
 **Version 2**
 
@@ -193,9 +212,9 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | SAT Prep Writing - 2008                | ❌ | 11051 | Kaplan | Education | 2007-06-22 |
 | Scrabble                               | ❌ | 15012 | Electronic Arts | Cards, Casino & Board Games | 2008-03-03 |
 | Slyder Adventures                      | ❌ | 25000 | Sandlot Games | Action | 2008-12 |
-| Song Summoner: The Unsung Heroes       | ❌ | 24000 | Square Enix | Role-Playing | 2008-07-08 |
-| Sonic the Hedgehog                     | ❌ | 18000 | Sega of America | Action | 2007-12-18 |
-| Spore Origins                          | ❌ | 15010 | Electronic Arts | Simulation | 2008-08-25 |
+| Song Summoner: The Unsung Heroes       | ✅ | 24000 | Square Enix | Role-Playing | 2008-07-08 |
+| Sonic the Hedgehog                     | ✅ | 18000 | Sega of America | Action | 2007-12-18 |
+| Spore Origins                          | ✅ | 15010 | Electronic Arts | Simulation | 2008-08-25 |
 | Star Trigon                            | ❌ | 14006 | Namco Networks America | Action | 2008-09 |
 | Sudoku                                 | ❌ | 50513 | Electronic Arts | Puzzle & Trivia | 2006-12-19 |
 | Tamagotchi 'Round the World            | ❌ | 14008 | NAMCO BANDAI Games America | Kids & Learning | 2008-11 |
