@@ -17,7 +17,7 @@ This virtual machine is a fully offline distribution center setup that you can s
 Yes. As long as you don't try to sync the clickwheel games using another iTunes library, those will remain on the iPod.
 
 ### Can I still use the 20 cracked games on my iPod Video that has the cracked firmware ?
-Yes, but this will be an useless thing to do when all games will be preserved on the virtual machine.
+Yes, but this will be an useless thing to do when all games will be preserved on the virtual machine. Be also aware that those cracked games are automatically removed by iTunes when syncing the legitimate games, so you will need to copy those files back after syncing.
 
 ### The Virtual Machine is so slow and I am too lazy to keep it around
 After doing the whole procedure, you may backup completely the hidden folder "iPod_Control" on your iPod so you will be able to restore your games on that specific pod only by copying the same folder again if you need to erase/restore your iPod in the future. Be aware that copying the iPod_Control folder to other iPods devices will not work because of the DRM tied directly with the serial number of your specific iPod.
