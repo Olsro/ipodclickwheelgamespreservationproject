@@ -62,6 +62,9 @@ Please be aware that it is probably possible to run this in a much more exotic s
 Unfortunately, the Virtual Machine is too heavy (around 10GB) to be hosted directly on GitHub. When the Virtual Machine will be completed, it will be shared as a torrent so it will avoid getting lost over time.
 
 You can download the latest version (version 4) from here: 
+#### GitHub Releases
+https://github.com/Olsro/ipodclickwheelgamespreservationproject/releases
+
 #### Workupload
 https://workupload.com/archive/AC3LUXXVW6
 (click on each download buttons about each parts. Do **not** click on the button with the label "Download archive")
