@@ -25,6 +25,9 @@ After doing the whole procedure, you may backup completely the hidden folder "iP
 ### How to update the Virtual Machine when a new version is released ?
 It's simple, you just remove the previous .utm file from your computer to replace it with the new released one.
 
+### Why some games in the ipg folder have a 7z.* extension ?
+GitHub does not allow to upload any file larger than 100MB, so I had to compress the affected games with 7zips to reduce the file size. So before importing those files into your own iTunes library or investigating on those, you will need to unpack the 7zip archive before being able to retrieve the .ipg file inside of it.
+
 ## Changelog
 ### Version 1 (2024-10-11)
 - Added game: Phase
