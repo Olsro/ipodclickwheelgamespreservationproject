@@ -63,7 +63,7 @@ Unfortunately, the Virtual Machine is too heavy (around 10GB) to be hosted direc
 
 You can download the latest version (version 4) from here: 
 #### Workupload
-https://workupload.com/archive/AC3LUXXVW
+https://workupload.com/archive/AC3LUXXVW6
 (click on each download buttons about each parts. Do **not** click on the button with the label "Download archive")
 
 Re-uploads appreciated !
