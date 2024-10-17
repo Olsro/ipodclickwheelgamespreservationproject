@@ -32,7 +32,7 @@ GitHub does not allow to upload any file larger than 100MB, so I had to compress
 Your iPod need to be Windows formatted because the Virtual Machine is a Windows one, thus cannot sync any Mac pod.
 
 ### Can I transfer all games at once ?
-Unfortunately, we noticed that Apple limits each device to contain content only from 5 different Apple IDs. Since games are authed from different accounts, you may reach this limit if you try to sync all of the games at once.
+Unfortunately, we noticed that Apple limits each device to contain content only from 5 different Apple IDs. Since games are authed from different accounts, you will reach this limit if you try to sync all of the games at once so you will need to choose only a subset of this collection to use on your iPod at the same time.
 
 ## Changelog
 ### Version 1 (2024-10-11)
