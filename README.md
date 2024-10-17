@@ -32,7 +32,7 @@ GitHub does not allow to upload any file larger than 100MB, so I had to compress
 Your iPod need to be Windows formatted because the Virtual Machine is a Windows one, thus cannot sync any Mac pod.
 
 ### Can I transfer all games at once ?
-Unfortunately, we noticed that Apple limits each device to contain content only from 5 different Apple IDs. Since games are authed from different accounts, you will reach this limit if you try to sync all of the games at once so you will need to choose only a subset of this collection to use on your iPod at the same time.
+Unfortunately, we noticed that Apple limits each device to contain content only from 5 different Apple IDs. Since games are authed from different accounts, you may reach this limit if you try to sync all of the games at once so you will need to choose only a subset of this collection to use on your iPod at the same time.
 
 ## Changelog
 ### Version 1 (2024-10-11)
@@ -221,7 +221,7 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 
 | Game Name | Preservation Status | Internal Code* | Developer | Genre | Release Date |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| Asphalt 4: Elite Racing                | ✅ (account=05) | 22020 | Gameloft | Sports | 2008-08-28 |
+| Asphalt 4: Elite Racing                | ✅ | 22020 | Gameloft | Sports | 2008-08-28 |
 | Bejeweled                              | ❌ | 55555 | PopCap Games | Puzzle & Trivia | 2008-04-15 |
 | Block Breaker Deluxe                   | ❌ | 21004 | Gameloft | Action | 2008-01-15 |
 | Bomberman                              | ❌ | 20000 | Hudson Software Company, Limited | Action | 2007-12-18 |
@@ -230,8 +230,8 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | Cake Mania 3                           | ❌ | 25002 | Sandlot Games | Action | 2009-02-04 |
 | Chalkboard Sports Baseball             | ❌ | 23000 | D2C Games | Sports | 2008-08 |
 | Chess & Backgammon Classics            | ❌ | 21002 | Gameloft | Cards, Casino, & Board | 2008-02-04 |
-| Chinese Checkers                       | ✅ (account=04) | 11802 | Apple Inc. | Cards, Casino, & Board | 2008-12 |
-| CRYSTAL DEFENDERS                      | ✅ (account=02) | 24002 | Square Enix | Strategy | 2008-12 |
+| Chinese Checkers                       | ✅ | 11802 | Apple Inc. | Cards, Casino, & Board | 2008-12 |
+| CRYSTAL DEFENDERS                      | ✅ | 24002 | Square Enix | Strategy | 2008-12 |
 | CSI Miami                              | ❌ | 22014 | Gameloft | Simulation | 2008-09 |
 | Cubis 2                                | ❌ | 99999 | FreshGames | Puzzle & Trivia | 2006-09-12 |
 | iQuiz (NOT THE PRE-INSTALLED VERSION)  | ❌ | 11002 | Apple Inc. | Puzzle & Trivia | 2007-04 |
@@ -239,7 +239,7 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | LOST                                   | ❌ | 1B200 | Gameloft | Role-Playing | 2007-05 |
 | Mahjong                                | ❌ | 77777 | Electronic Arts | Cards, Casino, & Board | 2008-04-22 |
 | Mini Golf                              | ❌ | 88888 | Electronic Arts | Sports | 2006-09-12 |
-| Monopoly                               | ✅ (account=05) | 15040 | Electronic Arts | Cards, Casino & Board | 2008-06-03 |
+| Monopoly                               | ✅ | 15040 | Electronic Arts | Cards, Casino & Board | 2008-06-03 |
 | Ms. PAC-MAN                            | ❌ | 14004 (v1.1 is 14024) | Namco | Action | 2007-02-27 |
 | Ms. PAC-MAN Demo                       | ❌ | 14005 | Namco | Action | 2007-02-27 |
 | musika                                 | ❌ | 1C300 | NanaOn-Sha / Sony BMG | Rythm | 2007-08-07 |
@@ -247,35 +247,35 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | Naval Battle                           | ❌ | 21006 | Gameloft | Strategy | 2008-02-04 |
 | PAC-MAN                                | ❌ | AAAAA | Namco Networks America | Action | 2006-09-12 |
 | Peggle                                 | ❌ | 12104 | PopCap Games | Action | 2007-12-18 |
-| Phase                                  | ✅ (account=01) | 1D000 | MTV Games - Harmonix | Rythm | 2007-11-06 |
+| Phase                                  | ✅ | 1D000 | MTV Games - Harmonix | Rythm | 2007-11-06 |
 | Pirates of the Caribbean: Aegir's Fire | ❌ | 22000 | Disney Online Studios | Action | 2008-02-20 |
 | Pole Position Remix                    | ❌ | 14003 | Namco Networks America | Sports | 2008-01-21 |
 | Real Soccer 2009                       | ❌ | 22018 | Gameloft | Sports | 2008-12 |
-| Reversi                                | ✅ (account=04) | 11800 | Apple Inc. | Cards, Casino, & Board | 2008-12 |
+| Reversi                                | ✅ | 11800 | Apple Inc. | Cards, Casino, & Board | 2008-12 |
 | Royal Solitaire                        | ❌ | 50514 | Electronic Arts | Cards, Casino, & Board | 2006-12 |
 | SAT Prep Mathematics - 2008            | ❌ | 11052 | Kaplan | Education | 2007-06-22 |
 | SAT Prep Reading - 2008                | ❌ | 11050 | Kaplan | Education | 2007-06-22 |
 | SAT Prep Writing - 2008                | ❌ | 11051 | Kaplan | Education | 2007-06-22 |
 | Scrabble                               | ❌ | 15012 | Electronic Arts | Cards, Casino & Board Games | 2008-03-03 |
 | Slyder Adventures                      | ❌ | 25000 | Sandlot Games | Action | 2008-12 |
-| Song Summoner: The Unsung Heroes       | ✅ (account=03) | 24000 | Square Enix | Role-Playing | 2008-07-08 |
-| Sonic the Hedgehog                     | ✅ (account=03) | 18000 | Sega of America | Action | 2007-12-18 |
-| Spore Origins                          | ✅ (account=03) | 15010 | Electronic Arts | Simulation | 2008-08-25 |
+| Song Summoner: The Unsung Heroes       | ✅ | 24000 | Square Enix | Role-Playing | 2008-07-08 |
+| Sonic the Hedgehog                     | ✅ | 18000 | Sega of America | Action | 2007-12-18 |
+| Spore Origins                          | ✅ | 15010 | Electronic Arts | Simulation | 2008-08-25 |
 | Star Trigon                            | ❌ | 14006 | Namco Networks America | Action | 2008-09 |
 | Sudoku                                 | ❌ | 50513 | Electronic Arts | Puzzle & Trivia | 2006-12-19 |
 | Tamagotchi 'Round the World            | ❌ | 14008 | NAMCO BANDAI Games America | Kids & Learning | 2008-11 |
-| Tetris                                 | ✅ (account=06, v1.2) | 66666 (v1.2 is 66686) | Electronic Arts | Puzzle & Trivia | 2006-09-12 |
-| Texas Hold'em                          | ✅ (account=01, v1.1) | 33333 (v1.1 is 33353) | Apple Inc. | Cards, Casino, & Board | 2006-09-12 |
+| Tetris                                 | ✅ (v1.2) | 66666 (v1.2 is 66686) | Electronic Arts | Puzzle & Trivia | 2006-09-12 |
+| Texas Hold'em                          | ✅ (v1.1) | 33333 (v1.1 is 33353) | Apple Inc. | Cards, Casino, & Board | 2006-09-12 |
 | The Sims Bowling                       | ❌ | 1500C | Electronic Arts | Sports | 2007-07-17 |
-| The Sims DJ                            | ✅ (account=06) | 15036 | Electronic Arts | Simulation | 2008-06-09 |
+| The Sims DJ                            | ✅ | 15036 | Electronic Arts | Simulation | 2008-06-09 |
 | The Sims Pool                          | ❌ | 1500E | Electronic Arts | Sports | 2007-07-31 |
 | Tiger Woods PGA TOUR                   | ❌ | 15038 | Electronic Arts | Sports | 2008-12 |
 | Trivial Pursuit                        | ❌ | 15042 | Electronic Arts | Cards, Casino, & Board | 2008-12 |
-| UNO                                    | ✅ (account=06) | 22012 | Gameloft | Cards, Casino, & Board | 2008-07 |
+| UNO                                    | ✅ | 22012 | Gameloft | Cards, Casino, & Board | 2008-07 |
 | Vortex (NOT THE PRE-INSTALLED VERSION) | ❌ | 12345 | Apple Inc. | Action | 2006-09-12 |
 | Vortex Demo                            | ❌ | 12346 | Apple Inc. | Action | 2006-09-12 |
 | Wonder Blocks                          | ❌ | 22022 | Gameloft | Puzzle | 2008-12 |
-| Yahtzee                                | ✅ (account=06) | 15014 | Electronic Arts | Cards, Casino, & Board Games | 2008-02-11 |
+| Yahtzee                                | ✅ | 15014 | Electronic Arts | Cards, Casino, & Board Games | 2008-02-11 |
 | Zuma                                   | ❌ | 44444 | PopCap Games | Action | 2006-09-12 |
 
 * This is the name of the folder when you try to retrieve the games after you've synced those on the iPod, in the hidden folder called ```iPod_Control/Games_RO```.
@@ -285,4 +285,29 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 
 ❌ = The game is not (yet ?) available
 
-account=XX means the ID of the account used to preserve the game. You can sync games only from 5 different owners at once (Apple mad DRM limitation unfortunately). Consider each account ID as a games pack and consider that you can get only 5 different games packs into your device. This limitation may be rendered less annoying if I can preserve a lot of games on one distinct account. You need to choose your preferred games and avoid games packs that contains games that you will not really play.
+# Current repartition in accounts for all authed games
+Account 1:
+- Phase
+- Texas Hold'em
+
+Account 2:
+- CRYSTAL DEFENDERS
+- Song Summoner: The Unsung Heroes
+- Sonic the Hedgehog
+- Spore Origins
+
+Account 3:
+- Chinese Checkers
+- Reversi
+
+Account 4:
+- Asphalt 4: Elite Racing
+- Monopoly
+
+Account 5:
+- Tetris
+- The Sims DJ
+- UNO
+- Yahtzee
+
+You can sync games only from 5 different owners at once (Apple mad DRM limitation unfortunately). Consider each account ID as a games pack and consider that you can get only 5 different games packs into your device. This limitation may be rendered less annoying if I can preserve a lot of games on one distinct account. You need to choose your preferred games and avoid games packs that contains games that you will not really play.
