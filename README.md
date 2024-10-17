@@ -285,4 +285,4 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 
 ❌ = The game is not (yet ?) available
 
-account=XX means the ID of the account used to preserve the game. You can sync games only from 5 different owners at once (Apple mad DRM limitation unfortunately). Consider each account ID as a game pack and consider that you can get only 5 different game packs into your device. This limitation may be rendered less annoying if I can preserve a lot of games on one distinct account. You need to choose your preferred games and avoid game packs that contains games that you will not really play.
+account=XX means the ID of the account used to preserve the game. You can sync games only from 5 different owners at once (Apple mad DRM limitation unfortunately). Consider each account ID as a games pack and consider that you can get only 5 different games packs into your device. This limitation may be rendered less annoying if I can preserve a lot of games on one distinct account. You need to choose your preferred games and avoid games packs that contains games that you will not really play.
