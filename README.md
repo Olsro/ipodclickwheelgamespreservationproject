@@ -34,6 +34,9 @@ Your iPod need to be Windows formatted because the Virtual Machine is a Windows 
 ### Can I transfer all games at once ?
 Unfortunately, we noticed that Apple limits each device to contain content only from 5 different Apple IDs. Since games are authed from different accounts, you may reach this limit if you try to sync all of the games at once so you will need to choose only a subset of this collection to use on your iPod at the same time.
 
+### For some reason, all the games de-authed over time or after a synchronization. What can I do to prevent this ?
+You should backup and try to lock the file ```IC-Info.sidb``` located inside the hidden folder ```iPod_Control/iTunes```. This unique file contains the auth data for the games that you've synced. If you remove or alter this file (or if it alters over time for example because of an hard drive corruption), the games won't launch anymore. Also, restoring your iPod changes its unique ID which require you to sync again the games using the virtual machine. The ```IC-Info.sidb``` file is unique to your iPod and its current installation. You can't copy it to another iPod to auth the games, it will not work.
+
 ## Changelog
 ### Version 1 (2024-10-11)
 - Added game: Phase
