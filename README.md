@@ -36,6 +36,9 @@ Unfortunately, we noticed that Apple limits each device to contain content only 
 ### For some reason, all the games de-authed over time or after a synchronization. What can I do to prevent this ?
 You should backup and try to lock the file ```IC-Info.sidb``` located inside the hidden folder ```iPod_Control/iTunes```. This unique file contains the auth data for the games that you've synced. If you remove or alter this file (or if it alters over time for example because of an hard drive corruption), the games won't launch anymore. Also, restoring your iPod changes its unique ID which require you to sync again the games using the virtual machine. The ```IC-Info.sidb``` file is unique to your iPod and its current installation. You can't copy it to another iPod to auth the games, it will not work.
 
+### My Mac is too old to run UTM
+The simplest option for you if to create a Linux live CD/USB then boot on it to be able to use the simple Linux instructions that I provide in this documentation. You can get Ubuntu from here https://ubuntu.com/download/desktop and burn it into a USB stick by using Balena Etcher https://etcher.balena.io/, good luck !
+
 ## Changelog
 ### Version 1 (2024-10-11)
 - Added game: Phase
