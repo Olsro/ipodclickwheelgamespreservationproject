@@ -86,7 +86,7 @@ Please be aware that it is probably possible to run this in a much more exotic s
 ### 1) Download the Virtual Machine
 Unfortunately, the Virtual Machine is too heavy (around 10GB) to be hosted directly on GitHub. When the Virtual Machine will be completed, it will be shared as a torrent so it will avoid getting lost over time.
 
-You can download the latest version (version 6) from here: 
+You can download the latest version (version 6) from the following locations: 
 #### GitHub Releases
 https://github.com/Olsro/ipodclickwheelgamespreservationproject/releases
 
@@ -98,7 +98,7 @@ Re-uploads appreciated !
 
 Be aware that you need around **10 GB** of free space on your hard drive to extract the .utm file from the splitted archive !
 
-#### SHA signatures
+#### SHA-256 hashes
 So you can check the authenticity of the files if you download those elsewhere.
 
 **Version 6**
