@@ -1,6 +1,5 @@
-
 # iPod Clickwheel Games Preservation Project
-14/54 clickwheel games preserved for the moment and playable right now on your own pod !
+16/54 clickwheel games preserved for the moment and playable right now on your own pod !
 
 ## Introduction and context
 The virtual machine is based on a community-trusted very lite version of Windows 10 LTSC 2019, so it can boot as fast as possible and be generally reasonably fast even without hardware virtualization enabled (ARM64 macs have to emulate x64 code). That version of Windows 10 is still modern enough about SSL and other components to use the required iTunes version and to connect to Apple servers without unreliable workarounds so I can auth the games on it.
@@ -63,6 +62,11 @@ You should backup and try to lock the file ```IC-Info.sidb``` located inside the
 - Added game: UNO
 - Added game: Yahtzee
 
+### Version 6 (2024-10-18)
+- Added game: Bomberman
+- Added game: Peggle
+- Changes to get a better distribution of games between all the authorized accounts
+
 ## How to use
 ### Requirements
 - (Recommended) A Mac computer that can run UTM (https://mac.getutm.app/). Don't download the Mac App Store version because it has limitations. An Intel Mac is preferrable for speed but all of this was developed and tested on an Apple Silicon Mac where it run slowly but just fine.
@@ -76,12 +80,12 @@ Please be aware that it is probably possible to run this in a much more exotic s
 ### 1) Download the Virtual Machine
 Unfortunately, the Virtual Machine is too heavy (around 10GB) to be hosted directly on GitHub. When the Virtual Machine will be completed, it will be shared as a torrent so it will avoid getting lost over time.
 
-You can download the latest version (version 5) from here: 
+You can download the latest version (version 6) from here: 
 #### GitHub Releases
 https://github.com/Olsro/ipodclickwheelgamespreservationproject/releases
 
 #### Workupload
-https://workupload.com/archive/9kzKAq8paP
+https://workupload.com/archive/Fj3mUFpUyX
 (click on each download buttons about each parts. Do **not** click on the button with the label "Download archive")
 
 Re-uploads appreciated !
@@ -90,6 +94,17 @@ Be aware that you need around **10 GB** of free space on your hard drive to extr
 
 #### SHA signatures
 So you can check the authenticity of the files if you download those elsewhere.
+
+**Version 6**
+
+iPod Clickwheel Games Preservation Project.utm.7z.001
+```9c452a8a595cfa597d4f954895666529713df9f4f324f1417303d5e8429d7720```
+
+iPod Clickwheel Games Preservation Project.utm.7z.002
+```3ce18c7c61321988952fc0143aa0eeb7f7fd8609742d3c4e6d7341c4fe041428```
+
+iPod Clickwheel Games Preservation Project.utm.7z.003
+```351cb933ecd2701b968bd6ff89b9654d07dde2e047b728ab871f463ffec8d555```
 
 **Version 5**
 
@@ -227,7 +242,7 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | Asphalt 4: Elite Racing                | ✅ | 22020 | Gameloft | Sports | 2008-08-28 |
 | Bejeweled                              | ❌ | 55555 | PopCap Games | Puzzle & Trivia | 2008-04-15 |
 | Block Breaker Deluxe                   | ❌ | 21004 | Gameloft | Action | 2008-01-15 |
-| Bomberman                              | ❌ | 20000 | Hudson Software Company, Limited | Action | 2007-12-18 |
+| Bomberman                              | ✅ | 20000 | Hudson Software Company, Limited | Action | 2007-12-18 |
 | Brain Challenge                        | ❌ | 21000 | Gameloft S.A. | Puzzle & Trivia | 2007-09-05 |
 | Bubble Bash                            | ❌ | 21008 | Gameloft | Puzzle & Trivia | 2008-02-25 |
 | Cake Mania 3                           | ❌ | 25002 | Sandlot Games | Action | 2009-02-04 |
@@ -249,7 +264,7 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | Mystery Mansion Pinball                | ❌ | 22010 | Gameloft | Action | 2008-08 |
 | Naval Battle                           | ❌ | 21006 | Gameloft | Strategy | 2008-02-04 |
 | PAC-MAN                                | ❌ | AAAAA | Namco Networks America | Action | 2006-09-12 |
-| Peggle                                 | ❌ | 12104 | PopCap Games | Action | 2007-12-18 |
+| Peggle                                 | ✅ | 12104 | PopCap Games | Action | 2007-12-18 |
 | Phase                                  | ✅ | 1D000 | MTV Games - Harmonix | Rythm | 2007-11-06 |
 | Pirates of the Caribbean: Aegir's Fire | ❌ | 22000 | Disney Online Studios | Action | 2008-02-20 |
 | Pole Position Remix                    | ❌ | 14003 | Namco Networks America | Sports | 2008-01-21 |
@@ -305,12 +320,16 @@ Account 3:
 
 Account 4:
 - Asphalt 4: Elite Racing
-- Monopoly
 
 Account 5:
 - Tetris
 - The Sims DJ
 - UNO
 - Yahtzee
+
+Account 6:
+- Bomberman
+- Monopoly
+- Peggle
 
 You can sync games only from 5 different owners at once (Apple mad DRM limitation unfortunately). Consider each account ID as a games pack and consider that you can get only 5 different games packs into your device. This limitation may be rendered less annoying if I can preserve a lot of games on one distinct account. You need to choose your preferred games and avoid games packs that contains games that you will not really play.
