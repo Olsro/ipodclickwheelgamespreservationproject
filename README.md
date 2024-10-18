@@ -303,7 +303,7 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 
 ❌ = The game is not (yet ?) available
 
-# Current repartition in accounts for all authed games
+# Current distribution in accounts for all authed games
 Account 1:
 - Phase
 - Texas Hold'em
