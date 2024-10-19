@@ -42,6 +42,9 @@ The simplest option for you if to create a Linux live CD/USB then boot on it to 
 ### Can I still sync my content on a Mac after using this Windows Virtual Machine to add games ?
 A Mac is totally able to sync a Windows formatted iPod to add music and manage stuff. A Windows formatted (restored) iPod is compatible everywhere, compared to a Mac formatted iPod which cannot be synced on Windows until it is formatted. Formatting your iPod on Windows also allow you to install cool things like Rockbox in the future if you ever want to.
 
+### [Linux] The script "start_qemu.sh" does not start on my machine, what can I do ?
+It looks like your computer is an ARM64 one or a very old Intel computer, so you should use ```slow_start_qemu.sh``` instead to start the virtual machine.
+
 ## Changelog
 ### Version 1 (2024-10-11)
 - Added game: Phase
