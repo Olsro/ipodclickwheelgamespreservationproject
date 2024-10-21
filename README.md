@@ -283,7 +283,7 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | iQuiz (NOT THE PRE-INSTALLED VERSION)  | ✅ | 11002 | Apple Inc. | Puzzle & Trivia | 2007-04 |
 | Lode Runner                            | ❌ | 20002 | Hudson Software Company, Limited | Action | 2008-12 |
 | LOST                                   | ✅ | 1B200 | Gameloft | Role-Playing | 2007-05 |
-| Mahjong                                | ✅ | 77777 | Electronic Arts | Cards, Casino, & Board | 2008-04-22 |
+| Mahjong                                | 🟨 (v1.0) | 77777 (probably also has a v1.1 but ID is unknown) | Electronic Arts | Cards, Casino, & Board | 2008-04-22 |
 | Mini Golf                              | ✅ (v1.1) | 88888 (v1.1 is 88908) | Electronic Arts | Sports | 2006-09-12 |
 | Monopoly                               | ✅ | 15040 | Electronic Arts | Cards, Casino & Board | 2008-06-03 |
 | Ms. PAC-MAN                            | 🟨 (v1.0) | 14004 (v1.1 is 14024) | Namco | Action | 2007-02-27 |
@@ -308,7 +308,7 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | Sonic the Hedgehog                     | ✅ | 18000 | Sega of America | Action | 2007-12-18 |
 | Spore Origins                          | ✅ | 15010 | Electronic Arts | Simulation | 2008-08-25 |
 | Star Trigon                            | ❌ | 14006 | Namco Networks America | Action | 2008-09 |
-| Sudoku                                 | ✅ | 50513 (v1.1 is 50533) | Electronic Arts | Puzzle & Trivia | 2006-12-19 |
+| Sudoku                                 | 🟨 (v1.0) | 50513 (v1.1 is 50533) | Electronic Arts | Puzzle & Trivia | 2006-12-19 |
 | Tamagotchi 'Round the World            | ❌ | 14008 | NAMCO BANDAI Games America | Kids & Learning | 2008-11 |
 | Tetris                                 | ✅ (v1.2) | 66666 (v1.2 is 66686) | Electronic Arts | Puzzle & Trivia | 2006-09-12 |
 | Texas Hold'em                          | ✅ (v1.0 + v1.1) | 33333 (v1.1 is 33353) | Apple Inc. | Cards, Casino, & Board | 2006-09-12 |
