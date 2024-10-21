@@ -107,7 +107,7 @@ Re-uploads appreciated !
 
 Be aware that you need around **10 GB** of free space on your hard drive to extract the .utm file from the splitted archive !
 
-#### SHA signatures
+#### SHA-256 hashes
 So you can check the authenticity of the files if you download those elsewhere.
 
 **Version 7**
