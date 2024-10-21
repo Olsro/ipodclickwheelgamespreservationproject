@@ -45,6 +45,8 @@ A Mac is totally able to sync a Windows formatted iPod to add music and manage s
 ### How to update the Virtual Machine to a newer version ?
 Remove the .utm file and all the compressed .7z parts which were used to extract it. All .7z files must be downloaded again. Make sure your computer doesn't rename the downloaded files to something like "filename(1)" since the files were already downloaded before. Rename the downloaded files accordingly if necessary.
 
+I also recommend to remove all of the games and re-sync everything back to avoid strange authing bugs with games. It's better to restart from scratch to choose again the games from the available games packs.
+
 ### [Linux] The script "start_qemu.sh" does not start on my machine, what can I do ?
 It looks like your computer is an ARM64 one or a very old Intel computer, so you should use ```slow_start_qemu.sh``` instead to start the virtual machine.
 
