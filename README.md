@@ -208,7 +208,7 @@ You need to extract "iPod Clickwheel Games Preservation Project.utm.7z.001" whic
 	- 1) Copy the .utm file on this folder, because it will be needed by the script "start_qemu.sh".
 	- 2) Open a Terminal on the folder of this cloned repo where start_qemu.sh is located.
 	- 3) Install Qemu and dependencies: ```chmod a+x ./install_qemu.sh && ./install_qemu.sh``` (Ubuntu-only script, if not using Ubuntu 24.04 you will need to adapt it to your needs)
-	- 4) Run Qemu: ```chmod a+x ./start_qemu.sh && ./start_qemu.sh``` or if your arch is ARM64 (for example if you are using an Apple Silicon Mac on Asahi Linux) you can emulate the x64 arch (which will be much slower) with this script ```chmod a+x ./start_qemu.sh && ./slow_start_qemu.sh```.
+	- 4) Run Qemu: ```chmod a+x ./start_qemu.sh && ./start_qemu.sh``` or if your arch is ARM64 (for example if you are using an Apple Silicon Mac on Asahi Linux) you can emulate the x64 arch (which will be much slower) with this script ```chmod a+x ./slow_start_qemu.sh && ./slow_start_qemu.sh```.
 	- 5) Now you can start Remmina to control it
 	- 6) Setup a new SPICE connection with the following address: 127.0.0.1:17474 and connect to it
 	![Alt text](images/linux/remmina.png?raw=true "Remmina")
