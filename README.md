@@ -190,7 +190,7 @@ iPod Clickwheel Games Preservation Project.utm.7z.004
 ### 2) Unzip the Virtual Machine
 Due to its large size, I had to split the VM into multiple compressed 7zips files.
 - On MacOS, "The Unarchiver" is recommended to unpack 7zip archives: https://theunarchiver.com/
-- On Linux, open a Terminal in the folder and enter this: ```sudo apt update && sudo apt install -y p7zip-full && 7za x "iPod Clickwheel Games Preservation Project.utm.7z.001"```
+- On Linux, open a Terminal in the folder and enter this: ```sudo apt update && sudo apt install -y p7zip-full && 7za x "iPod*Clickwheel*Games*Preservation*Project.utm.7z.001"```
 
 You need to extract "iPod Clickwheel Games Preservation Project.utm.7z.001" which will automatically find other parts (2, 3, 4, etc) to extract the full ".utm" Virtual Machine.
 
