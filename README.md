@@ -143,8 +143,7 @@ You need to transfer the games **5 per 5 at each sync** (sync the first 5 during
 
 ### 5) Transfering all the games files manually
 Now we are going to add all the game files from the archive ```iPod Games Files.7z```.
-Extract it and enter into it with your file browser.
-This process may be tedious but it allows to bypass the Apple DRM which limited the amount of games that you could store on a single device. Apple did not want you to put games from more than 5 different accounts !
+Extract it and enter into it with your file browser. Disconnect your iPod from the Virtual Machine and let it reconnect to your host.
 
 - Some games are compatible only with the iPod Videos (5G/5.5G). If you have an iPod Video, you can copy the folder ```iPod_Control``` from the folder ```5G and 5.5G only``` to get more games. If your iPod is a Nano or a Classic, don't do it !
 
@@ -153,6 +152,8 @@ This process may be tedious but it allows to bypass the Apple DRM which limited 
 On MacOS, it is very **important** to maintain the key "OPTION" on your keyboard while drag & dropping the folders ```iPod_Control``` into your iPod, then choose the option ```Merge```. **Don't** do "Replace". If the option ```Merge``` does not appear beside the ```Replace``` button in the copy window, stop it then retry to do the copy while maintaining the "OPTION" key again until it does.
 
 On Windows or Linux, the logic is the same. You need to merge/replace files in their destination. You should not replace the whole ```iPod_Control``` folder on your iPod or you will remove a lot of important/system files from your iPod which will force you to re-sync everything or restore your iPod (it will never brick it, but you will lose a lot of time).
+
+This process may be tedious but it allows to bypass the Apple DRM which limited the amount of games that you could store on a single device. Apple did not want you to put games from more than 5 different accounts !
 
 ### 6) Disconnect your iPod and enjoy the games
 Games should now all launch just fine. Congratulations, you did it !
