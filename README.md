@@ -27,7 +27,7 @@ Your iPod need to be Windows formatted because the Virtual Machine is a Windows 
 If you don't have any Windows machine to do it, I created a specific Virtual Machine so you can format (restore) your iPod from there without having to find a real Windows machine to do it, check this project and its instructions: https://github.com/Olsro/ipodmanagementonwindows
 
 ### Can I transfer all games at once ?
-Unfortunately, we noticed that Apple limits each device to contain content only from 5 different Apple IDs. Since games are authed from different accounts, you may reach this limit if you try to sync all of the games at once so you will need to choose only a subset of this collection to use on your iPod at the same time. You can see the current distribution here to make your choices wisely: [Click here](#current-distribution-in-accounts-for-all-authed-games)
+Yes ! "vibvian" from the iPod Community found that he could play all games by swapping some files. I then did more investigation and documented properly the exploit here so anyone can understand it easily. It appears that iTunes is adding all the keys from one account when only one game of the account is transfered, but it too dumb to remove the keys of removed games so the exploit is just to sync one game from each account (in multiple syncs if necessary, 5 accounts per 5 accounts maximum) then transfer all the games manually, and all games are playable this way.
 
 ### For some reason, all the games de-authed on my iPod over time or after a synchronization. What can I do to prevent this ?
 You should backup and try to lock the file ```IC-Info.sidb``` located inside the hidden folder ```iPod_Control/iTunes```. This unique file contains the auth data for the games that you've synced. If you remove or alter this file (or if it alters over time for example because of an hard drive corruption), the games won't launch anymore. Also, restoring your iPod changes its unique ID which require you to sync again the games using the virtual machine. The ```IC-Info.sidb``` file is unique to your iPod and its current installation. You can't copy it to another iPod to auth the games, it will not work.
@@ -80,6 +80,11 @@ It looks like your computer is an ARM64 one or a very old Intel computer, so you
 ### Version 7 (2024-10-20)
 - Added tons of new games
 
+### Version 8 (2024-10-22)
+- Added game: Mahjong (v1.1)
+- Keep only one game per account on the virtual machine
+- Document the way to circument the 5 account games limit to transfer all the games in your iPod
+
 ## How to use
 ### Requirements
 - (Recommended) A Mac computer that can run UTM (https://mac.getutm.app/). Don't download the Mac App Store version because it has limitations. An Intel Mac is preferable for speed but all of this was developed and tested on an Apple Silicon Mac where it run slowly but just fine.
@@ -90,103 +95,16 @@ Please be aware that it is probably possible to run this in a much more exotic s
 
 **Don't forget also** if you are a Linux user to download this repo as a zip: https://github.com/Olsro/ipodclickwheelgamespreservationproject/archive/refs/heads/main.zip or to clone it locally. It will be your workspace. **On MacOS, you can go ahead** and just download directly the .utm virtual machine file on the step just below.
 
-### 1) Download the Virtual Machine
-Unfortunately, the Virtual Machine is too heavy (around 10GB) to be hosted directly on GitHub. When the Virtual Machine will be completed, it will be shared as a torrent so it will avoid getting lost over time.
+### 1) Download the Virtual Machine and all of the games files
+When we will reach the full set, it will be shared as a torrent so it will avoid getting lost over time.
 
 You can download the latest version from the following locations: 
 #### GitHub Releases
 https://github.com/Olsro/ipodclickwheelgamespreservationproject/releases
 
-#### Workupload
-https://workupload.com/archive/H7gTG8mMkm
-(click on each download buttons about each parts. Do **not** click on the button with the label "Download archive")
-
-Re-uploads appreciated !
-
 Be aware that you need around **10 GB** of free space on your hard drive to extract the .utm file from the splitted archive !
 
-#### SHA-256 hashes
-So you can check the authenticity of the files if you download those elsewhere.
-
-**Version 7**
-
-iPod Clickwheel Games Preservation Project.utm.7z.001
-```bf98dbde4432c671f1080d62c692b848c48a6fcc97c4a6a125f69a4848bc3cb7```
-
-iPod Clickwheel Games Preservation Project.utm.7z.002
-```985d213ddd07e2a7d0af04ccf66e86abc6888bbf38fc77726db997d1f93e2be1```
-
-iPod Clickwheel Games Preservation Project.utm.7z.003
-```8d6ff3d091bca1ac061f656e40e6590a56ae986c46005a529f373cf1167f0910```
-
-**Version 6**
-
-iPod Clickwheel Games Preservation Project.utm.7z.001
-```9c452a8a595cfa597d4f954895666529713df9f4f324f1417303d5e8429d7720```
-
-iPod Clickwheel Games Preservation Project.utm.7z.002
-```3ce18c7c61321988952fc0143aa0eeb7f7fd8609742d3c4e6d7341c4fe041428```
-
-iPod Clickwheel Games Preservation Project.utm.7z.003
-```351cb933ecd2701b968bd6ff89b9654d07dde2e047b728ab871f463ffec8d555```
-
-**Version 5**
-
-iPod Clickwheel Games Preservation Project.utm.7z.001
-```3dd6cce3b421b8e732034283b7d2ad6957986733abeede39fa8927f33660f9a2```
-
-iPod Clickwheel Games Preservation Project.utm.7z.002
-```01b1d428ba7cb9c6f86accdb3ba016aeea4f593c98fb8f41ae5fbc9232f9cf72```
-
-iPod Clickwheel Games Preservation Project.utm.7z.003
-```161aafbde3deeadb35984fc4cedf389dd65f479f8f4e47006756e6f5549c9267```
-
-**Version 4**
-
-iPod Clickwheel Games Preservation Project.utm.7z.001
-```80700c44b162b6a77d5ef3c6e6b6cd83fade95dc2e887ac06940b1faae9c0850```
-
-iPod Clickwheel Games Preservation Project.utm.7z.002
-```8f3df383926588e90eb9e1845cbfdbacdfa7d840581d0dfb0e05aa228eefbafb```
-
-iPod Clickwheel Games Preservation Project.utm.7z.003
-```044373f7d6aaeb72fb52e1cb27428e2a3d0191b10a44d9fa1a7142cd1c59243e```
-
-**Version 3**
-
-iPod Clickwheel Games Preservation Project.utm.7z.001
-```a82ff588a86ed8faed818467107791cdb04c2ed3bfe94bf71a29bf83d58b64ee```
-
-iPod Clickwheel Games Preservation Project.utm.7z.002
-```fbb92077c54e87e50837cee48fba29229ddacba5d15839012b9734ce121fd328```
-
-iPod Clickwheel Games Preservation Project.utm.7z.003
-```27208ee804230e15a0080e65371ab283658764c7b67a06f24f835c6467e03c33```
-
-**Version 2**
-
-iPod Clickwheel Games Preservation Project.utm.7z.001
-```c9da57289ada9e08484912202a74689cbaf64f8f26fb4c7aa64b9dc8fee341ae```
-
-iPod Clickwheel Games Preservation Project.utm.7z.002
-```51daab50253b4fb4dad19e8cae2b4af4df1b46e241e5f2cefe3ecc52a95a29c9```
-
-iPod Clickwheel Games Preservation Project.utm.7z.003
-```c6e87f06a442154c23773448348d5e63327f2a495ad78af4c486681456543550```
-
-**Version 1**
-
-iPod Clickwheel Games Preservation Project.utm.7z.001
-```9019f51c6021f365fc750d20fe6cb7402bb8df44fa25ac9b13be3424736cb786```
-
-iPod Clickwheel Games Preservation Project.utm.7z.002
-```db87ed486e89a864df8dba64486f015ab8cb92f3f838f26070f91d01f0ecf8db```
-
-iPod Clickwheel Games Preservation Project.utm.7z.003
-```ca2d0cf570bdcd69910e64d77d37f2d25bc30c7cc76e129d25802d4ba090be7b```
-
-iPod Clickwheel Games Preservation Project.utm.7z.004
-```67c5a5b8e91312feac00a8fbfbc60feb58d5c973b28febd0cfc2723bcdd50eaf```
+Don't forget also to download the ```iPod Games Files.7z``` archive, we will need it later.
 
 ### 2) Unzip the Virtual Machine
 Due to its large size, I had to split the VM into multiple compressed 7zips files.
@@ -220,6 +138,24 @@ To use this, connect your iPod to the virtual machine using USB passthrough then
 On your real computer, never try to sync the games or those will be all erased. If you are bothered by the popup which asks you to transfer your purchases at each sync, you may import all of the .ipg also on your real library (without authorizing the games, it's not needed just to avoid the annoying popup). You can find all of the ipg files in a folder called "ipg" in this GitHub repo.
 
 It is recommended to keep this virtual machine permanently disconnected from the Internet since the lite Windows 10 LTSC 2019 on it is not fully updated and also because iTunes may do probably some random checks with Internet that can potentially de-auth the games over time or for unknown reasons.
+
+You need to transfer the games **5 per 5 at each sync** (sync the first 5 during the first sync, then untick all, then tick the 5 next followings until the end). Don't worry if the amount of available games in the Virtual Machine is very small. We're just forcing iTunes to inject all the keys of the authed accounts for the next step, by transfering one single game from each account which is enough for iTunes to transfer all the keys from the related account.
+
+### 5) Transfering all the games files manually
+Now we are going to add all the game files from the archive ```iPod Games Files.7z```.
+Extract it and enter into it with your file browser.
+This process may be tedious but it allows to bypass the Apple DRM which limited the amount of games that you could store on a single device. Apple did not want you to put games from more than 5 different accounts !
+
+- Some games are compatible only with the iPod Videos (5G/5.5G). If you have an iPod Video, you can copy the folder ```iPod_Control``` from the folder ```5G and 5.5G only``` to get more games. If your iPod is a Nano or a Classic, don't do it !
+
+- Most games are compatible with all iPods covered by this guide. Copy the folder ```iPod_Control``` from the folder ```All iPods``` to get the games.
+
+On MacOS, it is very **important** to maintain the key "OPTION" on your keyboard while drag & dropping the folders ```iPod_Control``` into your iPod, then choose the option ```Merge```. **Don't** do "Replace". If the option ```Merge``` does not appear beside the ```Replace``` button in the copy window, stop it then retry to do the copy while maintaining the "OPTION" key again until it does.
+
+On Windows or Linux, the logic is the same. You need to merge/replace files in their destination. You should not replace the whole ```iPod_Control``` folder on your iPod or you will remove a lot of important/system files from your iPod which will force you to re-sync everything or restore your iPod (it will never brick it, but you will lose a lot of time).
+
+### 6) Disconnect your iPod and enjoy the games
+Games should now all launch just fine. Congratulations, you did it !
 
 ### Extra Step: Playing Phase with custom music
 Phase is a guitar hero equivalent for the iPod that is better when played with your own music. But if you use any kind of modern iTunes version, it will not work out of the box.
@@ -279,7 +215,7 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | iQuiz (NOT THE PRE-INSTALLED VERSION)  | ✅ | 11002 | Apple Inc. | Puzzle & Trivia | 2007-04 |
 | Lode Runner                            | ❌ | 20002 | Hudson Software Company, Limited | Action | 2008-12 |
 | LOST                                   | ✅ | 1B200 | Gameloft | Role-Playing | 2007-05 |
-| Mahjong                                | 🟨 (v1.0) | 77777 (probably also has a v1.1 but ID is unknown) | Electronic Arts | Cards, Casino, & Board | 2008-04-22 |
+| Mahjong                                | ✅ (v1.0 + v1.1) | 77777 (v1.1 is 77770) | Electronic Arts | Cards, Casino, & Board | 2008-04-22 |
 | Mini Golf                              | ✅ (v1.1) | 88888 (v1.1 is 88908) | Electronic Arts | Sports | 2006-09-12 |
 | Monopoly                               | ✅ | 15040 | Electronic Arts | Cards, Casino & Board | 2008-06-03 |
 | Ms. PAC-MAN                            | 🟨 (v1.0) | 14004 (v1.1 is 14024) | Namco | Action | 2007-02-27 |
@@ -321,68 +257,3 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | Zuma                                   | ✅ (v1.0 + v1.1) | 44444 (v1.1 is 12102) | PopCap Games | Action | 2006-09-12 |
 
 * This is the name of the folder when you try to retrieve the games after you've synced those on the iPod, in the hidden folder called ```iPod_Control/Games_RO```.
-
-## Table legend
-✅ = The most recent version of the game is preserved forever in the virtual machine
-
-🟨 = An obsolete version of the game is preserved forever on the virtual machine. Better than nothing, but this means often that the game will install and work only on the iPod Videos.
-
-❌ = The game is not (yet ?) available
-
-# Current distribution in accounts for all authed games
-Account 1:
-- Texas Hold'em (v1.1)
-
-Account 2:
-- CRYSTAL DEFENDERS
-
-Account 3:
-- Chinese Checkers
-- Reversi
-
-Account 4:
-- Asphalt 4: Elite Racing
-- Monopoly
-
-Account 5:
-- Tetris
-- UNO
-- Yahtzee
-
-Account 7:
-- Bejeweled (v1.1)
-- Block Breaker Deluxe
-- Bomberman
-- Brain Challenge
-- Chalkboard Sports Baseball
-- CSI Miami
-- Cubis 2 (v1.1)
-- iQuiz
-- LOST
-- Mahjong
-- Mini Golf (v1.1)
-- Ms. PAC-MAN (v1.0)
-- Ms. PAC-MAN Demo
-- musika
-- Mystery Mansion Pinball
-- PAC-MAN (1.1)
-- Peggle
-- Phase
-- Pole Position Remix
-- Royal Solitaire
-- SAT Prep Mathematics - 2008 (v1.1)
-- SAT Prep Reading - 2008 (v1.1)
-- SAT Prep Writing - 2008 (v1.1)
-- Slyder Adventures
-- SONG SUMMONER: The Unsung Heroes
-- Sonic the Hedgehog
-- Spore Origins
-- Sudoku (1.0)
-- The Sims Bowling (v1.1)
-- The Sims DJ
-- The Sims Pool (v1.1)
-- Vortex Demo
-- Vortex
-- Zuma (v1.1)
-
-You can sync games only from 5 different owners at once (Apple mad DRM limitation unfortunately). Consider each account ID as a games pack and consider that you can get only 5 different games packs into your device. This limitation may be rendered less annoying if I can preserve a lot of games on one distinct account. You need to choose your preferred games and avoid games packs that contains games that you will not really play.
