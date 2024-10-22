@@ -143,7 +143,7 @@ You need to transfer the games **5 per 5 at each sync** (sync the first 5 during
 
 ### 5) Transfering all the games files manually
 Now we are going to add all the game files from the archive ```iPod Games Files.7z```.
-Extract it and enter into it with your file browser. Disconnect your iPod from the Virtual Machine and let it reconnect to your host.
+Extract it and enter into it with your file browser. Now, you can disconnect your iPod from the Virtual Machine and let it reconnect to your host because we will need to copy the games files into it.
 
 - Some games are compatible only with the iPod Videos (5G/5.5G). If you have an iPod Video, you can copy the folder ```iPod_Control``` from the folder ```5G and 5.5G only``` to get more games. If your iPod is a Nano or a Classic, don't do it !
 
