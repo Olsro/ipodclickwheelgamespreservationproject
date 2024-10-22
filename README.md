@@ -24,6 +24,8 @@ After doing the whole procedure, you may backup completely the hidden folder "iP
 ### Can I add the games on a Mac formatted iPod ?
 Your iPod need to be Windows formatted because the Virtual Machine is a Windows one, thus cannot sync any Mac pod.
 
+If you don't have any Windows machine to do it, I created a specific Virtual Machine so you can format (restore) your iPod from there without having to find a real Windows machine to do it, check this project and its instructions: https://github.com/Olsro/ipodmanagementonwindows
+
 ### Can I transfer all games at once ?
 Unfortunately, we noticed that Apple limits each device to contain content only from 5 different Apple IDs. Since games are authed from different accounts, you may reach this limit if you try to sync all of the games at once so you will need to choose only a subset of this collection to use on your iPod at the same time. You can see the current distribution here to make your choices wisely: [Click here](#current-distribution-in-accounts-for-all-authed-games)
 
