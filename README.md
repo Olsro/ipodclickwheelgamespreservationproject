@@ -21,12 +21,6 @@ It is now completely useless, because now the same games are available and authe
 ### The Virtual Machine is so slow and I am too lazy to keep it around
 After doing the whole procedure, you may backup completely the hidden folder "iPod_Control" on your iPod so you will be able to restore your games on that specific pod only by copying the same folder again if you need to erase/restore your iPod in the future. Be aware that copying the iPod_Control folder to other iPods devices will not work because of the DRM tied directly with the serial number of your specific iPod.
 
-### How to update the Virtual Machine when a new version is released ?
-It's simple, you just remove the previous .utm file from your computer to replace it with the new released one.
-
-### Why some games in the ipg folder have a 7z.* extension ?
-GitHub does not allow to upload any file larger than 100MB, so I had to compress the affected games with 7zips to reduce the file size. So before importing those files into your own iTunes library or investigating on those, you will need to unpack the 7zip archive before being able to retrieve the .ipg file inside of it.
-
 ### Can I add the games on a Mac formatted iPod ?
 Your iPod need to be Windows formatted because the Virtual Machine is a Windows one, thus cannot sync any Mac pod.
 
