@@ -144,7 +144,7 @@ On your real computer, never try to sync the games or those will be all erased. 
 
 It is recommended to keep this virtual machine permanently disconnected from the Internet since the lite Windows 10 LTSC 2019 on it is not fully updated and also because iTunes may do probably some random checks with Internet that can potentially de-auth the games over time or for unknown reasons.
 
-You need to transfer the games **5 per 5 at each sync** (sync the first 5 during the first sync, then untick all, then tick the 5 next followings until the end). Don't worry if the amount of available games in the Virtual Machine is very small. We're just forcing iTunes to inject all the keys of the authed accounts for the next step, by transfering one single game from each account which is enough for iTunes to transfer all the keys from the related account.
+You need to transfer the games **5 per 5 at each sync** (sync the first 5 games from the list during the first sync. Wait that this syncing finish. Then untick all selected games, to tick the 5 next games followings on the list until you've reached the end of it). Don't worry if the amount of available games in the Virtual Machine is very small. We're just forcing iTunes to inject all the keys of the authed accounts for the next step, by transfering one single game from each account which is enough for iTunes to transfer all the keys from the related account.
 
 ### 5) Transfering all the games files manually
 Now we are going to add all the game files from the archive ```iPod Games Files.7z```.
