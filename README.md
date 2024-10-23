@@ -272,3 +272,19 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 ❌ = The game is not (yet ?) available
 
 📹 = This game (or this version of the game) is playable only on the iPod Video (5G or 5.5G)
+
+# The experience on the iPod Videos 📹 (5G/5.5G)
+On the iPod Video, you can theorically install and play all games that Apple made available since 2006. But in my opinion, this is the less ideal way to get a good experience with clickwheel games. The iPod Video has a very old-gen hardware compared to any other iPod that can run the clickwheel games, which leads to from my observations:
+- Much longer loading times
+- Some games are not exactly the same
+	- For example, the radar photos in Asphalt 4 are generic on the iPod Video while those are generated dynamically on other iPods
+- Games will be much more laggy. Expect heavy frameskipping on some, or even random annoying freezes.
+	- On my iPod Video, Phase is sometimes freezing slightly which causes unfair gameplay errors when playing it. It is very frustrating for a rythm game to make errors that are outside of your control.
+	- Peggle on the iPod Video feels sluggish while it is very smooth on other iPods
+	- Bejeweled feels almost unplayable on my iPod Video because it is so laggy, even in menus
+	- Crystal Defenders starts to lag heavily when there is a few animated sprites on screen
+	- Asphalt 4 on the iPod Video has a very low framerate. It seems constant and controls are responsive, but framerate is very low.
+	- Mystery Mansion Pinball feels very sluggish
+	- Bomberman controls feels less responsive and the game has some little lags here and there
+
+Some games also run very well/good enough. Like Vortex, iQuiz or Monopoly, and others.
