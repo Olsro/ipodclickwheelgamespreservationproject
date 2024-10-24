@@ -104,6 +104,7 @@ Please be aware that it is probably possible to run this in a much more exotic s
 This is important for all file operations related to the hidden folder ```iPod_Control```.
 
 MacOS: https://www.graphpad.com/support/faq/how-to-view-files-on-your-mac-that-are-normally-invisible/
+
 Linux (Ubuntu): You can just use the shortcut "CTRL + H" in the file browser to show all hidden files
 
 ### 2) Download the Virtual Machine and all of the games files
