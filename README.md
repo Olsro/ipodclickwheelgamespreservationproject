@@ -138,7 +138,9 @@ You need to extract "iPod Clickwheel Games Preservation Project.utm.7z.001" whic
 	![Alt text](images/linux/virtualmachineusbredir.png?raw=true "Virtual Machine USB Passthrough")
 
 ### 4) Syncing using iTunes
-To use this, connect your iPod to the virtual machine using USB passthrough then open iTunes and sync the games. If USB passthrough does not work for you, try to use another port and retry. On MacOS, I recommend to let the iPod connect to the host then eject it on the Finder before doing the passthrough, it seems more reliable this way.
+I recommend to let the iPod connect to the host then eject it on the Finder before doing the passthrough, it is more reliable this way.
+
+Then, it's time to connect your iPod to the virtual machine using USB passthrough then open iTunes to sync some games in order to authorize the accounts.
 
 On your real computer, never try to sync the games or those will be all erased. If you are bothered by the popup which asks you to transfer your purchases at each sync, you may import all of the .ipg also on your real library (without authorizing the games, it's not needed just to avoid the annoying popup). You can find all of the ipg files in a folder called "ipg" in this GitHub repo.
 
