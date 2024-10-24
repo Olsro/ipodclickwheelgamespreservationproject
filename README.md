@@ -138,7 +138,7 @@ You need to extract "iPod Clickwheel Games Preservation Project.utm.7z.001" whic
 	![Alt text](images/linux/virtualmachineusbredir.png?raw=true "Virtual Machine USB Passthrough")
 
 ### 4) Syncing using iTunes
-I recommend to let the iPod connect to the host then eject it on the Finder before doing the passthrough, it is more reliable this way.
+I recommend letting the iPod connect to the host then eject it on the Finder before doing the passthrough, it is more reliable this way.
 
 Then, it's time to connect your iPod to the virtual machine using USB passthrough then open iTunes to sync some games in order to authorize the accounts.
 
