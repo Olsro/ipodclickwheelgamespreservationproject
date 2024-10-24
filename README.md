@@ -100,7 +100,13 @@ Please be aware that it is probably possible to run this in a much more exotic s
 
 **Don't forget also** if you are a Linux user to download this repo as a zip: https://github.com/Olsro/ipodclickwheelgamespreservationproject/archive/refs/heads/main.zip or to clone it locally. It will be your workspace. **On MacOS, you can go ahead** and just download directly the .utm virtual machine file on the step just below.
 
-### 1) Download the Virtual Machine and all of the games files
+### 1) Enable hidden folders
+This is important for all file operations related to the hidden folder ```iPod_Control```.
+
+MacOS: https://www.graphpad.com/support/faq/how-to-view-files-on-your-mac-that-are-normally-invisible/
+Linux (Ubuntu): You can just use the shortcut "CTRL + H" in the file browser to show all hidden files
+
+### 2) Download the Virtual Machine and all of the games files
 When we will reach the full set, it will be shared as a torrent so it will avoid getting lost over time.
 
 You can download the latest version from the following locations: 
@@ -111,14 +117,14 @@ Be aware that you need around **10 GB** of free space on your hard drive to extr
 
 Don't forget also to download the ```iPod Games Files.7z``` archive, we will need it later.
 
-### 2) Unzip the Virtual Machine
+### 3) Unzip the Virtual Machine
 Due to its large size, I had to split the VM into multiple compressed 7zips files.
 - On MacOS, "The Unarchiver" is recommended to unpack 7zip archives: https://theunarchiver.com/
 - On Linux, open a Terminal in the folder and enter this: ```sudo apt update && sudo apt install -y p7zip-full && 7za x "iPod*Clickwheel*Games*Preservation*Project.utm.7z.001"```
 
 You need to extract "iPod Clickwheel Games Preservation Project.utm.7z.001" which will automatically find other parts (2, 3, 4, etc) to extract the full ".utm" Virtual Machine.
 
-### 3) Booting up the Virtual Machine
+### 4) Booting up the Virtual Machine
 - On MacOS
 	- 1) Download and install UTM: https://mac.getutm.app/ (avoid the Mac App Store version, because it has some limitations)
 	- 2) Just import the .utm virtual machine file into UTM
@@ -137,7 +143,7 @@ You need to extract "iPod Clickwheel Games Preservation Project.utm.7z.001" whic
 	- 8) You can USB passthrough your iPod to the Virtual Machine by clicking on the "Adjustable wrench" icon that is located near the bottom of the left panel to redirect your iPod to the Virtual Machine.
 	![Alt text](images/linux/virtualmachineusbredir.png?raw=true "Virtual Machine USB Passthrough")
 
-### 4) Syncing using iTunes
+### 5) Syncing using iTunes
 The option "Disk use" (enabled by default) **must** be enabled. If it isn't enabled, you can enable it by connecting your iPod on your host machine through iTunes (or through the Finder syncing window for the most recent versions of MacOS).
 
 I recommend letting the iPod connect to the host then eject it on the Finder before doing the passthrough to the Virtual Machine, it is more reliable this way.
@@ -150,7 +156,7 @@ It is recommended to keep this virtual machine permanently disconnected from the
 
 You need to transfer the games **5 per 5 at each sync** on iTunes (sync the first 5 games from the list during the first sync. Wait that this syncing has finished. Then untick all selected games, to tick the 5 next games followings on the list until you've reached the end of it). Don't worry if the amount of available games in the Virtual Machine is very small. We're just forcing iTunes to inject all the keys of the authed accounts for the next step, by transfering one single game from each account which is enough for iTunes to transfer all the keys from the related account.
 
-### 5) Transfering all the games files manually
+### 6) Transfering all the games files manually
 Now we are going to add all the game files from the archive ```iPod Games Files.7z```.
 Extract it and enter into it with your file browser. Now, you can disconnect your iPod from the Virtual Machine and let it reconnect to your host because we will need to copy the games files into it.
 
@@ -164,7 +170,7 @@ On Windows or Linux, the logic is the same. You need to merge/replace files in t
 
 This process may be tedious but it allows to bypass the Apple DRM which limited the amount of games that you could store on a single device. Apple did not want you to put games from more than 5 different accounts !
 
-### 6) Disconnect your iPod and enjoy the games
+### 7) Disconnect your iPod and enjoy the games
 Games should now all launch just fine. Congratulations, you did it !
 
 ### Extra Step: Playing Phase with custom music
