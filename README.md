@@ -46,10 +46,15 @@ I also recommend to remove all of the games and re-sync everything back to avoid
 ### How can I make the UTM virtual machine run faster on my Mac ?
 If your Mac is powerful enough, you can increase the RAM and the amount of emulated cores and tick the box "Force multicore".
 
-![Alt text](images/mac/utm-multicore.png?raw=true "UTM Multicore")
+### How can I backup the save files ?
+You should backups those 2 hidden folders: ```iPod_Control/GameData_RW``` and ```iPod_Control/GameStats_WO```. I really advise you to backup those folders sometimes, and especially after you've done progress and scores that you don't want to lose. When (and if) iTunes ever gets mad and decides to erase your games while syncing, it also remove all the related save files.
+
+I don't know if save files are unique to your device or if you can transfer your saves to any other iPod. But if it is on the same iPod, restoring those folders after re-installing the games should work to get your save data back.
 
 ### [Linux] The script "start_qemu.sh" does not start on my machine, what can I do ?
 It looks like your computer is an ARM64 one or a very old Intel computer, so you should use ```slow_start_qemu.sh``` instead to start the virtual machine.
+
+![Alt text](images/mac/utm-multicore.png?raw=true "UTM Multicore")
 
 ## Changelog
 ### Version 1 (2024-10-11)
