@@ -46,6 +46,8 @@ I also recommend to remove all of the games and re-sync everything back to avoid
 ### How can I make the UTM virtual machine run faster on my Mac ?
 If your Mac is powerful enough, you can increase the RAM and the amount of emulated cores and tick the box "Force multicore".
 
+![Alt text](images/mac/utm-multicore.png?raw=true "UTM Multicore")
+
 ### How can I backup the save files ?
 You should backups those 2 hidden folders: ```iPod_Control/GameData_RW``` and ```iPod_Control/GameStats_WO```. I really advise you to backup those folders sometimes, and especially after you've done progress and scores that you don't want to lose. When (and if) iTunes ever gets mad and decides to erase your games while syncing, it also remove all the related save files.
 
@@ -53,8 +55,6 @@ I don't know if save files are unique to your device or if you can transfer your
 
 ### [Linux] The script "start_qemu.sh" does not start on my machine, what can I do ?
 It looks like your computer is an ARM64 one or a very old Intel computer, so you should use ```slow_start_qemu.sh``` instead to start the virtual machine.
-
-![Alt text](images/mac/utm-multicore.png?raw=true "UTM Multicore")
 
 ## How to use
 ### Requirements
@@ -117,10 +117,6 @@ I recommend letting the iPod connect to the host then eject it on the Finder bef
 
 Then, it's time to connect your iPod to the virtual machine using USB passthrough then open iTunes to sync some games in order to authorize the accounts.
 
-On your real computer, never try to sync the games or those will be all erased. If you are bothered by the popup which asks you to transfer your purchases at each sync, you may import all of the .ipg also on your real library (without authorizing the games, it's not needed just to avoid the annoying popup). You can find all of the ipg files in a folder called "ipg" in this GitHub repo.
-
-It is recommended to keep this virtual machine permanently disconnected from the Internet since the lite Windows 10 LTSC 2019 on it is not fully updated and also because iTunes may do probably some random checks with Internet that can potentially de-auth the games over time or for unknown reasons.
-
 You need to transfer the games **5 per 5 at each sync** on iTunes (sync the first 5 games from the list during the first sync. Wait that this syncing has finished. Then untick all selected games, to tick the 5 next games followings on the list until you've reached the end of it). Don't worry if the amount of available games in the Virtual Machine is very small. We're just forcing iTunes to inject all the keys of the authed accounts for the next step, by transfering one single game from each account which is enough for iTunes to transfer all the keys from the related account.
 
 ### 6) Transfering all the games files manually
@@ -136,6 +132,10 @@ On MacOS, it is very **important** to maintain the key "OPTION" on your keyboard
 On Windows or Linux, the logic is the same. You need to merge/replace files in their destination. You should not replace the whole ```iPod_Control``` folder on your iPod or you will remove a lot of important/system files from your iPod which will force you to re-sync everything or restore your iPod (it will never brick it, but you will lose a lot of time).
 
 This process may be tedious but it allows to bypass the Apple DRM which limited the amount of games that you could store on a single device. Apple did not want you to put games from more than 5 different accounts !
+
+On your real computer, never try to sync the games or those will be all erased. If you are bothered by the popup which asks you to transfer your purchases at each sync, you may import all of the .ipg also on your real library (without authorizing the games, it's not needed just to avoid the annoying popup).
+
+It is recommended to keep this virtual machine permanently disconnected from the Internet since the lite Windows 10 LTSC 2019 on it is not fully updated and also because iTunes may do probably some random checks with Internet that can potentially de-auth the games over time or for unknown reasons.
 
 ### 7) Disconnect your iPod and enjoy the games
 Games should now all launch just fine. Congratulations, you did it !
