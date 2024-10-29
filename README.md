@@ -26,6 +26,8 @@ Your iPod need to be Windows formatted because the Virtual Machine is a Windows 
 
 If you don't have any Windows machine to do it, I created a specific Virtual Machine so you can format (restore) your iPod from there without having to find a real Windows machine to do it, check this project and its instructions: https://github.com/Olsro/ipodmanagementonwindows
 
+The Virtual Machine "iPod Management on Windows" (https://github.com/Olsro/ipodmanagementonwindows) is useful **only to format** your iPod to Windows, you cannot install the games using it and you need to also download the virtual machine from this GitHub repo which is offline and contains the games to transfer.
+
 ### Can I transfer all games at once ?
 Yes ! "vibvian" from the iPod Community found that he could play all games by swapping some files. I then did more investigation and documented properly the exploit here so anyone can understand it easily. It appears that iTunes is adding all the keys from one account when only one game of the account is transfered, but is too dumb to remove the keys of removed games so the exploit is just to sync one game from each account (in multiple syncs if necessary, 5 accounts per 5 accounts maximum) then transfer all the games manually, and all games are playable this way.
 
