@@ -269,7 +269,7 @@ On the iPod Video, you can theorically install and play all games that Apple mad
 Some games also run very well/good enough. Like Vortex, iQuiz or Monopoly, and others.
 
 # Buy the games and support games developers
-Unfortunately, all of those iPod Clickwheel Games were all delisted from the iTunes Store in October 2011 and there's no other way to buy any new copy of those games which is why this project even exist publicly as the only mean to play any of them for the future generations of gamers and also for purchasers of those games who lost their original .ipg file linked to their account. It is impossible to purchase any of those anymore; all that games are considered abandonware and some of them even belongs to defunct companies listed below.
+Unfortunately, all of those iPod Clickwheel Games were all delisted from the iTunes Store in October 2011 and there's no other way to buy any new copy of those games which is why this project even exists publicly as the only mean to play any of them for the future generations of gamers and also for purchasers of those games who lost their original .ipg file linked to their account. It is impossible to purchase any of those anymore; all that games are considered abandonware and some of them even belongs to defunct companies listed below.
 
 Feel free to support the game companies who've made iPod Clickwheel Games by buying their merch or their current games:
 - Square Enix: https://www.square-enix-games.com
