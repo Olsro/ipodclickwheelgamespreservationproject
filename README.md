@@ -267,3 +267,25 @@ On the iPod Video, you can theorically install and play all games that Apple mad
 	- Bomberman controls feels less responsive and the game has some little lags here and there
 
 Some games also run very well/good enough. Like Vortex, iQuiz or Monopoly, and others.
+
+# Buy the games and support games developers
+Unfortunately, all of those iPod Clickwheel Games were all delisted from the iTunes Store in October 2011 and there's no other way to buy any new copy of those games which is why this project even exist publicly as the only mean to play any of them for the future generations of gamers and also for purchasers of those games who lost their original .ipg file linked to their account. It is impossible to purchase any of those anymore; all that games are considered abandonware and some of them even belongs to defunct companies listed below.
+
+Feel free to support the game companies who've made iPod Clickwheel Games by buying their merch or their current games:
+- Square Enix: https://www.square-enix-games.com
+- Harmonix: https://www.harmonixmusic.com/
+- Gameloft: https://www.gameloft.com
+- PopCap Games: https://www.ea.com/ea-studios/popcap
+- Hudson Soft (which is now Konami): https://www.konami.com/
+- Electronic Arts: https://www.ea.com/
+- Namco: https://bandainamcoent.eu
+- Disney Online Studios: https://www.disney.fr/
+- Sega: https://www.sega.com/homepage
+- Kaplan: https://kaplan.com/
+- NanaOn-Sha: out of business
+- Sandlot Games: out of business
+- D2C Games: out of business
+- FreshGames: out of business
+
+# Support my preservation efforts
+You can tip me some dollars on Patreon, thank you very much: https://www.patreon.com/Olsro
