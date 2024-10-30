@@ -1,0 +1,1 @@
+"win64-qemuimg/qemu-img.exe" convert -p -f qcow2 -O vmdk "iPod Clickwheel Games Preservation Project.utm/Data/A973B7BF-F17A-44C5-A6D7-B6D819938FDC.qcow2" "win64-vmware/iPod Clickwheel Games Preservation Project.vmdk"

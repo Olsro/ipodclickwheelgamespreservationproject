@@ -60,13 +60,19 @@ It looks like your computer is an ARM64 one or a very old Intel computer, so you
 
 ## How to use
 ### Requirements
-- (Recommended) A Mac computer that can run UTM (https://mac.getutm.app/). Don't download the Mac App Store version because it has limitations. An Intel Mac is preferable for speed but all of this was developed and tested on an Apple Silicon Mac where it run slowly but just fine.
-- (Recommended) A Linux Intel x64 computer. Ubuntu 24.04 is recommended. If you can't install Linux, it should also work in a LiveCD directly. You can get Ubuntu from here: https://www.ubuntu-fr.org/ and burn the ISO into an USB stick easily using Rufus (https://rufus.ie/, Windows Only !) or Balena Etcher (https://etcher.balena.io/, Multiplatform !). This setup works very well and seems to be very reliable. I tested that setup on one of my Intel PC and it worked wonderfully and was a very fast way to boot easily the Virtual Machine and get a very high level performance with it.
-- (Not Recommended) Windows Intel x64. I could not make this run under Hyper-V so it was running very slowly on my tests. Also, I could not make USB passthrough to work on Windows (the iPod was recognized as a generic "iPod" device and was not appearing in iTunes). But maybe in the future someone else will figure out how to make all of this working correctly on Windows, feel free to open a pull request with updated documentation.
+#### Macs
+A Mac computer that can run UTM (https://mac.getutm.app/). Don't download the Mac App Store version because it has limitations. An Intel Mac is preferable for speed but all of this was developed and tested on an Apple Silicon Mac where it run slowly but just fine.
 
-Please be aware that it is probably possible to run this in a much more exotic setup as long as it is Qemu + USB passthrough compatible, but you will need to build yourself the exact command to make this boot and work for you.
+#### Linux
+A Linux computer. Ubuntu 24.04 is recommended. If you can't install Linux, it should also work in a LiveCD directly. You can get Ubuntu from here: https://www.ubuntu-fr.org/ and burn the ISO into an USB stick easily using Rufus (https://rufus.ie/, Windows Only !) or Balena Etcher (https://etcher.balena.io/, Multiplatform !). This setup works very well and seems to be very reliable. I tested that setup on one of my Intel PC and it worked wonderfully and was a very fast way to boot easily the Virtual Machine and get a very high level performance with it.
 
-**Don't forget also** if you are a Linux user to download this repo as a zip: https://github.com/Olsro/ipodclickwheelgamespreservationproject/archive/refs/heads/main.zip or to clone it locally. It will be your workspace. **On MacOS, you can go ahead** and just download directly the .utm virtual machine file on the step just below.
+#### Windows (Intel 64 bits)
+It run very well on Windows through VMWare. VMWare Player 17 requires Windows 10 or more.
+
+#### Windows (ARM 64 bits)
+Use an ARM64 Linux distro
+
+**Don't forget also** if you are a **Linux or Windows** user to download this repo as a zip: https://github.com/Olsro/ipodclickwheelgamespreservationproject/archive/refs/heads/main.zip or to clone it locally. It will be your workspace. **On MacOS, you can go ahead** and just download directly the .utm virtual machine file on the step just below.
 
 ### 1) Enable hidden folders
 This is important for all file operations related to the hidden folder ```iPod_Control```.
@@ -74,6 +80,8 @@ This is important for all file operations related to the hidden folder ```iPod_C
 MacOS: https://www.graphpad.com/support/faq/how-to-view-files-on-your-mac-that-are-normally-invisible/
 
 Linux (Ubuntu): You can just use the shortcut "CTRL + H" in the file browser to show all hidden files
+
+Windows: https://support.microsoft.com/en-us/windows/view-hidden-files-and-folders-in-windows-97fbc472-c603-9d90-91d0-1166d1d9f4b5
 
 ### 2) Download the Virtual Machine and all of the games files
 When we will reach the full set, it will be shared as a torrent so it will avoid getting lost over time.
@@ -90,27 +98,34 @@ Don't forget also to download the ```iPod Games Files.7z``` archive, we will nee
 Due to its large size, I had to split the VM into multiple compressed 7zips files.
 - On MacOS, "The Unarchiver" is recommended to unpack 7zip archives: https://theunarchiver.com/
 - On Linux, open a Terminal in the folder and enter this: ```sudo apt update && sudo apt install -y p7zip-full && 7za x "iPod*Clickwheel*Games*Preservation*Project.utm.7z.001"```
+- On Windows, 7zip is recommended to unpack 7zip archives: https://www.7-zip.org/download.html
 
 You need to extract "iPod Clickwheel Games Preservation Project.utm.7z.001" which will automatically find other parts (2, 3, 4, etc) to extract the full ".utm" Virtual Machine.
 
 ### 4) Booting up the Virtual Machine
-- On MacOS
-	- 1) Download and install UTM: https://mac.getutm.app/ (avoid the Mac App Store version, because it has some limitations)
-	- 2) Just import the .utm virtual machine file into UTM
+#### On MacOS
+1) Download and install UTM: https://mac.getutm.app/ (avoid the Mac App Store version, because it has some limitations)
+2) Just import the .utm virtual machine file into UTM
 	![Alt text](images/mac/utm-file-open.png?raw=true "Import the VM in UTM")
-	- 3) You should be able to launch it straight. Check the capture just below to know where to click to connect your iPod in the Virtual Machine.
+3) You should be able to launch it straight. Check the capture just below to know where to click to connect your iPod in the Virtual Machine.
 	![Alt text](images/mac/utm-usb-passthrough.png?raw=true "USB Passthrough on Mac with UTM")
-- On Linux:
-	- 1) Copy the .utm file on this folder, because it will be needed by the script "start_qemu.sh".
-	- 2) Open a Terminal on the folder of this cloned repo where start_qemu.sh is located.
-	- 3) Install Qemu and dependencies: ```chmod a+x ./install_qemu.sh && ./install_qemu.sh``` (Ubuntu-only script, if not using Ubuntu 24.04 you will need to adapt it to your needs)
-	- 4) Run Qemu: ```chmod a+x ./start_qemu.sh && ./start_qemu.sh``` or if your arch is ARM64 (for example if you are using an Apple Silicon Mac on Asahi Linux) you can emulate the x64 arch (which will be much slower) with this script ```chmod a+x ./slow_start_qemu.sh && ./slow_start_qemu.sh```.
-	- 5) Now you can start Remmina to control it
-	- 6) Setup a new SPICE connection with the following address: 127.0.0.1:17474 and connect to it
-	![Alt text](images/linux/remmina.png?raw=true "Remmina")
-	- 7) You should now see the Virtual Machine booting and be able to interact with it
-	- 8) You can USB passthrough your iPod to the Virtual Machine by clicking on the "Adjustable wrench" icon that is located near the bottom of the left panel to redirect your iPod to the Virtual Machine.
+#### On Linux:
+1) Copy the .utm file on your workplace folder, because it will be needed by the script "start_qemu.sh".
+2) Open a Terminal on the folder of this cloned repo where start_qemu.sh is located.
+3) Install Qemu and dependencies: ```chmod a+x ./install_qemu.sh && ./install_qemu.sh``` (Ubuntu-only script, if not using Ubuntu 24.04 you will need to adapt it to your needs)
+4) Run Qemu: ```chmod a+x ./start_qemu.sh && ./start_qemu.sh``` or if your arch is ARM64 (for example if you are using an Apple Silicon Mac on Asahi Linux) you can emulate the x64 arch (which will be much slower) with this script ```chmod a+x ./slow_start_qemu.sh && ./slow_start_qemu.sh```.
+5) Now you can start Remmina to control it
+6) Setup a new SPICE connection with the following address: 127.0.0.1:17474 and connect to it
+![Alt text](images/linux/remmina.png?raw=true "Remmina")
+7) You should now see the Virtual Machine booting and be able to interact with it
+8) You can USB passthrough your iPod to the Virtual Machine by clicking on the "Adjustable wrench" icon that is located near the bottom of the left panel to redirect your iPod to the Virtual Machine.
 	![Alt text](images/linux/virtualmachineusbredir.png?raw=true "Virtual Machine USB Passthrough")
+#### On Windows
+1) Copy the .utm file on your workplace folder, because it will be needed by the script ```win64-convert-hdd-to-vmware.bat```.
+2) Run the script "win64-convert-hdd-to-vmware.bat" to convert the Qemu virtual hard drive into a VMWare compatible virtual hard drive. This script should take a while. If the popup window closes instantly, double check that the ```iPod Clickwheel Games Preservation Project.utm/Data/A973B7BF-F17A-44C5-A6D7-B6D819938FDC.qcow2``` path is valid from your workspace folder.
+3) Install a recent version of VMWare Player: https://softwareupdate.vmware.com/cds/vmw-desktop/player/17.6.1/24319023/windows/core/VMware-player-17.6.1-24319023.exe.tar , un-compress the .tar file using 7zip then install VMWare Player on your computer. This software is required to launch the Virtual Machine.
+4) Double-click on the file ```iPod Clickwheel Games Preservation Project.vmx``` located inside the folder ```win64-vmware``` related to your workspace folder. VMWare Player should now launch. Wait until iTunes appear (iTunes should launch itself automatically on the virtual Windows 10 environment once booted up).
+5) Connect your iPod. A popup should appear to connect it to the host or into the virtual machine. Select the virtual machine. Now wait a couple of seconds, and your iPod should appear on iTunes inside the virtual machine which are the authed games.
 
 ### 5) Syncing using iTunes
 The option "Disk use" (enabled by default) **must** be enabled. If it isn't enabled, you can enable it by connecting your iPod on your host machine through iTunes (or through the Finder syncing window for the most recent versions of MacOS).
