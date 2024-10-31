@@ -45,6 +45,8 @@ Remove the .utm file and all the compressed .7z parts which were used to extract
 
 I also recommend to remove all of the games and re-sync everything back to avoid strange authing bugs with games.
 
+Don't forget to backup the save files of your games on your iPod if those matters to you: https://github.com/Olsro/ipodclickwheelgamespreservationproject?tab=readme-ov-file#how-can-i-backup-the-save-files-
+
 ### How can I make the UTM virtual machine run faster on my Mac ?
 If your Mac is powerful enough, you can increase the RAM and the amount of emulated cores and tick the box "Force multicore".
 
