@@ -1,5 +1,5 @@
 # iPod Clickwheel Games Preservation Project
-43/54 clickwheel games preserved for the moment and playable right now on your own pod !
+44/56 clickwheel games preserved for the moment and playable right now on your own pod !
 
 ## Introduction and context
 The virtual machine is based on a community-trusted very lite version of Windows 10 LTSC 2019, so it can boot as fast as possible and be generally reasonably fast even without hardware virtualization enabled (ARM64 macs have to emulate x64 code). That version of Windows 10 is still modern enough about SSL and other components to use the required iTunes version and to connect to Apple servers without unreliable workarounds so I can auth the games on it.
@@ -218,7 +218,7 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | Mahjong                                | ✅ (v1.0 📹 + v1.1) | 77777 (v1.1 is 77770) | Electronic Arts | Cards, Casino, & Board | 2008-04-22 |
 | Mini Golf                              | ✅ (v1.1) | 88888 (v1.1 is 88908) | Electronic Arts | Sports | 2006-09-12 |
 | Monopoly                               | ✅ | 15040 | Electronic Arts | Cards, Casino & Board | 2008-06-03 |
-| Ms. PAC-MAN                            | 🟨 (v1.0 📹) | 14004 (v1.1 is 14024) | Namco | Action | 2007-02-27 |
+| Ms. PAC-MAN                            | ✅ (v1.0 📹 + v1.1) | 14004 (v1.1 is 14024) | Namco | Action | 2007-02-27 |
 | Ms. PAC-MAN Demo                       | ✅ 📹 | 14005 | Namco | Action | 2007-02-27 |
 | musika                                 | ✅ 📹 | 1C300 | NanaOn-Sha / Sony BMG | Rythm | 2007-08-07 |
 | Mystery Mansion Pinball                | ✅ | 22010 | Gameloft | Action | 2008-08 |
@@ -234,7 +234,7 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | SAT Prep Mathematics - 2008            | ✅ (v1.1) | 11052 (v1.1 is 11072) | Kaplan | Education | 2007-06-22 |
 | SAT Prep Reading - 2008                | ✅ (v1.1) | 11050 (v1.1 is 11070) | Kaplan | Education | 2007-06-22 |
 | SAT Prep Writing - 2008                | ✅ (v1.1) | 11051 (v1.1 is 11071) | Kaplan | Education | 2007-06-22 |
-| Scrabble                               | ❌ | 15012 | Electronic Arts | Cards, Casino & Board Games | 2008-03-03 |
+| Scrabble                               | ✅ | 15012 | Electronic Arts | Cards, Casino & Board Games | 2008-03-03 |
 | Slyder Adventures                      | ✅ | 25000 | Sandlot Games | Action | 2008-12 |
 | Song Summoner: The Unsung Heroes       | ✅ | 24000 | Square Enix | Role-Playing | 2008-07-08 |
 | Sonic the Hedgehog                     | ✅ | 18000 | Sega of America | Action | 2007-12-18 |

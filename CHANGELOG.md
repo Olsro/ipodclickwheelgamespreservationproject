@@ -36,3 +36,9 @@
 - Added game: Mahjong (v1.1)
 - Keep only one game per account on the virtual machine
 - Document the way to circument the 5 account games limit to transfer all the games in your iPod
+
+## Version 9 (2024-10-31)
+- Added game: Ms. PAC-MAN (v1.1)
+- Added game: Scrabble
+- Now iTunes will launch automatically on startup
+- The identity of the system installation is now spoofed automatically on startup, which allows the virtual hard drive to be launched on other virtual machine environment (like VMWare) or using direct CPU passthrough on QEmu (which allows the VM to run with older CPUs on KVM). The games remains authed on iTunes.
