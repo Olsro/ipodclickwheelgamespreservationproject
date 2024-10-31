@@ -56,7 +56,7 @@ You should backups those 2 hidden folders: ```iPod_Control/GameData_RW``` and ``
 I don't know if save files are unique to your device or if you can transfer your saves to any other iPod. But if it is on the same iPod, restoring those folders after re-installing the games should work to get your save data back.
 
 ### [Linux] The script "start_qemu.sh" does not start on my machine, what can I do ?
-It looks like your computer is an ARM64 one or a very old Intel computer, so you should use ```slow_start_qemu.sh``` instead to start the virtual machine.
+It looks like your computer is an ARM64 one or a very old Intel/AMD computer, so you should use ```slow_start_qemu.sh``` instead to start the virtual machine.
 
 ## How to use
 ### Requirements
@@ -66,7 +66,7 @@ A Mac computer that can run UTM (https://mac.getutm.app/). Don't download the Ma
 #### Linux
 A Linux computer. Ubuntu 24.04 is recommended. If you can't install Linux, it should also work in a LiveCD directly. You can get Ubuntu from here: https://www.ubuntu-fr.org/ and burn the ISO into an USB stick easily using Rufus (https://rufus.ie/, Windows Only !) or Balena Etcher (https://etcher.balena.io/, Multiplatform !). This setup works very well and seems to be very reliable. I tested that setup on one of my Intel PC and it worked wonderfully and was a very fast way to boot easily the Virtual Machine and get a very high level performance with it.
 
-#### Windows (Intel 64 bits)
+#### Windows (Intel/AMD 64 bits)
 It run very well on Windows through VMWare. VMWare Player 17 requires Windows 10 or more.
 
 #### Windows (ARM 64 bits)
