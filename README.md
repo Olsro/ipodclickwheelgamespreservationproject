@@ -43,7 +43,7 @@ A Mac is totally able to sync a Windows formatted iPod to add music and manage s
 ### How to update the Virtual Machine to a newer version ?
 Remove the .utm file and all the compressed .7z parts which were used to extract it. All .7z files must be downloaded again. Make sure your computer doesn't rename the downloaded files to something like "filename(1)" since the files were already downloaded before. Rename the downloaded files accordingly if necessary.
 
-I also recommend to remove all of the games and re-sync everything back to avoid strange authing bugs with games. It's better to restart from scratch to choose again the games from the available games packs.
+I also recommend to remove all of the games and re-sync everything back to avoid strange authing bugs with games.
 
 ### How can I make the UTM virtual machine run faster on my Mac ?
 If your Mac is powerful enough, you can increase the RAM and the amount of emulated cores and tick the box "Force multicore".
