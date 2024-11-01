@@ -136,7 +136,7 @@ I recommend letting the iPod connect to the host then eject it on the Finder bef
 
 Then, it's time to connect your iPod to the virtual machine using USB passthrough then open iTunes to sync some games in order to authorize the accounts.
 
-You need to transfer the games **5 per 5 at each sync** on iTunes (sync the first 5 games from the list during the first sync. Wait that this syncing has finished. Then untick all selected games, to tick the 5 next games followings on the list until you've reached the end of it). Don't worry if the amount of available games in the Virtual Machine is very small. We're just forcing iTunes to inject all the keys of the authed accounts for the next step, by transfering one single game from each account which is enough for iTunes to transfer all the keys from the related account.
+You need to transfer the games **5 per 5 at each sync** on iTunes (sync the first 5 games from the list during the first sync. Wait that this syncing has finished. Then untick all selected games, to tick the 5 next games followings on the list until you've reached the end of it). **Don't worry if the amount of available games in the Virtual Machine is very small compared to the total amount of preserved games**. We're just forcing iTunes to inject all the keys of the authed accounts for the next step, by transfering one single game from each account which is enough for iTunes to transfer all the keys from the related account.
 
 ### 6) Transfering all the games files manually
 Now we are going to add all the game files from the archive ```iPod Games Files.7z```.
