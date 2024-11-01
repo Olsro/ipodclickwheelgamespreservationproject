@@ -138,6 +138,10 @@ Then, it's time to connect your iPod to the virtual machine using USB passthroug
 
 You need to transfer the games **5 per 5 at each sync** on iTunes (sync the first 5 games from the list during the first sync. Wait that this syncing has finished. Then untick all selected games, to tick the 5 next games followings on the list until you've reached the end of it). **Don't worry if the amount of available games in the Virtual Machine is very small compared to the total amount of preserved games**. We're just forcing iTunes to inject all the keys of the authed accounts for the next step, by transfering one single game from each account which is enough for iTunes to transfer all the keys from the related account.
 
+All games in iTunes represents one Apple ID so it's crucial that you transfer using iTunes each game at least once (even if you don't want to play this specific listed game later, it's important to transfer it anyway using iTunes so all related authed games bought by the same person can be played later when you will transfer manually the games files during the next step). Removing (unticking) the games on iTunes does not remove the decryption keys on the iPod so don't worry to untick some games to fit the 5 Apple IDs allowed limit for each sync (each time you click the ```Apply``` button on iTunes, it triggers a new sync and you have to wait a bit that iTunes integrates the decryption keys into your iPod).
+
+When you will have transfered each game at least once using iTunes, you can now go to the next step because your iPod is now weaponized to decrypt all the preserved games binaries :)
+
 ### 6) Transfering all the games files manually
 Now we are going to add all the game files from the archive ```iPod Games Files.7z```.
 Extract it and enter into it with your file browser. Now, you can disconnect your iPod from the Virtual Machine and let it reconnect to your host because we will need to copy the games files into it.
