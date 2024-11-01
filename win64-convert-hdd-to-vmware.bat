@@ -1,4 +1,5 @@
 @echo off
+cd /d %~dp0
 echo Let's convert the Qemu Virtual HDD (.qcow2) into a VMWare Virtual HDD (.vmdk)
 if exist "iPod.Clickwheel.Games.Preservation.Project.utm/iPod Clickwheel Games Preservation Project.utm/Data/A973B7BF-F17A-44C5-A6D7-B6D819938FDC.qcow2" (
 	echo Using path: iPod.Clickwheel.Games.Preservation.Project.utm/iPod Clickwheel Games Preservation Project.utm/Data/A973B7BF-F17A-44C5-A6D7-B6D819938FDC.qcow2
