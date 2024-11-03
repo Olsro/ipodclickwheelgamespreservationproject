@@ -61,7 +61,7 @@ I don't know if save files are unique to your device or if you can transfer your
 It looks like your computer is an ARM64 one or a very old Intel/AMD computer, so you should use ```slow_start_qemu.sh``` instead to start the virtual machine.
 
 ### Some games are rebooting/crashing my iPod at launch, what can I do ?
-This happens when you have too much content (music) on your iPod. The music is eating too much RAM, so the game can't launch thus crashing completely your iPod at launch. This happens on my iPod Video with 30000 tracks when I launch Phase just after syncing on iTunes. But after a reboot, the game is booting successfully, until the next time I will sync the iPod again.
+This happens when you have too much content (music) on your iPod. The music is eating too much of your precious RAM, so the game can't launch thus crashing completely your iPod at launch. This happens on my iPod Video with 30000 tracks when I launch Phase just after syncing on iTunes. But after a reboot, the game is booting successfully, until the next time I will sync the iPod again.
 
 On my iPod Classic 7th gen that also have 30000 tracks, the game "Lode Runner" completely reboot the iPod each time I launch it. It seems like this game in particular is more RAM heavy than any others. There's no solution, excepted removing music from your iPod to free up some precious bytes of RAM. For some reason, my iPod Video can launch Lode Runner just fine with the same amount of track, but the iPod Videos always uses liter games binaries to accomodate to its less horse-power.
 
