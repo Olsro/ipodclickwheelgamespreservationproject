@@ -1,5 +1,5 @@
 # iPod Clickwheel Games Preservation Project
-44/56 clickwheel games preserved for the moment and playable right now on your own pod !
+47/56 clickwheel games preserved for the moment and playable right now on your own pod !
 
 ## Introduction and context
 The virtual machine is based on a community-trusted very lite version of Windows 10 LTSC 2019, so it can boot as fast as possible and be generally reasonably fast even without hardware virtualization enabled (ARM64 macs have to emulate x64 code). That version of Windows 10 is still modern enough about SSL and other components to use the required iTunes version and to connect to Apple servers without unreliable workarounds so I can auth the games on it.
@@ -59,6 +59,11 @@ I don't know if save files are unique to your device or if you can transfer your
 
 ### [Linux] The script "start_qemu.sh" does not start on my machine, what can I do ?
 It looks like your computer is an ARM64 one or a very old Intel/AMD computer, so you should use ```slow_start_qemu.sh``` instead to start the virtual machine.
+
+### Some games are rebooting/crashing my iPod at launch, what can I do ?
+This happens when you have too much content (music) on your iPod. The music is eating too much RAM, so the game can't launch thus crashing completely your iPod at launch. This happens on my iPod Video with 30000 tracks when I launch Phase just after syncing on iTunes. But after a reboot, the game is booting successfully, until the next time I will sync the iPod again.
+
+On my iPod Classic 7th gen that also have 30000 tracks, the game "Lode Runner" completely reboot the iPod each time I launch it. It seems like this game in particular is more RAM heavy than any others. There's no solution, excepted removing music from your iPod to free up some precious bytes of RAM. For some reason, my iPod Video can launch Lode Runner just fine with the same amount of track, but the iPod Videos always uses liter games binaries to accomodate to its less horse-power.
 
 ## How to use
 ### Requirements
@@ -219,7 +224,7 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | CSI Miami                              | ✅ | 22014 | Gameloft | Simulation | 2008-09 |
 | Cubis 2                                | ✅ (v1.1) | 99999 (v1.1 is 13100) | FreshGames | Puzzle & Trivia | 2006-09-12 |
 | iQuiz (NOT THE PRE-INSTALLED VERSION)  | ✅ 📹 | 11002 | Apple Inc. | Puzzle & Trivia | 2007-04 |
-| Lode Runner                            | ❌ | 20002 | Hudson Software Company, Limited | Action | 2008-12 |
+| Lode Runner                            | ✅ | 20002 | Hudson Software Company, Limited | Action | 2008-12 |
 | LOST                                   | ✅ 📹 | 1B200 | Gameloft | Role-Playing | 2007-05 |
 | Mahjong                                | ✅ (v1.0 📹 + v1.1) | 77777 (v1.1 is 77770) | Electronic Arts | Cards, Casino, & Board | 2008-04-22 |
 | Mini Golf                              | ✅ (v1.1) | 88888 (v1.1 is 88908) | Electronic Arts | Sports | 2006-09-12 |
@@ -245,9 +250,9 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | Song Summoner: The Unsung Heroes       | ✅ | 24000 | Square Enix | Role-Playing | 2008-07-08 |
 | Sonic the Hedgehog                     | ✅ | 18000 | Sega of America | Action | 2007-12-18 |
 | Spore Origins                          | ✅ | 15010 | Electronic Arts | Simulation | 2008-08-25 |
-| Star Trigon                            | ❌ | 14006 | Namco Networks America | Action | 2008-09 |
+| Star Trigon                            | ✅ | 14006 | Namco Networks America | Action | 2008-09 |
 | Sudoku                                 | 🟨 (v1.0 📹) | 50513 (v1.1 is 50533) | Electronic Arts | Puzzle & Trivia | 2006-12-19 |
-| Tamagotchi 'Round the World            | ❌ | 14008 | NAMCO BANDAI Games America | Kids & Learning | 2008-11 |
+| Tamagotchi 'Round the World            | ✅ | 14008 | NAMCO BANDAI Games America | Kids & Learning | 2008-11 |
 | Tetris                                 | ✅ (v1.0 📹 + v1.2) | 66666 (v1.2 is 66686) | Electronic Arts | Puzzle & Trivia | 2006-09-12 |
 | Texas Hold'em                          | ✅ (v1.0 📹 + v1.1) | 33333 (v1.1 is 33353) | Apple Inc. | Cards, Casino, & Board | 2006-09-12 |
 | The Sims Bowling                       | ✅ (v1.1) | 1500C (v1.1 is 15032) | Electronic Arts | Sports | 2007-07-17 |

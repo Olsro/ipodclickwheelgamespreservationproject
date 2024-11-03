@@ -42,3 +42,8 @@
 - Added game: Scrabble
 - Now iTunes will launch automatically on startup
 - The identity of the system installation is now spoofed automatically on startup, which allows the virtual hard drive to be launched on other virtual machine environment (like VMWare) or using direct CPU passthrough on QEmu (which allows the VM to run with older CPUs on KVM). The games remains authed on iTunes.
+
+## Version 10 (2024-11-02)
+- Added game: Lode Runner
+- Added game: Star Trigon
+- Added game: Tamagotchi 'Round the World
