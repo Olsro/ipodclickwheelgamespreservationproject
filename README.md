@@ -65,6 +65,9 @@ This happens when you have too much content (music) on your iPod. The music is e
 
 On my iPod Classic 7th gen that also have 30000 tracks, the game "Lode Runner" completely reboot the iPod each time I launch it. It seems like this game in particular is more RAM heavy than any others. There's no solution, excepted removing music from your iPod to free up some precious bytes of RAM. For some reason, my iPod Video can launch Lode Runner just fine with the same amount of track, but the iPod Videos always uses liter games binaries to accomodate to its less horse-power.
 
+### Some games can't run with error "This game cannot be played"
+You've not synced all games at least once with iTunes on the virtual machine, which lead to missing account decryption keys. Try again.
+
 ## How to use
 ### Requirements
 #### Macs
