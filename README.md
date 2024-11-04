@@ -181,6 +181,8 @@ So you need to sync your music using a version under 11. 10.7 or 9.2.1 are my re
 
 Don't ever attempt to create manually that playlist. It will not work, you will just lose your precious time. It should be created automatically (it looks like the auto-generated playlist has some kind of special attribute that will make it recognized by the game even if it visually look like any other normal playlist).
 
+If you need to sync your music manually (rather than automatically) and want to sync correctly a Phase playlist by drag and dropping individual songs, your need to **use an even older iTunes** version (< 9) for this to work correctly. For this case only, iTunes 8.2.1.6 is my recommended. Be aware that iTunes 8.2.1.6 does **NOT** support syncing the iPod Classic 7th gen and the iPod Nano 5th gen.
+
 To download iTunes versions on old Mac versions (like Snow Leopard), use Pacifist and install with Pacifist the pkg inside the dmg. Pacifist is downloadable from here: https://www.charlessoft.com/ or here: https://www.charlessoft.com/pacifist_olderversions.html . Doing it like this is much easier compared to a manual install.
 
 Old iTunes versions are downloadable from here: https://theapplewiki.com/wiki/ITunes
