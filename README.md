@@ -41,7 +41,7 @@ The simplest option for you if to create a Linux live CD/USB then boot on it to 
 A Mac is totally able to sync a Windows formatted iPod to add music and manage stuff. A Windows formatted (restored) iPod is compatible everywhere, compared to a Mac formatted iPod which cannot be synced on Windows until it is formatted. Formatting your iPod on Windows also allow you to install cool things like Rockbox in the future if you ever want to.
 
 ### How to update the Virtual Machine to a newer version ?
-Remove the .utm file and all the compressed .7z parts which were used to extract it. All .7z files must be downloaded again. Make sure your computer doesn't rename the downloaded files to something like "filename(1)" since the files were already downloaded before. Rename the downloaded files accordingly if necessary.
+Remove the .utm file (which appears as a folder on Linux/Windows) and all the compressed .7z parts which were used to extract it. All .7z files must be downloaded again. Make sure your computer doesn't rename the downloaded files to something like "filename(1)" since the files were already downloaded before. Rename the downloaded files accordingly if necessary.
 
 I also recommend to remove all of the games and re-sync everything back to avoid strange authing bugs with games.
 
@@ -139,7 +139,7 @@ You need to extract "iPod Clickwheel Games Preservation Project.utm.7z.001" whic
 8) You can USB passthrough your iPod to the Virtual Machine by clicking on the "Adjustable wrench" icon that is located near the bottom of the left panel to redirect your iPod to the Virtual Machine.
 	![Alt text](images/linux/virtualmachineusbredir.png?raw=true "Virtual Machine USB Passthrough")
 #### On Windows
-1) Copy the .utm file on your workplace folder, because it will be needed by the script ```win64-convert-hdd-to-vmware.bat```.
+1) Copy the .utm folder on your workplace folder, because it will be needed by the script ```win64-convert-hdd-to-vmware.bat```.
 2) Run the script "win64-convert-hdd-to-vmware.bat" to convert the Qemu virtual hard drive into a VMWare compatible virtual hard drive. This script should take a while. If the popup window closes instantly, double check that the ```iPod Clickwheel Games Preservation Project.utm/Data/A973B7BF-F17A-44C5-A6D7-B6D819938FDC.qcow2``` path is valid from your workspace folder (the workspace folder is the cloned GitHub repo). This command will need **10GB more disk space** to run correctly, make sure you have enough disk space left.
 3) Install a recent version of VMWare Player: https://softwareupdate.vmware.com/cds/vmw-desktop/player/17.6.1/24319023/windows/core/VMware-player-17.6.1-24319023.exe.tar , un-compress the .tar file using 7zip then install VMWare Player on your computer. This software is required to launch the Virtual Machine.
 4) Double-click on the file ```iPod Clickwheel Games Preservation Project.vmx``` located inside the folder ```win64-vmware``` related to your workspace folder. VMWare Player should now launch. Wait until iTunes appear (iTunes should launch itself automatically on the virtual Windows 10 environment once booted up).
