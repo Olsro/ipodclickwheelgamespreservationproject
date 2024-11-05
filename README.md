@@ -71,6 +71,8 @@ You've not synced all games at least once with iTunes on the virtual machine, wh
 ### A popup window asks me to transfer the purchases at each sync on my normal computer, how to avoid it ?
 You can import all the .ipg games from the archive ```iTunes Games Files.7z``` into iTunes to avoid this popup each time you sync your iPod. You can download this archive from here: https://github.com/Olsro/ipodclickwheelgamespreservationproject/releases
 
+Importing the games into your regular iTunes version will not all you to transfer the games from your computer to your iPod. Doing this allows only to avoid the annoying popup.
+
 ## How to use
 ### Requirements
 #### Macs
