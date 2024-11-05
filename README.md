@@ -328,3 +328,16 @@ Feel free to support the game companies who've made iPod Clickwheel Games by buy
 
 # Support my preservation efforts
 You can tip me some dollars on Patreon, thank you very much: https://www.patreon.com/Olsro
+
+# They talk about this preservation project
+https://arstechnica.com/gaming/2024/11/ipod-fans-evade-apples-drm-to-preserve-54-lost-clickwheel-era-games/
+
+https://www.macstories.net/linked/ipod-fans-are-trying-to-preserve-lost-click-wheel-games/
+
+https://appleinsider.com/articles/24/11/02/a-new-project-is-trying-to-preserve-click-wheel-ipod-games
+
+https://www.techradar.com/audio/remember-ipod-clickwheel-games-this-new-project-is-racing-to-save-them-from-extinction
+
+https://hackaday.com/2024/11/04/ipod-clickwheel-games-preservation-project/
+
+https://boingboing.net/2024/11/04/fans-save-ipod-clickwheel-games-for-posterity.html
