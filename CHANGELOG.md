@@ -47,3 +47,14 @@
 - Added game: Lode Runner
 - Added game: Star Trigon
 - Added game: Tamagotchi 'Round the World
+
+## Version 11 (2024-11-05)
+- If the VM gets de-authed during runtime for any reason, simply rebooting it will force re-authing all the games on iTunes using a local backup of the decryption keys
+- Added game: Bubble Bash
+- Added game: Chess & Backgammon Classics
+- Added game: Naval Battle
+- Added game: Peggle (v1.1) replacing Peggle (v1.0)
+- Added game: Pirates of the Caribbean: Aegir's Fire
+- Added game: Sudoku (v1.1) replacing Sudoku (v1.0)
+- Added game: Tetris (v1.2) replacing Tetris (v1.1)
+- Added game: Trivial Pursuit
