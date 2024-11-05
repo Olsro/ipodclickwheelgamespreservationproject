@@ -334,10 +334,10 @@ https://arstechnica.com/gaming/2024/11/ipod-fans-evade-apples-drm-to-preserve-54
 
 https://www.macstories.net/linked/ipod-fans-are-trying-to-preserve-lost-click-wheel-games/
 
-https://appleinsider.com/articles/24/11/02/a-new-project-is-trying-to-preserve-click-wheel-ipod-games
-
 https://www.techradar.com/audio/remember-ipod-clickwheel-games-this-new-project-is-racing-to-save-them-from-extinction
 
 https://hackaday.com/2024/11/04/ipod-clickwheel-games-preservation-project/
 
 https://boingboing.net/2024/11/04/fans-save-ipod-clickwheel-games-for-posterity.html
+
+https://appleinsider.com/articles/24/11/02/a-new-project-is-trying-to-preserve-click-wheel-ipod-games (there is a fact error on this article: Quix did not co-founded this project)
