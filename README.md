@@ -73,6 +73,9 @@ You can import all the .ipg games from the archive ```iTunes Games Files.7z``` i
 
 Importing the games into your regular iTunes version will not all you to transfer the games from your computer to your iPod. Doing this allows only to avoid the annoying popup.
 
+### Why some games shows empty/corrupted texts ?
+It can be because of a missing translation for the current language of your iPod, try to change the language to english then retry.
+
 ## How to use
 ### Requirements
 #### Macs
