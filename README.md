@@ -76,6 +76,9 @@ Importing the games into your regular iTunes version will not all you to transfe
 ### Why some games shows empty/corrupted texts ?
 It can be because of a missing translation for the current language of your iPod, try to change the language to english then retry.
 
+### Will this remove any of my pre-installed games ? (Klondike, Vortex, Maze...)
+No, there's no risk.
+
 ## How to use
 ### Requirements
 #### Macs
