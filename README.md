@@ -1,5 +1,5 @@
 # iPod Clickwheel Games Preservation Project
-52/56 clickwheel games preserved for the moment and playable right now on your own pod !
+54/56 clickwheel games preserved for the moment and playable right now on your own pod !
 
 ## Introduction and context
 The virtual machine is based on a community-trusted very lite version of Windows 10 LTSC 2019, so it can boot as fast as possible and be generally reasonably fast even without hardware virtualization enabled (ARM64 macs have to emulate x64 code). That version of Windows 10 is still modern enough about SSL and other components to use the required iTunes version and to connect to Apple servers without unreliable workarounds so I can auth the games on it.
@@ -232,7 +232,7 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | Bomberman                              | ✅ | 20000 | Hudson Software Company, Limited | Action | 2007-12-18 |
 | Brain Challenge                        | ✅ | 21000 | Gameloft S.A. | Puzzle & Trivia | 2007-09-05 |
 | Bubble Bash                            | ✅ | 21008 | Gameloft | Puzzle & Trivia | 2008-02-25 |
-| Cake Mania 3                           | ❌ | 25002 | Sandlot Games | Action | 2009-02-04 |
+| Cake Mania 3                           | ✅ | 25002 | Sandlot Games | Action | 2009-02-04 |
 | Chalkboard Sports Baseball             | ✅ | 23000 | D2C Games | Sports | 2008-08 |
 | Chess & Backgammon Classics            | ✅ | 21002 | Gameloft | Cards, Casino, & Board | 2008-02-04 |
 | Chinese Checkers                       | ✅ | 11802 | Apple Inc. | Cards, Casino, & Board | 2008-12 |
@@ -267,7 +267,7 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | Sonic the Hedgehog                     | ✅ | 18000 | Sega of America | Action | 2007-12-18 |
 | Spore Origins                          | ✅ | 15010 | Electronic Arts | Simulation | 2008-08-25 |
 | Star Trigon                            | ✅ | 14006 | Namco Networks America | Action | 2008-09 |
-| Sudoku                                 | ✅ (v1.0 📹 + v1.1) | 50513 (v1.1 is 50533) | Electronic Arts | Puzzle & Trivia | 2006-12-19 |
+| Sudoku                                 | 🟨 (v1.0 📹 + v1.1) | 50513 (v1.2 is 50533) | Electronic Arts | Puzzle & Trivia | 2006-12-19 |
 | Tamagotchi 'Round the World            | ✅ | 14008 | NAMCO BANDAI Games America | Kids & Learning | 2008-11 |
 | Tetris                                 | ✅ (v1.0 📹 + v1.1 + v1.2) | 66666 (v1.2 is 66686) | Electronic Arts | Puzzle & Trivia | 2006-09-12 |
 | Texas Hold'em                          | ✅ (v1.0 📹 + v1.1) | 33333 (v1.1 is 33353) | Apple Inc. | Cards, Casino, & Board | 2006-09-12 |
@@ -279,7 +279,7 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | UNO                                    | ✅ | 22012 | Gameloft | Cards, Casino, & Board | 2008-07 |
 | Vortex (NOT THE PRE-INSTALLED VERSION) | ✅ 📹 | 12345 | Apple Inc. | Action | 2006-09-12 |
 | Vortex Demo                            | ✅ 📹 | 12346 | Apple Inc. | Action | 2006-09-12 |
-| Wonder Blocks                          | ❌ | 22022 | Gameloft | Puzzle | 2008-12 |
+| Wonder Blocks                          | ✅ | 22022 | Gameloft | Puzzle | 2008-12 |
 | Yahtzee                                | ✅ | 15014 | Electronic Arts | Cards, Casino, & Board Games | 2008-02-11 |
 | Zuma                                   | ✅ (v1.0 📹 + v1.1) | 44444 (v1.1 is 12102) | PopCap Games | Action | 2006-09-12 |
 

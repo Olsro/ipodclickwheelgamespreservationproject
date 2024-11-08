@@ -58,3 +58,7 @@
 - Added game: Sudoku (v1.1) replacing Sudoku (v1.0)
 - Added game: Tetris (v1.2) replacing Tetris (v1.1)
 - Added game: Trivial Pursuit
+
+# Version 12 (2024-11-08)
+- Added game: Cake Mania 3
+- Added game: Wonder Blocks
