@@ -310,6 +310,8 @@ On the iPod Video, you can theorically install and play all games that Apple mad
 
 Some games also run very well/good enough. Like Vortex, iQuiz or Monopoly, and others.
 
+EDIT 2024-11-12: I had 30000 music tracks synced with iTunes on that iPod Video 5.5G (64MB of RAM). I tried again to play games and the games launch now much faster and are overall smoother now that my iPod only has 1000 tracks and some videos. Bejeweled is now very smooth. So, consider that the amount of content/metadata can have a terrible impact on some games using these old iPods.
+
 # Buy the games and support games developers
 Unfortunately, all of those iPod Clickwheel Games were all delisted from the iTunes Store in October 2011 and there's no other way to buy any new copy of those games which is why this project even exists publicly as the only mean to play any of them for the future generations of gamers and also for purchasers of those games who lost their original .ipg file linked to their account. It is impossible to purchase any of those anymore; all that games are considered abandonware and some of them even belongs to defunct companies listed below.
 
