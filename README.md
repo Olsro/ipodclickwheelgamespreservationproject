@@ -337,6 +337,10 @@ You can tip me some dollars on Patreon, thank you very much: https://www.patreon
 # They talk about this preservation project
 https://arstechnica.com/gaming/2024/11/ipod-fans-evade-apples-drm-to-preserve-54-lost-clickwheel-era-games/
 
+https://www.nightwater.email/ipod-games/
+
+https://www.youtube.com/watch?v=LHHHeyaIQf4
+
 https://www.igen.fr/ipod/2024/11/les-jeux-ipod-molettes-preserves-mais-pas-encore-emules-comment-jouer-sonic-tetris-ou-les-sims-146803
 
 https://www.macstories.net/linked/ipod-fans-are-trying-to-preserve-lost-click-wheel-games/
@@ -348,3 +352,11 @@ https://hackaday.com/2024/11/04/ipod-clickwheel-games-preservation-project/
 https://boingboing.net/2024/11/04/fans-save-ipod-clickwheel-games-for-posterity.html
 
 https://appleinsider.com/articles/24/11/02/a-new-project-is-trying-to-preserve-click-wheel-ipod-games (there is a fact error on this article: Quix did not co-founded this project)
+
+
+# Video guides
+RazorStoJ made awesome video guides to help you installing the games if you don't like textual guides :)
+
+Windows: https://www.youtube.com/watch?v=e_2IGH7jjpM
+
+Linux: https://www.youtube.com/watch?v=Xnnf3neznIQ
