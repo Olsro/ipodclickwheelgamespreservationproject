@@ -24,9 +24,22 @@ After doing the whole procedure, you may backup completely the hidden folder "iP
 ### Can I add the games on a Mac formatted iPod ?
 Your iPod need to be Windows formatted because the Virtual Machine is a Windows one, thus cannot sync any Mac pod.
 
-If you don't have any Windows machine to do it, I created a specific Virtual Machine so you can format (restore) your iPod from there without having to find a real Windows machine to do it, check this project and its instructions: https://github.com/Olsro/ipodmanagementonwindows
+It is possible to convert (re-format) your Mac-formatted iPod into a Windows-formatted iPod directly from your Mac by using the app ```Disk Utility```. Be aware though that you will **lose all data on the iPod**, so be prepared about that.
 
-The Virtual Machine "iPod Management on Windows" (https://github.com/Olsro/ipodmanagementonwindows) is useful **only to format** your iPod to Windows, you cannot install the games using it and you need to also download the virtual machine from this GitHub repo which is offline and contains the games to transfer.
+#### If you are using a modern version of Disk Utility (for example in MacOS Sonoma):
+If you hit ```Show All Devices``` in the ```View menu```, you will be able to format the entire iPod, not just the volume within it. Hit ```Erase``` and select on the whole iPod with format: ```MS-DOS (FAT32)``` and scheme: ```Master Boot Record (MBR)```.
+
+#### If you are using an old version of Disk Utility (like the one from Snow Leopard):
+1) Click on the device of the iPod (**not** the volume, the device containing the volume)
+2) Click on the tab ```Partition```
+3) On the drop-down ```Partition Layout```, select ```1 partition```
+4) Then you can now click on the ```Options``` button to select ```Master Boot Record (MBR)```
+5) Now you can click on the ```Apply``` button, then wait a bit until the end of the formatting process.
+
+#### After formatting with Disk Utility
+Just disconnect your iPod and let it rebuild its caches. After a few minutes, it will be functional and boot successfully as a Windows-formatted iPod, so now you can connect it to your mac again in order to set it up normally through iTunes.
+
+Once you've done the initial configuration, you can now connect your iPod to the virtual machine to transfer the games, congratulations !
 
 ### Can I transfer all games at once ?
 Yes ! "vibvian" from the iPod Community found that he could play all games by swapping some files. I then did more investigation and documented properly the exploit here so anyone can understand it easily. It appears that iTunes is adding all the keys from one account when only one game of the account is transfered, but is too dumb to remove the keys of removed games so the exploit is just to sync one game from each account (in multiple syncs if necessary, 5 accounts per 5 accounts maximum) then transfer all the games manually, and all games are playable this way.
