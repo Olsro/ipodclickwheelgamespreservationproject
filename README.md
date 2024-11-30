@@ -189,7 +189,7 @@ It is recommended to keep this virtual machine permanently disconnected from the
 ### 7) Backuping the keys file
 It is strongly recommended that you copy the file ```IC-Info.sidb``` located inside the hidden folder ```iPod_Control/iTunes``` to a place that you will remember, so if iTunes will ever remove it during a synchronization, you will be able to restore it to keep access to all the games in the future.
 
-iTunes 10.7 is known to try to remove the ```IC-Info.sidb``` file each time you sync your iPod.
+iTunes 10.7 is known to try to remove the ```IC-Info.sidb``` file each time you sync your iPod. It appears that locking the ```IC-Info.sidb``` prevents iTunes to delete it on each sync, so **lock** this file to sync your iPod without fearing losing the decryption keys of the games.
 
 ### 8) Disconnect your iPod and enjoy the games
 Games should now all launch just fine. Congratulations, you did it !
