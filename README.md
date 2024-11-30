@@ -36,6 +36,8 @@ You should backup and try to lock the file ```IC-Info.sidb``` located inside the
 
 It looks like the ```IC-Info.sidb``` also contains the keys related to protected videos (and maybe musics too ?) so it is **crucial to sync all the protected content you own** before syncing the games so the keys from your account will be added to your iPod before adding the keys of accounts who authed the games on the Virtual Machine.
 
+iTunes 10.7 is known to try to remove the ```IC-Info.sidb``` file each time you sync your iPod.
+
 ### My Mac is too old to run UTM
 The simplest option for you if to create a Linux live CD/USB then boot on it to be able to use the simple Linux instructions that I provide in this documentation. You can get Ubuntu from here https://ubuntu.com/download/desktop and burn it into a USB stick by using Balena Etcher https://etcher.balena.io/, good luck !
 
@@ -184,7 +186,12 @@ On your real computer, never try to sync the games or those will be all erased. 
 
 It is recommended to keep this virtual machine permanently disconnected from the Internet since the lite Windows 10 LTSC 2019 on it is not fully updated and also because iTunes may do probably some random checks with Internet that can potentially de-auth the games over time or for unknown reasons.
 
-### 7) Disconnect your iPod and enjoy the games
+### 7) Backuping the keys file
+It is strongly recommended that you copy the file ```IC-Info.sidb``` located inside the hidden folder ```iPod_Control/iTunes``` to a place that you will remember, so if iTunes will ever remove it during a synchronization, you will be able to restore it to keep access to all the games in the future.
+
+iTunes 10.7 is known to try to remove the ```IC-Info.sidb``` file each time you sync your iPod.
+
+### 8) Disconnect your iPod and enjoy the games
 Games should now all launch just fine. Congratulations, you did it !
 
 ### Extra Step: Playing Phase with custom music
