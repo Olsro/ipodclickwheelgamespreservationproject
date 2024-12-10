@@ -364,6 +364,8 @@ https://arstechnica.com/gaming/2024/11/ipod-fans-evade-apples-drm-to-preserve-54
 
 https://www.nightwater.email/ipod-games/
 
+https://www.reviews.org/au/technology/ipod-preservation/
+
 https://www.youtube.com/watch?v=LHHHeyaIQf4
 
 https://www.igen.fr/ipod/2024/11/les-jeux-ipod-molettes-preserves-mais-pas-encore-emules-comment-jouer-sonic-tetris-ou-les-sims-146803
