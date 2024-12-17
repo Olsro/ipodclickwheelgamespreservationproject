@@ -1,6 +1,8 @@
 # iPod Clickwheel Games Preservation Project
 54/56 clickwheel games preserved for the moment and playable right now on your own pod !
 
+![Alt text](images/banner.jpeg?raw=true "Banner")
+
 ## Introduction and context
 The virtual machine is based on a community-trusted very lite version of Windows 10 LTSC 2019, so it can boot as fast as possible and be generally reasonably fast even without hardware virtualization enabled (ARM64 macs have to emulate x64 code). That version of Windows 10 is still modern enough about SSL and other components to use the required iTunes version and to connect to Apple servers without unreliable workarounds so I can auth the games on it.
 
@@ -236,6 +238,8 @@ https://old.reddit.com/r/ipod/comments/1fydso6/preservation_of_ipod_clickwheel_g
 
 This project could not be possible without all of the contributors who authed their owned games on this virtual machine !
 
+The banner and the image showing all games were both made by the owner of the YouTube Channel: Nerd, Nostalgia & Tech (https://www.youtube.com/@djcoltunez/videos)
+
 ## Contact
 https://www.patreon.com/Olsro
 
@@ -387,3 +391,5 @@ RazorStoJ made awesome video guides to help you installing the games if you don'
 Windows: https://www.youtube.com/watch?v=e_2IGH7jjpM
 
 Linux: https://www.youtube.com/watch?v=Xnnf3neznIQ
+
+![Alt text](images/allgames.jpeg?raw=true "All games")
