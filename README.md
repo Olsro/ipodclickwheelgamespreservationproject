@@ -394,4 +394,6 @@ Windows: https://www.youtube.com/watch?v=e_2IGH7jjpM
 
 Linux: https://www.youtube.com/watch?v=Xnnf3neznIQ
 
+MacOS: https://youtu.be/kRho2WJXFpc
+
 ![Alt text](images/allgames.jpeg?raw=true "All games")
