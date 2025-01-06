@@ -79,6 +79,11 @@ I don't know if save files are unique to your device or if you can transfer your
 ### [Linux] The script "start_qemu.sh" does not start on my machine, what can I do ?
 It looks like your computer is an ARM64 one or a very old Intel/AMD computer, so you should use ```slow_start_qemu.sh``` instead to start the virtual machine.
 
+### [Mac] My iPod can't connect to the Virtual Machine, what can I do ?
+Some users reported that configuring the Virtual Machine to use USB2 helped to get a stable connection with the device.
+
+![Alt text](images/mac/utm-usb2.png?raw=true "USB2 with UTM")
+
 ### Some games are rebooting/crashing my iPod at launch, what can I do ?
 This happens when you have too much content (music) on your iPod. The music is eating too much of your precious RAM, so the game can't launch thus crashing completely your iPod at launch. This happens on my iPod Video with 30000 tracks when I launch Phase just after syncing on iTunes. But after a reboot, the game is booting successfully, until the next time I will sync the iPod again.
 
