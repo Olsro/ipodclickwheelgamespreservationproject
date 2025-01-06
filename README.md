@@ -76,10 +76,13 @@ You should backups those 2 hidden folders: ```iPod_Control/GameData_RW``` and ``
 
 I don't know if save files are unique to your device or if you can transfer your saves to any other iPod. But if it is on the same iPod, restoring those folders after re-installing the games should work to get your save data back.
 
-### [Linux] The script "start_qemu.sh" does not start on my machine, what can I do ?
+### [Windows only] Error while powering on: This host supports AMD-V, but AMD-V is disabled
+Fix guide: [Click here](win-fix-error-while-powering-on-amd-v.md)
+
+### [Linux only] The script "start_qemu.sh" does not start on my machine, what can I do ?
 It looks like your computer is an ARM64 one or a very old Intel/AMD computer, so you should use ```slow_start_qemu.sh``` instead to start the virtual machine.
 
-### [Mac] My iPod can't connect to the Virtual Machine, what can I do ?
+### [Mac only] My iPod can't connect to the Virtual Machine, what can I do ?
 Some users reported that configuring the Virtual Machine to use USB2 helped to get a stable connection with the device.
 
 ![Alt text](images/mac/utm-usb2.png?raw=true "USB2 with UTM")
