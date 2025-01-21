@@ -397,9 +397,12 @@ https://appleinsider.com/articles/24/11/02/a-new-project-is-trying-to-preserve-c
 
 # Video guides
 RazorStoJ made awesome video guides to help you installing the games if you don't like textual guides :)
+iPod for EvEr made the MacOS guide.
 
 Windows: https://www.youtube.com/watch?v=e_2IGH7jjpM
 
 Linux: https://www.youtube.com/watch?v=Xnnf3neznIQ
+
+MacOS: https://www.youtube.com/watch?v=iTb1Fb6UTqI
 
 ![Alt text](images/allgames.jpeg?raw=true "All games")
