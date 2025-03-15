@@ -26,7 +26,18 @@ After doing the whole procedure, you may backup completely the hidden folder "iP
 ### Can I add the games on a Mac formatted iPod ?
 Your iPod need to be Windows formatted because the Virtual Machine is a Windows one, thus cannot sync any Mac pod.
 
-It is possible to convert (re-format) your Mac-formatted iPod into a Windows-formatted iPod directly from your Mac by using the app ```Disk Utility```. Be aware though that you will **lose all data on the iPod**, so be prepared about that.
+1) You should save all your files from the iPod somewhere (make a backup). Your backup must include the hidden folder `iPod_Control`.
+2) Convert your iPod into FAT32 (MBR) using the Disk Utility (see below)
+3) Install all the games and check that you can run them
+4) Backup the ```iPod_Control/iTunes/IC-Info.sidb``` file from your iPod
+5) Convert iPod back to HFS+ (by restoring with iTunes)
+6) Restore files from backup by following these steps:
+	1) Erase all the folders on device before copying your backup
+	2) Copy all the games files into your iPod
+	3) Be sure also to restore the correct ```iPod_Control/iTunes/IC-Info.sidb``` file or games will not launch.
+	4) Now you can eject your iPod: all the content you had should be back there, along with all the games, on your Mac formatted iPod
+
+Mac (HFS+) formatted iPods are reported to have faster copying performance, and are more reliable with mechanical hard drives (because HFS+ is a journaled filesystem which avoids corruption, and have tricks to avoid fragmentation which slow down your drive over time). Though be aware that iPodLinux/Rockbox don't support HFS+, only FAT32 iPods, so keep your iPod formatted to FAT32 if you have interest using these soft-mods.
 
 #### If you are using a modern version of Disk Utility (for example in MacOS Sonoma):
 If you hit ```Show All Devices``` in the ```View menu```, you will be able to format the entire iPod, not just the volume within it. Hit ```Erase``` and select on the whole iPod with format: ```MS-DOS (FAT32)``` and scheme: ```Master Boot Record (MBR)```.
