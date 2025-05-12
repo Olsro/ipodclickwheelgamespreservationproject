@@ -348,20 +348,16 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 # The experience on the iPod Videos 📹 (5G/5.5G)
 On the iPod Video, you can theorically install and play all games that Apple made available since 2006. But in my opinion, this is the less ideal way to get a good experience with clickwheel games. The iPod Video has a very old-gen hardware compared to any other iPod that can run the clickwheel games, which leads to from my observations:
 - Much longer loading times
+- If you have too much music/metadata, games may behave strangely or crash at launch. I had this issue when I had 30 000 songs.
+- The iPod Video is known to start lagging (even in normal menus or in a simple game like Parachute !) as long as you are playing MP3 or AAC music in the background. But I noticed that playing ALAC 44.1 KHz/16 bits (CD quality lossless) while navigating in the menus or playing a game provides a way better experience. Be aware though that storing all your music lossless will eat your disk space and battery much faster compared to AAC.
 - Some games are not exactly the same
 	- For example, the radar photos in Asphalt 4 are generic on the iPod Video while those are generated dynamically on other iPods
-- Games will be much more laggy. Expect heavy frameskipping on some, or even random annoying freezes.
+- Games will be much more laggy. Expect heavy frameskipping on some, or even random annoying freezes. For example:
 	- On my iPod Video, Phase is sometimes freezing slightly which causes unfair gameplay errors when playing it. It is very frustrating for a rythm game to make errors that are outside of your control.
-	- Peggle on the iPod Video feels sluggish while it is very smooth on other iPods
-	- Bejeweled feels almost unplayable on my iPod Video because it is so laggy, even in menus
 	- Crystal Defenders starts to lag heavily when there is a few animated sprites on screen
 	- Asphalt 4 on the iPod Video has a very low framerate. It seems constant and controls are responsive, but framerate is very low.
-	- Mystery Mansion Pinball feels very sluggish
-	- Bomberman controls feels less responsive and the game has some little lags here and there
 
 Some games also run very well/good enough. Like Vortex, iQuiz or Monopoly, and others.
-
-EDIT 2024-11-12: I had 30000 music tracks synced with iTunes on that iPod Video 5.5G (64MB of RAM). I tried again to play games and the games launch now much faster and are overall smoother now that my iPod only has 1000 tracks and some videos. Bejeweled is now very smooth. So, consider that the amount of content/metadata can have a terrible impact on some games using these old iPods.
 
 # Buy the games and support games developers
 Unfortunately, all of those iPod Clickwheel Games were all delisted from the iTunes Store in October 2011 and there's no other way to buy any new copy of those games which is why this project even exists publicly as the only mean to play any of them for the future generations of gamers and also for purchasers of those games who lost their original .ipg file linked to their account. It is impossible to purchase any of those anymore; all that games are considered abandonware and some of them even belongs to defunct companies listed below.
