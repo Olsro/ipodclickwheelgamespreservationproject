@@ -120,6 +120,9 @@ No, there's no risk.
 ### I am getting IO errors on UTM while trying to connect my iPod on the Virtual Machine, what happenned ?
 This issue is very rare and hardware dependent (from my findings and testing). Try to reboot completely your Mac, then retry. You may also try to use another cable. Also, I noticed this problem on one of my iPod Classic modded with a CF Card that does not supports well IDE/ATA specs, so you may try to mod your iPod using another type of flash storage then retry until you get a stable connection. My CF card could not maintain a stable connection with the PC unfortunately, then I changed it to put an iFlash CF/SD Adapter and it worked just fine after that.
 
+### Why do I cannot transfer the games because iTunes (in the virtual machine) says that there is an authorization problem ?
+Looks like you've closed the terminal window while the virtual machine was booting, which prevented the authorization from being done. Please reinstall the virtual machine and don't touch the virtual machine while it is booting until iTunes appears automatically.
+
 ## How to use
 ### Requirements
 #### Macs
