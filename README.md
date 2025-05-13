@@ -9,15 +9,15 @@ The virtual machine is based on a community-trusted very lite version of Windows
 This virtual machine is a fully offline distribution center setup that you can setup at home on your own PC to distribute authed games yourself on your iPod ! This Virtual Machine can also be useful towards any security+archeologist researcher who want to understand how the DRM worked.
 
 ## Games Compatibility
-- iPod Classic 5G, 5.5G, 6G, 6.5G, and 7G. Any iPod Classic that it at least a 5G is basically compatible with this. **You do NOT need to flash any kind of cracked firmware to use this !**
+- iPod Classic 5G, 5.5G, 6G, 6.5G, and 7G. Any iPod Classic that it at least a 5G is basically compatible with this. **You do NOT need to flash any kind of cracked firmware to use this!**
 - iPod Nano 3G or 4G
 - iPod Nano 5G (with black borders because the screen is too large)
 
 ## FAQ
-### Can I sync music/videos/etc with another computer after injecting the games ?
+### Can I sync music/videos/etc with another computer after injecting the games?
 Yes. As long as you don't try to sync the clickwheel games using another iTunes library, those will remain on the iPod.
 
-### Can I still use the 20 cracked games on my iPod Video that has the cracked firmware ?
+### Can I still use the 20 cracked games on my iPod Video that has the cracked firmware?
 It is now completely useless, because now the same games are available and authed here and when possible with a more recent version of the same game (all games from the cracked 20 games archive are v1.0). I have noticed that Zuma v1.1 feels smoother on my iPod Video compared to the historical v1.0 cracked one.
 
 ### The Virtual Machine is so slow and I am too lazy to keep it around
@@ -39,10 +39,10 @@ Your iPod need to be Windows formatted because the Virtual Machine is a Windows 
 
 Mac (HFS+) formatted iPods are reported to have faster copying performance, and are more reliable with mechanical hard drives (because HFS+ is a journaled filesystem which avoids corruption, and have tricks to avoid fragmentation which slow down your drive over time). Though be aware that iPodLinux/Rockbox don't support HFS+, only FAT32 iPods, so keep your iPod formatted to FAT32 if you have interest using these soft-mods.
 
-#### If you are using a modern version of Disk Utility (for example in MacOS Sonoma):
+#### If you are using a modern version of Disk Utility (OS X El Capitan or later):
 If you hit ```Show All Devices``` in the ```View menu```, you will be able to format the entire iPod, not just the volume within it. Hit ```Erase``` and select on the whole iPod with format: ```MS-DOS (FAT32)``` and scheme: ```Master Boot Record (MBR)```.
 
-#### If you are using an old version of Disk Utility (like the one from Snow Leopard):
+#### If you are using an old version of Disk Utility (OS X Yosemite or earlier):
 1) Click on the device of the iPod (**not** the volume, the device containing the volume)
 2) Click on the tab ```Partition```
 3) On the drop-down ```Partition Layout```, select ```1 partition```
@@ -54,10 +54,10 @@ Just disconnect your iPod and let it rebuild its caches. After a few minutes, it
 
 Once you've done the initial configuration, you can now connect your iPod to the virtual machine to transfer the games, congratulations !
 
-### Can I transfer all games at once ?
+### Can I transfer all games at once?
 Yes ! "vibvian" from the iPod Community found that he could play all games by swapping some files. I then did more investigation and documented properly the exploit here so anyone can understand it easily. It appears that iTunes is adding all the keys from one account when only one game of the account is transfered, but is too dumb to remove the keys of removed games so the exploit is just to sync one game from each account (in multiple syncs if necessary, 5 accounts per 5 accounts maximum) then transfer all the games manually, and all games are playable this way.
 
-### For some reason, all the games de-authed on my iPod over time or after a synchronization. What can I do to prevent this ?
+### For some reason, all the games de-authed on my iPod over time or after a synchronization. What can I do to prevent this?
 You should backup and try to lock the file ```IC-Info.sidb``` located inside the hidden folder ```iPod_Control/iTunes```. This unique file contains the auth data for the games that you've synced. If you remove or alter this file (or if it alters over time for example because of an hard drive corruption), the games won't launch anymore. Also, restoring your iPod changes its unique ID which require you to sync again the games using the virtual machine. The ```IC-Info.sidb``` file is unique to your iPod and its current installation. You can't copy it to another iPod to auth the games, it will not work.
 
 It looks like the ```IC-Info.sidb``` also contains the keys related to protected videos (and maybe musics too ?) so it is **crucial to sync all the protected content you own** before syncing the games so the keys from your account will be added to your iPod before adding the keys of accounts who authed the games on the Virtual Machine.
@@ -67,17 +67,17 @@ iTunes 10.7 is known to try to remove the ```IC-Info.sidb``` file each time you 
 ### My Mac is too old to run UTM
 The simplest option for you if to create a Linux live CD/USB then boot on it to be able to use the simple Linux instructions that I provide in this documentation. You can get Ubuntu from here https://ubuntu.com/download/desktop and burn it into a USB stick by using Balena Etcher https://etcher.balena.io/, good luck !
 
-### Can I still sync my content on a Mac after using this Windows Virtual Machine to add games ?
+### Can I still sync my content on a Mac after using this Windows Virtual Machine to add games?
 A Mac is totally able to sync a Windows formatted iPod to add music and manage stuff. A Windows formatted (restored) iPod is compatible everywhere, compared to a Mac formatted iPod which cannot be synced on Windows until it is formatted. Formatting your iPod on Windows also allow you to install cool things like Rockbox in the future if you ever want to.
 
-### How to update the Virtual Machine to a newer version ?
+### How to update the Virtual Machine to a newer version?
 Remove the .utm file (which appears as a folder on Linux/Windows) and all the compressed .7z parts which were used to extract it. All .7z files must be downloaded again. Make sure your computer doesn't rename the downloaded files to something like "filename(1)" since the files were already downloaded before. Rename the downloaded files accordingly if necessary.
 
 I also recommend to remove all of the games and re-sync everything back to avoid strange authing bugs with games.
 
 Don't forget to backup the save files of your games on your iPod if those matters to you: https://github.com/Olsro/ipodclickwheelgamespreservationproject?tab=readme-ov-file#how-can-i-backup-the-save-files-
 
-### How can I make the UTM virtual machine run faster on my Mac ?
+### How can I make the UTM virtual machine run faster on my Mac?
 If your Mac is powerful enough, you can increase the RAM and the amount of emulated cores and tick the box "Force multicore".
 
 ![Alt text](images/mac/utm-multicore.png?raw=true "UTM Multicore")
@@ -142,7 +142,8 @@ Use an ARM64 Linux distro
 ### 1) Enable hidden folders
 This is important for all file operations related to the hidden folder ```iPod_Control```.
 
-MacOS: https://www.graphpad.com/support/faq/how-to-view-files-on-your-mac-that-are-normally-invisible/
+macOS: https://www.graphpad.com/support/faq/how-to-view-files-on-your-mac-that-are-normally-invisible/
+In more recent versions of macOS you can use the hotkey Command+Shift+. Older versions require running a command in terminal. 
 
 Linux (Ubuntu): You can just use the shortcut "CTRL + H" in the file browser to show all hidden files
 
