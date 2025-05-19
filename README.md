@@ -235,6 +235,8 @@ Games should now all launch just fine. Congratulations, you did it !
 ### Extra Step: Playing Phase with custom music
 Phase is a guitar hero equivalent for the iPod that is better when played with your own music. But if you use any kind of modern iTunes version, it will not work out of the box.
 
+**To avoid problems, I recommend you to launch Phase at least once on the iPod before doing the next steps ! So the game will generate its data.**
+
 On your real computer with the iTunes Library, import Phase.ipg to create the "Phase Music" playlist automatically (the playlist may be named differently depending on your language but it will work the same). You do not need to try to authorize the game on your real computer, just import it and it will be enough.
 
 Any version of iTunes starting iTunes 11 had a regression that Apple never bothered fixing which caused iTunes to not create that very special playlist.
