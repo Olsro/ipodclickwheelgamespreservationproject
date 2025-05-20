@@ -26,16 +26,18 @@ After doing the whole procedure, you may backup completely the hidden folder "iP
 ### Can I add the games on a Mac formatted iPod ?
 Your iPod need to be Windows formatted because the Virtual Machine is a Windows one, thus cannot sync any Mac pod.
 
-1) You should save all your files from the iPod somewhere (make a backup). Your backup must include the hidden folder `iPod_Control`.
-2) Convert your iPod into FAT32 (MBR) using the Disk Utility (see below)
-3) Install all the games and check that you can run them
-4) Backup the ```iPod_Control/iTunes/IC-Info.sidb``` file from your iPod
-5) Convert iPod back to HFS+ (by restoring with iTunes)
-6) Restore files from backup by following these steps:
-	1) Erase all the folders on device before copying your backup
-	2) Copy all the games files into your iPod
-	3) Be sure also to restore the correct ```iPod_Control/iTunes/IC-Info.sidb``` file or games will not launch.
-	4) Now you can eject your iPod: all the content you had should be back there, along with all the games, on your Mac formatted iPod
+You can follow this process if you are an advanced iPod user and if you know what this imply:
+*- If you are not an advanced user, I recommend turning your iPod definitely into a Windows formatted iPod as it's simplier and feels the same*
+*- This process will not work with iPod Videos (5G)*
+*- This process is destructive which means you will need to sync all your content again*
+1) Convert your iPod into FAT32 (MBR) using the Disk Utility (see below)
+2) Install all the games and check that you can run them
+3) In Disk Mode, backup the ```iPod_Control```, ```Calendars```, ```Contacts```, ```Notes```, ```Recordings``` folders from your iPod
+4) Convert iPod back to HFS+ using the Disk Utility (same as below, but choose HFS+/Apple Partition Card rather than FAT32/MBR)
+5) Restore all the folders (```iPod_Control```, ```Calendars```, ```Contacts```, ```Notes```, ```Recordings``` ) to your iPod
+6) Now you can reboot your iPod
+
+Failure to follow precisely these steps will lead to issues. Also, it's known issue that the playlist for the game *Phase* will not work correctly if you restore only the ```.sidb``` licence file so it's important to restore the whole ```iPod_Control``` folder when you convert your Windows pod into a Mac pod, and doing all of this while being in *disk mode* is safer.
 
 Mac (HFS+) formatted iPods are reported to have faster copying performance, and are more reliable with mechanical hard drives (because HFS+ is a journaled filesystem which avoids corruption, and have tricks to avoid fragmentation which slow down your drive over time). Though be aware that iPodLinux/Rockbox don't support HFS+, only FAT32 iPods, so keep your iPod formatted to FAT32 if you have interest using these soft-mods.
 
