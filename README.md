@@ -28,7 +28,7 @@ Your iPod need to be Windows formatted because the Virtual Machine is a Windows 
 
 You can follow this process if you are an advanced iPod user and if you know what this imply:
 *- If you are not an advanced user, I recommend turning your iPod definitely into a Windows formatted iPod as it's simplier and feels the same*
-*- This process will not work with iPod Videos (5G)*
+*- This process will not work with iPod Videos (5G), but you can use simply this virtual machine to reformat it using iTunes by maintaining SHIFT while clicking on the "Restore" button. When asked, select an IPSW firmware file located in a folder called "Restore iPods IPSW" in the desktop.*
 *- This process is destructive which means you will need to sync all your content again*
 1) Convert your iPod into FAT32 (MBR) using the Disk Utility (see below)
 2) Install all the games and check that you can run them
@@ -323,7 +323,7 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | Sonic the Hedgehog                     | ✅ | 18000 | Sega of America | Action | 2007-12-18 |
 | Spore Origins                          | ✅ | 15010 | Electronic Arts | Simulation | 2008-08-25 |
 | Star Trigon                            | ✅ | 14006 | Namco Networks America | Action | 2008-09 |
-| Sudoku                                 | 🟨 (v1.0 📹 + v1.1) | 50513 (v1.2 is 50533) | Electronic Arts | Puzzle & Trivia | 2006-12-19 |
+| Sudoku                                 | ✅ (v1.0 📹 + v1.1 + v1.2) | 50513 (v1.1/v1.2 is 50533) | Electronic Arts | Puzzle & Trivia | 2006-12-19 |
 | Tamagotchi 'Round the World            | ✅ | 14008 | NAMCO BANDAI Games America | Kids & Learning | 2008-11 |
 | Tetris                                 | ✅ (v1.0 📹 + v1.1 + v1.2) | 66666 (v1.2 is 66686) | Electronic Arts | Puzzle & Trivia | 2006-09-12 |
 | Texas Hold'em                          | ✅ (v1.0 📹 + v1.1) | 33333 (v1.1 is 33353) | Apple Inc. | Cards, Casino, & Board | 2006-09-12 |

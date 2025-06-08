@@ -62,3 +62,8 @@
 # Version 12 (2024-11-08)
 - Added game: Cake Mania 3
 - Added game: Wonder Blocks
+
+# Version 13 (2025-06-08)
+- Added game: Sudoku v1.2
+- The dialog to ask changing the password will no longer be prompted during first boot of the virtual machine.
+- Added IPSW restore files in the desktop of the virtual machine to help you restoring your iPod Video directly from the virtual machine (on the virtual iTunes, maintain SHIFT then select the proprer IPSW to start the restore). This way, you won't need a real Windows machine to operate with these models when they are mac formatted.
