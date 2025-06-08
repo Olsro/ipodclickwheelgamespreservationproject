@@ -409,6 +409,7 @@ https://boingboing.net/2024/11/04/fans-save-ipod-clickwheel-games-for-posterity.
 
 https://appleinsider.com/articles/24/11/02/a-new-project-is-trying-to-preserve-click-wheel-ipod-games (there is a fact error on this article: Quix did not co-founded this project)
 
+https://www.youtube.com/watch?v=l1gnyP1cyGo ("untaljefecito" spanish channel talking about the project and the games)
 
 # Video guides
 RazorStoJ made awesome video guides to help you installing the games if you don't like textual guides :)
