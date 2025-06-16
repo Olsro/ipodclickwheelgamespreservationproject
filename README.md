@@ -413,6 +413,8 @@ https://appleinsider.com/articles/24/11/02/a-new-project-is-trying-to-preserve-c
 
 https://www.youtube.com/watch?v=l1gnyP1cyGo ("untaljefecito" spanish channel talking about the project and the games)
 
+https://www.youtube.com/watch?v=iVBDu1VO-es (another spanish video about the project from the youtuber "Idea Visuals Tech")
+
 # Video guides
 RazorStoJ made awesome video guides to help you installing the games if you don't like textual guides :)
 iPod for EvEr made the MacOS guide.
