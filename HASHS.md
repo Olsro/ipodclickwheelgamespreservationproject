@@ -1,4 +1,15 @@
 # Hashs
+## Version 14 (2025-07-08)
+iTunes.Games.Files.7z: bef46dc4f180fe818056e096650f49aa0edb3f80f6fc20c9dd024befed28d1e0
+
+iPod.Games.Files.7z: e7398589ba004cd08681e2e16e538627e16257a0cdcc9dbd4fec27f0acaf07d4
+
+iPod.Clickwheel.Games.Preservation.Project.utm.7z.001: 5716e527d14f658a5b75badab4eb2f11b2b7c32f04edfd5c148d93e321a2e338
+
+iPod.Clickwheel.Games.Preservation.Project.utm.7z.002: 2797efdbc9a951909c460763680720c010539e560be979347286634012bbbada
+
+iPod.Clickwheel.Games.Preservation.Project.utm.7z.003: 05d7ed7fc1d3a2991cb94bb182ffdf6123704cce419dac7014bfae312e201ae2
+
 ## Version 13 (2025-06-08)
 iTunes.Games.Files.7z: f78a34f3f4b261494a675ac22d49744d33918b31444a98b8261ee799d0676552
 
