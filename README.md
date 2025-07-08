@@ -1,7 +1,7 @@
 # iPod Clickwheel Games Preservation Project
-54/56 clickwheel games preserved for the moment and playable right now on your own pod !
+55/56 clickwheel games preserved for the moment and playable right now on your own pod !
 
-**ONLY Real Soccer 2009 and Tiger Woods PGA TOUR are missing on the archive !!!! Contact me if you own any of the missing games to complete the archive !!!!!**
+**ONLY Real Soccer 2009 is missing on the archive !!!! Contact me if you own any of the missing games to complete the archive !!!!!**
 
 ![Alt text](images/banner.jpeg?raw=true "Banner")
 
@@ -332,7 +332,7 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | The Sims Bowling                       | ✅ (v1.1) | 1500C (v1.1 is 15032) | Electronic Arts | Sports | 2007-07-17 |
 | The Sims DJ                            | ✅ | 15036 | Electronic Arts | Simulation | 2008-06-09 |
 | The Sims Pool                          | ✅ (v1.1) | 1500E (v1.1 is 15035) | Electronic Arts | Sports | 2007-07-31 |
-| Tiger Woods PGA TOUR                   | ❌ | 15038 | Electronic Arts | Sports | 2008-12 |
+| Tiger Woods PGA TOUR                   | ✅ | 15038 | Electronic Arts | Sports | 2008-12 |
 | Trivial Pursuit                        | ✅ | 15042 | Electronic Arts | Cards, Casino, & Board | 2008-12 |
 | UNO                                    | ✅ | 22012 | Gameloft | Cards, Casino, & Board | 2008-07 |
 | Vortex (NOT THE PRE-INSTALLED VERSION) | ✅ 📹 | 12345 | Apple Inc. | Action | 2006-09-12 |
