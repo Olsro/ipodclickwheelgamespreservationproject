@@ -228,7 +228,7 @@ On your real computer, never try to sync the games or those will be all erased. 
 
 It is recommended to keep this virtual machine permanently disconnected from the Internet since the lite Windows 10 LTSC 2019 on it is not fully updated and also because iTunes may do probably some random checks with Internet that can potentially de-auth the games over time or for unknown reasons.
 
-### 7) Backuping the keys file
+### 7) Backing up the keys file
 It is strongly recommended that you copy the file ```IC-Info.sidb``` located inside the hidden folder ```iPod_Control/iTunes``` to a place that you will remember, so if iTunes will ever remove it during a synchronization, you will be able to restore it to keep access to all the games in the future.
 
 iTunes 10.7 is known to try to remove the ```IC-Info.sidb``` file each time you sync your iPod. It appears that locking the ```IC-Info.sidb``` prevents iTunes to delete it on each sync, so **lock** this file to sync your iPod without fearing losing the decryption keys of the games.
