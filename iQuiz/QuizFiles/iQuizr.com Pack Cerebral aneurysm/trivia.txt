@@ -1,0 +1,141 @@
+TITLE
+Cerebral aneurysm
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+13
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+cerebral aneurysm: key s/sx
+Worst headache
+Altered LOC
+A and B
+
+3
+
+
+MC
+It identifies the aneurysm
+Cerebral angiogram
+CT scan
+MRI
+
+1
+
+
+MC
+It shows  a shift of intracranial midline  structures, blood in subarachnoid space
+Cerebral angiogram
+Spiral CT angiography
+MRI
+
+2
+
+
+MC
+cerebral aneurysm: key tx
+Aneurysm clipping
+endovascular embolization
+A and B
+
+3
+
+
+MC
+cerebral aneurysm: DRUGS
+anticonvulsant
+CCB, glucocorticoids
+H2 receptor antagonists, Stool softener
+all of the above
+4
+
+
+MC
+cerebral aneurysm: H2 receptor  Antagonists
+cimitidine TAGAMET
+Ranitidine ZANTAC
+Famotidine PEPCID, Nizatidine AXID
+all of the above
+4
+
+
+MC
+cerebral aneurysm: Stool softener
+phenytoin DILANTIN
+docusate sodium COLACE
+Famotidine PEPCID, Nizatidine AXID
+
+2
+
+
+MC
+cerebral aneurysm: what should be adm after aneurysm clipping
+crystalloid solution
+Ranitidine ZANTAC
+Rifampin Rifadin and pYrazinamide
+saline solution
+1
+
+
+MC
+cerebral aneurysm: Monitor
+Neurologic stat
+VS every 1-2 hours initially and then every 4 hrs
+A and B
+
+3
+
+
+MC
+cerebral aneurysm: Definition
+an outpouching of a cerebral artery  that  results from weakness of the middle layer of an artery
+Results for a congenital weakness in the structure of the artery
+A and B
+
+3
+
+
+MC
+cerebral aneurysm: Precaution to prevent aneurysm
+NO stress
+No fluids
+Keep the lights low
+A and C
+4
+
+
+MC
+Drug to maintain systolic BP at 140 to 160 mmHG
+Dopamine Intropin
+Phenylephrine NEO SYNEPHRINE
+A and B
+
+3
+
+
+MC
+Adm to prevent or treat Increased ICP
+diuretics
+antibiotics, antigout
+antibiotics
+
+1
+
+

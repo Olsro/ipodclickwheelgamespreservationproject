@@ -1,0 +1,150 @@
+TITLE
+Science - Chapter 10
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+14
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Which of the following is the MOST active metal?
+Tin
+Copper
+Zinc
+Iron
+3
+
+
+MC
+Which of the following is the MOST active metal?
+Potassium
+Gold
+Aluminium
+Nickel
+1
+
+
+MC
+Which of the following is the LEAST active metal?
+Nickel
+Tin
+Zinc
+Copper
+4
+
+
+MC
+Which of the following describes the process of getting steel from iron ore?
+Ore body - Mine - Roasting - Steel making furnace - Steel
+Ore body - Electrolysis - Mine - Roasting - Steel
+Ore body - Mine - Roasting - Electrolysis - Steel Making furnace – Steel
+Ore body - Mine Roasting - Electrolysis - Steel
+1
+
+
+MC
+Which of the following correctly describes the process of obtaining metals from their ores?
+Ore body - Mine - Electrolysis- Extraction – Metal
+Ore body - Mine - Froth flotation - Extraction - Metal
+Ore body - Mine - Pyrolysis- Extraction - Metal
+Ore body - Mine - Froth flotation - Electrolysis - Extraction - Metal
+2
+
+
+MC
+Which of the following is NOT an alloy?
+Bronze
+Brass
+Iron
+Steel
+3
+
+
+MC
+Heating an ore in a furnace to extract the metal is known as
+Smelting
+Pyrolysis
+Electrolysis
+Plating
+1
+
+
+MC
+Carbon + Oxygen = ---- + Heat Energy; The missing word is;
+Iron
+Carbon Dioxide
+Carbon Monoxide
+Iron Oxide
+3
+
+
+MC
+Iron---- + Carbon----+ Heat Energy = Iron + Carbon----; The missing words inorder are
+Oxide, nothing,  dioxide
+Oxide, dioxide, monoxide
+Oxide, monoxide, nothing
+Oxide, monoxide, dioxide
+4
+
+
+MC
+Which of the following is NOT added during the Roasting stage of Steel Production?
+Hot air
+Scrap Steel
+Limestone
+Charcoal
+2
+
+
+MC
+Which of the following is NOT added at the Steel Making Furnace?
+Limestone
+Pure Oxygen
+Scrap Steel
+Alloying elements
+1
+
+
+MC
+Which of the following metals react MOST EXPLOSIVELY with water?
+Nickel
+Gold
+Alluminium
+Zinc
+3
+
+
+MC
+Which of the following is the LEAST active metal?
+Nickel
+Iron
+Calcium
+Zinc
+1
+
+
+MC
+Which property applies to all metals?
+Melting Point
+Chemical Reactivity
+Tensile Strength
+Ductile
+4
+
+

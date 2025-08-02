@@ -1,0 +1,132 @@
+TITLE
+Iron Def Anemia
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+12
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+s/sx od iron def anemia
+pallor
+sensitivity to cold
+weakness and fatigue
+all of the above
+4
+
+
+MC
+hematology shows decreased
+Hb, HCT, Iron ferritin, reticulocytes
+Red cell indices, transferin
+Saturation
+all of the above
+4
+
+
+MC
+in Iron def anemia, hemosiderin is
+Present
+Normal
+absent
+elevated
+3
+
+
+MC
+in Iron def anemia, iron binding capacity is
+decreased
+Increased
+Normal
+
+2
+
+
+MC
+Diet for iron def anemia
+High in iron, roughage, protein
+Increased fluids
+Avoid coffee and tea
+all of the above
+4
+
+
+MC
+Why do teas and coffees should be avoided?
+Bec they are high in caffeine
+Bec they reduice iron absorption
+
+
+2
+
+
+MC
+Vitamins for Iron Def anemia
+Pyridoxine VIT B6
+Ascorbic acid VIT C
+A and B
+
+3
+
+
+MC
+Ferrous sulfate FEOSOL and iron dextran  DEXFERRUM are what kind of drugs
+Anticoagulant
+analgesics
+antianemics
+
+3
+
+
+MC
+HOw is the iron being administered?
+Injection, deep into the ms
+Using Z track technique
+A and B
+
+3
+
+
+MC
+Z track technique is very useful to avoid
+Subcutaneous irritation
+discoloration form leaking drug
+A and B
+
+3
+
+
+MC
+Nsg interventions for Iron def Anemia
+asses cardio vascular and respi stat
+MOnitor stool, urin and emesisfor occult blood
+Provide mouth, skin and footcare
+all of the above
+4
+
+
+MC
+decreased iron  affects formation of hemoglobina nd RBB whichin turn  decreases the capacity of the blood to transport O2
+False
+True
+Maybe
+
+2
+
+

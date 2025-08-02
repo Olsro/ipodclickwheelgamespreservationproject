@@ -1,0 +1,114 @@
+TITLE
+Damonz Cool Quiz
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+When was the statue bottle of L&P made?
+1990
+2002
+1969
+200003
+3
+
+
+MC
+Who were the fist settlers in paeroa?
+Pasific
+Indians
+maori
+don't know
+3
+
+
+MC
+What is added to the spring water to add flavor?
+apple
+juce
+lime
+lemon
+4
+
+
+MC
+Is L&P made in New Zealand?
+true
+false
+Maby
+don't know
+1
+
+
+MC
+When was the first bottle of L&P made?
+1919
+1907
+2121
+once apon a time
+2
+
+
+MC
+Is Mr Jack Gordon involved in the making of L&P?
+true
+false
+Maby
+don't know
+1
+
+
+MC
+Why is Paeroa 's spring so importent?
+Because it is tasty
+Because it is in a yummy drink
+they like it
+
+2
+
+
+MC
+Where is Paeroa?
+China
+Alaska
+New Zealand
+la la land
+1
+
+
+MC
+What is Paeroa famous for?
+sheep
+l&p
+coke
+the big carrot
+2
+
+
+MC
+How high does the l&p bottle stand?
+8 meters
+100000000 meters
+7 meters
+10 meters
+3
+
+

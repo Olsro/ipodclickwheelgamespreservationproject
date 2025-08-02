@@ -1,0 +1,204 @@
+TITLE
+Popular Music
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+20
+
+LOSE
+7
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Who was not a guitarist for the Red Hot Chili Peppers?
+John Frusciante
+Hillel Slovak
+John Squire
+Dave Navarro
+3
+
+
+MC
+Which of these songs has Velvet Revolver covered?
+Alive - Pearl Jam
+Money - Pink Floyd
+In The Light - Led Zeppelin
+Hot For Teacher - Van Halen
+2
+
+
+MC
+Which musician has played with David Bowie?
+Mark Ronson
+Mick Ronson
+Mike Jones
+Adam Jones
+2
+
+
+MC
+Which band had the fastest selling album of all time in 2006?
+Hear Say
+Franz Ferdinand
+Prince
+Arctic Monkeys
+4
+
+
+MC
+Which of these bands has Slash never played in?
+Guns n Roses
+Slash's Snakepit
+Velvet Underground
+Black Sheep
+3
+
+
+MC
+What is the name of the first ever 'choose your price' album?
+In Rainbows
+Radiohead
+Radio-rain
+Hand Built By Robots
+1
+
+
+MC
+Which rapper is/was not a member of N.W.A.?
+Ice Cube
+MC Ren
+Eazy-E
+Ice-T
+4
+
+
+MC
+What does P.O.D. stand for?
+Piece of Dirt
+Payable On Death
+Pay On Demand
+Pigs Of Doom
+2
+
+
+MC
+Who rapped the line: "representin' for gangstas all across the world" ?
+Dr Dre
+Kanye West
+Snoop Dogg
+Nas
+3
+
+
+MC
+Which of these is Will Smith not known as?
+Willard
+The Fresh Prince
+Big Willie
+W. Smitty
+4
+
+
+MC
+Who is The Streets?
+Mark Skinner
+Mike Skins
+Marky D
+Mike Skinner
+4
+
+
+MC
+Mcfly were named after a character from which movie?
+The Goonies
+Back To The Future
+Police Academy
+Beverly Hills Cop 2
+2
+
+
+MC
+Which artist/band holds the record for the shortest ever song?
+Napalm Death
+Murderdolls
+Cradle of Filth
+Def Leppard
+1
+
+
+MC
+Who wrote Black Magic Woman?
+Eric Clapton
+Carlos Santana
+Peter Green
+The Zombies
+3
+
+
+MC
+How many strings did Keith Richards need?
+7
+6
+5
+3
+3
+
+
+MC
+Which band was Rod Stewart never in?
+The Jeff Beck Group
+Faces
+Soul Agents
+The Rolling Stones
+4
+
+
+MC
+Who was Led Zeppelin's only 2007 gig in honour of?
+Ahmet Ertegun
+John Bonham
+Bill Graham
+William Rimmer
+1
+
+
+MC
+Which band released the album "The Trick To Life" ?
+The Wombats
+The Hoosiers
+Scouting For Girls
+The Pidgeon Detectives
+2
+
+
+MC
+How did Randy Rhoads die?
+Plane accident
+Bus crash
+Drug overdose
+Heart attack
+1
+
+
+MC
+Which of these bands does not have a ginger front man?
+Gallows
+Queens of the Stone Age
+Guns n Roses
+Incubus
+4
+
+

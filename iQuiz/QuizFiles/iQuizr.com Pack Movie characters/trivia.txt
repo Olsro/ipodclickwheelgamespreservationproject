@@ -1,0 +1,114 @@
+TITLE
+Movie characters
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+4
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+In the film 'The Sum of All Fears', who played CIA Director William Cabot?
+Bruce Willis
+Morgan Freeman
+James Cromwell
+Ben Affleck
+2
+
+
+MC
+Which Hollywood celebrity starred as Sgt. Eversmann in 'Black Hawk Down'?
+Josh Hartnett
+Ewan McGregor
+Tom Sizemore
+Ice T
+1
+
+
+MC
+2003's 'SWAT' starred Colin Farrell as the main lead. What was his character's name?
+T.J McCabe
+Chris Sanchez
+Dan 'Hondo' Harrelson
+Jim Street
+4
+
+
+MC
+'Flight Plan' star Jodie Foster stars in the '08 movie 'Nim's Island'. Her character's name is:
+Captain
+Alexandra Rover
+Nim Rusoe
+Jack Rusoe
+2
+
+
+MC
+The 2005 flick 'Capote' starred which MI3 star?
+Ving Rhames
+Jonathan Rhys Meyers
+Phillip Seymour Hoffman
+Tom Cruise
+3
+
+
+MC
+Which 'Everybody Loves Raymond' star played the large puffer fish in the hit Pixar film 'Finding Nemo'?
+Brad Garrett
+Peter Boyle
+Ray Romano
+Patricia Heaton
+1
+
+
+MC
+Which U2 band member, who plays himself in the 2008 3D movie 'U23D', was the face of and silhouette for Apple iPods?
+Adam Clayton
+The Edge
+Bono
+Larry Mullen Jr.
+3
+
+
+MC
+Ed Harris starred in 'Enemy at the Gates' with which 'A.I' star?
+Joseph Fiennes
+Haley Joel Osment
+Jude Law
+Rachael Weisz
+2
+
+
+MC
+'POTC' star Johnny Depp played the main character in the '04 thriller 'Secret Window'. The character's name was what?
+John Shooter
+Ted Milner
+Mort Rainey
+Sheriff Dave Newsome
+3
+
+
+MC
+Which 'Ghost' star won an Oscar for their performance? And How many awards has the film received altogether?
+Patrick Swayze; 19 (not inc. 2 Oscars)
+Whoopi Goldberg; 15 (not inc. 2 Oscars)
+Demi Moore; 17 (not inc. 2 Oscars)
+Tony Goldwyn; 20 (not inc. 2 Oscars)
+2
+
+

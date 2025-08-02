@@ -1,0 +1,708 @@
+TITLE
+Biology Roots, Prefixes, and Suffixes
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+76
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+a-
+sprout, germ
+no, lacking, none
+new, recent
+thick
+2
+
+
+MC
+ab-
+away from
+meat
+heart
+self
+1
+
+
+MC
+ac-
+used in nouns
+with; together
+to, toward
+around, about
+3
+
+
+MC
+-aceus, aceous
+of or pertaining to
+up
+against
+well, good
+1
+
+
+MC
+ad-
+heat
+to, toward
+center
+against
+2
+
+
+MC
+agri-
+coal, carbon
+hidden, covered
+field, soil
+stick, club
+3
+
+
+MC
+-al
+tail
+having the character of
+with; together
+storeroom; chamber
+2
+
+
+MC
+alb-
+color
+cone
+fruit
+white
+4
+
+
+MC
+-algia
+heat
+pain
+life, living
+green
+2
+
+
+MC
+alto-
+hidden, covered
+seed
+hollow
+high
+4
+
+
+MC
+ameb-
+change, alternation
+having fins
+around, about
+disease of
+1
+
+
+MC
+amphibi-
+tail
+leading a double life
+body
+depth, height
+2
+
+
+MC
+ampho-; amb-
+hidden; covered
+of pertaining to
+both
+back
+3
+
+
+MC
+an-
+not, without
+with; together
+two, twice; double
+killing
+1
+
+
+MC
+ana-
+center
+depth, height
+up
+head
+3
+
+
+MC
+andro-
+meat
+masculine, man
+self
+tail
+2
+
+
+MC
+anemo-
+wind
+short
+juice
+color
+1
+
+
+MC
+angio-
+hidden
+coal, carbon
+referring to chemistry
+vessel
+4
+
+
+MC
+ante-
+against
+before; ahead of time
+with; together
+new, recent
+2
+
+
+MC
+antero-
+wrist
+back
+front
+hairlike curls
+3
+
+
+MC
+antho-
+green
+flower
+seed
+glue
+2
+
+
+MC
+anti-
+in, into
+with; together
+different
+against
+4
+
+
+MC
+anthropo
+man
+hundredth
+world; order; form
+well, good
+1
+
+
+MC
+ap-
+hear
+tail
+to, toward
+water
+3
+
+
+MC
+aqu-
+color
+water
+juice
+killing
+2
+
+
+MC
+archaeo-
+carbon, coal
+primitive, ancient
+referring to chemistry
+from verbs
+2
+
+
+MC
+arthro-
+jointed
+heat
+having arms
+short
+1
+
+
+MC
+aster- ;astr-
+sky
+stars
+up
+depth; height
+2
+
+
+MC
+-ate
+body
+hidden
+used from forming nouns from verbs
+self
+3
+
+
+MC
+atom-
+vapor
+up
+cone
+look; observe
+1
+
+
+MC
+auto
+five
+with; together
+beyond
+self
+4
+
+
+MC
+bactr-
+against
+stick, club
+across
+loosen
+2
+
+
+MC
+barb-
+look at
+beard
+hair
+poison
+2
+
+
+MC
+baro-
+after
+beyond
+false
+weight
+4
+
+
+MC
+bath-
+pillar
+depth, height
+first
+flow
+2
+
+
+MC
+bene-
+well, good
+net
+suture
+flow
+1
+
+
+MC
+bi-
+young shoot
+cut, slice
+two, twice; double
+devour
+3
+
+
+MC
+bio- ; bi-
+in place
+life, living
+lizard
+root
+2
+
+
+MC
+-blast
+heat
+cut, slice
+turning; changing
+sprout, germ
+4
+
+
+MC
+brachi-
+jointed
+having arms
+rotten
+know
+2
+
+
+MC
+branchi-
+slep
+sound
+having fins
+ankle
+3
+
+
+MC
+brev-
+short
+killing
+storeroom; chamber
+seed
+1
+
+
+MC
+bronch-
+together
+correct
+windpipe
+half
+3
+
+
+MC
+calor-
+heat
+flow
+know
+breathe
+1
+
+
+MC
+carb-
+color
+coal, carbon
+cone
+cup
+2
+
+
+MC
+cardi-
+center
+meat
+heart
+hollow
+3
+
+
+MC
+carn
+meat
+head
+neck
+body
+1
+
+
+MC
+carp-
+fruit
+juice
+green
+wrist
+1
+
+
+MC
+carpal-
+ankle
+wrist
+center
+seed
+2
+
+
+MC
+card-
+head
+neck
+ray
+tail
+4
+
+
+MC
+cell-
+hollow
+storeroom; chamber
+free
+quick
+2
+
+
+MC
+-cene
+nose
+red
+solid
+new, recent
+4
+
+
+MC
+centi-
+place
+across
+hundredth
+belly
+3
+
+
+MC
+centr-
+center
+half; partly
+three
+far off
+1
+
+
+MC
+cephal
+wrist
+head
+neck
+leg
+2
+
+
+MC
+cervic
+neck
+nose
+hard
+urine
+1
+
+
+MC
+chem-
+to, toward
+earth
+referring to chemistry
+arrangement
+3
+
+
+MC
+chlor-
+life
+stars
+under
+green
+4
+
+
+MC
+chrom- ; -chrome
+seed
+color
+glue
+metal
+2
+
+
+MC
+chym-
+juice
+around; about
+grass
+different
+1
+
+
+MC
+-cide
+free
+against
+killing
+body
+3
+
+
+MC
+circum-
+toward
+into
+with; together
+around; about
+4
+
+
+MC
+cirro-
+hairlike curls
+without
+sea
+middle
+1
+
+
+MC
+co-
+body
+against
+well, good
+with; together
+4
+
+
+MC
+cocc-
+hollow
+seed
+vapor
+three
+2
+
+
+MC
+coel-
+hollow
+thick
+odd
+broad
+1
+
+
+MC
+coll-
+female
+angle
+glue
+worm
+3
+
+
+MC
+com-
+tear
+with; together
+egg
+eye
+2
+
+
+MC
+con-
+with; together
+study
+dissolve
+border
+1
+
+
+MC
+coni-
+mouth
+disease of
+cone
+breast
+3
+
+
+MC
+contra-
+center
+with; together
+against
+hidden
+3
+
+
+MC
+corp-
+fruit
+body
+fat
+stone
+2
+
+
+MC
+cosmo-
+winter
+horse
+entire
+world; order; form
+4
+
+
+MC
+cotyl-
+cup
+tumor
+all
+distribute
+1
+
+
+MC
+counter-
+short
+middle
+against
+mongrel
+3
+
+
+MC
+crypt-
+with; together
+hidden; covered
+show
+similar in form or shape
+2
+
+

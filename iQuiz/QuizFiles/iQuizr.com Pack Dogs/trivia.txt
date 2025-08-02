@@ -1,0 +1,69 @@
+TITLE
+Dogs
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+5
+
+LOSE
+4
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What Breed is known as a "Weiner Dog"?
+West Highland White Terrier
+Dashund
+Yorksire Terrier
+Teacup Poodle
+2
+
+
+MC
+Which Breed can come in different colours?
+Dalmatian
+Golden Retriever
+Labrador Retriever
+Miniature Pinscher
+3
+
+
+MC
+Which dog was meant for hunting?
+Poodle
+Jack Russel Terrier
+Golden Retriever
+Greyhounds
+3
+
+
+MC
+Where did the Poodle come from?
+Australia
+France
+Germany
+England
+2
+
+
+MC
+Which dog can come with 2 different eye colours?
+Jack Russel Terrier
+Beagle
+Bernese Mountain Dog
+Siberian Husky
+4
+
+

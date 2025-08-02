@@ -1,0 +1,114 @@
+TITLE
+Spongebob
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+In 'Bubblestand' how much does it cost to blow bubbles?
+$1.00
+$.50
+$.25
+$.10
+3
+
+
+MC
+What instrument does Squidward play
+Drums
+Piano
+Flute
+Clarinet
+4
+
+
+MC
+What saves Spongebob and Squidward in 'Pizza Delivery'?
+A rock
+A piece of coral
+The pizza
+Mr. Krabs
+1
+
+
+MC
+Who is Spongebob's art teacher in 'Artist Unknown'?
+Mrs. Puff
+Squidward
+Patrick
+Sandy
+2
+
+
+MC
+What is the name of the theme park in Bikini Bottom?
+Disney World
+Krabby Land
+Glove World
+Rock Bottom
+3
+
+
+MC
+How many seconds did Spongebob and Patrick last over the county line in 'The Spongebob Squarepants Movie'?
+10
+12
+5
+30
+2
+
+
+MC
+What is Mr. Krabs' pet?
+A Worm
+A Snail
+A Whale
+A Sea Bear
+1
+
+
+MC
+What does Patrick always get hit in the head with?
+A Bowling Ball
+A Baseball
+A Football
+A Coconut
+4
+
+
+MC
+Who makes a distraction at the bar in 'The Spongebob Squarepants Movie'?
+Spongebob
+Squidward
+Plankton
+Patrick
+1
+
+
+MC
+Who do Spongebob and Squidward accuse of being a robot.
+Sandy
+Mr. Krabs
+Mrs. Puff
+Patrick
+2
+
+

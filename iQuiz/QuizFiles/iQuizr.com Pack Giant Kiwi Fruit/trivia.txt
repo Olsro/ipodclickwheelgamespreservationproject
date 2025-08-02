@@ -1,0 +1,105 @@
+TITLE
+Giant Kiwi Fruit
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+9
+
+LOSE
+1
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+How many countries do we send kiwi fruit to
+10 and 3/4
+78
+2
+83074560238 cities
+2
+
+
+MC
+What fruit is the Giant Kiwi Fruit
+Kiwi Fruit
+Capuli
+a random exotic fruit
+Steak
+1
+
+
+MC
+How many trays of kiwi fruit do we send to
+80 million trays
+2 trays
+I don't know
+several billion trays
+1
+
+
+MC
+When was the first Chinese Gooseberry planted in NZ?
+On Christmas Day 1890 BC
+last year
+1904
+8756834716150876238 years ago
+3
+
+
+MC
+Where is the Giant Kiwi Fruit positioned
+Te Puke
+New York
+Matamata
+Wellington
+1
+
+
+MC
+How long have Kiwi fruit crops been in Te Puke?
+1 yr
+2 days
+13 centuries
+50 yrs
+4
+
+
+MC
+What island of NZ is the Giant Kiwi Fruit on?
+Stuart Island
+North Island
+South Island
+None of the above
+2
+
+
+MC
+What is not a colour of kiwi fruit?
+Gold
+Purple
+Green
+Brown
+2
+
+
+MC
+Does the giant Kiwi Fruit have any writing on it
+Yes - Kiwi 360
+Yes - Kiwis eat Kiwi Fruit
+Yes - Kiwi Fruit Rox
+No
+1
+
+

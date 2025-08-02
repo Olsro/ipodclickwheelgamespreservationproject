@@ -1,0 +1,114 @@
+TITLE
+Asthma
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+how many fluid a day should the pt with asthma consume?
+2L a day
+1L a day
+3L a day
+
+3
+
+
+MC
+MAst cell stabilizer for asthma?
+cromolyn intal
+neboromil telade
+A and B
+
+3
+
+
+MC
+antileukotrienes for asthma? ends with LUKAST
+Zafirlukast
+Montelukast
+A and B
+
+3
+
+
+MC
+O2 for asthma?
+High humidified
+Low humidified
+
+
+2
+
+
+MC
+what is the position for asthma?
+Low fowler's
+Semi fowler's
+High Fowler's
+
+3
+
+
+MC
+O2 therapy for asthma?
+2L/min
+1L/min
+3L/min
+
+1
+
+
+MC
+why is it low flow humidified O2 should be admin t pt with asthma?
+to reduce inflammation of the airways
+ease breathing
+increase SaO2
+All of the above
+4
+
+
+MC
+what kind fo breathing should the asthmatic pt practice
+purse lip
+daiphraghmatic breathing
+mouth breathing
+A and B
+4
+
+
+MC
+Hypertension may indicate
+Hypoxemia
+Hypercapnea
+
+
+1
+
+
+MC
+eosinophilia may indicate
+allergic response
+infection
+
+
+1
+
+

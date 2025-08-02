@@ -1,0 +1,168 @@
+TITLE
+septic shock
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+16
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+s/sx of early stage of septic shock EXCEPT
+chills
+oliguria
+anuria
+sudden fever
+3
+
+
+MC
+s/sx of late stage of septic shock EXCEPT
+altered LOC,anuria, hyperventilation
+oliguria
+Hypotension, hypothermia, restlessness
+Tachcardia and tachypnea
+2
+
+
+MC
+Blood test for septc shock
+decreased platelet count
+Leukocytosis
+A and B
+
+3
+
+
+MC
+Septic shock: Leukocytosis
+15000-30000/ul
+40000/ul
+50000/ul
+
+1
+
+
+MC
+Septic shock:BUN and creatinine level
+Increased
+Decrease
+Normal
+
+1
+
+
+MC
+Septic shock:creatinine clearance
+Increased
+Decrease
+Normal
+
+2
+
+
+MC
+Septic shock: PT and PTT
+normal
+OK
+abnormal
+
+3
+
+
+MC
+Septic shock: PT and PTT
+
+
+
+
+1
+
+
+MC
+Septic shock: key tx
+Remove or replace any IV that may be the source of infx
+O2 Therapy
+antibiotics
+all of the above
+4
+
+
+MC
+Septic shock:How to increase intravasculaar volume
+colloid
+crystalloid infusion
+A and B
+
+3
+
+
+MC
+Septic shock:\It should be given to the pt after sufficient fluid vol has been replaced to maintain urine output  above 20 ml/hr
+Diuretic Furosemide  LASIX
+Vasopressors
+Loop diuretics
+
+1
+
+
+MC
+Septic shock: Vasopressor that should be adm if fluid resuscitation fails to increase BP
+DOpamine INTRIPIN
+Norepinephrine LEVOPHED
+Phenylephrine NEO SYNEPHRINE
+all of the above
+4
+
+
+MC
+Septic shock: Nsg interventions except
+Rplace IV or urinary cathethers
+Adm NSS or LRS
+Give blood transfusion
+adm Antibiotics IV
+3
+
+
+MC
+septic shock is usually a result of what infx
+Bacterial
+viral
+fungal
+
+1
+
+
+MC
+Septic shock is the
+1st leading cause of shock death
+2nd to cardiogenic shock as the leading cause of death
+
+
+2
+
+
+MC
+signs of septic shock among infants and elderly people EXCEPt
+Hypotension
+Hypertension
+Altered LOC
+Hyperventilation
+2
+
+

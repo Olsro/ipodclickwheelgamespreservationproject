@@ -1,0 +1,96 @@
+TITLE
+Anatomía
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+8
+
+LOSE
+7
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+¿Que tipo de artiulación es la radiocubital proximal?
+fibrosa, plana, en silla de montar.
+cartilaginosa, sinfisis sinartrosis
+Sinovial, en pivote, diartrosis.
+En pivote, sinartrosis
+1
+
+
+MC
+Tres funciones importantes de los huesos
+protección, hematuria, poliuria.
+reserva de calcio, protección de estructuras internas, homeostasis de hormonas tiroideas
+Reservorio de calcio, hematopoyesis, protección
+secreción de calcitonina, homeostasis mineral, hematuria
+1
+
+
+MC
+¿Qué quiere decir etimologicamente anatomia?
+A traves del corte.
+Estudio de las estructuras corporales.
+Analisis del cuerpo
+División del cuerpo humano
+1
+
+
+MC
+¿Qué nombre se le da a la arteria que nutre al hueso?
+Arteria esplenica
+Arteria bifurcada
+Arteria ósea
+Arteria nutricia
+4
+
+
+MC
+¿Cual es el hueso más largo del cuerpo?
+húmero
+femur
+tibia
+columna vertebral
+2
+
+
+MC
+¿Qué tipos de articulaciones enemos por estructura?
+fibrosas, planas, en silla de montar.
+sinoviales, en esfera y suturas.
+fibrosas, cartilaginosas y sinoviales.
+cartilaginosas, sinoviales, diartrosis.
+3
+
+
+MC
+¿Qué huesos foman la cintura escapular?
+El omóplato y la escápula
+la escápula y el húmero
+la clavícula y el omólato
+la escapula y el coxis
+3
+
+
+MC
+¿Qué huesos foman la intura escapular?
+El omóplato y la escápula
+la escápula y el húmero
+la clavícula y el omólato
+la escapula y el coxis
+3
+
+

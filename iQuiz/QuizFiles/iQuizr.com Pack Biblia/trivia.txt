@@ -1,0 +1,177 @@
+TITLE
+Biblia
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+17
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Quien fue el primer hombre?
+Adan
+Moises
+David
+Pedro
+1
+
+
+MC
+Quien Abrio el Mar Rojo
+Daniel
+Saul
+Faraon
+Moises
+4
+
+
+MC
+Cuantas PLagas atacaron a Egipto
+10
+5
+1
+100
+1
+
+
+MC
+Quien es el autor de la mayoria de los Salmos?
+Moises
+Noe
+Jonas
+David
+4
+
+
+MC
+De donde sacaron los Discipulos el dinero para los impuestos
+Del Banco
+Lo pago el tesorero
+De la boca de un pez
+En un cuerpo de un leon muerto
+3
+
+
+MC
+Cual fue el hombre mas viejo?
+Noe
+Matusalen
+Jetro
+Nabucodonosor
+2
+
+
+MC
+Cual es el padre de la Fe
+Santiago
+Josias
+Abraham
+Isaias
+3
+
+
+MC
+Cuantos eran los discipulos de Jesus
+9
+5
+2
+12
+4
+
+
+MC
+Cuantos estaban en el aposento alto cuando descendio el Espiritu Santo?
+12
+30
+120
+10
+3
+
+
+MC
+Cual fue el primer milagro de Jesus
+Multiplicacion de Panes y Peces
+Convertir el agua en vino
+Caminar sobre las aguas
+Sanar un ciego
+2
+
+
+MC
+Cual era el Discipulo amado de Jesus?
+Pedro
+Juan
+Judas
+Marcos
+2
+
+
+MC
+Cual es el Salmo mas largo?
+93
+38
+119
+150
+3
+
+
+MC
+Cuantos son los Evangelios
+12
+5
+4
+10
+3
+
+
+MC
+Quien fue el discipulo que camino sobre las aguas?
+Juan
+Lucas
+Pedro
+Mateo
+3
+
+
+MC
+Quien entrego a Jesus?
+Gedeon
+Ananias
+Judas
+Lucas
+3
+
+
+MC
+Cual hombre encontro miel en un leon muerto
+Gedeon
+Sanson
+David
+Daniel
+2
+
+
+MC
+Quien fue lanzado a un foso lleno de leones
+Saul
+Sadrac
+Daniel
+Malaquias
+3
+
+

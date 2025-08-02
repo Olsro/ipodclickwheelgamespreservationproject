@@ -1,0 +1,168 @@
+TITLE
+Heart FAilure
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+16
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Crackles, Dyspnea, Gallop rhythm S3S4
+Left Sided Failure
+Right Sided Failure
+
+
+1
+
+
+MC
+Dependent Edema, JVD. Wt gain
+Left Sided Failure
+Right Sided Failure
+
+
+2
+
+
+MC
+In R and L sided failure, these is elevated
+ABG
+BNP B type natriuretic  Peptide
+Oxygen Saturation
+
+2
+
+
+MC
+In Left Sided FAilure, Chest Xray shows
+Pulmonary congestion
+Left Ventricular Hypertrophy
+A and B
+
+3
+
+
+MC
+In R and L sided failure, ABG levels indicate
+Hypokalemia
+Hypoxemia
+Hypercapnea
+B and C
+4
+
+
+MC
+It is a Human B type natiuretic peptidefor heart failure:
+CAptopril
+Nesiritide(natrecor)
+Lisinopril
+
+2
+
+
+MC
+These ar AngiotensinConverting Enzyme EXCEPT
+CAptopril Capoten
+Inalapril Vasotec
+Lisinopril Privinil
+Digoxin
+4
+
+
+MC
+This is a cardiac glycoside
+CAptopril capoten
+Dopamine
+Digoxin Lanoxin
+
+3
+
+
+MC
+Nitrates for Heart Failure
+Isosorbide (isordil)
+Nitroglycerin NitroBid
+A and B
+
+3
+
+
+MC
+It is a vasodilator drug for Heart failure
+Nitroprusside Nitropress
+Dopamine
+Digoxin Lanoxin
+
+1
+
+
+MC
+Positon for Heart failure
+semi fowler
+High Fowlers
+Supine
+
+1
+
+
+MC
+N/I for Heart failure
+Assess cardiovascular status, resp status
+Oxygenation
+weigh the pt daily
+All of the above
+4
+
+
+MC
+this heart failure causes pulmonary symptoms
+Left Sided Failure
+Right Sided Failure
+
+
+1
+
+
+MC
+this heart failure causes systemic symptoms
+Left Sided Failure
+Right Sided Failure
+
+
+2
+
+
+MC
+THis wt gain indicates fluid gain
+.5-1 lb perday
+.25-1 lb per day
+1-2 lb per day
+
+3
+
+
+MC
+N/I to reduce fluid accumulation
+Low sodium diet
+Low potassium diet
+Low cholesterol
+
+1
+
+

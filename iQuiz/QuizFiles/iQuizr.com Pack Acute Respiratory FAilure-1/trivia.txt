@@ -1,0 +1,105 @@
+TITLE
+Acute Respiratory FAilure
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+9
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+hematology result of the acute resp failure
+Increased WBC
+increased ESR
+increased fluid volume
+A and B
+4
+
+
+MC
+Electrolyte abN results from what?
+Use of bronchodilator
+Use of diuretics
+anlagesic
+
+2
+
+
+MC
+Tachycardia and tachypnea may indicate what?
+Hypoxemia
+Hypercapnea
+Hyperventilation
+
+1
+
+
+MC
+uring steroid therapy, what should be monitored  every 6-12 hours to detect hyperglymia
+BP
+blood urine
+Blood glucose
+
+3
+
+
+MC
+In acite resp failure, Hyperglycemia isa caused by what
+O2 therapy
+Steroid therapy
+Bronchodilator therapy
+
+2
+
+
+MC
+in oredr to avoid fluid vol, what should the nurse instruct the pt?
+restrict fluids
+drink a lots of fluid
+Low sodium diet
+A and C
+4
+
+
+MC
+PaO2 less than or equal to 50mmhg or paCO2 greater than50mmgh indicates?
+ARDS
+Asbestosis
+Acute rEsp failure
+
+3
+
+
+MC
+What is the PH level  of pt with acute resp failure
+7.25 or less
+7.45 or more
+7.50 or less
+
+1
+
+
+MC
+Does the pt with Acute resp failure experience adventitious sounds?
+Yes
+No
+
+
+1
+
+

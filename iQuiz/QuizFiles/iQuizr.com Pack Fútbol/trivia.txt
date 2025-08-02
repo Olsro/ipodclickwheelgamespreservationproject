@@ -1,0 +1,123 @@
+TITLE
+Fútbol
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+11
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+¿En qué año fue el primer campeonato suramericano de selecciones (actual copa América)?
+1946
+1916
+1928
+1919
+2
+
+
+MC
+¿Cuántos países participaron en la primera copa mundo?
+24
+18
+14
+13
+4
+
+
+MC
+¿Qué país fue el primer campeón mundial?
+Uruguay
+Argentina
+Brasil
+Chile
+1
+
+
+MC
+¿De qué país es el ex-delantero Grzegorz Lato?
+Rumania
+Yugoslavia
+Polonia
+República Checa
+3
+
+
+MC
+¿Quién fue el goleador de la copa mundo de 1966 en Inglaterra?
+Beckenbauer
+Pelé
+Eusebio
+Bobby Charlton
+3
+
+
+MC
+¿Cuál equipo es el que ha ganado más veces la Copa Libertadores de América?
+Boca Juniors
+Peñarol
+River Plate
+Independiente
+4
+
+
+MC
+¿Cuál equipo ha ganado más veces la Liga de Campeones UEFA?
+AC Milan
+Barcelona
+Real Madrid
+Liverpool
+3
+
+
+MC
+Sólo uno de estos equipos fue campeón de la Liga de Campeones UEFA. ¿Cual es?
+Hamburgo
+Chelsea
+AS Roma
+Arsenal
+1
+
+
+MC
+¿Quién es la jugadora que más goles ha marcado en los mundiales femeninos de Fúbol?
+Birgit Prinz (Alemania)
+Marta (Brasil)
+Mia Hamm (Estados Unidos)
+Sun Wen (China)
+1
+
+
+MC
+¿En qué año fue sancionado Chile por simular su arquero un aherida con una bengala en el Maracaná?
+1985
+1988
+1989
+1987
+3
+
+
+MC
+¿Cuál es el estadio más grande (más capacidad) del mundo?
+Saltlake Stadium (India)
+Estadio Rungnado May Day (Corea del Norte)
+Estadio Maracaná (Brasil)
+Estadio Azteca (México)
+2
+
+

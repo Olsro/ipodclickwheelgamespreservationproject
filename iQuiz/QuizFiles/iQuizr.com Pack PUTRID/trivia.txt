@@ -1,0 +1,114 @@
+TITLE
+PUTRID
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+La cancion Nostalgia es de?
+Condemned
+Cephalotripsy
+Nocturnal Depression
+Nacho Vegas
+3
+
+
+MC
+Baby killer es del artista
+Devourment
+Carnal Diafragma
+Amputated Genitals
+Rest in Gore
+1
+
+
+MC
+De que Pais es la banda Internal Suffering
+Guatemala
+Colombia
+Peru
+Estados Unidos
+2
+
+
+MC
+Angel Ochoa es el vocalista de la banda
+Arch Enemy
+Saratoga
+Condemned
+Azrael
+3
+
+
+MC
+De que Pais es la banda Abysmal Torment
+Malta
+Estados Unidos
+Nicaragua
+Grecia
+1
+
+
+MC
+Garavito`s Pedophilia Tales es de
+Amputated Genitals
+Putrid Pile
+Purulent
+Catamenia
+3
+
+
+MC
+Cuantos Integrantes Tiene Putrid Pile?
+3
+1
+6
+8
+2
+
+
+MC
+El Album Vaginal Vampire pertenece a
+Carcass
+Rompeprop
+Parricide
+Anal Blast
+4
+
+
+MC
+Benighted habla en sus canciones de
+Traumas Sexuales
+Problemas Patologicos y Psicologia Infantil
+Muerte y Violaciones
+ParaPsicologia
+2
+
+
+MC
+Shagrath perteneció a las bandas
+Mactätus
+Fimbulwinter
+Nargaroth
+Torturium
+2
+
+

@@ -1,0 +1,888 @@
+TITLE
+Maebori's English Vocab (Semester 1)
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+96
+
+LOSE
+7
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+a sustained noise (noun)
+abyss
+clamor
+eloquence
+stupor
+2
+
+
+MC
+persistence (noun)
+prerogative
+audacity
+metamorphosis
+tenacity
+4
+
+
+MC
+having pride in oneself, scorn for others (adj)
+haughty
+ominous
+frivolous
+momentous
+1
+
+
+MC
+an evil omen (adj)
+innocuous
+ominous
+notorious
+pugnacious
+2
+
+
+MC
+condemn sharply (verb)
+vindicate
+postulate
+revel
+chastise
+4
+
+
+MC
+not serious (adj)
+frivolous
+inquisitive
+exorbitant
+interminable
+1
+
+
+MC
+take as self-evident (verb)
+chide
+embellish
+thwart
+postulate
+4
+
+
+MC
+speech or writing that is forceful, graceful (noun)
+abyss
+eloquence
+requiem
+posterity
+2
+
+
+MC
+bottomless gulf (noun)
+deluge
+foppery
+malevolence
+abyss
+4
+
+
+MC
+to take the place of (verb)
+amalgamate
+chastise
+supersede
+postulate
+3
+
+
+MC
+very important (adj)
+momentous
+frivolous
+superfluous
+vigilant
+1
+
+
+MC
+not able to be satisfied (adj)
+momentous
+implicit
+prodigious
+insatiable
+4
+
+
+MC
+a fog usually because of fatigue (noun)
+foppery
+deluge
+abyss
+stupor
+4
+
+
+MC
+silent, quiet (adj)
+reticent
+insatiable
+diminutive
+fraudulent
+1
+
+
+MC
+to prove true, right, or real (verb)
+vindicate
+chide
+revel
+embellish
+1
+
+
+MC
+acting like a gentleman, having manners (noun)
+chivalry
+prerogative
+audacity
+malevolence
+1
+
+
+MC
+meant but not clearly expressed, inferential (adj)
+homogenous
+monotonous
+implicit
+frivolous
+3
+
+
+MC
+reproach or blame (verb)
+chide
+supersede
+exude
+venerate
+1
+
+
+MC
+in a manner showing strong feeling (adv)
+incessantly
+inexorably
+obstinately
+vehemently
+4
+
+
+MC
+without change (adj)
+momentous
+monotonous
+homogenous
+preposterous
+2
+
+
+MC
+great desire for money or property (noun)
+prerogative
+audacity
+chagrin
+avarice
+4
+
+
+MC
+proud, contemptuous, showing scorn (adj)
+pungent
+momentous
+supercilious
+prodigious
+3
+
+
+MC
+a right that belongs to a specific person (noun)
+stupor
+fortitude
+posterity
+prerogative
+4
+
+
+MC
+take pleasure in (verb)
+revel
+supersede
+vindicate
+venerate
+1
+
+
+MC
+discourteous courage (noun)
+requiem
+vengeance
+ignoramus
+audacity
+4
+
+
+MC
+extremely discouraged (adj)
+abysmal
+despondent
+sumptuous
+egregious
+2
+
+
+MC
+make more interesting by adding real or imaginary detail (verb)
+vindicate
+embellish
+exude
+reciprocate
+2
+
+
+MC
+of uniform nature (adj)
+homogenous
+malleable
+innocuous
+notorious
+1
+
+
+MC
+walking slowly (verb)
+revel
+exude
+enamor
+saunter
+4
+
+
+MC
+fond of fighting (adj)
+exorbitant
+pugnacious
+diminutive
+inquisitive
+2
+
+
+MC
+a change of structure or shape (noun)
+avarice
+audacity
+metamorphosis
+myriad
+3
+
+
+MC
+continually or repeatedly without interruption (adv)
+obstinately
+incessantly
+inexorably
+raucous
+2
+
+
+MC
+Asking more questions than is necessary or proper; overly curious (adj)
+inquisitive
+despondent
+presumptuous
+sanctimonious
+1
+
+
+MC
+Without warmth or enthusiasm; not showing interest (adj)
+abysmal
+supercilious
+monotonous
+nonchalant
+4
+
+
+MC
+A feeling of embarrassment and annoyance because one has failed or become disappointed; mortification (noun)
+chagrin
+myriad
+malice
+avarice
+1
+
+
+MC
+To hinder, obstruct, frustrate or defeat (verb)
+embellish
+revel
+thwart
+venerate
+3
+
+
+MC
+In punishment or retribution; avenging of an injury or offense; revenge (noun)
+malice
+vengeance
+posterity
+grandeur
+2
+
+
+MC
+So contrary to nature, reason or common sense as to be laughable; absurd; ridiculous (adj)
+despondent
+pugnacious
+exorbitant
+preposterous
+4
+
+
+MC
+To diffuse or seem to radiate (verb)
+embellish
+exude
+revel
+cajole
+2
+
+
+MC
+A great number of persons or things (noun)
+deluge
+audacity
+myriad
+minutia
+3
+
+
+MC
+Going beyond what is reasonable, just, proper or usual; excessive or extravagant (adj)
+exorbitant
+despondent
+inquisitive
+pungent
+1
+
+
+MC
+Anger that is a reaction to injustice or ingratitude; righteous anger (noun)
+audacity
+indignation
+vengeance
+malice
+2
+
+
+MC
+The inner strength to bear misfortune, pain patiently; firm courage (noun)
+foppery
+vengeance
+fortitude
+grandeur
+3
+
+
+MC
+To fill with love and desire; charm; captivate (verb)
+truncate
+reciprocate
+exacerbate
+enamor
+4
+
+
+MC
+Wretched to the point of despair; immeasurably bad (adj)
+abysmal
+preposterous
+raucous
+presumptuous
+1
+
+
+MC
+Magnificent or splendid (adj)
+sumptuous
+diminutive
+fraudulent
+judicious
+1
+
+
+MC
+extremely or outrageously bad or harmful; severe (adj)
+egregious
+vigilant
+superfluous
+innocuous
+1
+
+
+MC
+An outcast, especially in social situations; one who is despised or avoided (noun)
+ignoramus
+deluge
+pariah
+requiem
+3
+
+
+MC
+the desire to harm others, or to see others suffer; ill will; spite (noun)
+minutia
+deluge
+posterity
+malice
+4
+
+
+MC
+stubbornly (adv)
+inexorably
+obstinately
+inexorably
+innocuous
+2
+
+
+MC
+too bold; forward; acting without permission or right (adj)
+presumptuous
+fraudulent
+sanctimonious
+superfluous
+1
+
+
+MC
+Examine or inspect carefully (verb)
+juxtapose
+accentuate
+scrutinize
+exacerbate
+3
+
+
+MC
+emphasize or stress (verb)
+accentuate
+scrutinize
+reciprocate
+admonish
+1
+
+
+MC
+very small, tiny, minute (adj)
+stringent
+poignant
+notorious
+diminutive
+4
+
+
+MC
+dishonest, deceitful (adj)
+presumptuous
+fraudulent
+meticulous
+magnanimous
+2
+
+
+MC
+a person who knows little or nothing (noun)
+pariah
+foppery
+grandeur
+ignoramus
+4
+
+
+MC
+Describing something that has stopped being used commonly; old-fashioned (adj)
+archaic
+notorious
+raucous
+innocuous
+1
+
+
+MC
+Seeming to last forever; endless (adj)
+prodigious
+interminable
+archaic
+demure
+2
+
+
+MC
+All succeeding generations; future mankind (noun)
+minutia
+deluge
+grandeur
+posterity
+4
+
+
+MC
+Of great size, power, etc.; wonderful and amazing (adj)
+archaic
+poignant
+voracious
+prodigious
+4
+
+
+MC
+In a way that cannot be moved or influenced by persuasion; unchangeably (adv)
+inexorably
+obstinately
+plausible
+malleable
+1
+
+
+MC
+Seemingly true and acceptable – but often implying disbelief (adj)
+malleable
+prodigious
+plausible
+demure
+3
+
+
+MC
+To look upon with feelings of deep respect (verb)
+venerate
+cajole
+exacerbate
+reciprocate
+1
+
+
+MC
+Pretending to be very holy or righteous (adj)
+sanctimonious
+plausible
+superfluous
+magnanimous
+1
+
+
+MC
+To impose on or dupe by flattering speech (verb)
+reciprocate
+exacerbate
+admonish
+cajole
+4
+
+
+MC
+Incorrect (adj)
+pungent
+erroneous
+imminent
+innocuous
+2
+
+
+MC
+The quality of being grand or admirably great; majesty (noun)
+grandeur
+deluge
+minutia
+sovereignty
+1
+
+
+MC
+Over-cautious when it comes to details (adj)
+plausible
+meticulous
+stringent
+superfluous
+2
+
+
+MC
+Eating with greediness or in very large quantities (adj)
+voracious
+pungent
+notorious
+malleable
+1
+
+
+MC
+To make worse or more severe; escalate (verb)
+ameliorate
+admonish
+exacerbate
+venerate
+3
+
+
+MC
+Dangerously close at hand (adj)
+meticulous
+raucous
+innocuous
+imminent
+4
+
+
+MC
+Strict and rigid; inflexible (adj)
+meticulous
+stringent
+malleable
+superfluous
+2
+
+
+MC
+An overwhelming flood-like rush of anything (noun)
+sovereignty
+malevolence
+foppery
+deluge
+4
+
+
+MC
+producing a sharp sensation of taste or smell (adj)
+pungent
+poignant
+demure
+superfluous
+1
+
+
+MC
+To warn or caution (verb)
+exacerbate
+admonish
+ameliorate
+amalgamate
+2
+
+
+MC
+To give and take mutually (verb)
+reciprocate
+meander
+amalgamate
+truncate
+1
+
+
+MC
+Unfavorably known to the general public; infamous (adj)
+stringent
+notorious
+voracious
+innocuous
+2
+
+
+MC
+A small or unimportant particular or detail (noun)
+minutia
+sovereignty
+foppery
+requiem
+1
+
+
+MC
+To place side by side, especially for comparison or contrast (verb)
+meander
+juxtapose
+amalgamate
+exacerbate
+2
+
+
+MC
+Able to be molded, influenced or shaped; flexible or impressionable (adj)
+judicious
+stringent
+pungent
+malleable
+4
+
+
+MC
+To improve or make better (verb)
+ameliorate
+reciprocate
+truncate
+amalgamate
+1
+
+
+MC
+Modest, reserved (adj)
+imminent
+demure
+judicious
+voracious
+2
+
+
+MC
+Supreme authority (noun)
+sovereignty
+judicious
+deluge
+malevolence
+1
+
+
+MC
+Alert to danger; heightened awareness (adj)
+superfluous
+meticulous
+vigilant
+notorious
+3
+
+
+MC
+Not needed, extra (adj)
+demure
+superfluous
+judicious
+innocuous
+2
+
+
+MC
+move lazily, sluggishly (verb)
+meander
+saunter
+admonish
+juxtapose
+1
+
+
+MC
+foolishness (noun)
+requiem
+foppery
+minutia
+raucous
+2
+
+
+MC
+Sharply painful or touching to the feelings, emotionally moving (adj)
+voracious
+innocuous
+raucous
+poignant
+4
+
+
+MC
+generous in forgiving an insult or injury; free from petty resentfulness or vindictiveness (adj)
+magnanimous
+diminutive
+prodigious
+erroneous
+1
+
+
+MC
+rough, rowdy and jarring (adj)
+prodigious
+innocuous
+interminable
+raucous
+4
+
+
+MC
+a song composed or performed to honor someone who has died; tribute (noun)
+requiem
+demure
+minutia
+grandeur
+1
+
+
+MC
+prudent or wise; Showing good judgment (adj)
+prodigious
+judicious
+imminent
+meticulous
+2
+
+
+MC
+to shorten by cutting off a part (verb)
+cajole
+admonish
+truncate
+venerate
+3
+
+
+MC
+To mix or blend together in a homogeneous body (verb)
+accentuate
+amalgamate
+venerate
+exacerbate
+2
+
+
+MC
+unlikely to offend, irritate or harm (adj)
+innocuous
+fraudulent
+sanctimonious
+stringent
+1
+
+
+MC
+Ill will or harm to others; malice (noun)
+malevolence
+posterity
+grandeur
+sovereignty
+1
+
+

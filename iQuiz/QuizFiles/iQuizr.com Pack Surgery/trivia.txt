@@ -1,0 +1,177 @@
+TITLE
+Surgery
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+17
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What is a free flap?
+Epidermis taken from a local site
+Muscle taken from a remote site
+Tissue taken from a remote site with intact blood and/or nerve supply
+Tissue taken from a local site and rotated with intact blood supply
+3
+
+
+MC
+What is gold standard treatment for invasive bladder cancer?
+Open tumour resection with intraoperative neoadjuvant therapy
+Systemic cytotoxic chemotherapy
+Transurethral bladder resection with intravesical neoadjuvant therapy
+Systemic ET-1 targetted chemotherapy
+3
+
+
+MC
+What is the most commonly missed fracture?
+Surgical neck of the humerus
+Fractured scaphoid
+Orbitofrontal fracture
+The second fracture
+4
+
+
+MC
+How long will a fractured pelvis take to exsanguinate?
+5-20 minutes
+30 minutes to an 1 hour
+1-4 hours
+4-12 hours
+1
+
+
+MC
+What does LaPlaces law mean?
+To close the abdomen use 4 times the length of the incision
+When closing any wound, use 4 times as much suture each time
+4 times the wound length equals the operative time to close
+The sum of two wound lengths is twice the amount of suture you need
+1
+
+
+MC
+What does the G stand for in ATLS's ABCDEFG?
+Gangrene
+Galactosamine
+Glucose
+Gases
+3
+
+
+MC
+Which is the thickest suture?
+8-0 vicryl
+2-0 PDS
+1-0 vicryl
+8-0 PFTE
+3
+
+
+MC
+How many roads must a man walk down?
+5
+9
+10
+3
+1
+
+
+MC
+What is Dubin-Johnson syndrome?
+Defective MRP4 protein in liver
+Defective MDR transporter in liver
+Defective Alpha-1-adrenoceptor in liver
+Defective Beta-1-adrenoceptor in kidney
+1
+
+
+MC
+What is defective in Ehlers-Danlos syndromes?
+Alpha 1 Anti Trypsin
+Collagen production
+Elastase production
+Elastin production
+2
+
+
+MC
+What does the C stand for in ABCDEFG
+Creatinine
+Circulation
+Cushings
+Careful
+2
+
+
+MC
+Post-op a patient spikes a fever every 2-3 days, what is the most likely diagnosis?
+Syphilis
+Post-operative infection
+Falciform malaria
+MRSA
+3
+
+
+MC
+Which of these is a surgical emergency?
+Gall stones
+Fractured tibia
+Appendicitis
+Cardiac Tamponade
+3
+
+
+MC
+General anaesthesia could be inducted by...
+Halothane
+Propofol
+Nitrous Oxide
+100% O2
+2
+
+
+MC
+What is a Burr hole??
+A hole between two epithelial surfaces
+A hole between two organs
+A hole drilled in the skull to relieve ICP
+A permanent stoma
+3
+
+
+MC
+What forms a J-pouch?
+Colon and rectum
+Small intestine and rectum
+Rectum alone
+Colon alone
+4
+
+
+MC
+What suture size is used in microsurgery?
+11-0
+5-0
+3-0
+1-0
+1
+
+

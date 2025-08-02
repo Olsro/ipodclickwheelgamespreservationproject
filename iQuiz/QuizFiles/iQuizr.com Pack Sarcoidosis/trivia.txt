@@ -1,0 +1,141 @@
+TITLE
+Sarcoidosis
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+13
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+definition of Sarcoidosis
+Multisystemic
+Granulomatous
+Twice as many as women
+all of the above
+4
+
+
+MC
+Sarcoidosis is a pulm dse but it affects many body system
+True
+false
+
+
+1
+
+
+MC
+skin test that supports sarcoidosis
+Kveim Siltzbach
+Kvein Ziltxbach
+
+
+1
+
+
+MC
+low ca diet if the pt is
+Hyperventilated
+hypocalcemia
+hypercalcemia
+
+3
+
+
+MC
+In TB, is the mantoux skin test positive or negative?
+Positive
+negative
+Normal
+
+1
+
+
+MC
+Precaution for TB pt?
+Negative pressure room
+infx control prec
+standard and airborne prec
+all of the above
+4
+
+
+MC
+Antituberculars drugs
+isoniazid INH
+Ethambutol Myambutol
+Rifampin Rifadin and pYrazinamide
+all of the above
+4
+
+
+MC
+Is the client on long term steroid therapy vulnerable to infx?
+True
+false
+
+
+1
+
+
+MC
+It is an airborne, infex and communicable dse
+Sarcoidosis
+TB
+
+
+2
+
+
+MC
+what is the involved org in TB
+Mycobacterium TB
+Myobacterium TB
+
+
+1
+
+
+MC
+WBC and ESR in TB
+Increase
+Decrease
+Normal
+
+1
+
+
+MC
+what is the preferred antibitoic for TB
+tetracycline
+Penicillin Pfizerpen
+streptomycin
+
+3
+
+
+MC
+Key s/sx of TB
+Low grade fever
+Night sweat
+A and B
+
+3
+
+

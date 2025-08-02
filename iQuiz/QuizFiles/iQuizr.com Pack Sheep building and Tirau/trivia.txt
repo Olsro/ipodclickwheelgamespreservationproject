@@ -1,0 +1,69 @@
+TITLE
+Sheep building and Tirau
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+5
+
+LOSE
+0
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+When did they start sheep building?
+July 1995
+July 1994
+July 2000
+July 1562
+2
+
+
+MC
+when was building of sheep finished??
+October 1994
+October 1995
+October 2000
+October 1990
+1
+
+
+MC
+How many people live in Tirau?
+800
+560
+10000
+135
+1
+
+
+MC
+Where is the sheep building?
+Auckland
+Wellington
+Tirau
+Howick
+3
+
+
+MC
+Where is Tirau?
+Waikato
+Auckland
+Wellington
+Howick
+4
+
+

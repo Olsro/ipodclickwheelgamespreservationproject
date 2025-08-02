@@ -1,0 +1,780 @@
+TITLE
+Chemistry: Elements of Life
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+84
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Lithium
+1-
+1+
+2+
+3+
+2
+
+
+MC
+Magnesium
+1-
+1+
+2+
+3+
+3
+
+
+MC
+Aluminium
+2-
+1+
+3+
+2+
+3
+
+
+MC
+Fluoride
+1-
+1+
+2-
+2+
+1
+
+
+MC
+Hydroxide
+1-
+1+
+2-
+2+
+1
+
+
+MC
+Nitrate NO3
+1+
+2+
+1-
+2-
+3
+
+
+MC
+Ammonium NH4
+1+
+2+
+2+
+1-
+1
+
+
+MC
+Hydrogen
+1-
+2-
+2+
+1+
+4
+
+
+MC
+Oxygen
+1+
+2+
+2-
+1-
+4
+
+
+MC
+Sulphate SO4
+1+
+2+
+1-
+2-
+4
+
+
+MC
+Sulphide
+1+
+2+
+2-
+1-
+3
+
+
+MC
+Barium
+1+
+2+
+3+
+1-
+2
+
+
+MC
+Iron III
+1+
+2+
+3+
+1-
+3
+
+
+MC
+Iron II
+1+
+2+
+3+
+2-
+2
+
+
+MC
+Copper II
+1+
+2+
+3+
+1-
+2
+
+
+MC
+Copper I
+1+
+2+
+3+
+1-
+1
+
+
+MC
+Calcium
+1+
+2+
+3+
+1-
+2
+
+
+MC
+Sodium
+1+
+2+
+3+
+1-
+1
+
+
+MC
+Lead
+1+
+2+
+3+
+1-
+2
+
+
+MC
+Zinc
+1+
+2-
+1-
+2+
+4
+
+
+MC
+Chloride
+1+
+1-
+2+
+2-
+2
+
+
+MC
+Bromide
+1+
+1-
+2+
+2-
+2
+
+
+MC
+Carbonate CO3
+1+
+2+
+1-
+2-
+4
+
+
+MC
+Silver
+1+
+2+
+2-
+1-
+1
+
+
+MC
+Potassium
+1+
+2+
+1-
+2-
+1
+
+
+MC
+Iodide
+1-
+2-
+1+
+2+
+1
+
+
+MC
+Electron: Relative Mass
+1
+0
+1/1836
+
+3
+
+
+MC
+Electron: Relative Charge
++1
+-1
+0
+
+2
+
+
+MC
+Proton: Relative Mass
+1
+0
+1/1836
+
+1
+
+
+MC
+Proton: Relative Charge
+-1
+0
++1
+
+3
+
+
+MC
+Neutron: Relative Mass
+0
+1
+1/1836
+
+2
+
+
+MC
+Neutron: Relative Charge
+-1
+0
++1
+
+2
+
+
+MC
+Total no of neutrons and protons
+Atomic Number
+Mass Number
+
+
+2
+
+
+MC
+No of protons in nucleus
+Atomic Number
+Mass Number
+
+
+1
+
+
+MC
+Istopes....
+...of an element are atoms with the same number of protons but different numbers of neutrons
+...contain the same atoms but they are arranged differently
+
+
+1
+
+
+MC
+Plum Pudding Model
+Geiger
+Rutherford
+Thompson
+Bohr
+3
+
+
+MC
+Thin sheet of gold - tiny nucleus, empty space
+Moseley
+Rutherford
+Thompson
+Bohr
+2
+
+
+MC
+Charge of nucleus increased by one from one element to another
+Moseley
+Rutherford
+Thompson
+Marsden
+1
+
+
+MC
+Protons - diff elements=diff no of protons
+Geiger
+Moseley
+Rutherford
+Chadwick
+3
+
+
+MC
+Neutron (the missing mass)
+Chadwick
+Rutherford
+Thompson
+Bohr
+1
+
+
+MC
+Energy levels for electrons (not cloud)
+Bohr
+Rutherford
+Thompson
+Moseley
+1
+
+
+MC
+Number of Protons + Number of Neutrons
+= charge
+= mass
+
+
+2
+
+
+MC
+Number of Protons
+= mass
+= Number of Electrons
+= charge
+
+2
+
+
+MC
+Relative Atomic Mass (Ar)
+= Average mass of an atom compared to 1/12 the mass of an atom of Carbon.
+
+
+
+1
+
+
+MC
+Bromine has two isotopes. 50% of bromine is 79Br, and the other 50% is 81Br. Work out the average mass:
+80
+70
+60
+50
+1
+
+
+MC
+Emission spectra
+Black Lines, Coloured Background
+Coloured Lines, Black Background
+
+
+2
+
+
+MC
+Absorption spectra
+Black Lines, Coloured Background
+Coloured Lines, Black Background
+
+
+1
+
+
+MC
+E = hv
+energy = planck's constant x frequency of radiation
+energy = planck's constant x wavelength of radiation
+
+
+1
+
+
+MC
+Helium Nuclei
+Alpha
+Beta
+Gamma
+
+1
+
+
+MC
+EM wave
+Alpha
+Beta
+Gamma
+
+3
+
+
+MC
+High speed electron
+Alpha
+Beta
+Gamma
+
+2
+
+
+MC
+Stopped by thick lead
+Alpha
+Beta
+Gamma
+
+3
+
+
+MC
+Stopped by paper
+Alpha
+Beta
+Gamma
+
+1
+
+
+MC
+Stopped by thin aluminium
+Alpha
+Beta
+Gamma
+
+2
+
+
+MC
+Top Ionising Ability
+Alpha
+Beta
+Gamma
+
+1
+
+
+MC
+Greatest deflection in electric field
+Alpha
+Beta
+Gamma
+
+2
+
+
+MC
+Factor(s) affecting ionisation energy are
+Nuclear charge
+Distance from nucleus
+Shielding
+All of the above
+4
+
+
+MC
+High I. Energy =
+No attraction between electron and nucleus
+Low attraction between electron and nucleus
+High attraction between electron and nucleus
+
+3
+
+
+MC
+The first ionisation energy is the energy needed to
+remove 1 electron
+remove the outer electrons
+remove all elctrons
+
+1
+
+
+MC
+from
+a single atom
+each atom
+two atoms
+
+2
+
+
+MC
+in
+1 mole
+2 moles
+5 moles
+10 moles
+1
+
+
+MC
+of
+solid atoms
+aqueous atoms
+gaseous atoms
+
+3
+
+
+MC
+to form
+1 mole
+2 moles
+5 moles
+
+1
+
+
+MC
+of gaseous
+1+ ions
+2+ ions
+1- ions
+
+1
+
+
+MC
+Mass spectrometry can be used to find out
+Ar
+Mr
+Ir
+
+2
+
+
+MC
+Moles=
+Mr/mass
+Mr x Mass
+mass/Mr
+
+3
+
+
+MC
+Avagrado's constant =
+6.02 x 10 ^ 50
+6.02 x 10 ^ 25
+6.02 x 10 ^ 23
+6.02 x 10 ^ 9
+3
+
+
+MC
+Group 1: Least Reactive
+Top (Li)
+Bottom (Fr)
+
+
+2
+
+
+MC
+Most Reactive?
+Gr1 Li
+Gr2 Be
+
+
+1
+
+
+MC
+Most vig. reaction with water
+Mg
+Ca
+Sr
+Ba
+4
+
+
+MC
+Greatest stability of carbonate
+Mg
+Ca
+Sr
+Ba
+4
+
+
+MC
+Greatest solubility of hydroxide
+Mg
+Ca
+Sr
+Ba
+4
+
+
+MC
+Most alkaline pH of OH
+Mg
+Ca
+Sr
+Ba
+4
+
+
+MC
+Greatest solubility of carbonate
+Mg
+Ca
+Sr
+Ba
+1
+
+
+MC
+Increasing atomic radius
+L -> R and B -> T
+R -> L and T -> B
+
+
+2
+
+
+MC
+Increasing electronegativity, ionisation energy, electron affinity
+L -> R and B -> T
+R -> L and T -> B
+
+c
+1
+
+
+MC
+Covalent bonding
+Metal-Metal
+Non Metal-Non Metal
+Metal-Non Metal
+
+2
+
+
+MC
+Ionic bonding
+Metal-Metal
+Non Metal-Non Metal
+Metal-Non Metal
+
+3
+
+
+MC
+Metallic bonding
+Metal-Metal
+Non Metal-Non Metal
+Metal-Non Metal
+
+1
+
+
+MC
+E.g. Boron tri-fluoride (BH3)=120 deg.
+Triangular Planar
+Tetrahedral
+Bent Linear
+Linear
+1
+
+
+MC
+E.g. Methane (CH4) = 109.5 deg
+Triangular Planar
+Tetrahedral
+Bent Linear
+Linear
+2
+
+
+MC
+E.g. Water (H2O) = 104.4 deg
+Triangular Planar
+Tetrahedral
+Bent Linear
+Linear
+3
+
+
+MC
+E.g. Beryllium chloride (BeCl2) = 180 deg
+Triangular Planar
+Tetrahedral
+Pyramidal
+Linear
+4
+
+
+MC
+E.g. Ammonia (NH3) = 107 deg
+Triangular Planar
+Tetrahedral
+Pyramidal
+Bent Linear
+3
+
+

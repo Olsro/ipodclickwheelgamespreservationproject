@@ -1,0 +1,294 @@
+TITLE
+Flav Vh1 Trivia
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+30
+
+LOSE
+4
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Completa la palabra "........ is in the mada fucking house"
+New york
+Hootie
+Bootz
+Hoopz
+1
+
+
+MC
+Quien dijo: " This is my money, my men, My house"
+Hoopz
+Punkin
+Deelishis
+Hootie
+4
+
+
+MC
+Quien creo mas conflicto en la primera reunion?
+New york
+Hootie
+Smiley
+Cherry
+4
+
+
+MC
+Quien fue la mas querida de todas las chicas en la casa de la primera temporada?
+Sweetie
+Bootz
+Bamma
+Goldie
+4
+
+
+MC
+quien fue eliminada por llamar a su novio y quien la acuso?
+Piccaso y Oyster Red
+Miss Latin Y Oyster Red
+Apples y Hoopz
+Cherry y Krazy
+2
+
+
+MC
+Quien alardeaba de ser modelo
+tiger
+Serious
+Punkin
+Beuatiful
+2
+
+
+MC
+Quien le tenia miedo a los pollos?
+Cherry
+Apple
+Buckeey
+Sweetie
+4
+
+
+MC
+Quien escupio a quien?
+Buckeey a Bootz
+Hoopz a New York
+Pumkin a New York
+Apple a Nibblz
+3
+
+
+MC
+Quien fue eliminada por que fue acusada de que tenia herpes en la boca?
+Krazy
+Beutiful
+Bamma
+Goldie
+2
+
+
+MC
+Quien Fue la mas gritona de toda la 1era Temorada?
+Smiley
+Rain
+Pumkin
+Bootz
+2
+
+
+MC
+Quien se fue porque entro New york en la segunda temporada?
+Bootz
+Buckeey
+Buckwild
+Pumkin
+3
+
+
+MC
+Quein fue la que dijo le tenian emvidia por que se parecia a beyonce?
+Hootie
+Smiley
+Payshintz
+Toasteee
+1
+
+
+MC
+Quienes fueron las 2 asiaticas de las 2 temporadas?
+Pumkin y Hoopz
+Bootz y Smiley
+Smiley y New york
+Payshintz y Smiley
+4
+
+
+MC
+Quien fue acusada de hacer pornografia y quien la acuso?
+Nibblz y Bamma
+Sweetie y Nibblz
+Thing 2 y Thing 1
+Toastee y Nibblz
+4
+
+
+MC
+Quien se cago en la alfombra de Flave?
+Goldie
+Rain
+Krazy
+Somethin
+4
+
+
+MC
+Quienes se pelearon por una cama?
+H-town y Spunkeey
+Nibblz y Hoopz
+H-town y Saaphyri
+Payshintz y Smiley
+3
+
+
+MC
+Quien salio primero de la casa de Flave en la segunda temporada antes de la eliminatori?
+Pumkin
+Apple
+Choclate
+Saaphyri
+4
+
+
+MC
+Quien fue la espia de la segunda temporada?
+Eye'z
+Hood
+Oyster red
+Deelishis
+1
+
+
+MC
+Quien fue la espia de la primera temporada?
+Sweetie
+Hood
+Oyster red
+Buckwild
+3
+
+
+MC
+Quien es la negra mas blanca?
+Buckeey
+Bootz
+New York
+Buckwild
+4
+
+
+MC
+Quien le tiro el zapato a New york en la Reunion?
+Deelishis
+Buckwild
+Bootz
+Hoopz
+2
+
+
+MC
+Quienes Persiguieron a New York en la 2da reunion?
+Buckwild, Apple, Hood y Deelishis
+Buckwild, Bootz, Deelishis y Saaphyri
+Wire, Toastee, Bootz y Sweetie
+Cherry, Pumkin, Deelishis y Hoopz
+2
+
+
+MC
+Quien Gano la primera temporada y Quien perdio
+Hood y New York
+Pumkin y New York
+Hoopz y New York
+Deelishis Y New york
+3
+
+
+MC
+Quien gano la segunda temporada y quien perdio
+Bootz Y New York
+New york y Nibblz
+Pumkin y Deelishis
+Deelishis Y New york
+4
+
+
+MC
+Como se llama el guarda espaldas de Flave?
+Big Ant
+Big John
+Big Rick
+Chamo
+3
+
+
+MC
+Como se llama la madre de New York
+Maria Patterson
+Sussan Patterson
+Michelle Patterson
+Lori Patterson
+3
+
+
+MC
+Donde Fue la final de la 1ra Temporada ?
+Puerto Vallarta, Mexico
+Cabo San Lucas, Mexico
+Placensia, Belice
+La casa de Flave
+4
+
+
+MC
+Donde fue la final de la 2da Temporada?
+Cabo San Lucas, Mexico.
+Puerto Vallarta, Mexico
+Cannes,  Francia
+Placencia, Belice.
+4
+
+
+MC
+con que se compromete Flave?
+Con un anillo
+Con dientes de oro
+Una corrona
+Un reloj Gigante
+2
+
+
+MC
+Quien Puso a prueba a las chicas en la 1ra Temporada y tambien fue Ex de Flave?
+Hoopz
+Brigitte Nielsen
+Adrienne Curri
+Hilary Duff
+2
+
+

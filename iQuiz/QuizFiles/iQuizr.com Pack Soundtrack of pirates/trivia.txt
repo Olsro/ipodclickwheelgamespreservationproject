@@ -1,0 +1,87 @@
+TITLE
+Soundtrack of pirates
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+7
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+on the soundtrack for dead mans chest which song is the longest
+I've got my eye no you
+Hello beastie
+A family affair
+Tia Dalma
+2
+
+
+MC
+what track sounds like a music box at the beginning
+Tia dalma
+Davy Jones
+You look good jack
+Two hornpipes
+2
+
+
+MC
+which song is the shortest
+hello beastie
+dinner is served
+two hornpipes
+wheel of fortune
+3
+
+
+MC
+which soundtrack is a bonus
+the kraken
+he's a pirate-tiesto remix
+dinner is served
+you look good jack
+2
+
+
+MC
+which track is played when jack is rowing in a coffin
+jack sparrow
+i've got my eye on you
+wheel of fortune
+you look good jack
+2
+
+
+MC
+are you done
+yes
+no
+maybe
+huh
+2
+
+
+MC
+what is my username
+piratelord
+legojack
+legowars42
+legostarwars42
+3
+
+

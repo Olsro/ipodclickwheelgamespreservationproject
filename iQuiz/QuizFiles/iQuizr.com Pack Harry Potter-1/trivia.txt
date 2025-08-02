@@ -1,0 +1,141 @@
+TITLE
+Harry Potter
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+13
+
+LOSE
+4
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Vad har Harry Potter för ögonfärg?
+Blå
+Gröna
+Ljusbruna
+Mörkbruna
+2
+
+
+MC
+Hur många syskon har Ron?
+Två
+Fyra
+Sex
+Åtta
+3
+
+
+MC
+Vilken form antar Hermiones Patronus?
+En utter
+En kanin
+En häst
+En fågel
+1
+
+
+MC
+När blev Harrys föräldrar dödade?
+På halloween
+På juldagen
+På Harrys ettårsdag
+På påskafton
+3
+
+
+MC
+Vad är det för färg på tröjorna som Ron får av sin mamma i julklapp varje år?
+Rödgrön
+Rödgul
+Rödbrun
+Rödsvart
+3
+
+
+MC
+Vem skickar den första uggleposten till Harry på Hogwarts?
+Mrs. Weasley
+Dumbledore
+Hagrid
+
+3
+
+
+MC
+I vilken arm blir Harry biten av basilisken under andra året?
+Höger
+Vänster
+
+
+1
+
+
+MC
+Vilken hårfärg har medlemmarna i familje Weasley?
+Blond
+Brunt
+Svart
+Rött
+4
+
+
+MC
+Vilket datum börjar skolåret på Hogwarts?
+1 mars
+1 juni
+1 september
+1 december
+3
+
+
+MC
+Vad är det för djur högst upp på stenpelarna vid skolgrindarna?
+Bevingade vildsvin
+Bevingade hundar
+Bevingade grävlingar
+Bevingade lejon
+1
+
+
+MC
+Hur många trappor finns det på Hogwarts?
+49
+142
+378
+549
+2
+
+
+MC
+Vilket djur representerar Hufflepuff på Hogwarts vapensköld?
+Lejon
+Orm
+Korp
+Grävling
+4
+
+
+MC
+Vilket djur kan professor McGonagall förvandla sig till?
+Hund
+Katt
+Fågel
+Kanin
+2
+
+

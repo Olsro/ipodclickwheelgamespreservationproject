@@ -1,0 +1,33 @@
+TITLE
+Química
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+1
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+¿Qué es un átomo?
+Parte de la materia divisible
+Parte de la materia más pequeña e indivisible
+Agua
+Ninguna
+2
+
+

@@ -1,0 +1,141 @@
+TITLE
+Geology TYK C-4
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+13
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Mount St. Helens
+last erupted violently in 1980
+is part of the Cascade Range
+is located in southern Washington
+all of the preceding
+4
+
+
+MC
+Volcanic eruptions can affect the climate because
+they heat the atmosphere
+volcanic dust and gas can reduce the amount of solar radiation that penetrates the atmosphere
+they change the elevation of the land
+all of the preceding
+2
+
+
+MC
+Wether volcanic eruptions are very explosive or relatively quiet is largely determined by
+the amount of gas in the lava or magma
+the ease or difficulty with which the gas escapes to the atmosphere
+the viscosity of a lava
+all of the preceding
+4
+
+
+MC
+Temperature at which lavas solidify range from about __ degrees C for silicic rocks to __ degrees C for mafic rocks.
+100, 200
+300, 1,000
+700, 1,200
+1,000, 2,000
+3
+
+
+MC
+One gas typically not released during a volcanic eruption is
+water vapor
+oxygen
+carbon dioxide
+sulfur dioxide
+2
+
+
+MC
+Mafic rocks cantain about __% silica.
+10
+25
+50
+65
+3
+
+
+MC
+Silicic rocks contaion about __% silica
+10
+25
+50
+70
+4
+
+
+MC
+Which is not an extrusive igneous rock?
+granite
+rhyolite
+basalt
+andesite
+1
+
+
+MC
+Which is not a major type of volcano?
+shield
+cinder cone
+composite
+spatter cone
+4
+
+
+MC
+A typical example of a  shield volcano is
+Mount St. Helens
+Kilauea in Hawaii
+El Chichon
+Mount Vesuvius
+2
+
+
+MC
+An example of a composite volcano is
+Mount St. Helens
+El Chichon
+Mount Vesuvius
+all of the preceding
+4
+
+
+MC
+Which volcano is not usually made of basalt?
+shield
+composite cone
+spatter cone
+cinder cone
+2
+
+
+MC
+An igneous rock made of pyriclasts has a texture called
+fragmental
+vesicular
+porphyritic
+fine-grained
+1
+
+

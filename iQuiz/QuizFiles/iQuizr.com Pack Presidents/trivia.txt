@@ -1,0 +1,114 @@
+TITLE
+Presidents
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+5
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Who was the first president?
+George Washington
+John Adams
+John Quincy Adams
+Yo Momma
+1
+
+
+MC
+What president served for exactly one month?
+Harry Truman
+FDR
+William Henry Harrison
+JFK
+3
+
+
+MC
+What was Harry S Truman's middle name?
+Stewart
+Simon
+Steve
+S
+4
+
+
+MC
+Who was the 22nd president?
+Benjamin Harrison
+Grover Cleveland
+Yo Momma
+Billy Clinton
+2
+
+
+MC
+Who was the 24th president?
+Grover Cleveland
+John Tyler
+Abigail Adams
+Dolly Madison
+1
+
+
+MC
+Who was the first female vice presidential candidate?
+Hillary Clinton
+Eleanor Roosevelt
+Geraldine Ferraro
+Barack Obama
+3
+
+
+MC
+What was JFK's middle name?
+Fitzgerald
+Fitzpatrick
+Franklin
+Fillmore
+1
+
+
+MC
+What color was George Washington's white horse?
+Brown
+Paint
+Black
+White
+4
+
+
+MC
+Who was the first president to reside in the White House?
+Franklin Pierce
+James Buchanan
+John Adams
+Thomas Jefferson
+3
+
+
+MC
+What was Franklin Pierce's greatest achievement?
+He ended the War of 1812
+He died
+He became president
+He had way too much hair gel
+4
+
+

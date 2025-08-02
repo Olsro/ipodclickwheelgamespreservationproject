@@ -1,0 +1,546 @@
+TITLE
+com 252 midterm
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+58
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What is Affinity
+to like or appreciate another
+arranging information in a meanfuly way
+to agree with one another
+
+1
+
+
+MC
+Channel
+to like or appreciate another
+arranging information in a meanfuly way
+The medium through which a message passes form the sender to receiver
+
+3
+
+
+MC
+Congnitive complexity
+People whose opinion is important enough to affects one's self-concept strongly
+arranging information in a meanfuly way
+more than one way to look at an issue
+
+3
+
+
+MC
+Communication competence
+to like or appreciate another
+arranging information in a meanfuly way
+The ability to to accomplish one,s personal goals in an manner that maintains a relationship on trems that are accpeted by all parties.
+
+1
+
+
+MC
+Decode
+The process in which a receiver attaches meaninig to a message.
+The relatively stable set of perceptions each indivdual holds of himself or herself
+more than one way to look at an issue
+
+1
+
+
+MC
+Encode
+The process of putting thoughts into symbols,most commonly words
+The person we believe ourselves to bein moments of candor.it may be identical with or different from presenting or idea self
+to agree with one another
+
+1
+
+
+MC
+Interpersonal communications
+to like or appreciate another
+In a quantitative sense communication(face to face)between two individuals.
+The process of putting thoughts into symbols,most commonly words
+
+2
+
+
+MC
+Miscommunication
+to like or appreciate another
+also know as Communication breakdown inaccurate,ineffective or unsatisfying communications.
+The person we believe ourselves to ban moments of candor may be identical with or different from presenting or idea self
+
+1
+
+
+MC
+Noise
+External, physiological and psychological distraction that interfere with the accurate transmission and reception of a message.
+arranging information in a meanfuly way
+more than one way to look at an issue
+
+1
+
+
+MC
+Receiver
+non verbal behaviors that reveal information a communicator does not disclose verbally
+Theory of linguistic determinism in which language shapes a culture's perceived reality
+One who notices and attends to a message
+
+3
+
+
+MC
+Self-monitoring
+The process of attending to ones behavior and using these observations to shape the way one behaves.
+arranging information in a meanfuly way
+The relatively stable set of perceptions each individual holds of himself or herself
+
+1
+
+
+MC
+Sender
+the process of adapting one's speech style to match others with whom the communicator want to identify
+The creator of a message
+The tendency to interpret and explain information in a way that cast the perceiver in the most favorable manner
+
+2
+
+
+MC
+Cognitive conservatism
+The image a person presents to otherwise may be identical with or different from perceived self
+also know as Communication breakdown inaccurate,ineffective or unsatisfying communications.
+The tendency to seek and attend to information that conforms to an existing self concept.
+
+3
+
+
+MC
+Identity management
+The relatively stable set of perceptions each individual holds of himself or herself
+The communication strategies people use to influence how other view them
+Evaluation of oneself in terms of or by comparison to others
+
+2
+
+
+MC
+perceived self
+People whose opinion is important enough to affects one's self-concept strongly
+The person we believe ourselves to ban moments of candor may be identical with or different from presenting or idea self
+The theory that a person self-concept matches the way the person believes other regard him or her
+
+2
+
+
+MC
+presenting self
+The image a person presents to otherwise may be identical with or different from perceived self
+The person we believe ourselves to ban moments of candor may be identical with or different from presenting or idea self
+A prediction or expectation of an event that makes the outcome more likely to occur than would otherwise have been the case
+
+1
+
+
+MC
+reflected appraisal
+The part of the self-concept that involves an individual's evaluations of his or her self worth
+Arranging information in a meaningful way
+The theory that a person self-concept matches the way the person believes other regard him or her
+
+3
+
+
+MC
+Self-concept
+A method for understanding an issue from several perspectives rather than with an egocentric" I am right and your wrong"
+The relatively stable set of perceptions each individual holds of himself or herself
+Arranging information in a meaningful way
+
+2
+
+
+MC
+self-esteem
+The part of the self-concept that involves an individual's evaluations of his or her self worth
+The relatively stable set of perceptions each individual holds of himself or herself
+The process of attaching meaning to sense data also see decoding
+
+1
+
+
+MC
+self fulling prophecy
+The person we believe ourselves to ban moments of candor may be identical with or different from presenting or idea self
+A prediction or expectation of an event that makes the outcome more likely to occur than would otherwise have been the case
+The part of the self-concept that involves an individual's evaluations of his or her self worth
+
+1
+
+
+MC
+significant others
+People whose opinion is important enough to affects one's self-concept strongly
+The power of first impression to influence subsequent perception
+A method for understanding an issue from several perspectives rather than with an egocentric" I am right and your wrong"
+
+1
+
+
+MC
+social comparison
+The process of attending to ones behavior and using these observations to shape the way one behaves.
+The process of determining the causal order of events
+Evaluation of oneself in terms of or by comparison to others
+
+3
+
+
+MC
+Empathy
+The power of first impression to influence subsequent perception
+The degree to which persons like or appreciate one another
+The ability to project oneself into another person's point of view,so as to experience the other's thoughts and feelings
+
+3
+
+
+MC
+Halo Effect
+The process by which emotions are transferred from one person to another.
+The power of first impression to influence subsequent perception
+the irrational belief that worth while communicators should be able to handle every situation with complete confidence.
+
+2
+
+
+MC
+Interpretation
+Emotions that contribute to effective functioning
+The process of attaching meaning to sense data also see decoding
+The process of attending to ones behavior and using these observations to shape the way one behaves.
+
+2
+
+
+MC
+Organization
+Arranging information in a meaningful way
+communication happen simultineously
+Emotions that prevent a person from functioning effectively
+
+1
+
+
+MC
+Perception checking
+The ability to project oneself into another person's point of view,so as to experience the other's thoughts and feelings
+the irrational belief that satisfaction in the life is determined by forces beyond one's control
+A three part method for verifying the accuracy of interpretations,including a description of sense data,two possible interpretation,and a request for confirmation of the interpretations.
+
+3
+
+
+MC
+Pillow method
+The tendency to interpret and explain information in a way that cast the perceiver in the most favorable manner
+A method for understanding an issue from several perspectives rather than with an egocentric" I am right and your wrong"
+Language that lacks a description of observable elements
+
+2
+
+
+MC
+Punctuation
+The ability to project oneself into another person's point of view,so as to experience the other's thoughts and feelings
+The process of determining the causal order of events
+Emotions that contribute to effective functioning
+
+2
+
+
+MC
+selection
+The first stage in the perception process in which some data are chosen to attend to and others to ignore.
+Evaluation of oneself in terms of or by comparison to others
+Arranging information in a meaningful way
+
+1
+
+
+MC
+self-serving bias
+The tendency to interpret and explain information in a way that cast the perceiver in the most favorable manner
+The nonvocal process of thinking. On some level,self-talk occurs as a person interprets another' behavior.
+The power of first impression to influence subsequent perception
+
+2
+
+
+MC
+stereotyping
+overgeneralization
+The power of first impression to influence subsequent perception
+The process by which emotions are transferred from one person to another.
+
+1
+
+
+MC
+Debilitation emotions
+The ability to project oneself into another person's point of view,so as to experience the other's thoughts and feelings
+Emotions that contribute to effective functioning
+Emotions that prevent a person from functioning effectively
+
+3
+
+
+MC
+emotional contagion
+Language that lacks a description of observable elements
+The process by which emotions are transferred from one person to another.
+speaking mannerisms that emphasize a communicator's differences from others.
+
+2
+
+
+MC
+Facilitative emotional
+Emotions that contribute to effective functioning
+the irrational belief that the worst possible outcome will probably occur
+Emotions that prevent a person from functioning effectively
+
+1
+
+
+MC
+Fallacy of approval
+the irrational belief that the worst possible outcome will probably occur
+the irrational belief that emotions are caused by others and not by the person who has them
+The irrational belief that it is vital to win the approval of virtually every person a communicator deals with
+
+3
+
+
+MC
+Fallacy of perfection
+the irrational belief that satisfaction in the life is determined by forces beyond one's control
+the irrational belief that emotions are caused by others and not by the person who has them
+the irrational belief that worth while communicators should be able to handle every situation with complete confidence.
+
+3
+
+
+MC
+Fallacy of causation
+The irrational belief that it is vital to win the approval of virtually every person a communicator deals with
+the irrational belief that the worst possible outcome will probably occur
+the irrational belief that emotions are caused by others and not by the person who has them
+
+3
+
+
+MC
+Fallacy of helplessness
+the irrational belief that satisfaction in the life is determined by forces beyond one's control
+arranging information in a meanfuly way
+The irrational belief that it is vital to win the approval of virtually every person a communicator deals with
+
+1
+
+
+MC
+self-talk
+Ambiguous language that has two or more equally plausible meaning
+The nonvocal process of thinking. On some level,self-talk occurs as a person interprets another' behavior.
+more than one way to look at an issue
+
+2
+
+
+MC
+Embelm
+Gestures
+awards of actions
+more than one way to look at an issue
+
+1
+
+
+MC
+Who was Albert Ellis ,what was his theory?
+An psychologist who devolped Rational Emotive Behavior Therapy
+An antnropoloist who invented Personal space
+an inventor of the modern day business cards
+
+1
+
+
+MC
+Abstract Language
+In a quantitative sense communication(face to face)between two individuals.
+Language that lacks a description of observable elements
+Categorizing individuals according to a set of characteristics assumed to belong to all member of a group
+
+2
+
+
+MC
+Convergence
+the process of adapting one's speech style to match others with whom the communicator want to identify
+The tendency to view people or relationships as unchanging
+Ambiguous language that has two or more equally plausible meaning
+
+1
+
+
+MC
+Divergence
+
+
+
+
+1
+
+
+MC
+Divergence
+A statement that describes the speaker's reaction to another person's behavior without making judgments about its worth
+The nonvocal process of thinking. On some level,self-talk occurs as a person interprets another' behavior.
+speaking mannerisms that emphasize a communicator's differences from others.
+
+3
+
+
+MC
+Emotive Language
+language that conveys the sender's attitude rather than simply offers an objective description.
+Ambiguous language that has two or more equally plausible meaning
+Language that lacks a description of observable elements
+
+1
+
+
+MC
+Equivocal Language
+Ambiguous language that has two or more equally plausible meaning
+language that conveys the sender's attitude rather than simply offers an objective description.
+Language that lacks a description of observable elements
+
+1
+
+
+MC
+"I" language
+A statement that describes the speaker's reaction to another person's behavior without making judgments about its worth
+Language that lacks a description of observable elements
+Ambiguous language that has two or more equally plausible meaning
+
+1
+
+
+MC
+Linguistic determinism
+The process by which emotions are transferred from one person to another.
+That the world view of culture is shape and reflected by language its members speaks
+speaking mannerisms that emphasize a communicator's differences from others.
+
+2
+
+
+MC
+Tapir-whorf hypothesis
+Theory of linguistic determinism in which language shapes a culture's perceived reality
+language that conveys the sender's attitude rather than simply offers an objective description.
+the irrational belief that the worst possible outcome will probably occur
+
+1
+
+
+MC
+Static evaluation
+speaking mannerisms that emphasize a communicator's differences from others.
+the irrational belief that worth while communicators should be able to handle every situation with complete confidence.
+The tendency to view people or relationships as unchanging
+
+3
+
+
+MC
+Intimate distance
+4 to 12 ft
+skin contact to 18 inches
+12 ft out
+
+2
+
+
+MC
+Personal distance
+4 to 12 ft
+12 ft out
+18 inches to 4ft
+
+3
+
+
+MC
+Social distance
+18 inches to 4ft
+12 ft out
+4 to 12 ft
+
+3
+
+
+MC
+public distance
+12 ft out
+4 to 12 ft
+skin contact to 18 inches
+
+1
+
+
+MC
+Who id Edward T Haal What is his Theory
+Theory of linguistic determinism in which language shapes a culture's perceived reality
+anthropologist and cross-cultural researcher Hall first created the concept of phonemics, or personal spaces
+American psychologist who in 1955 developed rational emotive behavior therapy
+
+2
+
+
+MC
+Leakage
+non verbal behaviors that reveal information a communicator does not disclose verbally
+The tendency to view people or relationships as unchanging
+more than one way to look at an issue
+
+1
+
+

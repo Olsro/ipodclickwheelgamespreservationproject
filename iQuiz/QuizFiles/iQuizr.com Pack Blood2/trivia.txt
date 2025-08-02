@@ -1,0 +1,474 @@
+TITLE
+Blood2
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+50
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+It is used in evaluation of ADH
+Osmolarity Blood
+Osmolarity Urine
+Osmolarity Serum
+Growth Hormone
+2
+
+
+MC
+When are Osmolarity serum and urine being done and compare the result?
+in the morning
+At the same time
+in the evening
+It depends
+2
+
+
+MC
+Which between the osmolarity serum and urine  is higher in result normally?
+Osmolarity Blood
+Osmolarity Urine
+Growth hormone
+It has the same result
+2
+
+
+MC
+What is the normal result of ACTH suppression?
+39% lower in cortisone production
+25% lower in cortisone production
+45% lower in cortisone production
+50% lower in cortisone production
+4
+
+
+MC
+Is ACTH Suppression Test an overnight test?
+No
+Maybe
+Yes
+
+3
+
+
+MC
+What is the other term for ACTH Suppression?
+Plasma Cortisol Test
+Dexamethasone Suppression Test
+Blood Urine Test
+
+2
+
+
+MC
+What is the normal value of cortisol?
+<5 mcg/dl
+>5 mcg/dl
+<10mcg/dl
+<25 mcg/dl
+1
+
+
+MC
+In ACTH Suppression Test, When is the small amount of dexamethasone being administered?When are the serum and urine being evaluated?
+in the morning and in the evening
+in the afternoon and in the midnight
+in the evening and in the  morning
+It depends
+3
+
+
+MC
+Plasma cortisol levels increase in
+in the morning
+in the afternoon
+in the evening
+It depends
+1
+
+
+MC
+Plasma cortisol levels decrease in
+in the morning
+in the afternoon
+in the evening
+It depends
+3
+
+
+MC
+What is the normal value of 24 hour urine for hydroxycorticosteroids ketosteroids for male?
+16-30mg/24 hour
+15-40mg/24 hour
+2-10mg/24 hour
+6-20mg/24 hour
+4
+
+
+MC
+Increase in the 24 hour urine for hydroxycorticosteroids indicates what?
+Hypoadrenal function
+Hyperadrenal Function
+
+
+2
+
+
+MC
+what is the normal plasma cortisol level at 8am?
+34-49mcg/dl
+24-30mcg/dl
+2-4mcg/dl
+5-23mcg/dl
+4
+
+
+MC
+The following are the signs of allergic reaction of Blood Transfurion except
+Facial flushing
+Pruritus, Urticaria(hives)
+Severe SOB, bronchospasms
+All of the above
+4
+
+
+MC
+what is the normal plasma cortisol level at 4pm?
+15-18mcg/dl
+3-13mcg/dl
+19-21mcg/dl
+
+2
+
+
+MC
+What is the normal value of 24 hour urine for hydroxycorticosteroids ketosteroids for female?
+6-17mg/24 hour
+21-26mg/24 hour
+27-32mg/24 hour
+
+1
+
+
+MC
+What is the nursing intervention when the patient started having allergic reaction to Blood Transfusion?
+Notify the physician
+Give some water
+Give Some oxygen
+Stop the transfusion
+4
+
+
+MC
+What is the normal value of 24 hour urine for hydroxycorticosteroids ketosteroids for child under 15 years old?
+>7 mg/24 hour
+<5mg/24 hour
+>5mg/24 hour
+>2mg/24 hour
+2
+
+
+MC
+The following are the signs of febrile reaction of Blood Transfusion
+Chills, Fever, Increased anxiety
+Headache and Flushing
+Muscle stiffness/pain
+All of the above
+4
+
+
+MC
+What is the most common reaction of Blood Transfusion?
+Febrile Reaction
+Respiratory reaction
+Allergic Reaction
+
+1
+
+
+MC
+Nursing intervanetions for a patient having a febrile reaction from BT?
+Notify the physician
+Keep patient covered and warm
+Stop the transfusion
+B and C
+4
+
+
+MC
+What is the purpose of Bone MArrow Transplant?
+To restore gastrointestinal function
+To restore musculoskeletal function
+To restore neurological function
+to restore hematological and immunological function
+4
+
+
+MC
+For adult, how many ml of bone marrow may be aspirated from donor'd iliac crest?
+350-380 ml
+900-1120ml
+400-800 ml
+680-900 ml
+3
+
+
+MC
+Bone MArrow Transplant Typing: Which of the following that matches with histocompatible donor?
+Allogenic
+Autologous
+Syngeneic
+
+1
+
+
+MC
+Bone MArrow Transplant Typing: Which of the following that uses client's bone marrow?
+Allogenic
+Autologous
+Syngeneic
+
+2
+
+
+MC
+Bone MArrow Transplant Typing: Which of the following where the donor is the identical twin with perfect tissue match?
+Allogenic
+Autologous
+Syngeneic
+
+3
+
+
+MC
+What are the complications of Bone MArrow Transplant?
+Infection,GI disturbance, Altered liver enzyme
+Severe thrombocytopenia
+Erythematous rash on palms/feet
+All of the above
+4
+
+
+MC
+When do the RBC, WBC,platelets start to form?
+6-8 weeks after transplant
+2-5 weeks after transplant
+10-12 weeks after transplant
+12-13 weeks after transplant
+2
+
+
+MC
+The most important thing to do before performing the Blood Transfusion?
+Medical History
+Patient's social History
+Informed consent
+
+3
+
+
+MC
+Check the following before performing Blood Transfusion?
+ABO group, Rh type of patient
+Patient's record, name, hospital number on unit of blood and on crossmatch record
+Expiration date
+All of the above
+4
+
+
+MC
+Should the blood be admin immediately after receiving it from the bank?
+Yes
+No
+Maybe
+Not sure
+1
+
+
+MC
+Can blood be stored at room temperature?Or unit refrigerator?
+No
+Yes
+Maybe
+
+1
+
+
+MC
+What is the maximum time that the blood can be out of storage monitor?
+1 hour
+50 mins
+40 mins
+30 mins
+4
+
+
+MC
+Things to remember in doing Blood Transfusion:
+Do not add any meds to blood
+Do not warm blood before transfusion;Do not use microwave to warm the blood
+Inspect for leaks, AbN color, bubbles, exc air.
+All of the above
+4
+
+
+MC
+Is it recommended to use an infusion pump in Blood Transfusion?
+Yes to make the blood easier to transfuse
+Yes, it doesnt matter
+No because it increases RBC hemolysis
+
+3
+
+
+MC
+Average rate of transfusion in adult
+1 unit of blood over 6 hours
+1 unit of blood over 3-4 hours
+2 unit of blood over 3-4 hours
+
+2
+
+
+MC
+In administering Platelets and FF Plasma, the following are helpful:
+Obtain type and crossmatch records; Check Client and unit ID
+FFP-admin immediately. Infuse each unit as fast as the client will tolerate.
+Infuse each unit as fast as the client will tolerate.
+All of the above
+4
+
+
+MC
+Goal for patient with Leukemia
+Restore muscle strength
+Prevent body weakness
+Prevent infection
+Maintain normal skin integrity
+3
+
+
+MC
+Nursing interventions for a patient who have a leukemia:
+Monitor Temp
+Meticulous skin care,oral hygiene, perinial area care.
+Provide adequate protein/calorie intake, hydration
+All of the above
+4
+
+
+MC
+Which of the ff that need to avoid when a patient has a leukemia
+No polio, varicella, MMR
+Urinary Catheter
+A and B
+None of the above
+3
+
+
+MC
+Do not take this medication if with leukemia:
+Acetaminophen
+Aspirin
+
+
+2
+
+
+MC
+Goal for patient with Leukemia is to stop bleeding. The ff are Bleeding precaustions:
+Avoid overinflation of BP cuff,Discourage from vigorous coughing or nose blowing
+Avoid catheters. Use electric razor for shaving, soft toothbrush.
+Perform GUAIAC Test on stool
+All of the above
+4
+
+
+MC
+What is Multiple Myeloma?
+Malignancy of plasma cells specifically the lymphocytes
+infiltration occurs in bones
+both A and B
+
+3
+
+
+MC
+What are th characteristics of Multiple Myeloma?
+BAck/Bone pain
+Hypercalcemia
+Renal Failure
+All of the above
+4
+
+
+MC
+Treatment for Multiple Myeloma
+Calcium and radiation
+Chemotherapy and P. Radiation Therapy
+P. Radiation Therapy and calcium
+
+2
+
+
+MC
+What is the diagnostic test for Multiple Myeloma
+Serum Test
+Protein Electrophoresis
+Urine Test
+A and B
+4
+
+
+MC
+Adequate hydration and analgesic for pain: For Multiple Myeloma
+No
+Yes
+Maybe
+Sometimes
+2
+
+
+MC
+How many lbs of weight that the multiple myeloma patient is not allowed to lift
+less than 10 lbs
+less than 20 lbs
+more than 10 lbs
+
+3
+
+
+MC
+It is a defect in clotting mechanism and recognized during toddler
+Anemia
+Sickle Cell Anemia
+Multiple Myeloma
+Hemophilia
+4
+
+
+MC
+Carrier of Hemophilia
+Gay
+Male
+Female
+Grandparents
+3
+
+

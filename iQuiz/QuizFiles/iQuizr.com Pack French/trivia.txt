@@ -1,0 +1,60 @@
+TITLE
+French
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+4
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+topping
+la garniture
+le mec
+le garniture
+la coiffure
+1
+
+
+MC
+Potato
+la pomme de terre
+le potato
+la pomme de terre
+la potato
+3
+
+
+MC
+Mushroom
+un anchois
+un oignon
+une chanmpignon
+un champignon
+4
+
+
+MC
+War film
+un film de geurre
+une film du guerre
+un film de gutte
+un filme du gutte
+1
+
+

@@ -1,0 +1,100 @@
+TITLE
+Cats & Dogs
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+TF
+Cats twitch the tips of their tails when angry, displeased, or hunting.
+TRUE
+
+TF
+A litter of kittens may have more than one father.
+TRUE
+
+MC
+This highly energetic family dog is a hunter by nature.  He follows his nose in search of hare, quail, and pheasant, and won’t stop until he finds the source of the scent.
+Beagle
+German Shepherd
+Golden Retriever
+Irish Setter
+1
+
+MC
+These extremely loyal and proud standing dogs are widely used in search and rescue missions, police and military work.  The breed’s name is rumored to be derived from a fighting like motion the dog makes with its front paws.
+Pit Bull
+Boxer
+ Pug
+Rottweiler
+2
+
+MC
+Now a family member and/or show dog, these wide bodied dogs made their start in Great Britain as a participant in bull baiting.  They also spent some time fighting bears and lions.
+Mastiff
+Great Dane
+Bull Dog
+Great Pyrenees
+3
+
+TF
+Touching noses is NOT a friendly greeting for cats.
+FALSE
+
+TF
+ When cats paw and kneed an object they are marking their territory with the scent glands located on the bottom of their paws.
+TRUE
+
+TF
+Some cats can be toilet trained.
+TRUE
+
+MC
+  This toy dog breed is about as small as dog breeds come, has been around the longest, and lives the longest of just about any dog breed.
+Dachshund
+Bichon Frisé
+Shih Tzu
+Chihuahua
+4
+
+MC
+This breed was the first ever to be used in aiding the blind.
+German Shepherd
+Labrador Retriever
+Golden Retriever
+Border Collie
+1
+
+MC
+ This great family dog has a double coat that is water repellent and weather resistant.  This breed is also easy to train and is often working in therapy or service related fields.
+Maltese
+Boxer
+German Shepherd
+Golden Retriever
+4
+
+TF
+If a cat does not exercise its voice often, its call will remain similar to the calls of a kitten.
+TRUE
+
+TF
+ Cats are capable of vocalizing as many as 100 different ways.
+TRUE
+
+TF
+Spaying and neutering cats reduces the risk of certain forms of cancer.
+TRUE
+
+MC
+Speculation has these smaller dogs hailing from Asia; regardless, this breed is a big dog trapped in a small dog’s body.
+Pug
+Pomeranian
+Toy Poodle
+Chihuahua
+1
+

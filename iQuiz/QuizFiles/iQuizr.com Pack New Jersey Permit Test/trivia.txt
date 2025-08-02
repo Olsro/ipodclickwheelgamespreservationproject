@@ -1,0 +1,276 @@
+TITLE
+New Jersey Permit Test
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+28
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+If you are a licensed driver and become a resident in NJ, how long do you have to obtain a NJ driver’s license?
+30 days
+2 weeks
+1 week
+60 days
+4
+
+
+MC
+If you have a blow out you should:
+speed up.
+pull off the road.
+call for help.
+gradually slow down and pull to the side of the road.
+4
+
+
+MC
+When you buy a used car, the car must be inspected within:
+one week
+two weeks
+30 days
+60 days
+2
+
+
+MC
+A warning sign is the shape of:
+a diamond
+a square
+a rectangle
+a triangle
+1
+
+
+MC
+The shape of a yield sign is a
+triangle
+diamond
+square
+rectangle
+1
+
+
+MC
+At a speed of 50mph you should
+slow down.
+stay 5 car lengths behind the person in front of you.
+stop.
+stay five car lengths in front of the person in back of you.
+2
+
+
+MC
+If your car fails inspection you have __ to make repairs on it.
+60 days
+one week
+30 days
+two weeks
+3
+
+
+MC
+When driving a motor vehicle you are required to have your driver's license and
+registration
+insurance card
+registration and insurance card
+registration and proof of purchase.
+3
+
+
+MC
+The NJ speed limit in a residential or business district unless otherwise posted is:
+25 mph
+15 mph
+30 mph
+20 mph
+1
+
+
+MC
+You should always yield to
+pedestrians outside the crosswalk
+santa
+emergency vehicles
+your mom
+3
+
+
+MC
+A document that will be accepted at DMV is:
+your birth certificate
+a friend vouching for you.
+your mom's signature.
+a grilled cheese sandwich.
+1
+
+
+MC
+When using the breaks, a common mistake new drivers make is:
+pumping the breaks.
+not breaking soon enough.
+stopping short.
+hitting the breaks too hard.
+4
+
+
+MC
+Left foot breaking is undesireable because
+you wear a figure skate on that foot
+you have a tendency to ride the break.
+you don't react quickly enough.
+you stop short.
+2
+
+
+MC
+An eight sided sign means
+ICE CREAM!
+STOP.
+Santa Claus Xing
+an eight sided sign
+1
+
+
+MC
+If you are involved in a personal injury accident that requires you to report it to the DMV, you must
+fight the person who injured you.
+apologize to the person you injured.
+report the accident to your insurance company at once.
+cry.
+3
+
+
+MC
+When must you signal before making a turn?
+100 yards in advance
+two blocks in advance
+one block in advance
+100 feet in advance
+4
+
+
+MC
+How close may you park to a stop sign?
+50 feet
+25 feet
+20 feet
+10 feet
+1
+
+
+MC
+How close may you park to a corner?
+50 feet
+25 feet
+20 feet
+10 feet
+2
+
+
+MC
+How close may you park to a fire hydrant?
+50 feet
+25 feet
+20 feet
+10 feet
+4
+
+
+MC
+What is the stopping distance on a dry road at 50 m.p.h.?
+There is none, you'll crash.
+243 feet
+324 feet
+234 feet
+2
+
+
+MC
+What is the proper distance you may park from the curb?
+6 inches
+8 inches
+12 inches
+5 inches
+1
+
+
+MC
+What are the penalties for driving without insurance?
+Fine.
+Suspension of driver's license.
+Suspension of driver's license and registration and fines
+Revoction of driver's license.
+1
+
+
+MC
+Serious accidents causing death, injury or $200 damage must be reported within 5 days to?
+The police
+A Division of motor Vehicles office
+YOUR MOM
+hi.
+2
+
+
+MC
+Points are only issued for?
+Assaulting an officer.
+Resisting arrest.
+Moving violations.
+hi.
+3
+
+
+MC
+When will you be given a proposed License Suspension Notice?
+12 points.
+10 points.
+5 points.
+7 points.
+1
+
+
+MC
+What is the penalty for driving with a suspended license-first offense?
+$500 fine.
+Revoction of license.
+2 years in jail.
+Fine of $500 and up to 6 months additional license suspension
+4
+
+
+MC
+Up to 3 points may be subtracted from your record if you receive no moving violations for how long?
+two years
+six months
+three years
+one year
+4
+
+
+MC
+Penalty for refusing the breath test?
+Arrest.
+Fine.
+6 month license suspension.
+hi.
+1
+
+

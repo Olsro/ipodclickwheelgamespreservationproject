@@ -1,0 +1,159 @@
+TITLE
+Tokio Hotel Quiz
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+15
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Cuantos años tenian los gemelos Kaulitz cuando empesaron a crear música?
+5
+7
+10
+13
+2
+
+
+MC
+Cuantos integrantes tiene el grupo Tokio Hotel?
+2
+1
+6
+4
+4
+
+
+MC
+Cual Es la version en inglés de Spring Nicht?
+Don´t Jump
+1000 oceans
+Scream
+Ready, Set Go!
+1
+
+
+MC
+En que álbum está la cancion Black?
+Zimmer 483
+Schrei
+Scream
+Ich Bin Da
+3
+
+
+MC
+Quienes Son los menores del grupo?
+Gustav y Georg
+Bill y Tom
+Georg y Bill
+Gustav y Tom
+2
+
+
+MC
+Cual fue el primer nombre que tubo antes de llamarse Tokio Hotel?
+Scream
+Rock´r Boys
+The Darks
+Devilish
+4
+
+
+MC
+Cuantos años tenía Tom cuando se hizo rastas?
+17
+10
+11
+15
+2
+
+
+MC
+Cuantos años tenía Gustav al cambiarse de estilo de pelo?
+13
+15
+Nunca ha cambiado de estilo de pelo
+18
+3
+
+
+MC
+Cual fue su cancion ganadora de los premios MTV?
+Monsoon
+Scream
+On the Edge
+Nach Dir Kommt Nichts
+1
+
+
+MC
+A que album pertenece Nach Dir Kommt Nichts?
+Zimmer 483
+Scream
+Scream America!
+Der Letzte Tag
+1
+
+
+MC
+Cual es la version en aleman de Rescue Me?
+1000 Meere
+Nach Dir Kommt Nichs
+Schwerlelos
+Rette Mich
+4
+
+
+MC
+Lee este lyric... Running through the ... beyond the world ... De que cancion es?
+Scream
+Forgotten Children
+Vergessene Kinder
+Moonsoon
+4
+
+
+MC
+Schrei es la version en aleman de..
+Monsoon
+Forgotten Children
+Scream
+Black
+1
+
+
+MC
+Que significa vergessene kinder en ingles?
+Forgotten Children
+Playing in the garden
+Lost People
+I am in the kinder
+1
+
+
+MC
+Cuantos años tenía Bill cuando cantó por primera vez Unendlichkeit?
+5
+12
+13
+9
+3
+
+

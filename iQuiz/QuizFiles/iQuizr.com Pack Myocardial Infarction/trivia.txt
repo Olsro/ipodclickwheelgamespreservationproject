@@ -1,0 +1,78 @@
+TITLE
+Myocardial Infarction
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+6
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+S/sx of MI EXCEPT
+relieved by nitroglycerin or rest
+crushing substernal chest pain
+lasts longer than anginal pain
+radiate to the jaw back and arms
+1
+
+
+MC
+ECG result in MI
+enlarged Q wave
+elevated/depressed ST segment
+T wave inversion
+All of the above
+4
+
+
+MC
+Analgesic for MI
+Ibufrofen
+Morphine
+Aspirin
+
+2
+
+
+MC
+How should the nitroglycerin nitorBID be administered?
+IV
+oral
+Injection
+
+1
+
+
+MC
+Key s/sx of MI EXCEPT
+Anticoagulants
+THrombolytic therapy
+BT
+O2 Therapy
+3
+
+
+MC
+WHen should the ECG reading be done
+After acute pain
+when the pt is calm
+before acute pain
+during acute pain
+4
+
+

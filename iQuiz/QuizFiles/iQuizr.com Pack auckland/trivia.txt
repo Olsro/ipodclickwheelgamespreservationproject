@@ -1,0 +1,114 @@
+TITLE
+auckland
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+5
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+what is it in the wolrd
+very tall you can see it from anywhere in the world
+10th tallest
+12
+it is very short and it isn't in the top 20
+3
+
+
+MC
+about how many visitor does it attract a year
+8623876497236
+57896893657537
+600000
+500000
+3
+
+
+MC
+how tall is the sky tower
+673 metres
+2 metres
+222 metres
+328
+4
+
+
+MC
+are you allowed to jump off it
+yes from the very very top
+yes but with a bungy cord
+no its forbidden
+
+2
+
+
+MC
+what is it ranked in the southern hemisphere
+1st
+2nd
+3rd
+4th
+1
+
+
+MC
+about how far can you se in all directions when you are up there
+20 meters
+30 meters
+40 meters
+50 meters
+3
+
+
+MC
+what is the largest city in nz
+auckland
+wellington
+christchurch
+dunduin
+1
+
+
+MC
+what is aucklands nickname
+boating city of whales
+whales capital
+whales city
+city of sails
+4
+
+
+MC
+what is one of the harbours that auckland is inbetween
+waitemata
+auckz
+cook strait harbour
+south harbour
+1
+
+
+MC
+does auckland have the largest population in nz
+no
+maybe
+yes
+
+3
+
+

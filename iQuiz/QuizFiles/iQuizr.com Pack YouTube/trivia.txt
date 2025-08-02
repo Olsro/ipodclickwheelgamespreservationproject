@@ -1,0 +1,114 @@
+TITLE
+YouTube
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+4
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Wer ist der "zweit" beliebteste YouTube-Account ?
+Y-Titty
+freshaltefolie
+DieAussenseiter
+halfcastgermany
+3
+
+
+MC
+Wer ist der beste Beatboxer (in Deutschland) auf YouTube ?
+Albertoson
+TugayBeatBox
+DerTypAusFrankfurt
+DasMirkoLP
+1
+
+
+MC
+Welcher YouTube-Account sagt in seinen Videos immer "YO BITCHES" ?
+AudioHeroTV
+manniacmind
+julsfruit
+DieseSchuleRockt
+2
+
+
+MC
+Wie viel Abonnenten hat der YouTube-Kanal "Y-TITTY" ?
+ca. 300.000
+ca. 400.00
+ca. 290.000
+ca. 100.000
+3
+
+
+MC
+Wie heiﬂen die Namen von Y-TITTY ?
+H‰nsel, Gretel & die Hexe
+TC, Phil & OG
+Deine Mudda, Dein Vadder & Deine Schwester
+Sie sind "namenlos"
+2
+
+
+MC
+Wie heiﬂt "freshaltefolie" mit Vornamen ?
+Torge
+Peter
+Hans
+Ludwig
+1
+
+
+MC
+Wie heiﬂt der YouTuber der die Beats f¸r Y-Titty-Parodien macht ?
+AudioHeroTV
+5xlBeats
+theemu
+DaPhilPhil
+3
+
+
+MC
+Wie heiﬂt der YouTuber-Kanal der die Interviews mit Prominenten durchf¸hrt ?
+freshaltefolie
+Clixoom
+albertoson
+coldmirror
+2
+
+
+MC
+Wie heiﬂt der YouTube-Kanal der auf dem Fernsehsender "einsfestival" eine eigene Show hat ?
+Coldmirror
+DieAussenseiter
+HerrTutorial
+manniacmind
+1
+
+
+MC
+Wer hat das Video "Umfrage zum Integrationstest" gemacht und auf YouTube gestellt ?
+YouTube
+teddycomedy
+SexyJuliaOfficial
+Dima
+2
+
+

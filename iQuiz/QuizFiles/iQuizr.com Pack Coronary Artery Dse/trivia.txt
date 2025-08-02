@@ -1,0 +1,105 @@
+TITLE
+Coronary Artery Dse
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+9
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+It is a result from build up  of atherosclerotic plaque in the arteries of the heart
+Cardiomyopathy
+HPN
+Arterial Occlussive Dse
+Coronary Arterial Dse
+4
+
+
+MC
+This is the most common symptom of Coronary artery Dse
+Angina Chest pain
+Shoulder pain
+Pain from shoulder to jaw
+
+1
+
+
+MC
+Blood chemistry test for coronary artery Dse
+Increased cholesterol
+Decrease HDL
+Increase LDL
+All of the above
+4
+
+
+MC
+In coronary artery Disease, what does the ECG/Holter monitoring show?
+ST segment depression
+T wave inversion
+A and B
+
+3
+
+
+MC
+Key tx for coronary artery Dse
+Wt Loss
+Low fat,low sodium,low cholesterol diet
+Estrogen Replacement therapy for postmenopausal women
+All of the above
+4
+
+
+MC
+In coronary artery Disease, When to obtain ECG
+After anginal episodes
+Before anginal episodes
+During anginal episodes
+
+3
+
+
+MC
+In coronary artery Disease, what to administer for anginal episodes?
+CHolestyramine
+Nitroglycerin
+Nicotinic acid
+
+2
+
+
+MC
+An analgesic therapy for  coronary artery dse?
+Morphine IV
+Codeine
+ibufropen
+
+1
+
+
+MC
+Anticoagulants for coronary artery dse?
+Morphine
+Heparin
+Dalteparin
+B and C
+4
+
+

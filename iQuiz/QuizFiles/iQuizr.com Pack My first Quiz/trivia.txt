@@ -1,0 +1,87 @@
+TITLE
+My first Quiz
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+7
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Wie viel PS hat meine Karre ?
+380
+90
+89.98
+27
+3
+
+
+MC
+Wie viel zahlen Gibt es ?
+10
+unendlich
+16
+13
+1
+
+
+MC
+Warum ist die Banane krumm ?
+Darum
+weiss net
+
+
+1
+
+
+MC
+Welche Farbe hat ein Grün ?
+Blau
+Rot
+Grün
+Schwarz
+3
+
+
+MC
+Kann man Google auch mit einem o schreiben
+ja
+nein
+
+
+1
+
+
+MC
+Wie teuer ist ein Cheesburger beim BK ?
+0,99€
+1€
+
+
+1
+
+
+MC
+Wer hats erfunden ?
+von PullMoll
+von Rikola
+die Schweizer
+
+3
+
+

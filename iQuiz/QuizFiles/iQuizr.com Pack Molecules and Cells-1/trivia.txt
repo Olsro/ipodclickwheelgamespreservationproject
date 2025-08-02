@@ -1,0 +1,213 @@
+TITLE
+Molecules and Cells
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+21
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Which of the following macromolecules does not contain monomers?
+Proteins
+Triglycerides
+Starch
+Ribonucleic Acids
+2
+
+
+MC
+The attraction that is responsible for the relatively high melting and boiling points of water is collectively termed ___.
+van der Waals interactions
+ionic bonds
+hydogen bonds
+covalent bonds
+3
+
+
+MC
+Which statement is true?
+Proteins are made of amino acids held together by ester bonds.
+The primary protein structure is based on types of bonding between amino acids.
+Steroids are complex proteins needed to control the body's chemistry.
+A polysaccharide is a complex carbohydrate needed for storage and structure.
+4
+
+
+MC
+All of the following reactions involve dehydration synthesis except ___.
+the digestion of a polysaccharide
+the formation of a disaccharide
+the formation of a salt
+the production of a complex sugar
+1
+
+
+MC
+Which of the following sugars is not a hexose?
+galactose
+mannose
+ribulose
+fructose
+3
+
+
+MC
+The main structural difference between starch and cellulose is the ___.
+configuration of the hydroxyl (-OH) group
+the degree of branching
+the type of monomer linkage
+all of the above
+1
+
+
+MC
+Enzymes speed of biochemical reactions by doing what?
+By increasing the activation energy for that reaction.
+By increasing the temperature of the reaction.
+By lowering the activation energy for that reaction.
+By digesting the reactants.
+3
+
+
+MC
+Animals in tropical regions have abundant ___ in the cell membranes of their cells.
+saturated fats
+unsaturated fat
+cholesterol
+phospholipids
+1
+
+
+MC
+Glycine is:
+an amino acid
+a phosphate group
+a pentose
+a nucleic acid
+1
+
+
+MC
+DNA is the abreviation for:
+deobonucleic acid
+deoxyrinucleic acid
+deroxybonucleic acid
+deoxyribonucleic acid
+4
+
+
+MC
+Which of the following is considered the 'building blocks' of nucleic acids?
+amino acids
+nucleotides
+RNA
+DNA
+2
+
+
+MC
+Uracil forms a base pair with:
+Guanine
+Adenine
+Thymine
+Cytosine
+2
+
+
+MC
+Uracil occurs only in:
+RNA
+DNA
+proteins
+amino acids
+1
+
+
+MC
+What is the most appropriate definition for the term 'compound'?
+Anything that occupies space and has mass.
+The most basic unit of matter; a substance that cannot be decomposed into simpler substances by chemical or physical means.
+The smallest component of an element having the chemical properties of the element.
+A substance with constant composition that can be broken down into elements by chemical processes.
+4
+
+
+MC
+In living organisms, proteins are used as
+structural material
+hormones
+enzymes
+all of the above
+4
+
+
+MC
+Which of the following is a simple sugar or monosaccharide?
+Sucrose
+Lactose
+Galactose
+Maltose
+3
+
+
+MC
+Glucose is a
+monosaccharide.
+disaccharide.
+simple sugar.
+both a monosaccharide and simple sugar.
+4
+
+
+MC
+Maltose is composed of which two simple sugars?
+Two glucose
+Two fructose
+One glucose + One fructose
+One glucose + One galactose
+1
+
+
+MC
+What is the disaccharide milk sugar called?
+Galactose
+Mannose
+Dextrose
+Lactose
+4
+
+
+MC
+What is the principal carbohydrate storage product in plants?
+Glucose
+Cellulose
+Starch
+Glyocgen
+3
+
+
+MC
+The supporting material in cell walls, wood, and dietary fibre are examples of what carbohydrate?
+Glyogen
+Celluose
+Starch
+Glucose
+2
+
+

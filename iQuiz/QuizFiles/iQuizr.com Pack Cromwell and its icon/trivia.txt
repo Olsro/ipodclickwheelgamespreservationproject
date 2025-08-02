@@ -1,0 +1,114 @@
+TITLE
+Cromwell and its icon
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+2
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Where is Cromwell?
+On the Westerly-Side of Otago
+Central Otago
+China
+Invercargill
+2
+
+
+MC
+What is Cromwell's longitude and latitude?
+25.633N  88W
+465S  9E
+45.03S  169.14E
+52.300N  52W
+3
+
+
+MC
+What is Cromwell recognized as?
+'Tomato Capital of New Zealand'
+'Cherry Capital of New Zealand'
+'Orange Capital of New Zealand'
+'Apple Capital of New Zealand'
+2
+
+
+MC
+What are the main fruits grown in Cromwell?
+Tomato and Pineapple
+Orane, Apple and Kiwi Fruits
+Apricot, Nectarine, Cherry, Apple and Pears
+Cherries, Cherries and MORE Cherries
+3
+
+
+MC
+What is the famous icon of Cromwell?
+Giant Poo
+A statue of the Almighty Clair Chang
+The Triple Asian POWER group
+Giant Fruit Bowl
+4
+
+
+MC
+What is the Giant Fruit Bowl made out of?
+Fiber Glass
+Plastic
+Materal
+Icon
+1
+
+
+MC
+Does the Giant Fuit Bowl have a pear on it?
+Yes
+No
+Yes - Half a pear
+No it's against the culture to even talk about pears!
+1
+
+
+MC
+What fruits are on the Giant Fruit Bowl?
+Chocolate, Kiwi Fruits and an apple
+Peach, Apple, Apricot and Pear
+Pineapple, Cherry and tomato
+Tomato, Cherry, Lemon and Salad
+2
+
+
+MC
+What height does Cromwell's Giant Fruit Bowl?
+52m
+865m
+14m
+13m
+4
+
+
+MC
+How much is the Giant Fruit Bowl worth?
+$1
+$1,820,000
+$70,000
+$6632
+3
+
+

@@ -1,0 +1,132 @@
+TITLE
+Arrhythmias
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+12
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Type of Arrythmias: commonly asymptomatic and with irregular pulse with no pattern
+Atrial fibrillation
+Asystole
+Ventricular Fibrillation
+Ventricular Fibrillation
+1
+
+
+MC
+Same Characteristics:Asystole, VF
+Unresponsive
+Apnea, Pulselessness
+No palpable BP
+All of the above
+4
+
+
+MC
+Characteristic Of Ventricular  Tachycardia
+Diaphoresis,Dizziness
+Hypotension
+Weak/absent pulse
+All of the above
+4
+
+
+MC
+It has no atrial/ventricular rate or rhythm,no P waves,QRS and T waves
+Atrial fibrillation
+Asystole
+Ventricular Fibrillation
+Ventricular Tachycardia
+2
+
+
+MC
+It shows rapid ventricular rhythm,wide irreg/absentQRS and no P waves
+Atrial fibrillation
+Asystole
+Ventricular Fibrillation
+Ventricular Tachycardia
+3
+
+
+MC
+It has Ventricular rate of 140-220bpm,wide and bizarre QRS and no P waves
+Atrial fibrillation
+Asystole
+Ventricular Fibrillation
+Ventricular Tachycardia
+4
+
+
+MC
+Tx for Atrial Fibrillation if pt is stable
+Antiarrhythmics
+Synchronized cardioversion
+
+
+1
+
+
+MC
+Tx for Atrial Fibrillation if pt is unstable
+Antiarrhythmics
+Synchronized cardioversion
+
+
+2
+
+
+MC
+Tx for Asystole
+CPR
+ACLS
+Antiarrythmics
+All of the above
+4
+
+
+MC
+Tx for ventricular fibrillation
+CPR, Defribillation
+ACLS
+Antiarrythmics
+All of the above
+4
+
+
+MC
+N/I for arrhythmias
+Assess the LOC, respirations and pulse
+Initiate CPR, provide O2
+Perform defribillation
+All of the above
+4
+
+
+MC
+It can increase the risk of arrhythmias:
+Fluid and electrolyte imbalance
+Pulseless
+cardiomyopathy
+
+1
+
+

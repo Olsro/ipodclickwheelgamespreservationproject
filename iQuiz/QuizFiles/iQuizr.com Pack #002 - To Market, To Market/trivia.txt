@@ -1,0 +1,114 @@
+TITLE
+#002 - To Market, To Market
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+4
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Henry Blake's new desk is made of
+ebony
+mahogany
+ash
+oak
+4
+
+
+MC
+Henry seems to care about his desk more than about the theft of
+plasma
+hydrocortisone
+RH- type blood
+incubators
+2
+
+
+MC
+How did Henry get the new desk into his office?
+He removed the top
+He removed the back wall
+He assembled it piece by piece
+It's not mentioned in the script
+1
+
+
+MC
+Radar tells Hawkeye and Trapper to see whom about getting more hydrocortisone?
+Li Kwon Lee
+"Five O'clock Charlie"
+Charlie Lee
+"Mr. Big"
+3
+
+
+MC
+When Charlie meets Hawkeye and Trapper, what does he ask them to do?
+Shut the door quickly
+Have a fine Cuban cigar
+Keep their voices down
+Try to fix his sore back
+4
+
+
+MC
+What is Charlie wearing to prove he deserves "only the best"?
+A linen suit
+A velour smoking jacket
+Six expensive rings
+An alpaca sweater
+4
+
+
+MC
+Charlie Lee's assistant tries to sell Frank Burns a
+dozen shares Pioneer Aviation stock
+a silk suit
+a watch
+a lottery ticket
+3
+
+
+MC
+How do they get the desk out of Henry's office?
+They remove the back wall
+They remove the top
+They take it apart piece by piece
+It's not mentioned in the script
+1
+
+
+MC
+How was the desk transported to Seoul?
+By jeep and trailer
+By helicopter
+By a Black Market truck
+By tank
+2
+
+
+MC
+How many vials of hydrocortisone were traded for the desk?
+2500
+1500
+200
+10 dozen
+3
+
+

@@ -1,0 +1,69 @@
+TITLE
+Sky Tower
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+5
+
+LOSE
+0
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Where is the Sky Tower??
+Perth
+Auckland
+Wellington
+Hamilton
+2
+
+
+MC
+How Tall is the Sky Tower??
+325m
+326
+327
+328
+4
+
+
+MC
+How much does the Sky Jump cost per person??
+$170
+$160
+$150
+$140
+1
+
+
+MC
+What Hemisphere is the Sky Tower in??
+Southern
+Northern
+eastern
+western
+1
+
+
+MC
+What city is the sky tower in??
+Sky City Wellington
+Sky City Perth
+Sky City Auckland
+Sky City Hamilton
+3
+
+

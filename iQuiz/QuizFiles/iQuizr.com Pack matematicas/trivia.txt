@@ -1,0 +1,60 @@
+TITLE
+matematicas
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+4
+
+LOSE
+7
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+¿Como se llama el punto de intersecciòn de las alturas
+baricentro
+ortocentro
+circuncentro
+mediacentro
+2
+
+
+MC
+si una proposiciòn es tautologica entonces es equivalente
+no
+si
+
+
+1
+
+
+MC
+una ecuaciòn cuadratica tiene soluciones reales si:
+si el discriminante es menor que cero
+No se puede saber
+su discriminante es mayor o igual a cero
+faltan datos
+3
+
+
+MC
+El sistema que no tiene solucion se lo denomina
+consistente
+inconsistente
+determinado
+no se conoce
+2
+
+

@@ -1,0 +1,330 @@
+TITLE
+Capitals of America
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+34
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Which is the capital of Antigua and Barbuda?
+St. John's
+Parham
+Codrington
+Bolans
+1
+
+
+MC
+The capital of Argentina is...
+Córdoba
+La Plata
+Santa Fe
+Buenos Aires
+4
+
+
+MC
+Nassau is the capital of...
+Barbados
+Bahamas
+Belize
+Dominica
+2
+
+
+MC
+Bridgetown is the capital of...
+Bahamas
+Antigua and Barbuda
+Saint Kitts and Nevis
+Barbados
+4
+
+
+MC
+Which is the capital of Belize?
+Belize City
+Belmopan
+Orange Walk
+Dangriga
+2
+
+
+MC
+Which is the capital of Bolivia?
+Santa Cruz
+Sucre
+La Paz &Sucre
+La Paz
+3
+
+
+MC
+The capital of Brazil is...
+Rio de Janeiro
+Salvador
+Brasília
+São Paulo
+3
+
+
+MC
+The capital of Canada is...
+Toronto
+Montreal
+Ottawa
+Vancouver
+3
+
+
+MC
+Santiago is the capital of...
+Chile
+Paraguay
+Nicaragua
+El Salvador
+1
+
+
+MC
+Which is the capital of Colombia?
+Medellín
+Cali
+Barranquilla
+Bogotá
+4
+
+
+MC
+San José is the capital of...
+Honduras
+Costa Rica
+Panama
+Nicaragua
+2
+
+
+MC
+Which is the capital of Cuba?
+Santo Domingo
+Guantánamo
+Havana
+Bayamo
+3
+
+
+MC
+Which is the capital of Dominica?
+Nassau
+Roseau
+St. John's
+St. George's
+2
+
+
+MC
+Which is the capital of the Dominican Republic?
+Santiago de los Caballeros
+Santo Domingo
+Havana
+Kingston
+2
+
+
+MC
+The capital of Ecuador is...
+Guayaquil
+Asunción
+Santiago
+Quito
+4
+
+
+MC
+The capital of El Salvador is...
+Tegucigalpa
+The Salvador
+San Salvador
+Salvador
+3
+
+
+MC
+St. George's is the capital of...
+Saint Kitts and Nevis
+Grenada
+Saint Vincent and the Grenadines
+Dominica
+2
+
+
+MC
+Which is the capital of Guatemala?
+Guatemala City
+Managua
+Tegucigalpa
+Guatemala Town
+1
+
+
+MC
+Georgetown is the capital of...
+Jamaica
+Trinidad and Tobago
+Guyana
+Suriname
+3
+
+
+MC
+Which is the capital of Haiti?
+Kingston
+Santo Domingo
+Georgetown
+Port-au-Prince
+4
+
+
+MC
+The capital of Mexico is...
+Mexico City
+Chihuahua
+Monterrey
+Guadalajara
+1
+
+
+MC
+Managua is the capital of...
+Honduras
+Guatemala
+El Salvador
+Nicaragua
+4
+
+
+MC
+Which is the capital of Panama?
+Port of Panama
+Panama City
+San José
+Bogotá
+2
+
+
+MC
+Which is the capital of Paraguay?
+Quito
+Santiago
+San José
+Asunción
+4
+
+
+MC
+The capital of Peru is...
+La Paz
+Lima
+Asunción
+Quito
+2
+
+
+MC
+Basseterre is the capital of...
+Saint Kitts and Nevis
+Saint Vincent and the Grenadines
+Grenada
+Saint Lucia
+1
+
+
+MC
+Which is the capital of Saint Lucia?
+Port of Spain
+Kingston
+Basseterre
+Castries
+4
+
+
+MC
+The capital of Saint Vincent and the Grenadines is...
+Basseterre
+Kingston
+Kingstown
+Castries
+3
+
+
+MC
+Paramaribo is the capital of...
+Belize
+Honduras
+Nicaragua
+Suriname
+4
+
+
+MC
+Which is the capital of Trinidad and Tobago?
+Port-au-Prince
+Kingston
+Port of Spain
+Santo Domingo
+3
+
+
+MC
+Which is the capital of the United States?
+New York
+San Francisco
+Washington
+Kingston
+3
+
+
+MC
+Which is the capital of Uruguay?
+Asunción
+Montevideo
+Santiago
+San José
+2
+
+
+MC
+Which is the capital of Venezuela?
+Valencia
+Barcelona
+Maracaibo
+Caracas
+4
+
+
+MC
+The capital of Jamaica is...
+Washington
+Kingston
+Kingstown
+Havana
+2
+
+

@@ -1,0 +1,114 @@
+TITLE
+Vocabulary
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+5
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+The lack of studying caused her to feel APPREHENSIVE about the test.
+Confident
+Nervous
+Scared
+Unsure
+2
+
+
+MC
+After his best friend moved away, he felt MELANCHOLY for a whole week.
+Happy
+Sick
+Sad
+Tired
+3
+
+
+MC
+Because he was never home, his room was always in a state of BEDLAM.
+Confusion or disorganization
+Always being clean
+Always under construction
+Always empty
+1
+
+
+MC
+She did not want to be called on, so she would always AVERT her eyes from the teacher.
+Stare at the teacher
+Talk in front of the teacher
+Blink her eyes
+Turn her eyes away
+4
+
+
+MC
+The dark storm clouds were an OMINOUS clue that a bad storm was coming.
+Clue that predicts nothing
+Clue that predicts danger
+Clue that predicts safety
+Clue that predicts confusion
+2
+
+
+MC
+He would always GLOWER at the television at exciting moments.
+He would always glare at the TV
+He would always ignore the TV
+He would turn off the TV
+He would turn away from the TV
+1
+
+
+MC
+As part of the library rules, people must always remain TACITURN.
+Talking
+Bugging the librarians
+Silent
+Laughing
+3
+
+
+MC
+The PLACID evening was interrupted by a loud storm.
+Quiet or calm
+Noisy
+
+
+1
+
+
+MC
+Because she was so AMIABLE, she was always able to make friends.
+Hateful
+Friendly
+
+
+2
+
+
+MC
+Because he worked so hard, his bad grade caused him to be INCREDULOUS.
+Disbelieving
+Accepting
+Happy
+
+1
+
+

@@ -1,0 +1,60 @@
+TITLE
+Diagnostico
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+4
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+¿Haz usado alguna vez internet?
+SI
+SI, PERO CON AYUDANO
+NO
+
+1
+
+
+MC
+¿Tienes una cuenta de correo electrónico?
+SI
+LA TUVE, PERO NO LA RECUERDO
+NO
+
+1
+
+
+MC
+¿Cada cuando navegas por la red?
+DIARIO
+2 ó 3 VECES POR SEMANA
+CASI NUNCA
+
+1
+
+
+MC
+¿Usas internet para?
+BUSCAR INFORMACIÓN
+ESTAR EN CONTACTO CON FAMILIARES / AMIGOS
+JUGAR
+
+1
+
+

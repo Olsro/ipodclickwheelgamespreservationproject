@@ -1,0 +1,69 @@
+TITLE
+young nick
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+5
+
+LOSE
+4
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What is young nick famous for?
+shooting a boat
+Being the first person to see New Zealand
+Being the first women to see New Zealand
+Australia
+2
+
+
+MC
+What is the name of the ship that young nick was on when he saw new Zealand
+The Yellow Submarine
+The Northern Star
+Endeavour
+Contiki
+3
+
+
+MC
+What year did Youyng Nick spot New Zealand?
+1269
+2006
+1943
+1769
+4
+
+
+MC
+Who old was he when he spotted New Zealand?
+21
+12
+17
+54
+2
+
+
+MC
+What did he get for being the first person to see New Zealand?
+Nicholas Young received a gallon of rum and had Young Nick's Head named in his honour for being the first aboard the Endeavour
+A dog
+A dog and in his honour a head with his name in graved in it
+A cat
+1
+
+

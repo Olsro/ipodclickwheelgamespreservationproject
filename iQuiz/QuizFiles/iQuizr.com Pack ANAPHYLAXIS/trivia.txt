@@ -1,0 +1,96 @@
+TITLE
+ANAPHYLAXIS
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+8
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Anaphylaxis: definition
+Sudden physical distress within sec after exposure to allergen
+sudden onset of rapidly  progressive urticaria and resp distress
+A and B
+
+3
+
+
+MC
+Ket tx of anaphylaxis
+Immed injection of epinephrine
+O2
+Bronchodilator therapy
+
+1
+
+
+MC
+Rato of injecting Epinephrine
+2:1000 aqeous solution
+1:1000 aqeous solution
+
+
+2
+
+
+MC
+ML of epinephrine
+0.1 to 0.5 ml every 5-20 mins
+0.50 to 0.5 ml every 5-20 mins
+0.50 to 0.10 ml every 5-20 mins
+
+1
+
+
+MC
+How would the nurse help the epinephrine move into the circulation faster
+Give a lot of fluids
+massage the injection site
+dilute it with saline solution
+
+2
+
+
+MC
+In severe anaphylaxis, epinephrine is adm
+SQ
+IM
+IV
+
+3
+
+
+MC
+in anaphylaxis, assess
+laryngeal edema
+hypotension
+shock
+all of the above
+4
+
+
+MC
+tx for laryngeal edema
+Endotracheal tube insertion
+tracheotomy
+O2
+all of the above
+4
+
+

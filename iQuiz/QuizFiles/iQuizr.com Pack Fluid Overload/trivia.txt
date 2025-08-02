@@ -1,0 +1,78 @@
+TITLE
+Fluid Overload
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+6
+
+LOSE
+2
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What percentage of the adult body consist of water?
+65%
+50%
+60%
+70%
+3
+
+
+MC
+What additional signs would the nurse expect to note if excess fluid is present?
+Weight loss
+Flat neck and hand veins
+An increase in blood pressure
+A decrease Central venous pressure
+1
+
+
+MC
+What is the therapeutic goal in treating fluid overload?
+
+
+
+
+1
+
+
+MC
+How do you assess fluid overload in the elderly?
+
+
+
+
+1
+
+
+MC
+What labs are you checking for fluid overload? Circle all that apply.
+Hematocrit
+Hemoglobin
+blood urea
+glucose
+1
+
+
+MC
+Name three Nursing Diagnoses associated with fluid overload?
+
+
+
+
+1
+
+

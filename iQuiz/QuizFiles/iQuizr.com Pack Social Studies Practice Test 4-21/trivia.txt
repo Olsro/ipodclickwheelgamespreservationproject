@@ -1,0 +1,114 @@
+TITLE
+Social Studies Practice Test 4-21
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+The Taiping Rebellion lasted for ____ years and took ____ million lives.
+4 and 2
+14 and 20
+140 and 12
+40 and 120
+1
+
+
+MC
+Who is Sun Yatsen?
+Founder of the Quing Dynasty
+Founder of the Chinese Nationalist Party
+Founder of the Chinese religion
+Founder of the Worldwide National Alliance
+1
+
+
+MC
+Who is the leader of the communist party?
+Sun Yatsen
+Martin Luther King
+Mao Zedong
+Ghandi
+3
+
+
+MC
+A group of families with a common ancestor is called a _____.
+community
+family unit
+clan
+relative
+3
+
+
+MC
+Japan's golden age, wich is the period from A.D. 794 to 1185 is called ______.
+The Age of the Gods
+The Tale of the Genji
+The Helian Age
+The Golden Age
+3
+
+
+MC
+The emporer's chief general holds most of the country's power and is called _____.
+Shinto
+Shogun
+Shalamar
+Shi Tzu
+2
+
+
+MC
+In 1839, the Chinese government seized all of the Opium that the British had stored in the Chinese port on Canton.  The British responded with an attack which began the ________.
+War of the British
+Chinese War
+Canton War
+Opium War
+4
+
+
+MC
+The worlds first novel is called ______.
+The Tale of Two Cities
+The Tale of the Genji
+The Tale of the Nation
+The Tale of Life
+2
+
+
+MC
+What was the purpose of The Great Leap Forward?
+To speed up the growth of geographical China
+To speed up the cultural growth of China
+To speed up the econmic growth in China
+All of the above
+3
+
+
+MC
+What word means word that means "Way of the Gods".
+Shalamar
+Shogun
+Shinto
+Shi Tzu
+3
+
+

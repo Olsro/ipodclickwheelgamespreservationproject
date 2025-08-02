@@ -1,0 +1,111 @@
+// com.aspyr.iQuizMaker.ThemeName: Space
+
+TITLE
+Take your O.W.L.S
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You won!
+
+LOST MESSAGE
+You lost!
+
+VERSION
+2
+
+MC
+Which of Jupiter's moons is covered in ice?
+Europa
+Ganymede
+Callisto
+Archinad
+1
+
+MC
+What do you get if you added powdered root af asphodel to an infusion of wormwood?
+Draught of Living Death
+Wolfbane Potion
+Veritaserum
+Polyjuice Potion
+1
+
+MC
+How do you correctly identify a knarl hidden among a dozen hedgehogs
+pluck a quill off of each
+offer all milk in turn
+feed each some water
+ask Crookshanks
+2
+
+MC
+Where do you find a bezor
+The stomach of a unicorn
+the stomach of an owl
+the stomach of a goat
+the stomach of a sphinx
+3
+
+MC
+What are two of the key ingrediants in PolyJuice Potion
+Boomslang Skin, Salamandar Blood
+Lacewing Flies, Boomslang Skin
+Spine of Lionfish, Pomegranate Juice
+Lacewing Flies, Monkshood
+2
+
+MC
+What is the incantation for the Disarming Charm
+Expectaramus
+Expellamell
+Emipexiarmus
+Expelliarmus
+4
+
+MC
+What plant allows you to breathe underwater for an hour
+Mandrake
+Fanged Germanium
+Boomslang Skin
+Gillyweed
+4
+
+MC
+What is the incantation to banish a boggart
+Silencio
+Ridiculois
+Reducto
+Expecto Patronum
+2
+
+MC
+What is Felix Felicis
+Love Potion
+Truth Potion
+Sleeping Potion
+Good Luck Potion
+4
+
+MC
+What is Gubraithian Fire
+A big fire
+Blue-flamed fire
+Everlasting Fire
+A Cold Fire
+3
+
+MC
+What is the incantation required to make objects fly
+Wingardium Leviousa
+Silencio
+Impendimenta
+Reducto
+1
+

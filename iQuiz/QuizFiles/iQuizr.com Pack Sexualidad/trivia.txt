@@ -1,0 +1,105 @@
+TITLE
+Sexualidad
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+9
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+El método de Ogino Knauss es un método anticonceptivo basado en...
+Abstinencia peródica.
+Los ciclos de un año.
+Temperatura corporal
+Filancia del moco cervical
+1
+
+
+MC
+La falta de erecciones nocturnas o matinales durante un cierto lapso puede indicar...
+Falta de sueños eroticos.
+Probables problemas erectivos.
+falta de relaciones sexulaes
+Masturbación excesiva.
+2
+
+
+MC
+La palabra cesárea proviene de...
+Cirujano César K.
+Julio Cesar nació así.
+Una ley Romana
+Región judía de Cesárea.
+3
+
+
+MC
+Algunas enfermedades de transmisión seual...
+Pueden contraerse en el útero.
+Las 3 opciones son ciertas.
+Pueden conducir a la muerte.
+Son incurables.
+2
+
+
+MC
+Moluscum contagiosum es una enfermedad de transmisión sexual causada por...
+Un caracol.
+Un hongo.
+Una bacteria.
+Un Virus.
+4
+
+
+MC
+Necrofilia es atracción sexualpor...
+Cadáveres.
+Viudas.
+Paralíticos.
+Amputados.
+1
+
+
+MC
+El término "parafimosis" se refiere a:
+Pene no circundado.
+Prepucio que queda retenido.
+Apertura uretral anómala.
+Prepucio muy largo
+2
+
+
+MC
+La masturbación en las mujeres se utiliza como o para:
+Aprender a sentir orgasmos.
+Desfloración.
+Favoreceor de la represión.
+Generar prostitutas.
+1
+
+
+MC
+Que parte del pene se conoce como glande
+El meato uretral
+La cabeza.
+La base.
+El cuerpo.
+2
+
+

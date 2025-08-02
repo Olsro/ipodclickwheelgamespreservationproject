@@ -1,0 +1,114 @@
+TITLE
+Preguntas para entretener
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+7
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Quien pronunció el maleficio que destinó a morir en la presidencia de USA a aquellos que asuman su mandato en año 0?
+Un inglés.
+Un Indígena americano
+Un negro.
+Un Mexicano.
+2
+
+
+MC
+Porque es famosa la cárcel de Dutra Ladeira, en el estado Brasileño de Minas Gerais?
+Por su lujo.
+Por su hacinamiento.
+Por la belleza de sus presas.
+Por sus pizzas.
+4
+
+
+MC
+En sus primeros años, USA no tenía Marina, quien defendía sus intereses en el Mediterraneo?
+Los Franceses.
+Piratas.
+Los Ingleses.
+Los Turcos.
+2
+
+
+MC
+Cuantos años tardaron el rey Luis XVI de Francia y su esposa Maria Antonieta en consumar su matrimonio?
+1 año.
+7 años.
+Nunca lo consumaron.
+12 años.
+2
+
+
+MC
+Que animal muere si deja de nadar?
+Atún.
+Ballena.
+Tiburón.
+Sardina.
+1
+
+
+MC
+Quien fue el primero en vender un millón de discos?
+Los Beatles.
+Louis Armstrong.
+Enrico Caruso.
+Rogelio Bandez
+3
+
+
+MC
+Como se llamaba el primer submarino que entró en combate?
+Marquesa del mar.
+Ness.
+Diablo.
+Tortuga.
+4
+
+
+MC
+En el Mundo hay tantas personas como...?
+Vacas.
+Insectos.
+Pollos.
+Monos.
+3
+
+
+MC
+Cuantas letras tiene la palabra más larga en Español?
+14
+53
+23
+19
+3
+
+
+MC
+Cuantas veces promedio hacen el amor los Italianos al año?
+115
+276
+67
+84
+4
+
+

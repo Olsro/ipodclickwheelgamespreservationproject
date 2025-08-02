@@ -1,0 +1,51 @@
+TITLE
+Informática
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+3
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+¿Qué significa PC?
+No lo sé
+Perito Cagao
+Personal Computer
+Perro Cagón
+3
+
+
+MC
+¿Para qué sirve un iPod?
+Para oir música, ver videos, etc
+Para nada
+Para leer
+No lo sé
+1
+
+
+MC
+¿Qué pregunta es esta?
+1
+2
+3
+4
+3
+
+

@@ -1,0 +1,51 @@
+TITLE
+Das Southpark Quiz x by Sid Vicious x
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+3
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Welcher dieser Ch.ist ein Mensch
+Satan
+Ned
+Sparky
+Towelie
+2
+
+
+MC
+Welchen dieser Guests gibts nicht
+Saddam
+Hitler
+Fidel Castro
+Steve Clinton
+4
+
+
+MC
+Wen Gibt es nicht
+Paris Hilton
+Bill Gates
+All Bundy
+Steve Jobs
+3
+
+

@@ -1,0 +1,161 @@
+TITLE
+Human Anatomy
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You won!
+
+LOST MESSAGE
+You lost!
+
+TF
+The group of bones comprising the toes are called “Carpels”?
+The group of bones comprising the toes are called “Tarsels”, “Carpels” refer to the bones of the hands and fingers
+FALSE
+
+MC
+The muscles of the upper back responsible for contracting the scapulae(Shoulder Blades) are the following:
+Posterior Deltoids
+Lattissimus Dorsae
+Rhomboids
+Levator Scapulae
+3
+
+MC
+How many muscles operate the tongue?
+16
+4
+1
+8
+1
+
+TF
+Both men and women have 24 ribs?
+TRUE
+
+MC
+Water makes up approximately what percentage of the average human body?
+90%
+72%
+50%
+60%
+2
+
+MC
+How many bones are in the human skull?
+12
+30
+5
+22 
+4
+
+MC
+How many muscles in the human body?
+639
+450
+575
+250
+1
+
+MC
+What is the difference between Tendons and Ligaments?
+Tendons connect muscle to muscle, ligaments connect muscle to bone.
+Tendons connect bone to bone, ligaments connect muscle to muscle.
+Tendons connect muscle to bone, ligaments connect bone to bone
+Tendons connect muscle to bone, ligaments connect the ribs to the spine.
+3
+
+MC
+The following system of the human body is responsible for hormone secretion, body development and sexual function:
+Endocrine System
+Reproductive System
+Nervous System
+Lymphatic System
+1
+
+MC
+If “Strength” is defined as the ability to exert force on an external object, which muscle is the strongest in the human body?
+Jaw (Masseter muscle)
+Gluteus Maximus
+Tongue
+Biceps
+1
+
+MC
+Which of the following muscles is NOT part of the shoulder’s “Rotator Cuff”:
+Infraspinatus
+Teres Minor
+Supraspinatus
+Trapezius
+4
+
+MC
+The bony prominence at the end of the elbow is called:
+Humerus
+Sacrum
+Olecranon
+Ischium
+3
+
+TF
+There are 7 Cervical (neck) vertebrae in the human spine?
+TRUE
+
+TF
+The number of muscle fibers(cells) increases due to exercise and results in larger, stronger muscles? 
+The size of existing muscle fibers grows as a result of exercise, not the amount of fibers.  Humans are born with a set number of muscle fibers that remain constant throughout our lives.
+FALSE
+
+MC
+How many total vertebrae are in the human spine not including the 9 fused vertebrae of the Sacrum and Coccyx (tailbone):
+15
+33
+40
+24
+4
+
+MC
+Earwax, known clinically as Cerumen, serves the inner ear canal with the following functions EXCEPT:
+Lubrication
+Vibration
+Cleaning
+Protection
+2
+
+MC
+Which best approximates how long it takes for a plucked or fallen eye lash to grow back:
+2 days
+2 weeks
+6 weeks
+3 months
+3
+
+MC
+Fingernails and toenails are made from a tough protein called:
+Hemoglobin
+Keratin
+Amino Acid
+Collagen
+2
+
+TF
+There are 28 permanent teeth are in the human mouth.
+There are 20 primary teeth during infancy and early childhood, and then 32 permanent teeth in adulthood.
+FALSE
+
+MC
+The longest muscle in the human body is the Sartorius, which begins and ends at the following structures:
+Knee to Ankle
+Shoulder to Hip
+Biceps to Wrist
+Hip to Shin
+4
+

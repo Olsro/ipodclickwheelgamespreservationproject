@@ -1,0 +1,186 @@
+TITLE
+Javier Quizz
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+18
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Refresco Favorito
+Sprite
+Monster
+Dr Pepper
+Jarrito de Piña
+3
+
+
+MC
+En que año naci
+1991
+1990
+1989
+1992
+2
+
+
+MC
+Musico Favorito
+Jorge Drexler
+Jack Johnson
+Fito Paez
+Silvio Rodriguez
+4
+
+
+MC
+Comida Favorita
+Tacos del Doctor
+Pambazos
+Pozole
+Chalupas
+3
+
+
+MC
+Mayor Vicio
+Jugar xbox
+La tecnologia
+Ver peliculas
+cine
+2
+
+
+MC
+Que dia naci y que mes
+8 marzo
+7 julio
+8 junio
+8 julio
+4
+
+
+MC
+Cuantos tatuajes tengo
+2
+1
+4
+5
+3
+
+
+MC
+Mi gadget favorito
+Xbox
+iPad 1
+Mac
+iPhone
+4
+
+
+MC
+Cuantas hermanas tengo
+3
+1
+2
+4
+3
+
+
+MC
+De donde es mi madre
+Calnali
+Pachuca
+Df
+Huejutla
+4
+
+
+MC
+En que trabaja mi papa
+En la radio
+Abogado
+Periodista
+Ingeniero
+3
+
+
+MC
+A que me quiero dedicar
+Hacer cine
+Periodista
+Editar cine
+Fotografo
+3
+
+
+MC
+Que siempre traigo conmigo
+Celular
+Cartera
+2 pulseras y un reloj
+o un reloj
+3
+
+
+MC
+Marca Favorita de tennis
+Adidas
+Puma
+Nike
+Pirma
+3
+
+
+MC
+Mclovin or Wopper
+Mcdonalds
+Burger King
+
+
+1
+
+
+MC
+Cual es mi favorito
+iOs- Apple
+Android - Google
+WP7 - Windows
+Los tres anteriores ninguno en especial
+4
+
+
+MC
+Pelicula Favorita
+El padrino
+Scarface
+EL secreto de tus ojos
+Cinema Paradiso
+4
+
+
+MC
+Por ultimo, Cuantos lunares tengo
+100
+17
+357
+Imposible contar todos
+4
+
+

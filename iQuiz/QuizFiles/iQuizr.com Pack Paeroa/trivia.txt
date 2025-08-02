@@ -1,0 +1,114 @@
+TITLE
+Paeroa
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What is L&P made out of?
+Oranges
+Lollies and Pepermint
+Lemon Juice and Mineral water
+Mud and fruit
+1
+
+
+MC
+What is Paeroa famous for?
+A giant L&P bottle
+Green grass
+Fishing
+Lots of plants
+1
+
+
+MC
+Where is Paeroa?
+New Zealand
+Italy
+Tonga
+Christchurch
+1
+
+
+MC
+Where is the giant L&P bottle?
+Napier
+South Africa
+Paeroa
+Auckland
+1
+
+
+MC
+How high is the L&P statue
+90 Centimetres
+8 Metres
+1 Centimetre
+7 metres
+1
+
+
+MC
+How is the weather in Paeroa?
+Sunny
+Snows
+Rain
+Windy
+1
+
+
+MC
+Where was L&P first made?
+Paeroa
+Australia
+Christchurch
+Wellington
+1
+
+
+MC
+What is the capital city of New Zealand?
+Christchurch
+Matamata
+Auckland
+Wellington
+4
+
+
+MC
+Where is the Carrot Festival?
+Ohakune
+Paeroa
+Napier
+Italy
+1
+
+
+MC
+What do people most like about Paeroa?
+The blue sky
+Lots of plants
+The big L&P bottle
+green grass
+3
+
+

@@ -1,0 +1,132 @@
+TITLE
+Polycythemia vera
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+12
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+s/sx of polycythemia Vera
+Clubbing of the digits.Dizziness
+headache and hypertension
+Ruddy cyanosis of the nose.Thrombosis of ssmall vessels
+all of the above
+4
+
+
+MC
+Blood test for Polycythemia Vera
+Increased RBC mass
+leukocytosis, elevated serum Vit b12
+elevated leukocyte alkaline phosphatase level
+all of the above
+4
+
+
+MC
+Key tx for polycythemia vera
+Phlebotomy. Plasmapheresis
+Chemotherapy
+antigout agent
+all of the above
+4
+
+
+MC
+chemotherapy for polycythemia vera
+Busulfan MYLERAN
+Chlorambucil LEUKERAN
+melphalan ALKERAN
+all of the above
+4
+
+
+MC
+antigout agent for polycythemia vera
+allopurinol ZYLOPRIM
+busulfan MYLERAN
+chlorambucil LEUKERAN
+
+1
+
+
+MC
+Polycythemia VEra: nsg interventions
+montior V/S,CBC and platelet count before and during the therapy
+Adm IV fluids and meds as ordered
+A and B
+
+3
+
+
+MC
+During phlebotomy, when should the nurse stop the procedure
+If pt has tachycardia
+with clamminess
+If the pt has vertigo
+all of the above
+4
+
+
+MC
+After phlebotomy, what should the nurse o to the pt?
+adm 24oz or 720ml of soda
+adm 24oz or 720ml of water/juice
+adm 24oz or 720ml of Blood
+
+2
+
+
+MC
+Polycythemia VEra: is commonly among
+20-30 yrs old
+bet 40 and 60 yrs of age
+jewish males
+B and C
+4
+
+
+MC
+it is a proliferation of bone marrow constituents
+Vera
+polycythemia Vera
+Hemolysis
+
+2
+
+
+MC
+what is the first tx for polycythemia Vera
+IV fluids
+Phlebotomy
+dialysis
+
+2
+
+
+MC
+In phlebotomy, how many ml of blood removed every other day?
+100 to 200 ml
+150- 300 ml
+350 to 500 ml
+
+3
+
+

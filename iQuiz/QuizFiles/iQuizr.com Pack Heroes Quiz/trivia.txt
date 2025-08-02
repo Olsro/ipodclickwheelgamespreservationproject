@@ -1,0 +1,123 @@
+TITLE
+Heroes Quiz
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+11
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Which character does not have an ability?
+Noah, HRG
+Hiro
+Claire
+Sylar
+1
+
+
+MC
+What was Sylar's FIRST ability?
+Freezing
+Telekinesis
+Intuitive Aptitude
+Eidetic Memory
+1
+
+
+MC
+What is Nathan's ability?
+Super Strength
+Flight
+Time Travel/Teleportation
+none
+2
+
+
+MC
+Who meets Adam Monroe first?
+Hiro, through Time Travel
+Claire, at Homecoming
+Ando, in California
+Nathan, in Las Vegas
+1
+
+
+MC
+Who are Claire's biological parents?
+Gabriel Gray and Maya Herrera
+Sandra and Noah Bennet
+Peter Petrelli and Elle Bishop
+Meredith Gordon and Nathan Petrelli
+4
+
+
+MC
+What is the name of the Virus that takes away abilities?
+The Abraham Virus
+The Jefferson Virus
+The Shanti Virus
+Other
+3
+
+
+MC
+What is Takezo Kensei's real name?
+Noah Bennett
+Adam Monroe
+Alejandro Herrera
+Kaito Nakamura
+2
+
+
+MC
+Who did Sylar lock up in Primatech?
+Claire, Noah, Meredith, Angela
+Angela, Arthur, Peter, Nathan
+Angela, Nathan, Peter, Claire
+Adam Monroe, Peter, Nathan
+1
+
+
+MC
+Who died in the Primatech Fire?
+Meredith
+Sylar
+Angela
+Daphne
+1
+
+
+MC
+In the season 1 Finale, who said the line "You saved the Cheerleader, so we could save the World."
+Nathan Petrelli
+Matt Parkman
+Nikki Sanders
+Noah Bennett
+1
+
+
+MC
+In season 3, who took away Peter's Abilities?
+His father, Arthur
+Sylar
+Claire
+Hiro
+1
+
+

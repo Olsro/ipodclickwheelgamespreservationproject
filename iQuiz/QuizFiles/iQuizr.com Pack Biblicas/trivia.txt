@@ -1,0 +1,384 @@
+TITLE
+Biblicas
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+40
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+en Cuantos dias creo Dios el Universo
+5
+9
+12
+7
+4
+
+
+MC
+Quieh puso el Nombre a los Animales
+Adan
+Dios
+
+
+1
+
+
+MC
+Quien Construyo un Arca
+Noe
+David
+Jonas
+Jose
+1
+
+
+MC
+Que paso en la contruccion de la torre de Babel?
+Aprendieron sobre el ladrillo
+Se confundieron las lenguas
+Escogieron al lider del pueblo
+Llegaron las plagas
+2
+
+
+MC
+Cual fue la Esposa de Abraham
+Miriam
+Setura
+Sara
+Magdalena
+3
+
+
+MC
+Quien es conocido como el engañador?
+Aaron
+Josue
+Jacob
+Ezequias
+1
+
+
+MC
+Quien tuvo una familia muy celosa
+Faraon
+Eliseo
+Zaqueo
+Jose
+4
+
+
+MC
+Quien fue encarcelado injustamente
+Jose
+Azuero
+Ezequiel
+Nicodemo
+1
+
+
+MC
+Quien hizo un becerro de Oro para adorarlo
+Aaron
+Moises
+Jacob
+Beltsazar
+1
+
+
+MC
+Quien escucho la voz de Dios siendo un niño
+Samuel
+David
+Jonatan
+Jabin
+1
+
+
+MC
+De que nacionalidad era Ruth
+Moabita
+Cananea
+Etiope
+Babilonia
+1
+
+
+MC
+Quien fue el mejor amigo de David
+Jonatan
+Daniel
+Jacob
+Esau
+1
+
+
+MC
+Quien se subio a un arbol para ver a Jesus?
+Ezequias
+Salomon
+Daniel
+Zaqueo
+4
+
+
+MC
+Quien fue sanado de una lepra al sumergirse siete veces en un rio sucio
+Micaias
+Abdias
+Naaman
+Isaias
+3
+
+
+MC
+Cual fue el nombre del siervo de Eliseo
+Giezi
+Mesac
+Aitofel
+Malco
+1
+
+
+MC
+A quien le interpreto Jose el sueño diciendole que iba a morir?
+Panadero
+Copero
+Carpintero
+Portero
+1
+
+
+MC
+Cual es el Nombre del ultimo hermano de Jose
+Juda
+Absalon
+Benjamin
+Israel
+3
+
+
+MC
+Quien aconsejo a Moises sobre la forma de como juzgaba al pueblo
+Jetro
+Aaron
+Maria
+Salomon
+1
+
+
+MC
+Cual fue la tierra prometida
+Egipto
+Canaan
+Babilonia
+Moab
+1
+
+
+MC
+Cuantos Testamentos dio Dios al hombre
+12
+7
+10
+2
+4
+
+
+MC
+Que alimento dio Dios al pueblo en el desierto
+Leche y miel
+Mana y codornices
+Pan y agua
+Pan y Pescado
+2
+
+
+MC
+Quien entro al pueblo a la tierra prometida
+Jacob
+Moises
+Josue
+Abraham
+3
+
+
+MC
+Que mujer fue Juez en Israel?
+Devora
+Maria
+Safira
+Semiramis
+1
+
+
+MC
+A quien adoraban los profetas contra los cuales se enfrento Elias?
+Baal
+Mahoma
+Mimnrot
+Ahla
+1
+
+
+MC
+Cual es la oracion mas conocida de Ezequias?
+Por mas años de vida
+Por alimento para el pueblo
+Por Restauracion de la casa de Israel
+Por el Espiritu Santo
+1
+
+
+MC
+A donde fue enviado Jonas a predicar?
+A Babilonia
+A Canaan
+A Jerusalem
+A Ninive
+4
+
+
+MC
+Cual fue el profeta que preparo el camino al Señor?
+Isaias
+Juan el Bautista
+Joel
+Malaquias
+2
+
+
+MC
+Cual es el ultimo libro del Antiguo testamento?
+Salmos
+Hechos
+Malaquias
+2 de Cronicas
+3
+
+
+MC
+Quien se lavo las manos al crucificar a Jesus?
+Malaquias
+Pilato
+Nabucodonosor
+EL Centurion
+2
+
+
+MC
+A que preso soltaron los Romanos al cambiarlo por JEsus
+Barrabas
+Nicodemo
+Eleazar
+Cefas
+1
+
+
+MC
+Cual fue la mujer mas valiente de la Biblia?
+Esther
+Ruth
+Maria
+Debora
+1
+
+
+MC
+Con quien estaba preso Pablo cuando fueron liberados
+Pedro
+Silas
+Ananias
+Marcos
+2
+
+
+MC
+Que profesion tenia Zaqueo
+Era Recaudador de Impuestos
+Era Pescador
+Era Rey
+Era Soldado Romano
+1
+
+
+MC
+De Quien era la Viña que quizo comprar el rey Acab
+Salomon
+Joel
+Nabot
+Elias
+3
+
+
+MC
+Que profeta fue levantado en un carro de fuego
+Jeremias
+Eliseo
+Isaias
+Elias
+4
+
+
+MC
+Quien le tiro una lanza a David para matarlo?
+Saul
+Samuel
+Joab
+Un soldado Romano
+1
+
+
+MC
+Quien fue el tio de Esther
+Jetro
+Joas
+Nabot
+Mardoqueo
+4
+
+
+MC
+QQuien era Rey cuando nacio Jesus
+Nicodemo
+Nabucodonosor
+Herodes
+Pilato
+3
+
+
+MC
+Cuantos años tenia Joas cuando empezo a reinar sobre Israel?
+13
+30
+7
+80
+3
+
+
+MC
+Que significa el nombre Moises?
+Sacado de las aguas
+Principe de Egipto
+Quien vive en el Desierto
+El que habla con la Zarza
+1
+
+

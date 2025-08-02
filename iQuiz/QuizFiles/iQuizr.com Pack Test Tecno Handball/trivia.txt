@@ -1,0 +1,114 @@
+TITLE
+Test Tecno Handball
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+¿Cuántos equipos españoles han sido campeones de Europa de clubes?
+Seis
+Cinco
+Tres
+
+2
+
+
+MC
+En los Juegos Olímpicos, España ha ganado...
+Una plata y un bronce
+Dos bronces
+Un bronce
+
+2
+
+
+MC
+El equipo que ha ganado más veces la Copa de Europa de clubes es el...
+FC Barcelona
+VFL Gummersbach
+SKA Minsk
+
+1
+
+
+MC
+¿Quién es el inventor del balonmano moderno?
+James M. Maismith
+Max Heiser
+Pierre de Courbertain
+
+2
+
+
+MC
+La mejor clasificación de la selección española ha sido la de...
+Campeona
+Finalista
+Cuarta
+
+1
+
+
+MC
+El balonmano es deporte olímpico desde...
+1972
+1968
+1956
+
+1
+
+
+MC
+¿Cuál de estos títulos aún no está e las vitrinas del BM Granollers?
+Copa de Europa
+Recopa de Europa
+E.H.F.
+
+1
+
+
+MC
+¿Cuántos equipos disputan la actual Liga ASOBAL?
+14
+16
+18
+
+1
+
+
+MC
+¿Cuál de estos países no ha sido nunca campeón olímpico de balonmano?
+Croacia
+Suecia
+Alemania
+
+2
+
+
+MC
+¿Quién es el portero habitual del FC Barcelona y de la selección española?
+Barrufet
+Hombrados
+Aldomar
+
+1
+
+

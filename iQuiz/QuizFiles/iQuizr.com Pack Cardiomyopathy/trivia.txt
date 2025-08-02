@@ -1,0 +1,150 @@
+TITLE
+Cardiomyopathy
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+14
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Most common form of cardiomyopathy, wherein the ms around ventricles become flabby?
+Dilated Congestive
+Hypertrophic Obstructive
+Restrictive Obliterative
+
+1
+
+
+MC
+Type of cardiomyopathy in which  the hypertrophied L ventricle is unable to relax and fill properly
+Dilated Congestive
+Hypertrophic Obstructive
+Restrictive Obliterative
+
+2
+
+
+MC
+A rare form of Cardiomyopathy, char by stiff ventricles resistant to ventricular filling
+Dilated Congestive
+Hypertrophic Obstructive
+Restrictive Obliterative
+
+3
+
+
+MC
+When treating cardiomyopathy, what to monitor  to detect arrythmias and ischemia
+Angioplasty
+Arteriography
+Chest Xray
+ECG
+4
+
+
+MC
+The key sign of cardiomyopathy?
+Murmur,S2 and S3 heart sounds
+Murmur, S5 and S6 heart sounds
+Murmur,third(S3) and fourth(S4) heart sounds
+
+3
+
+
+MC
+In cardiomyopathy, ECG shows
+R ventricle hyperthophy
+L ventricle hyperthophy
+L aortic Hypertrophy
+
+2
+
+
+MC
+Beta adrenergic Blockers: LOL
+Propanolol Inderal
+Nadolol Corgard
+Metroprolol Lopressor
+All of the above
+4
+
+
+MC
+Tx for Cardiomyopathy
+Dual Chamber  Pacing
+Unilateral Chamber Pacing
+Intra aortic balloon pump
+
+1
+
+
+MC
+Diuretics for dilated cardiomyopathy
+Furosemide (lasix)
+Bumetanide (bumex)
+Metolazozne( Zaroxolyn)
+All of the above
+4
+
+
+MC
+Oral anticoagulant for dilated and hyperthropic cardiomyopathy?
+Heparin
+Warfarin
+Coumadin
+B and C
+4
+
+
+MC
+N/I for CArdiomyopathy
+Assess cardiovascular status
+Monitor ECG
+Admin O2 and meds
+All of the above
+4
+
+
+MC
+Result from the use of Diuretics
+Hypokalemia
+Hypercalcemia
+Hyperkalemia
+
+1
+
+
+MC
+Position for CArdiomyopathy
+Supine
+High Fowlers
+Semi Fowlers
+
+3
+
+
+MC
+THis kind of diet reduces Fluid Retention
+Low fat diet
+LOw sodium diet
+Low potassium diet
+
+2
+
+

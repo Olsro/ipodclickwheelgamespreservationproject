@@ -1,0 +1,51 @@
+TITLE
+Jailbreak
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+3
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Was bedeutet Das Wort Jailbreak?
+Gefängniszerstörung
+Gerätezerstörung
+Gefängnisausbruch
+Zerstörungsprogramm
+3
+
+
+MC
+Wann wurde der erste Jailbrek veröffentlicht?
+10. Juli 2007
+9. November 2007
+14. März 2008
+24. Juni 2010
+1
+
+
+MC
+Was ist der Unterschied zwischen Jailbreak und Unlock?
+Ein Jailbreak entfernt nicht die Garantie
+Ein Unlock entfernt nicht die Garantie
+Ein Jailbreak entfernt nur den Sim-Lock
+Ein Unlock entfernt nur den Sim-Lock
+4
+
+

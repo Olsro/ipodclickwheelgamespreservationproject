@@ -1,0 +1,60 @@
+TITLE
+Evolution
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+4
+
+LOSE
+7
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Even in Darwin's time, the blending hypothesis was incompatible with observed facts. If the blending hypothesis were true, then what should one expect to observe over the course of generations?
+Genetic polymorphisms should increase.
+Members of a breeding population should become more uniform in phenotype
+Phenotypic polymorphisms should increase
+Neutral variation should decrease.
+2
+
+
+MC
+Two species of frogs belonging to the same genus occasionally mate, but the offspring do not complete development. What is the mechanism for keeping the two frog species separate?
+adaptation
+the prezygotic barrier called hybrid sterility
+the postzygotic barrier called hybrid inviability
+the postzygotic barrier called hybrid breakdown
+3
+
+
+MC
+Evolutionary progress that is slow and steady is known as
+punctuated equilibrium
+sympatric speciation
+gradualism
+reproductive isolation
+3
+
+
+MC
+In peas, a gene controls flower color such that R = purple and r = white. In an isolated pea patch, there are 36 purple flowers and 64 white flowers. Assuming Hardy-Weinberg equilibrium, what is the value of q for this population?
+0.60
+0.80
+0.75
+0.64
+2
+
+

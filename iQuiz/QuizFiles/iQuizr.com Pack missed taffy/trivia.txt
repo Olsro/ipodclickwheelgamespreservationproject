@@ -1,0 +1,51 @@
+TITLE
+missed taffy
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+3
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+what dog is the smallest dog?
+chug
+teacup
+havanese
+chiuaua
+4
+
+
+MC
+What dog looks like a fox, little, and fluffy?
+pomenerian
+poodle
+keeshond
+samoyed
+1
+
+
+MC
+what type of dog are so aggresive?
+doberman
+germans shephard
+pitbull
+rottweiler
+3
+
+

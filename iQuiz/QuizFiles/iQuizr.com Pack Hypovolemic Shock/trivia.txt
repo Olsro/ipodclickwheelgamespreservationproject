@@ -1,0 +1,141 @@
+TITLE
+Hypovolemic Shock
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+13
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+S/sx of Hypovolemic shock EXCEPT
+Cold, clammy and pale skin,decreased sensorium
+Hypotension with narrowing ulse pressure
+Reduced Urine output, Tachycardia
+Hypertension
+4
+
+
+MC
+Is urine specific gravity and urine osmolarity increased in Hypovolemic shock
+True
+false
+
+
+1
+
+
+MC
+what is the test result of partial pressure of arterial oxygen in hypovolemic shock
+decreased
+increased
+Normal
+
+1
+
+
+MC
+what is the test result of partial pressure of arterial carbon dioxide in hypovolemic shock
+decreased
+increased
+Normal
+
+2
+
+
+MC
+what is the test result of Hemoglobin and hematocrit in hypovolemic shock
+decreased
+increased
+Normal
+
+1
+
+
+MC
+what is the test result of potassium, lactate BUN in hypovolemic shock
+decreased
+increased
+Normal
+
+2
+
+
+MC
+ABG analysis for Hypovolemic Shock
+Respiratory acidosis
+Respiratory alkalosis
+metabolic acidosis
+metabolic alkalosis
+3
+
+
+MC
+Key tx for hypovolemic shock
+Blood and fluid replacement
+Control of bleeding
+Bedrest
+A and B
+4
+
+
+MC
+Hwne the BP drops below 80mmhg, what should the nurse do?
+Repeat it again
+Give some H2O
+Perform BT
+Increase the O2 and notify the MD
+4
+
+
+MC
+What is the size of the large bore IV catheter
+16G
+14G
+18G
+22G
+2
+
+
+MC
+These are the Solution that the nurse can infuse for hypovolemic pt
+Normal saline
+Lactated Ringer's solution
+Hypertonic solution
+A and B
+4
+
+
+MC
+In hypovolemic pt, how does the nurse measure hourly urine output?
+bedside commode
+dwelling catheter
+indwelling catheter
+
+3
+
+
+MC
+In hypovolemic pt, if the urine output is less than 30ml per hour in adults, what should the nurse do?
+Increase the infusion rate but watch for fluid overload
+Notify the MD
+An osmotic diuretics such as mannitol osmitrol may be adm
+All of the above
+4
+
+

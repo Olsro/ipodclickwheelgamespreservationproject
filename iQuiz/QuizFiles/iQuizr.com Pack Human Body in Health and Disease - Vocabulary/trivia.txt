@@ -1,0 +1,699 @@
+TITLE
+Human Body in Health and Disease - Vocabulary
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+75
+
+LOSE
+7
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Non-Specific Anatomy Term for Chest Cavity
+Thoracic
+Abdomen
+Core
+Mediastinum
+1
+
+
+MC
+The area containing the liver, gallbladder, stomach, spleen, pancreas, small intestine, and parts of the large intestine.
+Core
+Popliteal Region
+Abdominal Cavity
+Temporal Region
+3
+
+
+MC
+Name the area above the Clavical.
+Temporal Region
+Appendicular Region
+Brachial Region
+Supraclavicular Region
+4
+
+
+MC
+Where is the Tarsal Region?
+Ankle
+Hand
+Toe
+Finger
+1
+
+
+MC
+Where is the Temporal Region?
+The eyes
+Side of skull
+back of skull
+nose
+2
+
+
+MC
+Area around navel or umbilicus.
+Mediastinum
+Belly Button
+Umbilical Region
+Olecranal Region
+3
+
+
+MC
+To amplify or reinforce the change that is occurring.
+Positive Feedback
+Reinforcement
+Superior
+Encourage
+1
+
+
+MC
+Region of the forearm.
+Axillary Region
+Antebrachial Region
+Antecubital Region
+Cephalic Region
+2
+
+
+MC
+The Brachial Region.
+Arm
+Hands
+Toes
+Shoulder
+1
+
+
+MC
+Depressed area just in front of the elbow.
+Antecubital Region
+Axillary Region
+Pleural Cavities
+Frontal Plane of Section
+1
+
+
+MC
+Term for the back of the elbow.
+Supine
+Olecranel Region
+Midsaggital
+Cubital Region
+2
+
+
+MC
+Occipital Region.
+Back of lower skull
+side of skull
+top of skull
+face
+1
+
+
+MC
+Lower back between ribs and pelvis.
+Midsagittal Plane of Section
+Zygomatic Region
+Inguinal Region
+Lumbar Region
+4
+
+
+MC
+Inguinal Region
+Knee
+Groin
+Lower Back
+Mid-Back
+2
+
+
+MC
+The most complex units that make up the body.  An organization of varying numbers and kinds of organs arranged so that they can together perform complex functions of the body.
+System
+Cell
+Organ
+Muscles
+1
+
+
+MC
+Lying face upward.
+Prone
+Dorsal
+Supine
+Anterior
+3
+
+
+MC
+Palm of hand, or sole of foot.
+Volar Region
+Femoral Region
+Effector Loop
+Sagittal Plane
+1
+
+
+MC
+Lying face downward.
+Superior
+Supine
+Posterior
+Prone
+4
+
+
+MC
+The area of the thigh.
+Gluteal Region
+Femoral Region
+Popliteal Region
+Plantar Region
+2
+
+
+MC
+Plantar Region
+Tip of Finger
+Back of Tongue
+Palm of Hand
+Sole of Foot
+4
+
+
+MC
+Perineal Region.
+Area between anus and genitals
+Area between shoulder blades
+Area between the nostrils
+Area between fingers
+1
+
+
+MC
+Pedal Region.
+Ankle
+Toes
+Foot
+Heel
+3
+
+
+MC
+Pleural Cavities.
+The space inside the spinal column, which contains the spinal cord.
+Horizontal or crosswise plane that divides the body into upper and lower portions.
+The lungs, or right and left portion or subdivisions of the thoracic cavity.
+Contains the head, neck and torso.
+3
+
+
+MC
+The plane that divides the body into 2 equal halves.
+Lateral
+Anatomical Position
+Appendicular
+Midsagittal Plane
+4
+
+
+MC
+Axillary Region
+Armpit
+Back of Skull
+Cheek
+Elbow
+1
+
+
+MC
+Midportion of the Thoracic Cavity (Chest Cavity) containing the lungs, trachea, and heart.
+Cervical Region
+Crural Region
+Mediastinum
+Midsagittal Plane
+3
+
+
+MC
+Cubital Region
+Elbow
+Foot
+Body surface, or skin.
+Buttock
+1
+
+
+MC
+The body is in an erect/standing posture with the arms at the sides and palms turned forward.  What is this stance called?
+Atrophy
+Homeostasis
+Anatomical Position
+Pathology
+3
+
+
+MC
+Define Physiology.
+The study of the functions of living organisms and their parts.
+The study of the functions of movement and the body.
+The study of the functions of the circulatory system.
+The study of the functions of muscles and movement.
+1
+
+
+MC
+Define Pathology.
+The scientific study of mental ability.
+The scientific study of disease.
+The scientific study of genetics.
+The scientific study of the relative consistency of the internal environment
+2
+
+
+MC
+Considered the smallest "living" units of structure and function in our body.
+Cellular Organization
+Lipids
+Molecular Structure
+Chemical Structure and Organization
+1
+
+
+MC
+This term is what Physiologists use to define the relative constancy of the internal environment.
+Organization
+Superficial
+Homeostasis
+Chemical Balance
+3
+
+
+MC
+Cutaneous Region.
+Fingers/Toes
+Skin/Body Surface
+Forehead
+Area Behind Knee
+2
+
+
+MC
+The study of the structures of an organism and the relationship of it's parts.
+Neurology
+Pathology
+Physiology
+Anatomy
+4
+
+
+MC
+Area behind the knee.
+Popliteal Region
+Buccal Region
+Cranial Region
+Gluteal Region
+1
+
+
+MC
+A group of several different kinds of tissues arranged so they can together act as a unit to perform a special function.
+Cellular Organization
+Organs (in terms of organization)
+Physiology
+Anatomy
+2
+
+
+MC
+Buccal Region
+Cheek
+Tongue
+Nose
+Eyes
+1
+
+
+MC
+Cephalic Region.
+Lungs
+Heart
+Head
+Neck
+3
+
+
+MC
+Further away from the body surface.
+Deep
+Superficial
+Frontal
+Ventral
+1
+
+
+MC
+Generalized decrease in size or wasting away of body organs and tissues.
+Physiology
+Injury
+Pathology
+Atrophy
+4
+
+
+MC
+Lengthwise plane running from side to side. Divides the body into anterior and posterior sections.
+Frontal Plane
+Transverse Plane
+Midsaggital Plane
+Saggital Plane
+1
+
+
+MC
+Facial Region.
+Cheek
+Face
+Neck
+Back of skull
+2
+
+
+MC
+Digital Region
+Fingers/Toes
+Wrist
+Arms/Legs
+Ankle
+1
+
+
+MC
+Superior Direction
+Toward the head (upper or above)
+Toward the feet (lower or below)
+Toward the front
+Toward the back
+1
+
+
+MC
+Nasal Region
+Ear
+Neck
+Nose
+Forehead
+3
+
+
+MC
+Inferior Direction
+Toward the head (upper or above)
+Toward the feet (lower or below)
+Toward the front
+Toward the back
+2
+
+
+MC
+Gluteal Region
+Upper Thigh
+Area between shoulder blades
+Buttock
+Lower Back
+3
+
+
+MC
+Anterior Direction
+Front - or "in front of"
+Below - or "under"
+Left side
+Right side
+1
+
+
+MC
+Distal Direction
+Farthest from the trunk or point of origin of a body part.
+Closest to the trunk or point of origin of a body part.
+Above the point of origin of a body part.
+Below the point of origin of a body part.
+1
+
+
+MC
+Frontal Region
+Cheek
+Back of skull
+Forehead
+Face
+3
+
+
+MC
+Cranial Cavity
+The skull that contains the brain
+Empty air pocket
+The ribs that contain the lungs
+The pelvis
+1
+
+
+MC
+Dorsal Direction
+The cranial and spinal cavities
+Area between shoulder blades
+The Thoracic and Abdominopelvic Cavities
+Spinal Cavity
+1
+
+
+MC
+Cervical Region
+Area between shoulder blades
+Pelvis
+Spine
+Neck
+4
+
+
+MC
+Palmar Region
+Palm of hand
+Sole of foot
+leg
+knee
+1
+
+
+MC
+Crural Region
+Ankle
+Leg
+Toes
+Heel
+2
+
+
+MC
+An organization of many similar cells that act together to perform a common function.  Somewhat more complex than cells.
+Tissue
+Lymph Nodes
+Neurons
+Haemoglobin
+1
+
+
+MC
+Cranial Region
+Skull
+Cheek
+Nose
+Neck
+1
+
+
+MC
+What is contained in the Pelvic Cavity?
+Lungs, heart, stomach, liver, gallbladder.
+Brain.
+Small and large intestines, stomach, kidneys, liver.
+Lower colon, rectum, urinary bladder, reproductive organs.
+4
+
+
+MC
+Horizontal or crosswise plane. Divides the body into upper and lower portions.
+Transverse Plane
+Dorsal
+Midsaggital Plane
+Saggital Plane
+1
+
+
+MC
+The portion of the body containing the head, neck, and torso.
+Axial
+Dorsal
+Digital
+Appendicular
+1
+
+
+MC
+The thoracic and abdominopelvic cavities
+Ventral Direction
+Saggital Plane
+Posterior Direction
+Anterior Direction
+1
+
+
+MC
+The space inside the spinal column which contains the spinal cord.
+Digital Region
+Spinal Cavity
+Dorsal Region
+Zygomatic Region
+2
+
+
+MC
+Nearer to the surface.
+Deep
+Superficial
+Posterior
+Anterior
+2
+
+
+MC
+This portion of the body consists of the upper and lower extremities.
+Cranial Region
+Digital Region
+Dorsal Region
+Appendicular
+4
+
+
+MC
+Toward, or nearest the trunk of the body - or nearest the point of origin of one of it's parts.
+Lateral Direction
+Proximal Direction
+Medial Direction
+Posterior Direction
+2
+
+
+MC
+This has an effect on the controlled condition. (for example, temperature).  It is the "furnace" which shuts off and on to regulate body temperature.
+Condition Loop
+Temperature Control Centre
+Effector Loop
+Temperature Effector
+3
+
+
+MC
+Opposes or negates a change in a controlled condition.
+Negative Conditions
+Negative Feedback
+Negative Change
+Negative State
+2
+
+
+MC
+Back. "In back of"
+Posterior Direction
+Anterior Direction
+Medial Direction
+Ventral
+1
+
+
+MC
+Zygomatic Region
+Cheek
+Base of Skull
+Pleural Cavities
+Forehead
+1
+
+
+MC
+A lengthwise plane, running from front to back. This divides the body into right and left sides.
+Midsagittal Plane
+Transverse Plane
+Medial Direction
+Saggital Plane
+4
+
+
+MC
+Toward the side of the body or away from the midline.
+Lateral Direction
+Dorsal
+Medial Direction
+Posterior Direction
+1
+
+
+MC
+Toward the midline of the body.
+Midsagittal Plane
+Medial Direction
+Anterior Direction
+Ventral
+2
+
+
+MC
+Carpal Region
+Wrist
+Hand
+Fingers
+Forearm
+1
+
+
+MC
+Oral Region
+Cheeks
+Ears
+Mouth
+Nose
+3
+
+
+MC
+Orbital, or Ophthalmic Region
+Ears
+Nose
+Eyebrows
+Eyes
+4
+
+

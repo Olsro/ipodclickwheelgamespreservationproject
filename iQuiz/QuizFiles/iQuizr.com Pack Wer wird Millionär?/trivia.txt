@@ -1,0 +1,636 @@
+TITLE
+Wer wird Millionär?
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+68
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Was ist landläufig auch als Porree bekannt?
+Lilawa
+Lottschalk
+Leckmann
+Lauch
+4
+
+
+MC
+Was wird aus Hefeteig hergestellt?
+Vickipediahupf
+Jahuhupf
+Gugelhupf
+Ihbäihupf
+3
+
+
+MC
+Was hört man oft, wenn es um berühmte Universitäten geht?
+Kuuverschwunden
+Pfärtwech
+Schwainnichda
+Oxford
+4
+
+
+MC
+Womit beschäftigten sich schon die Neandertaler?
+Schmidt
+Andrack
+Feuerstein
+Pocher
+3
+
+
+MC
+Mit dem Nobelpreis ausgezeichnet wurde Robert ...?
+Koch
+Rüttgers
+Althaus
+Platzeck
+1
+
+
+MC
+Wofür begeistern sich derzeit besonders die jungen Kino-Zuschauer?
+University Song 1
+College Symphony 2
+High School Musical 3
+Kindergarten Opera 4
+3
+
+
+MC
+Mit welchem Sportstar ist die Pussycat-Dolls-Sängerin Nicole Scherzinger liiert?
+Roger Federer
+Lewis Hamilton
+Vitali Klitschko
+Cristiano Ronaldo
+2
+
+
+MC
+Was könnte Andrea Ypsilanti treffenderweise über die Ereignisse in Hessen sagen?
+Oh, Susi
+Mein Gott, Walter
+Dirty Diana
+:Erna kommt
+2
+
+
+MC
+Worum ging es 1963 beim "Wunder von Lengede"?
+Marienerscheinung
+Fußball-WM-Sieg
+Neunlingsgeburt
+Rettung von Bergleuten
+4
+
+
+MC
+Welcher Krimiautor war als Agent für den britischen Geheimdienst tätig?
+Frederick Forsyth
+Edgar Wallace
+John le Carré
+Arthur Conan Doyle
+3
+
+
+MC
+Mit welchem Album stürmte Poplegende Grace Jones im Herbst auf die große Bühne zurück?
+Blizzard
+Tornado
+Hurricane
+Monsoon
+3
+
+
+MC
+Für 1899 Hoffenheim trifft in der Fußball-Bundesliga Demba ...?
+Bi
+Ba
+Butze
+Mann
+2
+
+
+MC
+Welcher Begriff gehört auch unter ganz anständigen Jägern zum Fachvokabular?
+Schnepfenstrich
+Fasanenbordell
+Hühnerpuff
+Rotlichtkehlchen
+1
+
+
+MC
+Welcher Teil der Melkmaschine wird an der Kuh angebracht?
+Eutertassen
+Saugkelche
+Zitzenbecher
+Milchtüten
+3
+
+
+MC
+Wofür stehen das „M“ und das „P“ im Begriff „MP3“?“
+Music & Portable
+Multiple & Player
+Media & Power
+Moving & Picture
+4
+
+
+MC
+Was kann man essen?
+Aktenkoffer
+Schulranzen
+Rucksack
+Apfeltasche
+4
+
+
+MC
+Wobei handelt es sich um ein Notsignal im internationalen Funkverkehr?
+Mayday
+Down Town
+Jetset
+Flower Power
+1
+
+
+MC
+Wie heißt - laut einem Märchen der Brüder Grimm - die Schwester von Schneeweißchen?
+Fliederlila
+Maisgelb
+Rosenrot
+Kornblumenblau
+3
+
+
+MC
+Wer hat von Berufs wegen mit dem Spritzenhaus zu tun?
+Gärtner
+Krankenschwester
+Feuerwehrmann
+Konditor
+3
+
+
+MC
+Was ist die Amtssprache von Mexiko?
+Portugiesisch
+Englisch
+Französisch
+Spanisch
+4
+
+
+MC
+Unter welchem Namen sangen Wigald Boning und Olli Dittrich "Lieder, die die Welt nicht braucht"?
+Die Behämmerten
+Die Abgedrehten
+Die Doofen
+Die Irren
+3
+
+
+MC
+Was ist ein Rebus?
+Kreditinstitut
+Werkzeug
+Weinstock
+Bilderrätsel
+4
+
+
+MC
+Wie nennt man von Gletschern transportierten Gesteinsschutt?
+Moräne
+Muräne
+Morelle
+Murnau
+1
+
+
+MC
+Welches deutsche Fürstenhaus organisierte bis ins 19. Jahrhundert die kaiserliche Reichspost?
+Fürstenberg
+Schaumburg-Lippe
+Hohenlohe
+Thurn und Taxis
+4
+
+
+MC
+Wobei handelt es sich nicht um ein Insekt?
+Stechmücke
+Wintermücke
+Grasmücke
+Kriebelmücke
+3
+
+
+MC
+Wie heißt das traditionelle Pferderennen in Siena?
+Calcio
+Palio
+Barolo
+Boccia
+2
+
+
+MC
+Was ist nach Mahón, dem Hauptort der Insel Menorca, benannt?
+Marone
+Mahagoni
+Marihuana
+Mayonnaise
+4
+
+
+MC
+Welcher deutsche Boxer schlug im Juni 1952 den Ringrichter Max Pippow zu Boden?
+Peter Müller
+Eckhard Dagge
+Bubi Scholz
+Max Schmeling
+1
+
+
+MC
+Wo befindet sich der Hauptsitz der UNESCO?
+Brüssel
+Paris
+London
+Helsinki
+2
+
+
+MC
+Mit wem stand Edmund Hillary 1953 auf dem Gipfel des Mount Everest?
+Nasreddin Hodscha
+Nursay Pimsorn
+Tenzing Norgay
+Abrindranath Singh
+3
+
+
+MC
+Wie nennt man großen Wirbel um eine berühmte Persönlichkeit?
+Prominentenkirmes
+Starrummel
+VIP-Jahrmarkt
+Götterzirkus
+2
+
+
+MC
+Was steht über dem Haupteingang des Reichstagsgebäudes in Berlin?
+Dem deutschen Volke
+Achtung, Bundestag!
+Nur für Abgeordnete
+Bitte nicht stören!
+1
+
+
+MC
+Wer davonläuft, der gibt einer Redewendung nach...?
+Wechselgeld
+Fersengeld
+Kleingeld
+Kindergeld
+2
+
+
+MC
+Durch welches Verfahren schickte man im alten Athen seine Mitbürger in die Verbannung?
+Götterspeise
+Henkersmahlzeit
+Scherbengericht
+Grillteller
+3
+
+
+MC
+Wie nennt man ein gedrucktes Rundschreiben des Papstes?
+Enzephalitis
+Enzym
+Enzyklopädie
+Enzyklika
+4
+
+
+MC
+Wer sang sich 1974 mit "Hoch auf dem gelben Wagen" in die Charts?
+Genscher
+Scheel
+Brandt
+Kinkel
+2
+
+
+MC
+Wie heißt der König der Erdmännchen in der Augsburger Puppenkiste?
+Kalle Wirsch
+Klein Zack
+Zwerg Nase
+Frodo Beutlin
+1
+
+
+MC
+Wer schoss in 62 Fußball-Länderspielen 68 Tore?
+Gerd Müller
+Horst Hrubesch
+Helmut Rahn
+Jupp Heynckes
+1
+
+
+MC
+Was ist das so genannte Horn von Afrika?
+Sternbild
+Halbinsel
+fossiles Kultobjekt
+Berg in Tansania
+2
+
+
+MC
+In welchem Hitchcock-Film kann die Protagonistin es nicht ertragen, die Farbe Rot zu sehen?
+Marnie
+Vertigo
+Der unsichtbare Dritte
+Die Vögel
+1
+
+
+MC
+Nach einem Stadtteil welcher Metropole benannte sich der Regisseur Rosa von Praunheim?
+Magdeburg
+Frankfurt am Main
+Hamburg
+Köln
+2
+
+
+MC
+Was ist kein Lamellenpilz?
+Hallimasch
+Champignon
+Steinpilz
+Knollenblätterpilz
+3
+
+
+MC
+Wo wohnt Astrid Lindgrens Titelheldin Lotta?
+Höllenlärmgasse
+Krachmacherstraße
+Donnerschlagallee
+Radaubruderweg
+2
+
+
+MC
+Welche Weltreligion kennt keine Schutzengel?
+Judentum
+Islam
+Christentum
+Buddhismus
+4
+
+
+MC
+Welche beiden Gibb-Brüder der Popband The Bee Gees sind Zwillinge?
+Robin und Barry
+Maurice und Robin
+Barry und Maurice
+Andy und Robin
+2
+
+
+MC
+Kleine Sünden straft der liebe Gott dem Volksmund nach ...?
+sofort
+so gut wie nie
+mit Fernsehverbot
+in neun Monaten
+1
+
+
+MC
+Eine populäre Spielart der amerikanischen Volksmusik heißt Country & ...?
+Thriller
+Comedy
+Slapstick
+Western
+4
+
+
+MC
+Vor welchen gesetzlosen Gesellen fürchteten sich schon die alten Rittersleut'?
+Gebüschganoven
+Heckenstrolche
+Baumbanditen
+Strauchdiebe
+4
+
+
+MC
+Was wird nicht durch Reflexe ausgelöst?
+Gähnen
+Niesen
+Kauen
+Schlucken
+4
+
+
+MC
+Mit den Worten "Der Weltraum, unendliche Weiten" beginnen die Abenteuer des Raumschiffes ...?
+Galactica
+Orion
+Nostromo
+Enterprise
+4
+
+
+MC
+Wer gehört nicht zu Dorothys Begleitern in "Der Zauberer von Oz"?
+fast kopfloser Nick
+Vogelscheuche
+Zinnmann
+ängstlicher Löwe
+1
+
+
+MC
+Wie heißt ein Kanton der Schweiz?
+Baden-Baden
+Karlsruhe
+Konstanz
+Freiburg
+4
+
+
+MC
+Vor allem in Norddeutschland schwören traditionsbewusste Genießer auf "Birnen, ..."?
+Hering und Ei
+Bohnen und Speck
+Grünkohl und Senf
+Klöße und Quark
+2
+
+
+MC
+Wie heißt eine Klasse der Wirbeltiere mit mehr als 20.000 bekannten Arten?
+Schuppenfische
+Kiemenfische
+Knochenfische
+Flossenfische
+3
+
+
+MC
+Wer war nie Kaiser des Heiligen Römischen Reiches?
+Ludwig der Bayer
+Heinrich der Löwe
+Otto der Große
+Friedrich Barbarossa
+2
+
+
+MC
+Tabak zählt zur selben Pflanzenfamilie wie die ...?
+Kartoffel
+Karotte
+Kamille
+Kastanie
+1
+
+
+MC
+Um wen geht es im Namen der Band Frankie Goes To Hollywood?
+Frank Capra
+Frank Sinatra
+Franklin D. Roosevelt
+Frank Zappa
+2
+
+
+MC
+Gegen wen setzte sich Bonn 1949 bei der Wahl zur Bundeshauptstadt mit 33:29 Stimmen durch?
+Kassel
+München
+Frankfurt am Main
+Westberlin
+3
+
+
+MC
+Welches Imitat erfüllt sichtlich seinen Zweck?
+Tomatenröter
+Kaffeeweißer
+Senfgelber
+Schokoladenbräuner
+2
+
+
+MC
+Welchen Ausdruck prägte der Philosoph Hegel?
+für sich und an
+und für an sich
+an und für sich
+sich und für an
+3
+
+
+MC
+Der potenzielle neue Bundespräsident Horst Köhler war bislang Chef des...?
+IWF
+DRK
+IOC
+DFB
+1
+
+
+MC
+Bei den Olympischen Spielen 1900 gab es einen Wettbewerb im Schießen auf lebende ...?
+Hasen
+Ratten
+Fasane
+Tauben
+4
+
+
+MC
+Wohin muss man reisen, wenn man die Überreste der antiken Metropole Pergamon sehen will?
+Türkei
+Ägypten
+Zypern
+Kreta
+1
+
+
+MC
+Wie nennen Mathematiker einen Grundsatz, der nicht von anderen Sätzen abgeleitet werden kann?
+Idiom
+Axiom
+Algorithmus
+Hypothese
+2
+
+
+MC
+Wessen Romane wären nie veröffentlicht worden, wenn man seinem letzten Willen entsprochen hätte?
+Hermann Hesse
+Theodor Fontane
+Franz Kafka
+Robert Musil
+3
+
+
+MC
+Am Grund tiefer Seen ist das Wasser...?
+nie kälter als 4°C
+sauerstofffrei
+nicht trinkbar
+lichtundurchlässig
+1
+
+
+MC
+Giraffe, Pfau und Eidechse sind...?
+lebend gebärend
+heilige Tiere in Indien
+Tischler-Werkzeuge
+Sternbilder
+4
+
+
+MC
+Wer bekam 1954 den Chemie- und 1962 den Friedensnobelpreis?
+Linus Pauling
+Otto Hahn
+Pearl S. Buck
+Albert Schweitzer
+1
+
+

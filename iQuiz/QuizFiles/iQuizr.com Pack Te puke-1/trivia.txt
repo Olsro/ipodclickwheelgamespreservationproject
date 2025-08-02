@@ -1,0 +1,114 @@
+TITLE
+Te puke
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+1
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What is the closest big city to Te puke
+Rotorua
+Auckland
+Hamilton
+Tauranga
+4
+
+
+MC
+Why is the Kiwifruit there
+Because it grew out of the ground
+Because it is the Kiwifruit capital of the world
+Because they found  it
+Because a famous carver carved it
+2
+
+
+MC
+When was kiwifruit country established
+1870
+1980
+1978
+2008
+3
+
+
+MC
+What does it say on the kiwifruits face
+Welome to Te Puke
+Kiwifruit 360
+Kiwi360
+Kiwifruits dont have faces
+3
+
+
+MC
+What did the kiwifruit used to be named
+chinese manderin
+chinese gooseberry
+chinese cranberry
+chinese kiwifruit
+2
+
+
+MC
+Where is Te Puke located
+North Island
+South Island
+Rangitoto Island
+Waiheki Island
+1
+
+
+MC
+What giant fruit is in Te Puke
+Banana
+Orange
+Apple
+Kiwifruit
+4
+
+
+MC
+How long have they planted kiwifruit in Te Puke
+45years
+50 years
+10000 years
+120 years
+2
+
+
+MC
+what country is Te Puke in
+Kazakhstan
+Mars
+new zealand
+Mongolia
+3
+
+
+MC
+If i have 1 kiwi fruit how many do i have
+13
+241534676
+1
+i dont know
+3
+
+

@@ -1,0 +1,109 @@
+// com.aspyr.iQuizMaker.ThemeName: Hot Stuff
+
+TITLE
+Celebrity Travel Quiz
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You won!
+
+LOST MESSAGE
+You lost!
+
+VERSION
+1
+
+QUESTION COLOR
+255, 255, 255
+
+MENU TITLE COLOR
+132, 3, 100
+
+MC
+Where did Pam Anderson and Kid Rock tie the knot for the first time?
+Nashville
+Detroit
+The backyard of Tommy Lee's Malibu home
+Saint-Tropez
+4
+
+MC
+Where was Anna Nicole finally laid to rest?
+Hollywood, Florida
+Bahamas
+Next to Marilyn Monroe's grave
+Texas
+2
+
+MC
+Where did Brad and Jen spend their final weekend as a couple?
+Cambodia
+Their marriage counselor's office
+Anguilla
+Hollywood
+3
+
+MC
+After their respective breakups, Cameron Diaz and Drew Barrymore enjoyed a girlfriends' getaway in:
+At the Academy Awards
+Paris
+Chile
+Hawaii
+4
+
+MC
+After their lavish Italian wedding, where did TomKat cruise to for a little honeymoon R&R?
+Rome
+Paris
+Maldives
+Aspen
+3
+
+MC
+Tom's former flame, Nicole Kidman, also remarried. Where did she and country singer Keith Urban head after their glitzy Sydney nuptials in 2007?
+Tahiti
+New Zealand
+Rehab
+Nashville
+1
+
+MC
+Last September, a pre-rehab Lindsay made headlines when her purse, which was reportedly filled with more than $1 million worth of jewels, went missing from an international airport. Where was the airport located?
+Venice
+London
+New York
+Tokyo
+2
+
+MC
+What were the two locations for Elizabeth Hurley's March 2007 wedding?
+England and Greece
+Scotland and India
+Scotland and the US
+England and India
+4
+
+MC
+Though he's become synonymous with swashbuckling in the Caribbean, where does Johnny Depp actually make his home?
+London
+Paris
+Malibu
+South of France
+4
+
+MC
+He hasn't left our shores for good, but perennial hotstuff George Clooney has a second home in glamorous:
+Buenos Aires
+Lake Cuomo
+Vancouver
+St. Bart's
+2
+

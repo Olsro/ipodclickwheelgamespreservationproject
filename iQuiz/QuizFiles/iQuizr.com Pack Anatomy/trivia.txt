@@ -1,0 +1,114 @@
+TITLE
+Anatomy
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What is the largest human cell type?
+Neuron
+Osteocyte
+Macrophage
+Ovum
+4
+
+
+MC
+Which organ system contains the skin?
+Endocrine
+Integumentary
+Nervous
+Lymphatic
+2
+
+
+MC
+Which body cavity contains the gall bladder?
+Cranial
+Thoracic
+Abdominal
+Pericardial
+3
+
+
+MC
+What might you find in the cervical region?
+The lower leg
+The neck
+The hymen
+The forebrain
+2
+
+
+MC
+Parkinson's disease is caused by what kind of deficit?
+Dopamine
+Insulin
+Cerebrospinal fluid
+Genetic
+1
+
+
+MC
+Which of these does not belong?
+Pons
+Medulla oblongata
+Cerebellum
+Midbrain
+3
+
+
+MC
+Which of these does not belong?
+Pedal
+Axial
+Femoral
+Brachial
+2
+
+
+MC
+Which best describes decussation?
+Losing your bearings
+Getting your wires crossed
+Losing your train of thought
+Getting a swelled head
+2
+
+
+MC
+If your brain were the Earth, what might your efferent signals be?
+Power plants
+Sunsets
+Satellites
+Asteroids
+3
+
+
+MC
+A suborbital fracture of the skull would likely be...
+medial to the longitudinal fissure.
+beneath the cranial cavity.
+somewhere on the jawbone.
+under the eye socket.
+4
+
+

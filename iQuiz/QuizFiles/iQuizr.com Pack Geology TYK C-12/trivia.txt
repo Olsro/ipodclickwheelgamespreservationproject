@@ -1,0 +1,132 @@
+TITLE
+Geology TYK C-12
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+12
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Alpine glaciation
+is found in moutainous regions
+exists where a large part of a continent is covered by glacial ice
+is a type of glacier
+none of the proceding
+1
+
+
+MC
+Continental glaciation
+is found in moutainous regions
+exists where a large part of a continent is covered by glacial ice
+is a glacier found in the subtropics of continents
+none of the proceding
+2
+
+
+MC
+At present, about __% of the land surface of the earth is coverd by glaciers
+1/2
+1
+2
+10
+4
+
+
+MC
+What is not a type of glacier?
+valley glacier
+ice sheet
+ice cap
+sea ice
+4
+
+
+MC
+The boundry between the zone of accumulation and the zone of ablation of a glacier is called the
+firn
+equilibrium line
+ablation zone
+moraine
+2
+
+
+MC
+In a receding glacier
+ice flows from lower elevations to higher elevations
+the terminus moves upvalley
+the equilibrium line moves to a lower elevation
+all of the preceding
+2
+
+
+MC
+Recently, geologists have been drilling through ice sheets for clues about
+ancient mammals
+astronomical events
+extinctions
+past climates
+4
+
+
+MC
+Glacially carved valleys are usually __ shaped.
+V
+U
+Y
+all of the preceding
+2
+
+
+MC
+Which is not a type of moraine?
+medial
+end
+ground
+esker
+4
+
+
+MC
+The last episode of extensive glaciation in North America was at its peak about __ years ago.
+2,000
+5,000
+10,000
+18,000
+4
+
+
+MC
+How fast does the central part of a valley glacier move compared to the sides of the glacier?
+faster
+slower
+at the same rate
+
+1
+
+
+MC
+During the Ice Ages, much of Nevada, Utah, and eastern California was covered by
+ice
+huge lakes
+deserts
+the sea
+2
+
+

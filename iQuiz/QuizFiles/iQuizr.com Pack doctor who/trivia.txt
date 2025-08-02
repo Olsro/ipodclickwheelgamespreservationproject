@@ -1,0 +1,114 @@
+TITLE
+doctor who
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+who was the first doctor
+William Hartnell
+Tom Baker
+Jon Pertwee
+Terry Wogan
+1
+
+
+MC
+Who come from Mars
+Cybermen
+Daleks
+Ice Warriors
+Zarbi
+3
+
+
+MC
+In which story did Davros first appear
+Day of the Daleks
+Evil of the Daleks
+Fury from the Deep
+Genesis of the Daleks
+4
+
+
+MC
+A bleeping silver ball was the power source for which creature
+the cybermen
+the yeti
+the daleks
+pete burns
+2
+
+
+MC
+The Sontarans were at war with....
+The Rutans
+The Zutons
+The Zygons
+The Menoptera
+1
+
+
+MC
+Earth's twin Planet was called
+Atlanta
+Telos
+Mondas
+Terra fying
+3
+
+
+MC
+The Master was first played by
+Anthony Ainley
+Roger Delgado
+John Simm
+Harry Worth
+2
+
+
+MC
+The timelords come from
+Gallifrey
+Gallillee
+Xanadu
+Metabelis 3
+1
+
+
+MC
+The unearthly child was a pupil at
+Grange Hill
+Muwell Hill
+Coal Hill
+Solsbury Hill
+3
+
+
+MC
+Glbal Chemicals was responsible for an infestation of
+Killer Bees
+Giant Maggots
+Deadly Cockroaches
+Cybermats
+2
+
+

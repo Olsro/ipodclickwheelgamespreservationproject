@@ -1,0 +1,330 @@
+TITLE
+Minnan no Nihongo - 3
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+34
+
+LOSE
+7
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+&#12365;&#12423;&#12358;&#12375;&#12388;
+classroom
+dining hall, canteen
+office
+conference room, assembly rooms
+1
+
+
+MC
+&#12375;&#12423;&#12367;&#12393;&#12358;
+reception desk
+classroom
+office
+dining hall, canteen
+4
+
+
+MC
+&#12376;&#12416;&#12375;&#12423;
+room
+office
+conference room, assembly rooms
+dining hall, canteen
+2
+
+
+MC
+&#12363;&#12356;&#12366;&#12375;&#12388;
+office
+conference room, assembly rooms
+escalator
+country
+2
+
+
+MC
+&#12358;&#12369;&#12388;&#12369;
+lobby
+toilet
+receptiondesk
+office
+3
+
+
+MC
+&#12525;&#12499;&#12540;
+lobby
+toilet
+escalator
+work
+1
+
+
+MC
+&#12362;&#12390;&#12354;&#12425;&#12356;
+telephone, telephonecall
+staircase
+necktie
+toilet
+4
+
+
+MC
+&#12363;&#12356;&#12384;&#12435;
+elevator,lift
+dininghall, canteen
+staircase
+house, home
+3
+
+
+MC
+&#12456;&#12524;&#12505;&#12540;&#12479;&#12540;
+escalator
+ten thousand
+how much
+elevator,lift
+4
+
+
+MC
+&#12456;&#12473;&#12459;&#12524;&#12540;&#12479;&#12540;
+elevator,lift
+escalator
+country
+house, home
+2
+
+
+MC
+&#65339;&#12434;&#65341; &#12367;&#12395;
+classroom
+work
+country
+house, home
+3
+
+
+MC
+&#12363;&#12356;&#12375;&#12419;
+work
+toilet
+classroom
+necktie
+1
+
+
+MC
+&#12358;&#12385;
+wine
+telephone, telephonecall
+basement
+house, home
+4
+
+
+MC
+&#12391;&#12435;&#12431;
+shoes
+country
+office
+telephone, telephonecall
+4
+
+
+MC
+&#12367;&#12388;
+Shoes
+house, home
+how much
+necktie
+1
+
+
+MC
+&#12493;&#12463;&#12479;&#12452;
+necktie
+noose
+next try
+tobacco, cigarette
+1
+
+
+MC
+&#12527;&#12452;&#12531;
+wine
+tobacco, cigarette
+whine
+win
+1
+
+
+MC
+&#12383;&#12400;&#12371;
+house, home
+department, counter (in a departmentstore)
+shoes
+tobacco, cigarette
+4
+
+
+MC
+&#12358;&#12426;&#12400;
+wine
+department, counter (in a departmentstore)
+well, then, in that case
+dininghall, canteen
+2
+
+
+MC
+&#12385;&#12363;
+hundred
+basement
+classroom
+receptiondesk
+2
+
+
+MC
+&#65374;&#12363;&#12356;
+~th floor
+~yen
+Please show me [~]
+Giveme [~], please.
+1
+
+
+MC
+&#12394;&#12435;&#12364;&#12356;
+how many yen
+what floor
+what is that
+now
+2
+
+
+MC
+&#65374;&#12360;&#12435;
+~th floor
+Giveme [~], please.
+~yen
+Please show me [~].
+3
+
+
+MC
+&#12356;&#12367;&#12425;
+what floor
+whats that
+now
+how much
+4
+
+
+MC
+&#12402;&#12419;&#12367;
+ten thousand
+hundred
+thousand
+million
+2
+
+
+MC
+&#12379;&#12435;
+thousand
+ten thousand
+million
+hundred
+1
+
+
+MC
+&#12414;&#12435;
+man
+ten thousand
+thousand
+hundred
+2
+
+
+MC
+&#12377;&#12415;&#12414;&#12379;&#12435;
+I'm so sorry
+Excuse me.
+Thank you
+Great
+2
+
+
+MC
+&#65374;&#12391;&#12372;&#12374;&#12356;&#12414;&#12377;
+Giveme [~], please.
+Please show me [~]
+~yen
+~th floor
+2
+
+
+MC
+&#12376;&#12419;
+magazine
+dictionary
+well, then, in that case
+office
+3
+
+
+MC
+&#65339;&#65374;&#12434;&#65341; &#12367;&#12384;&#12374;&#12356;
+~yen
+Please show me [~].
+~th floor
+Giveme [~], please
+4
+
+
+MC
+&#12356;&#12488;&#12452;&#12524;
+cubicle
+work
+toilet
+office
+3
+
+
+MC
+&#65374;&#12364;&#12356;
+~th floor
+Giveme [~], please.
+Please show me [~].
+~yen
+1
+
+
+MC
+&#65339;&#65374;&#12434;&#65341; &#12415;&#12379;&#12390;&#12367;&#12384;&#12373;&#12356;
+Giveme [~], please.
+Please show me [~].
+~ yen
+~th floor
+2
+
+

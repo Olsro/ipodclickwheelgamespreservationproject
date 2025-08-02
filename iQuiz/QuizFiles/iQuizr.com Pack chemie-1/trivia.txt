@@ -1,0 +1,51 @@
+TITLE
+chemie
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+3
+
+LOSE
+2
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+was ist eine chemische reaktion
+metallverarbeitung
+frischen von metallen
+ein vorgang mit stoffveränderung
+eine oxidation
+3
+
+
+MC
+was ist frischen??
+metallgewinnung
+metallverarbeitung
+oxidation
+kohlenstoffgehalt in metallen sinken
+4
+
+
+MC
+was ist eine oxidation
+metallverarbeitung
+chemische reaktion mit sauerstoff
+metallgewinnung
+frischen
+2
+
+

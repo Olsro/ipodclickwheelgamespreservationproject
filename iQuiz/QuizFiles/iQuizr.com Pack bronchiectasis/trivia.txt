@@ -1,0 +1,105 @@
+TITLE
+bronchiectasis
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+9
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+definition of Bronchiectasis
+Chronic AbN dilation of bronchi
+destruction of bronchial walls
+A and B
+
+3
+
+
+MC
+Is the brocoectasis irreversible?
+yes
+No
+
+
+1
+
+
+MC
+It reduces the incidence of bronchoectasis
+bronchodilators
+Antibiotics
+Steroids
+
+2
+
+
+MC
+3 forms of bronchiectasis?
+cylindrical (fusiform)
+Varicose
+Saccular (cystic)
+All of the above
+4
+
+
+MC
+what kind of chronic does the bronchiectasis have?
+Chronic,copious
+foul smelling
+mucopurulent secretions
+all of the above
+4
+
+
+MC
+s/sx of bronchiectasis
+Anorexia
+Exertional dyspnea
+coarse crackles
+all of the above
+4
+
+
+MC
+In bronchiectasis, CXR shows
+peribronchial thickening
+lung enlargement
+
+
+1
+
+
+MC
+What should be done to mobilize secretions
+Steroids
+Bronchodilator
+Bronchoscopy
+
+3
+
+
+MC
+Bronchodilator for Bronchiectasis
+albuterol Proventil
+Propofof diprivan
+propanolol Inderal
+
+1
+
+

@@ -1,0 +1,429 @@
+TITLE
+Deportes
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+45
+
+LOSE
+7
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+A cuantas "entradas" se juega un partido de beisbol?
+9
+11
+7
+6
+1
+
+
+MC
+Campeón Mundial de box, cuyo verdadero nombre es Cassius Marcellus Clay ?
+Mike Tyson
+Evander Holyfield
+George Foreman
+Muhammad Ali
+4
+
+
+MC
+A que especialidad corresponden las pruebas olímpicas de kayak?
+Halterofilia
+Canotaje
+Esgrima
+Equitación
+2
+
+
+MC
+Maximo anotador de la historia de los mundiales?
+Ronaldo
+Pelé
+Gary Lineker
+Gerd Muller
+4
+
+
+MC
+El mariscal de campo Joe Montana,  para que equipos jugó en la NFL?
+Green Bay Packers y 49s de San Francisco
+Dallas Cowboys y Seattle Seahawks
+49s de San Francisco y  Kansas City
+Pittsburgh Steelers y Kansas City
+3
+
+
+MC
+A quien le apodan "el niño de oro"?
+Hugo Sanchez
+Pelé
+Diego Armando Maradona
+Ronaldo
+1
+
+
+MC
+Michael Jordan con que equipo jugó tras su segundo regreso a la NBA?
+Cleveland
+Washington Wizards
+Philadelphia 76ers
+Orlando Magic
+2
+
+
+MC
+Juego de billar en que se usan 15 bolas numeradas y otra para tirar?
+Canasta
+Pool
+Bolos
+Carambola
+2
+
+
+MC
+A quien vencio en la final del abierto de Australia Pete Sampras en 1997?
+Marat Safin
+Todd Martin
+Carlos Moya
+Andre Agassi
+3
+
+
+MC
+Nombre de las pistas de carreras de bicicletas
+Cicloramas
+Bicidromos
+Bikedromos
+Velódromos
+4
+
+
+MC
+País que organizo la copa del mundo en 1982
+España
+Inglaterra
+Alemania
+Francia
+1
+
+
+MC
+En la WWE, quiénes forman el equipo D-Generation X (DX)?
+Triple H y Shawn Michaels
+The Miz y Morrison
+Chris Jericho y Big Show
+Cody Rhodes y Ted Dibiase
+1
+
+
+MC
+Atleta canadiense descalificado en la Olimpiada de Seúl por dopaje
+Carl Lewis
+Todd Martin
+Ben Johnson
+Samuel Brigge
+3
+
+
+MC
+Cuantas casillas tiene un tablero de ajedrez?
+52
+64
+42
+58
+2
+
+
+MC
+Que jugador brasileño gano el balón de oro, aparte de ganarlo con el Barcelona?
+Rivaldo
+Ronaldinho
+Romario
+Ronaldo
+1
+
+
+MC
+Piloto mexicano de automóviles muerto en una pista alemana, en 1971
+Adrián Fernández
+Ricardo Rodríguez
+Moisés Solana
+Pedro Rodríguez
+4
+
+
+MC
+Que jugador gano 3 veces Roland garros en la decada de los 90?
+Pete Sampras
+Carlos Moya
+Andre Agassi
+Gustavo Kuerten
+4
+
+
+MC
+Cual de estos pilotos no gano la formula 1 en la decada del 2000 al 2008
+Schumager
+Alonso
+Hakkinen
+Hamilton
+3
+
+
+MC
+Que jugadores fueron campeones del mundo en 1986?
+Rummenigge y Matthaus
+Valdano y Burruchaga
+Tigana y Platini
+Careca y Zico
+2
+
+
+MC
+Como se llama a la torre del ajedrez?
+Torreón
+Enroque
+Roque
+Peón
+3
+
+
+MC
+Que país salio campeón del mundial de Suiza 1954?
+Brasil
+Inglaterra
+Alemania
+Checoslovaquia
+3
+
+
+MC
+En el futbol Americano que valor tiene un touchdown?
+3
+6
+7
+1
+2
+
+
+MC
+En el tenis, cuanto vale el primer punto que se gana de cada juego?
+10
+20
+15
+5
+3
+
+
+MC
+Pitcher que ha tenido más victorias en la historia de las Grandes Ligas?
+Fernando Valenzuela
+Sandy Kouffax
+Cy Young
+Ty Cobb
+3
+
+
+MC
+En la antigüedad, cada cuántos años se celebraban las Olimpiadas?
+10
+5
+4
+2
+3
+
+
+MC
+Cómo se llama el estadio de fútbol del Manchester United?
+New Camp
+Stamford Bridge
+Omnilife
+Old Trafford
+4
+
+
+MC
+Que se practica con un florete?
+Hockey
+Rugby
+Esgrima
+Equitación
+3
+
+
+MC
+Quie no fue jugador de los Bulls de Chicago en la NBA?
+Scottie Pippen
+Joakim Noah
+Charles Barkley
+Dennis Rodman
+3
+
+
+MC
+En el voleibol, a cuantos puntos se juega un set normal?
+20
+25
+15
+11
+2
+
+
+MC
+De dónde sale el fuego olimpico meses antes de llegar a su destino?
+Del país anfitrión
+De Grecia
+Es por sorteo
+Del último pais anfitrión
+2
+
+
+MC
+En que ciudad se disputa la última etapa del Tour de Francia?
+Lyon
+Le Mans
+Marsella
+París
+4
+
+
+MC
+Cómo se llama el objeto que se entrega en una carrera de relevos?
+Testigo
+Bastón
+Palo
+Pot
+1
+
+
+MC
+Quien de estos jugadores de soccer no fue campeón del mundo?
+Rossi
+Kempes
+Cruyff
+Müller
+3
+
+
+MC
+Equipo que gano en 1995, por primera vez, la serie Mundial de Beisbol?
+Indios de Cleveland
+Bravos de Atlanta
+Piratas de Pittsburgh
+Azulejos de Toronto
+2
+
+
+MC
+Deporte hípico en que se golpea una pelota de madera con un mazo
+Equitación
+Pool
+Criquet
+Polo
+4
+
+
+MC
+Como se llama la "pelota" en badminton?
+Gallito
+Gajo
+Volante
+Pot
+3
+
+
+MC
+Cual es el peso maximo de un balón de futbol reglamentario?
+357 gramos
+500 gramos
+453 gramos
+1 kilo
+3
+
+
+MC
+Cuanto mide el largo de una cancha de tenis?
+23.77 mts
+21.90 mts
+15.68 mts
+24.0 mts
+1
+
+
+MC
+Cuántos jugadores componen un equipo de fútbol americano?
+9
+11
+13
+7
+2
+
+
+MC
+Cuanto mide un cuadrilátero en el boxeo?
+5 x 5 mts
+6 x 4 mts
+6 x 6 mts
+5 x 7 mts
+3
+
+
+MC
+A que selección, Pelé metio su primer gol como profesional?
+Uruguay
+Italia
+Argentina
+Croacia
+3
+
+
+MC
+Cuantos jugadores componen un equipo en waterpolo
+7
+9
+11
+5
+3
+
+
+MC
+Cuántos minutos dura cada cuarto de un partido de fútbol americano?
+15
+25
+20
+12
+1
+
+
+MC
+Arte marcial originaria de Corea?
+Judo
+Tae kwon do
+Karate
+Kenjutsu
+2
+
+
+MC
+Objeto de acero que se lanza desde el mentón, en las olimpiadas?
+Martillo
+Jabalina
+Bala
+Disco
+3
+
+

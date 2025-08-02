@@ -1,0 +1,231 @@
+TITLE
+Ciencias Naturales
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+23
+
+LOSE
+5
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+¿Que esta formado por Galaxias, Estrellas, Asteroides, Meteoritos, Polvo, Gases y Planetas?
+Una Galaxia
+El Universo
+Las Galaxias
+Los Planetas
+2
+
+
+MC
+¿Cual es la Teoria de la cual se creo el Universo?
+La Teoria del Mimetismo
+La Teoria de la Seleccion Natural
+La Teoria del Big Bang
+No se Sabe como se creo
+3
+
+
+MC
+¿Que Tipos de Galaxias Hay?
+Regular, Espiral Barrada, Espiral y Eliptica
+Espiral, Espiral Barrada, Irregular y Eliptica
+Espiral, Irregular, Regular y Eliptica
+Espiral Irregular, Espiral, Regular y Eliptica
+2
+
+
+MC
+¿Que Capas Tiene la Tierra?
+Nucleo Intermedio, Nucleo Externo, Nucleo Central, Manto y Cortesa Terrestre
+Nucleo Central, Nucleo Exterior, Manto y Cortesa Terrestre
+Nucleo, Manto y Cortesa Terrestre
+Nucleo Interior, Nucleo Exterior, Manto y Cortesa Terrestre
+4
+
+
+MC
+¿Que tiene lo Siguiente: Magma, Chimenea, Crater, Lava, Gases?
+Un Volcan
+Sistema Volcanico
+Un Crater
+Un Aparato electrico
+1
+
+
+MC
+¿En que Etapa Surgio la Atmosfera y la Cortesa?
+Incandecencia
+Enfriamiento
+Lluvias
+Pangea
+2
+
+
+MC
+¿Que Significa Pangea?
+Todo Junto
+Tierras Unidas
+Toda Tierra
+Toda Unida
+3
+
+
+MC
+¿Que es la Relacion de los Seres Vivos y su Medio Ambiente?
+Biodiversidad
+Habitat
+Ecosistema
+Biosfera
+3
+
+
+MC
+¿Que Factores Forman los Ecosistemas?
+Limpios y Sucios
+Organicos e Inorganicos
+Naturales y Bioticos
+Bioticos y Abioticos
+4
+
+
+MC
+¿Que Ejemplo hay de los Factores Bioticos?
+Plantas y Animales
+Suelo y Tierra
+Agua y Clima
+Suelo y Agua
+1
+
+
+MC
+¿Que ejemplos hay de Factores Abioticos?
+Plantas y Animales
+Suelo y Aire
+Suelo y Plantas
+Seres Vivos
+2
+
+
+MC
+¿Que tipo de Ecosistemas hay?
+Acuaticos y Marinos
+Terrestres y Aereos
+Terrestres y Acuaticos
+Aereos y Acuaticos
+3
+
+
+MC
+¿Que se forma con el Agua Contaminada en forma de precipitacion?
+Lluvia Purificada
+Lluvia Toxica
+Lluvia Acida
+Lluvia Sucia
+3
+
+
+MC
+¿Como se llama la Transformacion de Liquido a Solido?
+Evaporacion
+Fusion
+Solidificacion
+Liquo Fusion
+3
+
+
+MC
+¿Como se llama la Transformacion de Solido a Gaseoso?
+Evaporacion
+Fusion
+Solidificacion
+Liquo Fusion
+4
+
+
+MC
+¿Como se llama la Transformacion de Liquido a Gaseoso?
+Evaporacion
+Fusion
+Solidificacion
+Liquo Fusion
+1
+
+
+MC
+¿Como se llama la Transformacion de Gaseoso a Liquido?
+Evaporacion
+Fusion
+Liquo Fusion
+Solidificacion
+2
+
+
+MC
+¿Que es el fenomeno ocasionado por el desgaste de la tierra por el agua o el aire?
+Sedimentacion
+Raspacion
+Erosion
+Desgastacion
+3
+
+
+MC
+¿A causa de que Fenomeno se entierran los Fosiles?
+Salinidad
+Densidad
+Erosion
+Sedimentacion
+4
+
+
+MC
+¿Que Aumenta con la Salinidad?
+La Resistencia de una materia al ser penetrada
+La densidad del Agua
+La dureza de una Materia
+El desgaste de la Tierra
+2
+
+
+MC
+¿Cual es el Mar mas Salado?
+Todos los Siguientes
+Lago Utah
+Mar Rojo
+Mar Muerto
+4
+
+
+MC
+¿Donde esta el Mar Muerto?
+Mexico
+Estados Unidos
+Egipto
+Israel
+4
+
+
+MC
+¿Donde esta el Lago Utah?
+Estados Unidos
+Israel
+Mexico
+Japon
+1
+
+

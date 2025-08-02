@@ -1,0 +1,249 @@
+TITLE
+Wildes Durcheinander
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+25
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Wo ist der Hauptsitz des Telekommunikationskonzerns Nokia?
+Tokyo
+Espoo
+Los Angeles
+Luleå
+2
+
+
+MC
+Wie viele EU-Länder besitzen bereits de Euro (Stand Mai 2007) ?
+13
+9
+21
+18
+1
+
+
+MC
+Wie groß ist der größte Mann der Welt ?
+2,54 m
+3,04 m
+2,78 m
+Ziemlich groß.
+1
+
+
+MC
+Wie viel Gramm sind 6 Pfund?
+3 kg
+5,7 m³
+3000 g
+60000 g
+3
+
+
+MC
+Wann gründeten sich die Red Hot Chili Peppers ?
+2001
+1983
+1992
+1979
+2
+
+
+MC
+Welche Verhütungsmittel schützt vor Aids?
+Die Pille.
+Das Kondom.
+Die gold-kupfer Spirale.
+Das Hormonpflaster.
+2
+
+
+MC
+Wie schmecken grüne Gummibärchen?
+Nach Erdbeere.
+Nach Apfel.
+Nach Ananas.
+Nach Birne.
+1
+
+
+MC
+Wer sprach diesen Satz: "I have a dream." ?
+Mahatma Gandhi
+George W. Bush
+Jesus
+Martin Luther King
+4
+
+
+MC
+Was ist ein "Indikativ" in der deutschen Grammatik?
+Eine Beifügung.
+Ein besitzanzeigendes Fürwort.
+Die Wirklichkeitsform.
+Die Beugung von Verben.
+3
+
+
+MC
+Was war 1961?
+Der erste Weltkrieg.
+Die Weltwirtschaftskrise.
+Christoph Kolumbus endeckt Amerika.
+Der Bau der Berliner Mauer.
+4
+
+
+MC
+Wie groß ist das Bundesland Bayern?
+70.551 km²
+357.634.986 m²
+55.925 km²
+78.843 km²
+1
+
+
+MC
+Wer oder was ist ein "Ohm" ?
+Ein lactose-freier Joghurt.
+Eine Maßeinheit für den elektrischen Widerstand
+Ukrainisch für: "Katze".
+Der Entdecker der Oberflächenspannung bei Wasser.
+2
+
+
+MC
+Wie viele Bit sind 1 Kilobyte?
+1024 Bit
+1.000.000 Bit
+8192 Bit
+0,0256 Bit
+3
+
+
+MC
+Welches Element besitzt das Elementensymbol "Sn" ?
+Selen.
+Zinn.
+Senborium.
+Zirconium.
+2
+
+
+MC
+Zu welcher Tierart gehört der Rochen?
+Zu den Salmoniden.
+Zu den Haien.
+Zu den Säugetieren.
+Zu den Vögeln.
+1
+
+
+MC
+Wer gewann die Fußball WM 1958 in Schweden ?
+Deutschland.
+Schweden.
+Brasilien.
+Frankreich.
+3
+
+
+MC
+Wer erfand die erste Batterie ?
+James Watt.
+Thomas Alva Edison.
+Alessandro Volta.
+Alexander Graham Bell.
+3
+
+
+MC
+Welches ist das höchste Bauwerk der Erde ?
+Der KVLY-TV-Mast in Blanchard.
+Der CN-Tower in Toronto.
+Der Sears Tower in Chicago.
+Der Taipei 101 in Taipeh.
+1
+
+
+MC
+Wie lang ist ein HAndballfeld?
+49,5 m
+40 m
+55 m
+38 m
+2
+
+
+MC
+Wie viele Tasten hat ein Klavier ?
+60
+88
+76
+93
+2
+
+
+MC
+Für was steht bei einem runden Speichermedium die Bezeichnung "CD" ?
+Creativ Desing.
+Compact Disc.
+Completetely Digital.
+Concrete Disc.
+2
+
+
+MC
+Wie sind die Tasten bei einem Taschenrechner angeordnet ?
+Von oben links (1) nach unten rechts (9).
+Von unten links (1) nach oben rechts (9).
+Von oben rechts (1) nach unten links (9).
+Von unten links (1) nach oben links (9).
+2
+
+
+MC
+Welcher ist der längste Fluss der Erde ?
+Der Jangtse.
+Der Amzonas.
+Der Nil.
+Der Rhein.
+3
+
+
+MC
+Wie ist die technische Stromrichtung ?
+Vom Pluspol zum Minuspol.
+Vom Nordpol zum Südpol.
+Vom Minuspol zum Pluspol.
+Unterschiedlich.
+1
+
+
+MC
+Wie hat dir dieses Quiz gefallen?
+Super. (War auch sauviel Arbeit...)
+Geht so.
+Schlecht.
+Kein Kommentar.
+1
+
+

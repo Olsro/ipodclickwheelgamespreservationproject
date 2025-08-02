@@ -1,0 +1,132 @@
+TITLE
+Cor pulmonale
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+12
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+it is the enlargement of the Right Ventricle that results from dse affecting the fx of the lungs
+cor pulmonale
+atelectasis
+emphysema
+
+1
+
+
+MC
+Pick wickian syndrome
+Obesity Hyperventilation Syndrome
+Obesity Hypoventilation Syndrome
+
+
+2
+
+
+MC
+s/sx of Cor pulmonale: DEFOT means..
+Dyspnea,Edema, Fatigue
+Orthopnea
+Tachypnea
+all of the above
+4
+
+
+MC
+ABG result for Cor pulmonale
+Increased PaCO2
+Decreased PaO2
+Normal
+
+2
+
+
+MC
+Cardiac Glycoside for cor pulmonale
+Lasix
+Digoxin Lanoxin
+Furosemide Lasix
+
+2
+
+
+MC
+CCB for  Cor Pulmonale
+Diltiazem  CArdizem
+Hydralazine Apresolene
+
+
+1
+
+
+MC
+Angiotensin COnverting enzyme inhibitor for cor pulmonale
+Lasix
+Digoxin Lanoxin
+Captopril Capoten
+
+3
+
+
+MC
+Diet for Cor pulmonale
+Low fat diet
+LOw sodium diet
+Low carbo diet
+
+2
+
+
+MC
+Limit the fluid intake for how many?
+1-2 L a day
+3-4 L a day
+4-5 L a day
+
+1
+
+
+MC
+Reposition the pt for how often??
+every 3 hours
+every 1 hours
+every 2 hours
+
+3
+
+
+MC
+Dx procedure that shows Right ventricular enlargement
+Echocardiography
+Angiography
+A and B
+
+3
+
+
+MC
+S/sx of digoxin toxicity
+Anorexia
+N/V
+yellow halos around the visual images
+all of the above
+4
+
+

@@ -1,0 +1,114 @@
+TITLE
+afi
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+4
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+what id Daveys middle name
+Bill
+Anthony
+chaz
+lucas
+2
+
+
+MC
+who are the original members
+jade dave adam hunter
+mark,vic,davey,adam
+mark,hunter,geoff,jade
+davey,jade,hunter,geoff
+2
+
+
+MC
+what is afi's first album
+sing the sorrow
+decemberunderground
+the art of drowning
+answer that and stay fashionable
+4
+
+
+MC
+what does adam do
+sing
+guitar
+drums
+bass
+3
+
+
+MC
+what are davey jade adam and hunters last names
+havok,puget,carson,burgen
+havok,puget,carson,burger
+onion,rings,french,fries
+hello,my,name,is
+1
+
+
+MC
+is davey gAy
+duh cant you tell
+no
+he doesnt really talk about it
+why does that matter
+3
+
+
+MC
+what is jade's chihuawas name
+miget
+happy
+fluffy
+munch
+4
+
+
+MC
+what brand of shoes does hunter usually wear
+vans
+DC
+converse all star
+adidas
+3
+
+
+MC
+what is adams usual fashion chose
+what he feels comfy in
+tight pants,no shirt
+nothing
+a suit and tie
+1
+
+
+MC
+what is jade brothers name
+smith
+bob
+jade jr.
+jack
+1
+
+

@@ -1,0 +1,150 @@
+TITLE
+Lymphoma
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+14
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+This dse has enlarged nontender, firm, movable lymph nodes in cervical regions
+Hodgkin's Dse
+Malignant lymphoma
+
+
+1
+
+
+MC
+perdictable pattern of spread
+Hodgkin's Dse
+Malignant lymphoma
+
+
+1
+
+
+MC
+Less predictable pattern of spread and prominent, painless, and gen lymphadenopathy
+Hodgkin's Dse
+Malignant lymphoma
+
+
+2
+
+
+MC
+In malingnant Lymphoma, this procedure reveals  small, diffuse lymphocytic or large,follicular type cells
+Bone marrow aspiration
+Biopsy
+A and B
+
+3
+
+
+MC
+In hodgkin's Dse,  The REED STERNBERG CELLS in Lymph Node Biopsy is
+Positive
+negative
+Normal
+
+1
+
+
+MC
+Key tx for Lymphoma
+Radiation therapy
+transfusion of packed RBC
+Chemotherapy
+all of the above
+4
+
+
+MC
+Nsg interventions for lymphoma
+MOnitor for bleeding,infx, jaundice,electrolyte imbalance
+Provide skin and mouth care
+Enc fluids and admin IV fluids, admin Transfusion therapy
+all of the above
+4
+
+
+MC
+2 types of Lymphoma
+Hodgkin's Dse
+Malignant lymphoma(non-hodgkin's lymphoma)
+A and B
+
+3
+
+
+MC
+In hodgkin's Dse, alkaline phospatase  is increased?
+True
+false
+
+
+1
+
+
+MC
+In lymphoma, this procedure shows positive lymph node involvement
+Lymphangiogram
+Lyophilized(dehydrated) AHF
+
+
+1
+
+
+MC
+Hodgkin's Progress:dse occurs in a single lymph node region or single extralymphatic organ
+Stage I of Hodgkin's Progress
+Stage II of Hodgkin's Progress
+Stage III of Hodgkin's Progress
+Stage IV of Hodgkin's Progress
+1
+
+
+MC
+Hodgkin's Progress:dse occurs in 2 or more lymph nodes on same side  of diaphragm or in an extralymphatic organ
+stage I
+Stage II
+Stage III
+Stage IV
+2
+
+
+MC
+Hodgkin's Progress:dse spreads to both sides of diaphragm and perhaps to an extralymphatic organ, spleen or both
+stage I
+Stage II
+Stage III
+Stage IV
+3
+
+
+MC
+Hodgkin's Progress:dse disseminates
+stage I
+Stage II
+Stage III
+Stage IV
+4
+
+

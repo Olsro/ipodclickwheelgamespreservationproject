@@ -1,0 +1,96 @@
+TITLE
+Amyotrophic LAteral SClerosis
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+8
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Amyotrophic Lateral Sclerosis: Key s/sx
+Awkwardness of fine finger movements
+Dysphagia, fatigue
+MS weakness in the hands and feet
+all of the above
+4
+
+
+MC
+Amyotrophic Lateral Sclerosis: creatinine level is
+decreased
+elevated
+Normal
+
+2
+
+
+MC
+Amyotrophic Lateral Sclerosis: electromyography EMG shows
+decreased amplitude of evoked potentials
+increased amplitude of evoked potentials
+Normal
+
+1
+
+
+MC
+Amyotrophic Lateral Sclerosis:Key tx
+Neuroprotective agent
+Mgmt os s/sx
+A and B
+
+3
+
+
+MC
+Neuroprotective agent
+Riluzole RILUTEK
+Famotidine PEPCID
+Hydrocortisone HYDROCORTONE
+
+1
+
+
+MC
+Amyotrophic Lateral Sclerosis: nsg interventions
+monitor Neuro and Respi stat, VS, I/O
+Assess swallow and gag reflexes
+Suction the oral pharynx, assist with ROM
+all of the above
+4
+
+
+MC
+Amyotrophic Lateral Sclerosis: other term
+Lou Gehrig's dse
+Low Geriggs Dse
+Loo Gherigs Dse
+
+1
+
+
+MC
+Amyotrophic Lateral Sclerosis: Characteristics
+degenerative disorder
+decreased motor fx of upper and lower motor neurons
+A and B
+
+3
+
+

@@ -1,0 +1,114 @@
+TITLE
+You Don't Know Tony!
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+5
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What Is Tony's Favorite Animal?
+Snake
+Bird
+Dog
+Cat
+3
+
+
+MC
+How Much Does Tony Love Ashley?
+A Little
+A Lot
+To Infinity And Beyond
+None Of The Above
+3
+
+
+MC
+When Is Tony's Birthday?
+January 14
+March 19
+January 18
+October 29
+4
+
+
+MC
+What's Tony's Pet's Name?
+Pipa
+Chingao
+Chico
+PeeWee
+3
+
+
+MC
+What's Tony's Favorite Color?
+White
+Black
+Red
+Blue
+4
+
+
+MC
+How Much Does Tony Pay For Rent?
+$1,000
+$380
+$250
+$2,350
+3
+
+
+MC
+How Old Is Tony?
+45
+22
+30
+16
+2
+
+
+MC
+What Is Tony's Favorite Food?
+Italian Food
+White Food
+Black Food
+Chinese Food
+4
+
+
+MC
+Where Was Tony Born?
+Pooneenee, AL
+Douglas,GA
+Gualaguises,MX
+Chacaronville,TX
+2
+
+
+MC
+What's Tony's Job Title?
+Sugga Daddy
+PLA
+Hustler
+County Judge
+2
+
+

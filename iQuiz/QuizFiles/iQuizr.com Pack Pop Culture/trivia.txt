@@ -1,0 +1,564 @@
+TITLE
+Pop Culture
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+60
+
+LOSE
+0
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Who is the host of American Idol?
+Ryan Seacrest
+Blake Lewis
+Your Mom
+Simon Cowell
+1
+
+
+MC
+Who was the winner of American Idol 2007?
+Carrie Underwood
+Blake Lewis
+Kelly Clarkson
+Jordin Sparks
+2
+
+
+MC
+What channel is "The View"
+FOX
+CBS
+ABC
+NBC
+3
+
+
+MC
+On Friends, what is the name of Pheobe's husband?
+Mike
+Bob
+Pickle
+Crap Bag
+1
+
+
+MC
+Who is the famous runway coach on America's Next Top Model?
+Nigel Barker
+Twiggy
+Jay Manuel
+Miss Jay Alexander
+4
+
+
+MC
+What fast food chain does Homer sponsor?
+Burger King
+Wendy's
+McDonalds
+Dairy Queen
+1
+
+
+MC
+On Everybody Loves Raymond, who is the "Angry Family"?
+Raymond's family
+The show Jeffrey likes to watch
+No one, they are never angry
+My family
+2
+
+
+MC
+On The Hills, who does Heidi start dating in season two?
+Spencer
+Brody
+Jordan
+Brian
+1
+
+
+MC
+Who was Doug Funnie's crush?
+Mayo Patty
+Bebe Pickles
+Jenny Mustard
+Patty Mayonaisse
+4
+
+
+MC
+Which show allows contestants to choose from silver cases to try and win a cash prize of 1,000,000?
+Pick a Case
+1 vs. 100
+Deal or No Deal
+The Power of 10
+3
+
+
+MC
+Which show do Danny, Jesse, Nicky, and Alex belong to?
+Family Matters
+Full House
+Fresh Prince of Bel Air
+Dallas
+2
+
+
+MC
+I love to write stories that start with "It was a dark and stormy night". My best friend is Woodstock. Who am I?
+Charlie Brown
+Linus
+Snoopy
+Sally
+3
+
+
+MC
+What is usually the main ingredients in cheesecake?
+Cream cheese
+Cake mix
+Fresh cream
+Limburger cheese
+1
+
+
+MC
+Which restaurant serves "Black Tie Mousse Cake"?
+Olive Garden
+Hardee's
+Denny's
+McDonalds
+1
+
+
+MC
+Where is "creme brulee" originally from?
+Spain
+England
+Italy
+France
+2
+
+
+MC
+Which two candy bars were being advertised when the announcer said, "Sometimes you feel like a nut, sometimes you don't?"
+M&Ms, plain versus peanut
+Mars Bars and Milky Way
+Mounds and Almond Joy
+Snickers and Milky Way
+3
+
+
+MC
+On Family Guy, who is the mayor of Quahog?
+Adam West
+Adam North
+Peter Griffin
+Stewie Griffin
+1
+
+
+MC
+On Family Guy, who does Stewie say he's not going to talk to until he gets out of rehab?
+Elmo
+Ernie
+Cookie Monster
+Chocolate Chip Cookie Cheesecake Monster
+3
+
+
+MC
+"Come on Will, just take off your shirt and tell us"
+Pheobe
+Rachel
+Monica
+Chandler
+1
+
+
+MC
+Which movie was Shia Labeouf not in?
+Disturbia
+Transformers
+I Robot
+Live Free or Die Hard
+4
+
+
+MC
+Who played Glinda in the original cast of "Wicked"?
+Kristin Chenoweth
+Victoria Leblanc
+Idina Menzel
+Cher
+1
+
+
+MC
+What Broadway hit featured the song, "Cell Block Tango"?
+Monty Python's Spamalot
+Chicago
+Wicked
+The Lion King
+2
+
+
+MC
+Who did Matthew Broderick do the voice of in the Lion King?
+Simba
+Mufasa
+Pumba
+Rafiki
+1
+
+
+MC
+Who played Chandler's father on Friends?
+Micheal Douglas
+Elliott Gould
+Nathan Lane
+Kathleen Turner
+4
+
+
+MC
+Ron and the Weasely twins rescue Harry from Privet Drive. Where do they take him?
+Platform 9 3/4
+Hogwarts
+The Burrow
+Diagon Alley
+3
+
+
+MC
+Which of these movies did Reese Witherspoon NOT star in?
+Cruel Intentions
+Click
+Just Like Heaven
+Sweet Home Alabama
+2
+
+
+MC
+What is the name of the character Amanda Bynes plays in She's the Man?
+Sebastian
+Monique
+Olivia
+Viola
+4
+
+
+MC
+Who plays the mean boss trying to take over "Mode" in Ugly Betty?
+Serena Williams
+Vanessa Williams
+Julie Dobson
+Jennifer Aniston
+2
+
+
+MC
+Who did Forrest end up marrying in Forrest Gump?
+Jill
+Julie
+Jenny
+Jamie
+3
+
+
+MC
+What is the first song sung in the movie Hairspray during the opening credits?
+I Can Hear the Bells
+Good Morning Baltimore
+The Nicest Kids in Town
+Welcome to the 60's
+2
+
+
+MC
+At the end of the move, Cruel Intentions, who dies?
+Ryan Philippe
+Reese Witherspoon
+Michelle Gellar
+No one
+1
+
+
+MC
+What is Joey's best skill?
+Making sandwiches
+Acting
+Stuffing Oreos in his mouth
+Drinking a gallon of milk in 10 seconds
+4
+
+
+MC
+What is the name of the coaster with Aerosmith?
+Rock n Roll Roller Coaster
+Rock the Night Away
+Rolling Down the Track
+Rock Away with Aerosmith
+1
+
+
+MC
+What is the name of the Disney show held at Fort Wilderness?
+Hoop-de-la
+Hoop-de-doo
+Mickey's funtime
+The Fort Wilderness Show
+2
+
+
+MC
+What actor is McDreamy?
+Patrick Dempsey
+Matthew McConaughy
+Orlando Bloom
+Johnny Depp
+1
+
+
+MC
+What was the name of the greaser gang in the movie, Grease?
+Lightning Rods
+Thunderbirds
+Pink Ladies
+Singers
+2
+
+
+MC
+Finish the lyric: "We'll do it in the dark..
+...with passion in our eyes"
+...and create a spark"
+...and love in our eyes
+...with smiles on our faces"
+4
+
+
+MC
+What Sims 2 expansion pack lets you drive around cars?
+Sims 2 Holiday Stuff
+Sims 2 Pets
+Sims 2 Nightlife
+Sims 2 Open for Business
+3
+
+
+MC
+Who was the winner of I Love New York season 1?
+Chance
+Tango
+Strawberries and cream
+Buddha
+2
+
+
+MC
+What show has Mad TV not made a parody about?
+The Hills
+Weeds
+Friends
+Desperate Housewives
+2
+
+
+MC
+Who is the star of The Office?
+Steve Carell
+David Schwimmer
+Alec Baldwin
+Jason Lee
+1
+
+
+MC
+Which of these movies/tv shows is Sophia Bush in?
+7th heaven/failure to launch
+one tree hill/john tucker must die
+one tree hill/click
+criminal minds/napoleon dynamite
+2
+
+
+MC
+True or False. Tom Brady guest starred on Family Guy
+True
+False
+
+
+1
+
+
+MC
+What channel is Chain Reaction on?
+GSN
+ABC
+NBC
+CBS
+1
+
+
+MC
+What restaurant serves the Chocolate Oreo Cake?
+TGIF
+Applebees
+Outback Steakhouse
+Texas Roadhouse
+1
+
+
+MC
+What was the name of Ben Stiller's dodgeball team in Dodgeball?
+Purple Snakes
+Purple Cobras
+Black Pythons
+Black Cobras
+2
+
+
+MC
+What is the name of the character Reese Witherspoon plays in Legally Blonde?
+Ella
+Emma
+Elle
+Elizabeth
+3
+
+
+MC
+What is the name of Will Ferrell's character in Elf?
+Bob
+Buddy
+Santa
+Jimmy
+2
+
+
+MC
+On the Parent Trap, what are the twins favorite snack?
+Popcorn
+Brownies with ice cream
+Oreos with frosting
+Oreos with peanut butter
+4
+
+
+MC
+In Fever Pitch, what is the profession of Jimmy Fallon's Red Sox crazed character?
+Doctor
+Teacher
+Baseball announcer
+Salesman
+2
+
+
+MC
+What is name of Ben Stiller's character in Along Came Polly?
+Rub
+Bob
+Jason
+Reuben
+4
+
+
+MC
+What movie does Whoopi Goldberg play a Las Vegas showgirl turned nun?
+The Power of God
+Sister Act
+Holy Act
+Passion
+2
+
+
+MC
+In Finding Nemo, what is Bruce's club's motto?
+Fish are Friendly
+Fish are Friends, Not Food
+Fish are Food, Not Friends
+Don't Eat Fish
+2
+
+
+MC
+Who provides the voice of Dory in Finding Nemo?
+Tina Fey
+Ellen DeGeneres
+Christina Applegate
+Whoopi Goldberg
+2
+
+
+MC
+Which Ben and Jerry's ice cream flavor has brown sugar ice cream with cinnamon streusel, apples & caramel swirl?
+Apple Crumble
+Apple Crunch Cake
+Apple Pie A La Mode
+Great American Apple Pie
+1
+
+
+MC
+Which ice cream flavor has chocolate ice cream with marshmellows & devil's food cookies?
+Devil in a Chocolate Dress
+Choco-mallo
+Marshy Madness
+Makin' Whoopie Pie
+4
+
+
+MC
+Which ice cream flavor has chocolate and vanilla ice cream with fudge brownie & cookie dough?
+Half Baked
+Cookie Jar
+Bakery Bliss
+Can I Have A Cookie
+1
+
+
+MC
+What is the twist of Vanilla Heath Bar Crunch & NY Super Fudge Chunk called?
+NY Heath Bar
+Everything but the...
+City Slicker
+Wuz Up Heathy
+2
+
+
+MC
+What are the names of the Rice Krispies elves?
+Snap, Crackle, and Pop
+Bang, Boom, and Zing
+Ed, Fred, and Zed
+Ding, Dang, and Dong
+1
+
+
+MC
+"There's no wrong way to eat a..
+Hersheys
+Sugar Daddy
+Three Musketeers
+Reese's
+4
+
+

@@ -1,0 +1,69 @@
+TITLE
+The Sun
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+5
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What is the Sun?
+A Planet
+An Asteroid
+A Star
+A Galaxy
+3
+
+
+MC
+What color is a Sunspot?
+Orange
+Black
+Red
+Blue
+2
+
+
+MC
+What sized star is the Sun?
+Small
+Meadium
+Large
+Extra large
+2
+
+
+MC
+Does the Sun have a Core and is it hot.
+Yes and it is cold
+No and it is cold
+Yes and it hot
+no and it is hot
+3
+
+
+MC
+What does the Sun provide for Earth
+Light
+Shelter
+Animals
+Stars
+1
+
+

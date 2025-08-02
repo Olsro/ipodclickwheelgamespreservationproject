@@ -1,0 +1,96 @@
+TITLE
+Metabolic Alkalosis
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+8
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+S/sx of metabolic alkalosis
+atrial tachycardia
+confusion,diarrhea,vomiting
+hypoventilation,twitching
+all of the above
+4
+
+
+MC
+ABG for metabolic alkalosis
+pH greater than 7.45
+Bicarbonate level above 29 mEq/L
+A and B
+
+3
+
+
+MC
+Acidifying agent for metabolic alkalosis
+Acetazolomide DIAMOX
+Hydrochloric acid
+
+
+2
+
+
+MC
+Acetazolomide DIAMOX is
+Acidifying gent
+Carbonic anhydrase inhibitors
+
+
+2
+
+
+MC
+definition of metabolic alkalosis
+decreased amount of acid
+Increased amount of base bicarbonate
+A and B
+
+3
+
+
+MC
+Faster adm of ammonium chloride causes
+hypoventilation
+Hemolysis of RBC
+hemolysis of WBC
+
+2
+
+
+MC
+why is it very impt to monitor RR of pt with metabolic alkalosis
+RR decreases in an effort to compensate to alkalosis
+it increases acid and bicarbonate
+
+
+1
+
+
+MC
+In adm ammonium chloride 0.9% .. infusion rate should be limited to
+1 1/2 hrs
+3 hrs
+1 1/4 hours
+
+3
+
+

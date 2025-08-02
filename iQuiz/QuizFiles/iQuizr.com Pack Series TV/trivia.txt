@@ -1,0 +1,204 @@
+TITLE
+Series TV
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+20
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Dans Battlestar Galactica Saison 2, qui tire sur Lee dans le bar?
+un agent cylon
+N°6
+Dualla
+Kara Thrace
+4
+
+
+MC
+Dans Grey's Anatomy Saison 2, qui fait une opération à coeur ouvert dans l'ascenseur?
+Georges
+Izzie
+Cristina
+Burke
+1
+
+
+MC
+Dans Heroes Saison 2, qui est en fait le meurtrier de Kaito?
+Sylar
+Adam
+Bob
+Maury Parkman
+1
+
+
+MC
+Dans Heroes Saison 1, qui tue l'agent Thompson?
+Matt
+Sylar
+Noah Bennet
+Ted
+3
+
+
+MC
+Dans Heroes Saison 1, qui tue Future Hiro?
+Matt
+Le Haitien
+Peter
+Sylar
+1
+
+
+MC
+Dans Heroes Saison 2, qu'est ce que Bob offre à Monica?
+un talkie-walkie
+un iPod
+un téléphone portable
+une caméra
+2
+
+
+MC
+Dans Heroes Saison 2, quel pourcentage de la population est contaminé par le Shanti Virus selon l'agent de police?
+93%
+0,07%
+48%
+99%
+1
+
+
+MC
+Dans Dexter Saison 1, qui est en fait le vrai "Ice Truck Killer"?
+l'agent Doakes
+Debra Morgan
+Dexter lui-même
+le copain de Debra
+1
+
+
+MC
+Dans Lost, qui a causé le crash du vol 815?
+Desmond
+l'île
+Jacob
+le monstre
+1
+
+
+MC
+Dans Heroes Saison 2, qui tue Alejandro?
+Bob
+Adam
+Maya
+Sylar
+4
+
+
+MC
+Dans Grey's Anatomy avec qui Georges n'a jamais couché?
+Meredith
+Izzie
+Cristina
+Callie
+3
+
+
+MC
+Dans Jericho Saison 1, comment s'appelle la fille qui est sourde?
+Heater
+Bonnie
+Emily
+Allison
+2
+
+
+MC
+Dans Prison Break Saison 2, quel message codé Michael laisse à Sucre?
+bolshoi booze
+cristina rose
+cute poison
+otis
+1
+
+
+MC
+Dans Prison Break Saison 1, qui coupe la main de T-bag?
+C-Note
+Tweener
+Lincoln
+Abruzzi
+4
+
+
+MC
+Dans Lost Saison 3, qu'apprend-on de la relation Jack/Claire?
+ils ont le même père
+ils ont la même mère
+ils se sont déjà rencontrés
+Claire a fait le tatouage de Jack
+1
+
+
+MC
+Dans Lost, où se sont déjà rencontrés Hurleu et Libby?
+dans l'avion
+dans un hôpital psychiatrique
+dans un bar
+à un concert des Drive Shaft
+1
+
+
+MC
+Dans Prison Break Saison 3, grâce à qui Michael arrive à obtenir un téléphone?
+Lecchero
+T-Bag
+Mahone
+Lincoln
+2
+
+
+MC
+Dans Grey's Anatomy Saison 4, quel partie du corps d'un patient éclate dans l'épisode final "Crash into Me"?
+la carrotide
+le poumon
+la pomme d'Adam
+un nerf
+1
+
+
+MC
+Dans Dexter, dans quelle ville travaille Dexter?
+Chicago
+Los Angeles
+Miami
+Detroit
+3
+
+
+MC
+Dans Lost, qui rencontrent en premier le groupe des autres?
+Jin et Eko
+Michael, Walt, Sawyer et Jin
+Jack, Kate et Sawyer
+Sayid et Charlie
+2
+
+

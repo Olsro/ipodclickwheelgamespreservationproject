@@ -1,0 +1,177 @@
+TITLE
+History
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+17
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Cook maps Australia
+1768
+1770
+1772
+1774
+2
+
+
+MC
+Decleration of Independence by US states
+1783
+1773
+1776
+1774
+3
+
+
+MC
+US rejects Brittish convicts
+1783
+1773
+1776
+1786
+1
+
+
+MC
+England goes to NSW
+1785
+1784
+1782
+1786
+4
+
+
+MC
+Brittish decided upon First Fleet
+1787
+1786
+1785
+1784
+1
+
+
+MC
+First Fleet leaves for Australia
+3 May 1787
+13 May 1787
+16 May 1787
+13 March 1787
+2
+
+
+MC
+Last convicts arrive in WA
+1848
+1866
+1858
+1868
+4
+
+
+MC
+Second Fleet arrives
+1790
+1789
+1787
+1792
+1
+
+
+MC
+Van Dieman's land settled
+1801
+1802
+1803
+1813
+3
+
+
+MC
+Oxley and evans discover valuable grazing land on the New England and Liverpool plains
+1813
+1817 to 1818
+1816 to 1817
+1813 to 1814
+2
+
+
+MC
+Charles Sturt explores Macquarie and Darling rivers
+1818
+1824
+1826
+1828
+4
+
+
+MC
+Strzelecki travells through Gipsland
+1840
+1842
+1844
+1850
+1
+
+
+MC
+Before 1800, only -- free settlers came to Australia
+5
+15
+20
+45
+3
+
+
+MC
+Macquarie was governor between
+1810 to 1815
+1809 to 1821
+1809 to 1815
+1809 to 1823
+2
+
+
+MC
+Australian Alps sighted by Hume and Hovell
+1824
+1826
+1814
+1816
+1
+
+
+MC
+First discovery of Gold in NSW
+1850
+1861
+1853
+1851
+4
+
+
+MC
+First Fleet settlers first arrive (not on First Fleet)
+1790
+1791
+1793
+1795
+3
+
+

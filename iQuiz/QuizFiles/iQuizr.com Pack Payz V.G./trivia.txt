@@ -1,0 +1,150 @@
+TITLE
+Payz V.G.
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+14
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+colores favoritos son?
+negro, azul, verde
+amarillo, verde, rojo
+verde, rosa, amarillo
+lila, negro, azul
+4
+
+
+MC
+comida favorita?
+comida china
+sushi
+pizza
+tacos
+1
+
+
+MC
+pelicula favorita?
+ABC del amor
+Luna nueva
+Te amare por siempre
+laberinto del fauno
+2
+
+
+MC
+animal favorito?
+Tigre
+Leon
+Leopardo
+Suricata
+3
+
+
+MC
+grupo favorito?
+Guns N' Roses
+A7X
+Deftones
+Mötley Crüe
+4
+
+
+MC
+pelicula de niños favorita?
+lilo y stitch
+toys story
+up una aventura de altura
+monsters inc
+2
+
+
+MC
+como me hice la cicatriz que tengo en mi mano izquierda?
+con un cochillo
+me rasguño un gato
+con la plancha
+me cai de la vicicleta
+3
+
+
+MC
+cuando era niña que queria ser de grande¿?
+doctora
+maestra
+chef
+arquitecta
+1
+
+
+MC
+carrera que ahora quiero estudiar ?
+psicologia
+medicina
+gastronomia
+diseño de interiores
+3
+
+
+MC
+Serie de TV favorita?
+Lateoria del big bang
+esposas desesperadas
+Gay anatomy
+bones
+1
+
+
+MC
+mi regalo favorito?
+dinero
+cd de un grupo favorito
+ropa
+un pastel
+1
+
+
+MC
+animal que odio!
+rata
+gato
+perro
+abejas
+2
+
+
+MC
+mi cumpleaños es el???
+14 de enero
+17 de enero
+18 de julio
+16 de enero
+4
+
+
+MC
+de estas canciones cual cres que es mi favorita?
+Critical Acclaim - A7X
+One Weak - Deftones
+Now You've Got Something to Die for - Lamb Of God
+Seasons in the Abyss - Slayer
+2
+
+

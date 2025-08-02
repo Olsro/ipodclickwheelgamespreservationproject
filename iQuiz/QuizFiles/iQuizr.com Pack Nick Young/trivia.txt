@@ -1,0 +1,78 @@
+TITLE
+Nick Young
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+6
+
+LOSE
+5
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What Was Young Nick Famous For?
+He Was The First To Pick A Flower
+He Was The First To Descover The Toilet
+He Invented The Toilet
+He Was The First To See New-Zealand
+4
+
+
+MC
+What Was The Name Of Ship That Young Nick Was On?
+
+
+
+
+1
+
+
+MC
+What Was The Name Of Ship That Young Nick Was On?
+Fritz Ruotar
+Endevour
+Okahu Waters
+The Edmund Fitzgerald
+2
+
+
+MC
+What Year Did Young Nick Spot New-Zealand?
+1769
+1799
+1872
+1652
+1
+
+
+MC
+How Old Was Nick When He Spoted New-Zealand?
+13 Years Old
+12 Years Old
+15 Years Old
+14 Years Old
+2
+
+
+MC
+What Did Nick Recieve For Being First To Spot New-Zealand
+A Gallon Of Rum And Had Young Nicks Head Named In His Honour For Being The First Aboard Endeavour
+A Bottle Of Rum
+A House And Lollies
+A Dog To Gaurd Him
+1
+
+

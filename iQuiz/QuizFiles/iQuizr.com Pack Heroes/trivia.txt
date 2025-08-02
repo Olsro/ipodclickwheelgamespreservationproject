@@ -1,0 +1,474 @@
+TITLE
+Heroes
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+50
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Who was Adam Monroe known as to Hiro originally?
+Daniel Linderman
+Takezo Kensei
+Kaito Nakamura
+Ando Masashi
+2
+
+
+MC
+What was the first ability that Peter Petrelli absorbed?
+Telekinesis
+Radioactivity
+Invisibility
+Flight
+4
+
+
+MC
+What is the name of Claire's biological mother?
+Sandra Bennet
+Niki Sanders
+Meredith Gordon
+Angela Petrelli
+3
+
+
+MC
+What is the deadliest strain of the Shanti virus?
+The first strain
+Strain 729
+Strain 138
+Strain 243
+3
+
+
+MC
+Which of the following was an item in the Primatech Vault?
+A fan of playing cards
+A stack of dynamite
+The Haitian's necklace
+The photo of Nathan and Peter
+1
+
+
+MC
+What item did Angela Petrelli steal in the first episode of Heroes?
+socks
+mittens
+a sweater
+earmuffs
+1
+
+
+MC
+What "attempt" of Claire's showed her jumping from the top of a water tower?
+3
+5
+6
+9
+3
+
+
+MC
+What did Bob say funded the Company?
+Yamagato Industries
+Their own private Fort Knox
+Mohinder's research
+Molly's powers
+2
+
+
+MC
+What diner do Hiro and Ando attend in Texas?
+The Burnt Toast Diner
+The Ice Cream Stop
+Linderman's Own
+Petrelli's
+1
+
+
+MC
+What does Claude first tell Peter to steal?
+A plane ticket
+Someone's lunch
+A purse
+A wallet
+3
+
+
+MC
+What heal's Nathan from radiaton burns?
+Claire's blood
+a more concentrated dosage of radiation
+Adam's blood
+Peter's time travel abilities
+3
+
+
+MC
+What is Monica's brother's name?
+Damon
+Jackson
+Chase
+Robbie
+1
+
+
+MC
+Name the person below who appears in the group of twelve photo.
+Adam Monroe
+Chandra Suresh
+Victoria Pratt
+Shanti Suresh
+3
+
+
+MC
+From who did Sylar get his molecular melting ability?
+It was his naturally
+Zane Taylor
+Isaac Mendez
+Charlie
+2
+
+
+MC
+Whom did Chandra Suresh refer to as patient Zero?
+Mohinder
+Nathan
+Sylar
+Shanti
+3
+
+
+MC
+What is West's last name?
+Rosen
+Butler
+Bennet
+Sanders
+1
+
+
+MC
+What meal did Linderman make?
+Zucchini rolls
+Pot pie
+Chicken and dumplings
+calzones
+2
+
+
+MC
+Who locked Matt and Nathan in their own dreams?
+Maury Parkman
+Molly
+Mohinder
+Peter
+1
+
+
+MC
+What did Angela say had been opened after Nathan's shooting?
+A new gateway
+A doorway to the other side
+Pandora's box
+Adam's coffin
+3
+
+
+MC
+Who was the head of Yamagato industries?
+Daniel Linderman
+Arthur Petrelli
+Takezo Kensei
+Kaito Nakamura
+4
+
+
+MC
+What did Molly call Sylar?
+The nightmare man
+Gabriel Gray
+The boogeyman
+The angel
+3
+
+
+MC
+Where did Candace and the company take Sylar?
+Mexico
+Haiti
+Brazil
+Jamaica
+1
+
+
+MC
+What was Thompson's last words?
+"She's a shiny new toy, and she's all mine."
+"What are you thinking now, Parkman?"
+"We have our own private Fort Knox."
+"No more secrets."
+2
+
+
+MC
+What is the Bennet's dog named?
+Mr. Bigglesworth
+Gingy
+Mr. Muggles
+Wizard
+3
+
+
+MC
+When was Nathan shot?
+While flying Peter up above New York
+Giving a press conference
+During an election speech
+When he and Matt went to meet Maury
+2
+
+
+MC
+What was the name of Maya's brother?
+Raul
+Emmanuel
+Alejandro
+Juan
+3
+
+
+MC
+Who did Ted kill?
+His wife
+Kaito Nakamura
+Everyone in New York
+Simone Deveaux
+1
+
+
+MC
+How did Eden McCain die?
+Sylar took her brain
+She was nailed to the wall with random knives
+She committed suicide
+She was frozen to death
+3
+
+
+MC
+What insect was made "in God's image?"
+A pillbug
+A cockroach
+A praying mantis
+A scorpion
+2
+
+
+MC
+How was Isaac tortured before his death?
+He was forced to watch his paintings be burned
+He was jabbed with a thousand heroin needles
+He watched as Sylar painted with his paints
+He was crucified with paintbrushes
+4
+
+
+MC
+Who talked to Peter in his dream at the end of Volume One?
+Angela Petrelli
+Charles Deveaux
+Nathan Petrelli
+Sanjog Iyer
+2
+
+
+MC
+In "Five Years Gone," who killed Future Hiro?
+Sylar
+The Haitian
+Matt
+Future Peter
+3
+
+
+MC
+Who was the exploding man?
+Ted
+Sylar
+Peter
+Nathan
+3
+
+
+MC
+How was Adam defeated by Hiro in "Powerless?"
+He was shot in the head
+He was locked in the vault
+He was destroyed by the virus
+He was buried alive
+4
+
+
+MC
+Name Niki's two alter egos?
+Jessica and Claire
+Gina and Jessica
+Jessica and Marie
+Claire and Maya
+2
+
+
+MC
+What is Monica's ability?
+Tissue regeneration
+Adoptive muscle memory
+Radioactivity
+Empathy
+2
+
+
+MC
+Who was Yaeko's father?
+Kaito Nakamura
+Takezo Kensei
+The swordsmith
+The dragon
+3
+
+
+MC
+Why does Adam call Hiro carp?
+Carp means wisdom in Japanese
+Hiro can swim like a carp
+Hiro looks like a fish when he talks
+Carp is the beginning fo practice spelled backwards
+1
+
+
+MC
+How was Aron Malsky killed?
+Crucified by paintbrushes
+Shot in the head
+Crushed by a train
+Ripped in half
+4
+
+
+MC
+What gift did Bob give Monica?
+Claire's blood
+A cell phone
+An iPod
+A costume
+3
+
+
+MC
+Who killed Linderman?
+DL
+Niki
+Sylar
+Adam
+1
+
+
+MC
+What does the helix mean?
+Gaijin
+Time travel
+Godsend
+Death
+3
+
+
+MC
+What is Hiro's catchphrase?
+Yatta!
+Not again!
+I am a hero!
+I broke history...
+1
+
+
+MC
+Who do Maya and Alejandro meet in prison?
+Derek
+Graham
+Tucker
+Sylar
+1
+
+
+MC
+What office was Nathan running for?
+Senator
+Congressman
+Mayor
+Governor
+2
+
+
+MC
+What city in Heroes is actually two different locations?
+New York
+Odessa
+Las Vegas
+Haiti
+2
+
+
+MC
+Which member of Ricky's gang is black?
+Tuko
+Will
+Ricky
+Caitlin
+1
+
+
+MC
+Who is Elle's daddy?
+Nathan
+HRG
+Peter
+Bob
+4
+
+
+MC
+Which father and son have the same abilities?
+Hiro and Kaito
+Matt and Maury
+HRG and Lyle
+Arthur and Peter
+2
+
+
+MC
+What is Niki's dad's name?
+Hal
+Daniel
+Hal
+Nathan
+1
+
+

@@ -1,0 +1,60 @@
+TITLE
+Adults
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+4
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+풵hat is the name of the firts sensei of Naruto?
+Jiraiya
+Iruka
+Kakashi
+Orochimaru
+2
+
+
+MC
+풵hat is the creator of Dragon Ball?
+Akira Toriyama
+Mashashi Kishimoto
+Tosuke Hiramura
+Keyto Hayto
+1
+
+
+MC
+풵hat is the Main character of Dragon Ball?
+Trunks
+Gohan
+Goku
+Vegeta
+3
+
+
+MC
+풵hat anime have more cap?
+Doraemon
+Dragon Ball
+Naruto
+Shama King
+1
+
+

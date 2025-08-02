@@ -1,0 +1,204 @@
+TITLE
+F1 Quiz
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+20
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Segundo Piloto de Red Bull para 2008
+Mark Webber
+David Coulthard
+Sebastien Vettel
+Vitantonio Liuzzi
+1
+
+
+MC
+2o Piloto Probador de BMW Sauber en 2006
+Nick Heidfeld
+Sebastien Vettel
+Jacques Vileneuve
+Robert Kubica
+2
+
+
+MC
+2o Piloto Probador Mclaren 08
+Lewis Hamilton
+Heikki Kovalainen
+Pedro de la Rosa
+Gary Paffet
+4
+
+
+MC
+Primer F1 de Michael Schumacher
+Ferrari
+Renault
+Benneton
+Arrows
+3
+
+
+MC
+circuito donde Michael Schumacher anunció retirada
+Brasil-Interlagos
+Bélgica-Spa
+Italia-Monza
+Suzuka-Japón
+3
+
+
+MC
+Circuito Aleman para GP Alemania 08
+Nordschleife
+Nurburgring
+A1-Ring
+Hockenheim
+4
+
+
+MC
+Presidente del Tribunal de la FIA
+Max Mosley
+Bernie Ecclestone
+Jean Todt
+Stefano Dominecali
+1
+
+
+MC
+Numero de curva de la "curva de las 3G" en estambul
+3
+6
+8
+13
+3
+
+
+MC
+Nombre que recibió el primer abandono de Lewis Hamilton en 2007
+San tocao
+San Ganchao
+Sa Parao
+Mr. Puzolana
+2
+
+
+MC
+Nombre del coche fabricado por Toyota para 2008
+TF108
+TR08
+T08
+T3
+1
+
+
+MC
+Nombre de la curva donde se produjo la muerte de Ayrton Senna
+Parabollica
+Tamburello
+Eau Rouge
+Radillón
+2
+
+
+MC
+Mejor tiempo en los entrenos de Jerez en 2008
+Kimi Raikkonen
+Lewis Hamilton
+Felipe Massa
+Fernando Alonso
+4
+
+
+MC
+Mejor piloto en activo (nº de campeonatos ganados)
+Fernando Alonso
+Kimi Raikkonen
+Lewis Hamilton
+Heikki Kovalainen
+1
+
+
+MC
+La curva de más subida del campeonato 08
+Radillón
+Eau-Rouge
+Parabollica
+Tamburello
+2
+
+
+MC
+Jefe de escuderia para Ferrari 08
+Jean Todt
+Bernie Ecclestone
+Stefano Dominecali
+Luca Montezzemolo
+3
+
+
+MC
+Escuderia de Tiago Monteiro en 2005
+Minardi
+Arrows
+Red-Bull
+Jordan
+4
+
+
+MC
+Colores Honda 2008
+Negro, Verde, Azul
+Blanco, Verde, Azul
+Rojo,Verde
+Blanco,Negro
+2
+
+
+MC
+Circuito del abandono que mas puntos perdió Michael Schumacher en 2006
+Fuji
+Shangai
+Suzuka
+Monza
+3
+
+
+MC
+Ultima curva de Nurburgring
+Radillón
+Coca-Cola
+Adelaida
+Ste. Devote
+2
+
+
+MC
+1a Curva de Monaco
+Tunnel
+Rascasse
+Ste Devote
+Loews
+3
+
+

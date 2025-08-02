@@ -1,0 +1,78 @@
+TITLE
+Do you know these? The Same Stuff as Stars
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+6
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Angel and Bernie were left to whose house?
+Uncle's
+Mother's
+Great-grandmother's
+Aunt's
+3
+
+
+MC
+Who said,  “Verna must have forgot who it is that really took care of Bernie”?
+Uncle
+Great-grandmother
+Miss Lisa
+Teacher
+1
+
+
+MC
+Angel wanted Bernie to gain more knowledge, so she chose to go to?
+Museum
+Theater
+Supermarket
+Library
+4
+
+
+MC
+What kind of food did Angel and Bernie have after their mother just left them?
+Canned food
+Salad
+Bread
+McDonald's
+1
+
+
+MC
+Angel was interested in which kind of books?
+Books related with animals.
+Books related with pop music.
+Books related with stars.
+Books related with computers.
+3
+
+
+MC
+What is the main theme of the Same Stuff as Stars?
+Face your fate and give up when problems occur.
+Fulfill the role you are given and be able to step up to the plate at times of need.
+Go to school and study hard.
+Find the person named StarMan and ask him some questions about stars.
+2
+
+

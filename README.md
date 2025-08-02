@@ -1,7 +1,7 @@
 # iPod Clickwheel Games Preservation Project
 55/56 clickwheel games preserved for the moment and playable right now on your own pod !
 
-**ONLY Real Soccer 2009 is missing on the archive !!!! Contact me if you own any of the missing games to complete the archive !!!!!**
+**ONLY Real Soccer 2009 is missing on the archive !!!! Contact me if you own it to complete the archive !!!!!**
 
 ![Alt text](images/banner.jpeg?raw=true "Banner")
 
@@ -235,6 +235,9 @@ iTunes 10.7 is known to try to remove the ```IC-Info.sidb``` file each time you 
 
 ### 8) Disconnect your iPod and enjoy the games
 Games should now all launch just fine. Congratulations, you did it !
+
+### Extra Step: Using and making custom content for the iQuiz game
+![Click here to access the guide](iQuiz/README.md)
 
 ### Extra Step: Playing Phase with custom music
 Phase is a guitar hero equivalent for the iPod that is better when played with your own music. But if you use any kind of modern iTunes version, it will not work out of the box.

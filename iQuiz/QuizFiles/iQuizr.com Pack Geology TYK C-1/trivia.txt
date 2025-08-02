@@ -1,0 +1,96 @@
+TITLE
+Geology TYK C-1
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+8
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+A typical rate of plate motion is
+3-4 Meters per year
+1 kilometer per year
+1-10 centimters per year
+1,000 kilometers per year
+3
+
+
+MC
+Earthquakes may be caused by
+movement of plates
+motion along faults
+shifting bedrock
+all of the preceding
+4
+
+
+MC
+Which is a geologic hazard?
+earthquake
+volcano
+mudflows
+all of the preceding
+4
+
+
+MC
+The largest zone of Earth's interior by volume is the
+crust
+mantle
+outer core
+inner core
+2
+
+
+MC
+Oceanic and continental crust differ in
+composition
+density
+thickness
+all of the preceding
+4
+
+
+MC
+The forces generated inside Earth that cause deformation of rock as well as vertical and horizontal movement of portions of Earth's crust are called
+erosional forces
+gravitational forces
+tectonic forces
+all of the preceding
+3
+
+
+MC
+Plate tectonics is a
+conjecture
+opinion
+hypothesis
+theory
+4
+
+
+MC
+Which is the type of pate boundary?
+divergent
+transform
+convergent
+all of the preceding
+4
+
+

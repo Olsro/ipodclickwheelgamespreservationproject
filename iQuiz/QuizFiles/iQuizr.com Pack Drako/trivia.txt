@@ -1,0 +1,60 @@
+TITLE
+Drako
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+4
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+¿Qué es lo que más le gusta a Drako?
+lo suave
+lo delicioso
+lo fetido
+el arroz
+1
+
+
+MC
+¿A que huele Drako?
+A pan recien horneado
+A rosas frescas
+A secreción nasal
+A orina
+1
+
+
+MC
+¿Que color es Drako?
+negro con manchas blncas
+Cafe con caspa
+cafe como golondrino
+depende si se baña o no
+2
+
+
+MC
+¿Por que besa todo el tiempo Drako?
+porque gusta de lo suave
+`porque es una adicción malsana que no se ha podido quitar
+porque es muy audaz y casanova
+No lo puede evitar me ama.
+1
+
+

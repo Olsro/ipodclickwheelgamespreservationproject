@@ -1,0 +1,132 @@
+TITLE
+Phosphorus Imbalance
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+12
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+s/sx of hyphosphatemia
+anorexia, paresthesia
+Ms weakness
+Tremor
+all of the above
+4
+
+
+MC
+Low level of phosphorus
+hyperphosphatemia
+hypophosphatemia
+
+
+2
+
+
+MC
+Less than 1.7m Eq/L or 2.5 mg/dl
+hyperphosphatemia
+hypophosphatemia
+
+
+2
+
+
+MC
+What is the urine phosphorus level of hypophosphatemia
+more than 1.3 g/24 hrs
+more tmore than 3.3 g/24 hours
+more tmore than 3.5 g/24 hours
+
+1
+
+
+MC
+Serum phosphorus level for hyperphosphatemia is
+2.0 mEq/L or 4.0 mg/dl
+3.0 mEq/L or 4.0 mg/dl
+2.6 mEq/L or 4.5 mg/dl
+
+3
+
+
+MC
+Urine phosphorus for hyperphosphatemia
+less than 0.9 g/24 hours
+less than 0.1 g/24 hours
+
+
+1
+
+
+MC
+Diet for hyperphophatemia
+Low phosphorus diet
+Calcium supplement
+Calcium acetate PhosLo
+all of the above
+4
+
+
+MC
+Hypophosphatemia:  Nsg interventions
+Monitor intake and output. Adm Potassium phosphate slow IV.
+Be alert of hypocalcemia when giving phosphate supplements
+Hig phophorus diet: milk,kidney, liver,turkey and dried fruits
+all of the above
+4
+
+
+MC
+Hyperphosphatemia:  Nsg interventions
+Monitor intake and output. If urine output falls below 25ml/hr or 600ml/day,notify the MD
+assess hypocalcemia:ms twitching,tetany. Usually accompany hyperphosphatemia
+Low phosphorus diet
+all of the above
+4
+
+
+MC
+What is the tx procedure used for severe hyperphosphatemia
+peritoneal dialysis
+Hemodialysis
+A and B
+
+3
+
+
+MC
+Drug therapy for severe deficiency of phosphorus?
+Calcium Acetate
+Potassium phosphate IV
+
+
+2
+
+
+MC
+Fx of phosphorus
+Cell membrane integrity
+Bone formation
+Utiliztion of B vit
+all of the above
+4
+
+

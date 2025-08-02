@@ -1,0 +1,69 @@
+TITLE
+Randomism
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+5
+
+LOSE
+7
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Does nik smell?
+i dont know
+who would smell him
+yes
+no
+2
+
+
+MC
+what does " " mean?
+"eerie silence"
+no comment
+????????????????
+uh
+2
+
+
+MC
+is this a stupid quiz
+no
+Unsure
+No kidding
+i'm still thinkin
+2
+
+
+MC
+3.1415926535
+i'm confused
+pie
+py
+pi
+4
+
+
+MC
+what?
+What your self
+?
+Shame
+pi
+1
+
+

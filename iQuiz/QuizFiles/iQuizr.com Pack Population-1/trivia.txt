@@ -1,0 +1,87 @@
+TITLE
+Population
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+7
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Which of these shows the age structure of a country's population?
+A Population Pyramid
+A scatter graph
+A pie chart
+A Demographic Transition Model
+1
+
+
+MC
+What is  meant by the term 'death rate'?
+The number of deaths per 1000 people per year
+The age at which people are expected to die
+The number of infants per 1000 that die before their first birthday
+The number of people born a year
+1
+
+
+MC
+A Demographic Transition Model shows what?
+Birth Rate, Death Rate and Population
+The number of babies in a country
+How people move in a country
+How many people are unemployed
+1
+
+
+MC
+What method is used to monitor population in a country?
+A Census
+A door-to-door survey
+Online Poll
+A Government Survey
+1
+
+
+MC
+What can lower the death rate?
+Improved Health Conditions
+Becoming Immortal
+More people dying
+Famine
+1
+
+
+MC
+Define the 'rate of natural increase'...
+a positive result from the difference between the birth and death rate
+how quickly people grow taller
+how rapidly the country gets larger
+how quickly monkeys evolve
+1
+
+
+MC
+Who is likely to have a faster population growth?
+LEDCs
+MEDCs
+Microbes
+Bananas
+1
+
+

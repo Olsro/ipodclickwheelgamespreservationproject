@@ -1,0 +1,114 @@
+TITLE
+Geology TYK C-13
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+The defining characteristic of a desert is
+shifting sand dunes
+high temperatures
+low rainfall
+all of the preceding
+3
+
+
+MC
+Which is characteristic of deserts?
+internal drainage
+flash floods
+limited rainfall
+all of the preceding
+4
+
+
+MC
+The major difference between a mesa and a butte is one of
+shape
+elevation
+rock type
+size
+4
+
+
+MC
+The Basin and Range province covers almost all of
+Utah
+Nevada
+Texas
+Colorado
+2
+
+
+MC
+A very flay surface underlain by a dry lake bed of hard, mud-cracked clay is called a
+Ventifact
+plateau
+playa
+none of the proceding
+3
+
+
+MC
+Rocks with flat, wind-abraded surfaces are called
+Ventifacts
+Pendiments
+bajadas
+none of the proceding
+1
+
+
+MC
+The removal of clay, silt, and sand particles from the land surface by wind is called
+deflation
+depletion
+deposition
+abrasion
+1
+
+
+MC
+Which is not a type of dune?
+barchan
+transverse
+parabolic
+all of the preceding
+4
+
+
+MC
+A broad ramp of sediment formed at the base of the moutatins when alluvial fans merge is
+a playa
+a bajada
+a pediment
+an arroyo
+2
+
+
+MC
+A surface layer of closely packed pebbles is called
+desert varnish
+deflation
+a blowout
+desert pavement
+1
+
+

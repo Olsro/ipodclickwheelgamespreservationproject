@@ -1,0 +1,42 @@
+TITLE
+My Test Quiz
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+2
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+I teach...
+French
+Greek
+Chinese
+Indonesian
+3
+
+
+MC
+What type of question is this?
+multiple choice
+true / false
+open
+closed
+1
+
+

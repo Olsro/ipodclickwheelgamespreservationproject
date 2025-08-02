@@ -1,0 +1,123 @@
+TITLE
+el campo
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+11
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+cual es el color predominante en el campo?
+café
+verde
+rojo
+negro
+2
+
+
+MC
+cual de estos amales no come hierba?
+caballo
+perro
+vaca
+conejo
+2
+
+
+MC
+cual de estos produtos se cultiva en tierra fria?
+plátano
+café
+banano
+coco
+2
+
+
+MC
+como el excremento de vaca?
+duro
+diarreico
+en bolitas
+negro
+2
+
+
+MC
+cual de ests animales no produce leche?
+caballo
+vaca
+perra
+gata
+1
+
+
+MC
+sirve el excreto como abono?
+sizas
+nanay cucas
+
+
+1
+
+
+MC
+cuando una hembra está en su epoca fertil, está en..
+mestruacion
+calor
+ganosa
+cinta
+2
+
+
+MC
+como hace el gato?
+miauuu...
+mau... mau..
+ñaña....
+grrrrrrrrr...
+2
+
+
+MC
+que cuido se les da a los perros del campo
+purina dog chow
+pedegree
+ladrina
+solla
+4
+
+
+MC
+comse llama en donde los campesinos iembran sus hortalizas?
+vivero
+huerta
+semillero
+guerta
+4
+
+
+MC
+como se conjuga en campesino, el verbo "ir" en pasado con el pronombre "el"?
+el se ido
+el se marhó
+el se jue
+el se fue
+3
+
+

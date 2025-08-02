@@ -1,0 +1,168 @@
+TITLE
+Art in Pompeii and Herculanum
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+16
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+who i the owner of the house of the faun
+cassius family
+augustus family
+vitruvius
+marcus
+1
+
+
+MC
+how large is the house of the faun
+half an isulae
+less than 500m2
+2950m2 ( whole insulae)
+1000m2
+3
+
+
+MC
+what are 3 notable features of the house of the faun
+1 triclinium , no perystilium , 1 taberna
+4 cubicula, 2 perystilia, 1 triclinium
+2 taberna, 1 impluvium , no exedra
+has 2 atria, 2 peristylia, 4 triclinia
+4
+
+
+MC
+which mosaics were found in the house of the Fau
+none
+Nilotic mosaic and Alexander mosiac
+potrait of a woman
+potrait of Nero and his wife
+2
+
+
+MC
+when was the house of the faun built
+180 BC
+200 BC
+1st Centurty AD
+400 BC
+1
+
+
+MC
+how was the house of the faun identified
+by a signet ring found on a man in cubiculum
+by election slogans on walls and a named gold ring on a woman
+by the mosaics
+by the wall painting of the family
+2
+
+
+MC
+when were most of the wall decorations done in the house of the Faun
+late 1st century BC
+1st Century AD
+Late 2nd century BC
+Late 2nd century AD
+3
+
+
+MC
+What are 2 unusual features of the house of the Vetti
+there is 1 peristylium and 1 triclinium
+perystilium perpenicular to central axis of house, no tablinum between atrium and peristylium
+no impluvium, 2 culina
+occupies a while insula, has 4 triclinum
+2
+
+
+MC
+who are the owners of the house of the Vetti
+marcus vetti and augustus vetti
+anthony vetti and octavia vetti
+Aulus Vettius conciva and Aulus vettius Restitutus
+Aulus vettius agustus and Aulus vettius Retus
+3
+
+
+MC
+how big was the house of the Vetti
+less than 1/3 of an insula
+more than 1/2 an isula
+1 insula
+1/2 an insula
+1
+
+
+MC
+who was the owner of the house of Pansa
+Gnaes Agustus nigidius marcus
+Gnaes Alleius Nigidius Maius
+Gnaes octavian Nigidius Mais
+Arrius Pollo
+2
+
+
+MC
+what is a notable feature of the house of Pansa
+it has a large hortus, divided into rectangular plots
+no irrigation in garden
+no persytilium
+4 triclinia
+1
+
+
+MC
+where is the Nilotic mosaic found
+Threshold of the perystilium in the house of the faun
+floor of the exedra
+threshold of the exedra in the house of the Faun
+in a cubiculum
+3
+
+
+MC
+how big is the Nilotic mosiac
+50m long , 50m wide
+5.92m long, 0.70m wide
+5.09 m long , 0.60m wide
+1m  long , 1 m wide
+2
+
+
+MC
+what are some animals in the niloctic mosaic
+mongoose and cobra, ibises, hippo and croc
+elephant and swan
+dove and goose
+wolf
+1
+
+
+MC
+what techniques are use in Nilotic mosaic
+no linear perspective
+opus vermiculatum for shding and highlighting, rows of small tessarae  for background
+small tessarae for the whole mosaic
+only opus vermiculatum
+2
+
+

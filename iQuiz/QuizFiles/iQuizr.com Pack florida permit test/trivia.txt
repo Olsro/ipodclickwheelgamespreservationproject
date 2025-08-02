@@ -1,0 +1,258 @@
+TITLE
+florida permit test
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+26
+
+LOSE
+5
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+If a trailer or motor vehicle is transporting logs, long pulpwood, poles or posts that extend more than __________ feet beyond the rear of the load, then you must have one amber strobe-type lamp equipped, so that the lamp is visible from the rear and both
+5
+6
+8
+4
+4
+
+
+MC
+If a trailer or motor vehicle is transporting logs, long pulpwood, poles or posts that extend more than __________ feet beyond the rear of the load, then you must have one amber strobe-type lamp equipped, so that the lamp is visible from the rear and both
+5
+10
+1
+4
+4
+
+
+MC
+Your vehicle must have side windows that are not composed of, covered by, or treated with any material which has a highly reflective or mirrored appearance and reflects more than __________% of the light.
+35
+45
+50
+10
+1
+
+
+MC
+When you take the vision test for a driver's license, 20/__________ or worse vision in either eye with or without corrective lenses are referred to an eye specialist for possible improvement.
+20
+50
+60
+90
+2
+
+
+MC
+The fine for a second DUI conviction when the driver has a BAL .15 or higher or a minor is in the vehicle is $_________
+1,000-2,000
+2,000-6,000
+2,500-6,000
+2,000-4,000
+4
+
+
+MC
+Any driver under 21 with a breath or blood alcohol level of __________ or higher is required to attend a substance abuse course.
+.5
+0.55
+.05
+1.5
+3
+
+
+MC
+__________ Lines are used for turn lanes and to discourage lane changes near intersections.
+yellow
+white
+red
+green
+2
+
+
+MC
+Parking is not allowed within __________ feet of an intersection.
+10
+16
+20
+27
+3
+
+
+MC
+If you experience a vehicle fire, do not __________
+apply water
+call -9-1-1
+get help
+let you car burn
+1
+
+
+MC
+Parking is not allowed __________
+on the road way
+behind anouther vehicle on the side of the road way
+in front of other vehicles parked on the side of the road way
+50ft  away from an intersection
+1
+
+
+MC
+Any non-resident who is at least __________ years old may drive in Florida without a Florida driver license if s/he has a valid license from another state or country.
+15
+18
+21
+16
+4
+
+
+MC
+Which of the following statements is true?
+Hitting a tree, post or solid object is better than hitting a row of bushes
+all
+As a defensive driver, you will take a little
+to avoid crashes, think about what might happen; if there are children playing by the road, plans what you will do if one runs or rides into the street.
+4
+
+
+MC
+The __________ Law requires any person to have bodily injury liability insurance at the time of a crash where you are at fault and injuries have occurred; a suspension for too many points against your driver license; or a revocation for Habitual Traffic O
+Self-Responsibility
+Vehicle Responsibility
+Financial Responsibility
+insurance responsibility
+3
+
+
+MC
+License revocation for a first DUI conviction is a minimum __________ days
+190
+250
+125
+180
+4
+
+
+MC
+More drivers are convicted of __________ than any other offense.
+Reckless driving
+drunk driving
+speeding
+no seat belt
+3
+
+
+MC
+Which of the following statements is true?
+When drawbridges begin to move the roadway is closed to all traffic
+Drawbridges are mechanical bridges over navigable waters that raise or turn to allow marine traffic to go under them.
+Drawbridge signals should be treated just like a regular traffic control
+all of the above
+4
+
+
+MC
+If you come upon an accident with injuries, __________
+A.	always attempts to remove the helmet of any injured motorcycle riders
+all of the above
+. loosens tight collars to make breathing easier.
+loosens tight collars to make breathing easier.
+4
+
+
+MC
+The fine for a third DUI conviction when the driver has a BAL of .15 or higher or there is a minor in the vehicle is not less than $2000 or more than $__________
+3,000
+4,500
+5,000
+6,000
+3
+
+
+MC
+The fine for a first DUI conviction when the driver has a BAL .15 or higher or a minor in the vehicle is __________
+Not less than $1,000 or more than $2,000
+not less than $1,000 but more than $2,000
+less than $1,000
+more than $2,000
+1
+
+
+MC
+The fine for exceeding the speed limit by more than 50 mph is $__________ for the second offense
+250
+350
+4,000
+2,500
+4
+
+
+MC
+If you are angry or excited, __________
+Take a short walk before driving
+walk instead of driving
+take a long bike ride
+go to a bar and drink to calm your-self  then drive
+1
+
+
+MC
+Yellow lane lines __________
+Separate lanes of traffic moving in opposite directions.
+Separate lanes of traffic moving in the same direction
+make it easier to see the road at night
+stop you from driving off the road
+1
+
+
+MC
+Roundabouts __________
+Improve traffic flow and reduce traffic crashes
+make great drifting locations
+make the driver dizzy
+make car accidents Becuase of the area not having traffic lights
+1
+
+
+MC
+Routes that run generally __________ have odd numbers
+north-south
+left-right
+southwest-northeast
+east-west
+1
+
+
+MC
+A licensed driver who is 17 years of age may not operate a motor vehicle between __________, unless accompanied by a driver who is 21 years of age or older and holds a valid driver license, or the operator is driving to and from work.
+Midnight - 5:00 am
+1:00 am - 5:00 pm
+2:30 - 6:30 am
+noon - 9:00 pm
+2
+
+
+MC
+On the driving test, you must be able to turn your car around in a __________ space.
+30' to 40'
+10' to 20'
+50' to 60'
+80' to 100'
+1
+
+

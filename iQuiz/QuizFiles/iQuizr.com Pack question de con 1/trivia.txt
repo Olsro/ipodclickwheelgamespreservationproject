@@ -1,0 +1,96 @@
+TITLE
+question de con 1
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+8
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Dans Harry Potter, quel est le nom du directeur de poudlard ?
+Serverus Rogue
+Fanck Balavoine
+Dumbledor
+Mc Gonagal
+3
+
+
+MC
+Au foot quel objet Benjamin c pri dans la gueul ?
+il a voulut embrasser une meuf!!
+Un arbre
+Une kékète Géante
+Une cabine téléphonique Orange
+4
+
+
+MC
+Qu'est ce qui est petit carré et jaune ?
+un petit carré jaune
+bobe l'éponge carré
+quelque chose de louch
+une savonette
+1
+
+
+MC
+Quel est l actrisse qui à joué dans Asterix et Obélix mission Cléopatre
+Hermione
+Monica Bellucci
+Clara morgane
+Mouzbotota
+2
+
+
+MC
+Dans quel film y a t il Monsieur Wong?
+Norbit
+Asterix et Obélix mission Cléopatre
+Clara et son jacou
+ta gueul tu me soule avec t question de merde
+1
+
+
+MC
+Combien fond 2+5+9-8+1-2 ??
+1259
+34
+0
+5
+3
+
+
+MC
+Compléte la chanson " Quand j'étais ... je n'étais..."
+Quand j'étais grand je n'étais pas petit
+Quand j'étais petit je n'étais pas con
+Quand j'étais petit je n'étais pas grand
+Quand j'étais petit je n'étais pas très grand
+3
+
+
+MC
+complète "on ne met..."
+kedal
+pas la charue avant les boeux
+pas les boeux avant la charue
+les oeufs le cul
+2
+
+

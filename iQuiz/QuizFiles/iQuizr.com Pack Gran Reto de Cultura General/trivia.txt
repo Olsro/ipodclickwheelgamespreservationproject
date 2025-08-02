@@ -1,0 +1,276 @@
+TITLE
+Gran Reto de Cultura General
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+28
+
+LOSE
+7
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Quien dirigió 'Big Fish'?
+Tim Burton
+Martin Scorsese
+Steven Spielberg
+Francis Ford Coppola
+1
+
+
+MC
+Cuál es la capital de Croacia
+Dubrovnik
+Vilnius
+Dublin
+Zagreb
+4
+
+
+MC
+Qué formato de video lee la Play Station 3?
+HD DVD
+Blu Ray
+VHS
+DVD-V
+2
+
+
+MC
+Cuál de estos programas no es un 'reality show'?
+El Precio Justo
+Supervivientes
+El Bus
+Fama
+1
+
+
+MC
+Cuántos cromosomas tiene el ser humano?
+22
+24
+46
+2: XY y XX
+3
+
+
+MC
+Quién escribió 'La Republica'?
+Platon
+Aristoteles
+Terenci Moix
+Nietzsche
+1
+
+
+MC
+Cuál es el planeta más cercano al sol?
+Mercurio
+Venus
+Urano
+Saturno
+1
+
+
+MC
+La canción 'Hips don't lie' es de la artista...
+Amaral
+Shakira
+Isabel Pantoja
+Amie Winehouse
+2
+
+
+MC
+Quién pintó 'El Grito'?
+Picasso
+Rembrant
+Edvard Munch
+Otro
+3
+
+
+MC
+La teoría de la relatividad fué formulada por...
+Newton
+Darwin
+Volta
+Otro
+4
+
+
+MC
+NNO - N - NNE - ?
+N
+NE
+NO
+NNO
+2
+
+
+MC
+Qué diario no es gratuito?
+ADN
+Qué
+20 minutos
+El Mundo
+4
+
+
+MC
+La Segunda Guerra Mundial finalizó en el año...
+1931
+1936
+1939
+1945
+4
+
+
+MC
+Alguien extasiado nunca estará...
+Absorto
+Enajenado
+Embebido
+Impávido
+4
+
+
+MC
+Cuántas son las maravillas del mundo?
+5
+6
+7
+8
+3
+
+
+MC
+De qué color son los guantes de Mickey Mouse?
+Blanco y negro
+Rojo y blanco
+Rojo y amarillo
+No lleva guantes
+1
+
+
+MC
+24x = 6 x 2
+1/2
+18
+32
+Otro
+4
+
+
+MC
+A grandes males...
+Buenas son tortas
+Y al vino vino
+Grandes remedios
+Buena cara
+3
+
+
+MC
+El oscar al mejor actor en el año 2008 fué para...
+George Clooney
+Daniel Day Lewis
+Javier Bardem
+Tommy Lee Jones
+2
+
+
+MC
+La presión se mide en...
+Newton
+Pascales
+Grados
+m/s2
+2
+
+
+MC
+Cuál de estas categorías no pertenece al Trivial?
+Geografía
+Espectáculos
+Ciencia y Naturaleza
+Libros y Música
+4
+
+
+MC
+Cuál es la primera letra del alfabeto griego?
+Alfa
+Beta
+Omega
+Delta
+1
+
+
+MC
+El pelo de los osos polares es de color...
+Marrón
+Blanco
+Azul
+Transparente
+4
+
+
+MC
+Cuál de estos alimentos no pertence a la gastronomía japonesa?
+Wasabi
+Tempura
+Sushi
+Kimchi
+4
+
+
+MC
+Cuál de los siguientes estadios de fútbol se encuentra fuera de Europa?
+Camp Nou
+Wembley
+Old Trafford
+Maracaná
+4
+
+
+MC
+Qué capacidad tiene el iPhone?
+4 GB y 8 GB
+8 GB y 16 GB
+16 GB y 32 GB
+32 GB Y 120 GB
+2
+
+
+MC
+Adolf Hitler era...
+Americano
+Alemán
+Noruego
+Sevillano
+2
+
+
+MC
+Qué fué el 'Watergate'?
+Un escándalo político sacado a la luz por periodistas
+Un yacimiento donde se econtraron importantes fósiles de dinosaurios
+Una batalla de Napoleón contra el imperio británico
+Un importante monumento destruido durante la Primera Guerra Mundial
+1
+
+

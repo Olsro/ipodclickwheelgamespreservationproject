@@ -1,0 +1,150 @@
+TITLE
+Blink-182 Quiz
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+14
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+¿Cuál es el nombre del guitarrista del grupo?
+Tom DeLonge
+Mark Hoppus
+Travis Barker
+Scott Raynor
+1
+
+
+MC
+¿Cuál es el nombre del bajista del grupo?
+Scott Raynor
+Tom Delonge
+Mark Hoppus
+Travis Barker
+3
+
+
+MC
+¿Quién fue el primer baterista del grupo?
+Tom DeLonge
+Mark Hoppus
+Travis Barker
+Scott Raynor
+4
+
+
+MC
+¿Quién es el baterista actual del grupo?
+Tom DeLonge
+Travis Barker
+Mark Hoppus
+Scott Raynor
+2
+
+
+MC
+¿En qué disco salió el single 'Adam's Song'?
+Enema Of The State
+Buddha
+Flyswatter
+Take Off Your Pants And Jacket
+1
+
+
+MC
+¿Quién fue el director del video 'What's my age again'?
+Mark Hoppus
+Marcos Siega
+Fred Durst
+Tim Burton
+2
+
+
+MC
+¿Cuál fue la única canción de estudio de 'The Mark, Tom and Travis Show'?
+The Rock Show
+First Date
+Man Overboard
+M+M's
+3
+
+
+MC
+¿Cuál fue el último disco en el que participó Scott Raynor?
+Enema Of The State
+Cheshire Cat
+Buddha
+Dude Ranch
+4
+
+
+MC
+¿Cuál fue el proyecto alterno de Tom y Travis juntos?
++44
+Box Car Racer
+Angels and Airwaves
+Transplants
+2
+
+
+MC
+¿De qué parte de US es Blink-182?
+Sacramento, CA
+Los Angeles, CA
+San Diego, CA
+New York
+3
+
+
+MC
+¿Por qué 182?
+Una banda irlandesa se llama Blink y nada más lo agregaron para evitar problemas.
+Cada uno de los integrantes escogió un número y ese fue.
+Fue el número de un vuelo que estalló en San Diego
+Son las veces que dicen 'fuck' en Scarface
+1
+
+
+MC
+¿Cuál fue el primer demo de Blink-182?
+Buddha
+Cheshire Cat
+Duct Tape
+Flyswatter
+4
+
+
+MC
+¿Cuál fue el último disco de estudio de Blink-182?
+Take Off Your Pants and Jacket
+Enema Of The States
+blink-182
+The Mark, Tom and Travis Show...
+3
+
+
+MC
+¿En qué Icon de MTV salieron cantando 'A Letter to Elise'?
+MTV Icon - The Cure
+MTV Icon - Metallica
+MTV Icon - Aerosmith
+MTV Icon - Red Hot Chili Peppers
+1
+
+

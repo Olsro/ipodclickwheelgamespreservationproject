@@ -1,0 +1,114 @@
+TITLE
+Quiz Of Champions
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+How Do you Spell My last name
+nikolovsky
+nikolavski
+nikolovski
+nikolvski
+3
+
+
+MC
+Who Does Zach Find Most Attractive
+Angelina Jolie
+Kiera Knightly
+Jennifer Anniston
+Kim Kardashian
+2
+
+
+MC
+How Long Was Jaime's IPhone Disabled that one time
+30 min
+45min
+1 hour
+2hours
+3
+
+
+MC
+What is Zach's Basketball Team Called
+Texas Stars
+Texas Elite Stars
+Texas Stars Elite
+Texas All'Stars
+3
+
+
+MC
+Over the course of the school year how many classes have we had together?
+2
+3
+4
+5
+2
+
+
+MC
+How Many Spring Show Posters are there in school
+29
+156
+584
+256
+3
+
+
+MC
+How Did I Spell Midrif
+Midriff
+Midrid
+Madrid
+Midrof
+2
+
+
+MC
+Which One is The most annoying thing
+awkward back rub
+being picked up in a desk by austin
+someone playing with hair
+
+1
+
+
+MC
+How Did Zach Get Grounded For a really long time
+Bad Grades
+taking dads car and denting it
+stole money
+not winning the National Salsa Dance Competiton
+2
+
+
+MC
+Who Is The Ultimate Trivia CHampion
+Zach
+Jaime
+
+
+2
+
+

@@ -1,0 +1,195 @@
+TITLE
+Tropical Freshwater Fishes
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+19
+
+LOSE
+5
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Which fish is not a characin?
+Black Neon Tetra
+Piranhas
+Bala shark
+Silver Dollar
+3
+
+
+MC
+Cyprinids include all these fish BUT:
+Goldfish
+Loaches
+Tetras
+Barbs
+3
+
+
+MC
+The kissing gourami "kisses" to:
+Show love.
+Match and test strengths.
+Determine the sex of the other fish.
+Transfer eggs and milt.
+2
+
+
+MC
+The Anabantid family technically includes only the:
+Climbing perch
+Gold gourami
+Siamese fighting fish
+Paradise fish
+1
+
+
+MC
+Typically, cory feed from the:
+Surface of the tank.
+Slime on other fish.
+Algae on the side of the tank.
+Bottom of the tank.
+4
+
+
+MC
+Young discus fish feed:
+On their yolk sacks
+On the slime secreted by their parents
+On algae on plastic plants.
+On each other
+2
+
+
+MC
+Which fish is a livebearer?
+Rainbowfish
+Knifefish
+Goldfish
+Swordtail
+4
+
+
+MC
+Which fish is not a cichlid?
+Ornatus
+Flying fox
+Ram
+Caeruleus
+2
+
+
+MC
+The firemouth flares what in a display of aggression?
+Dorsal fin.
+Ctenoid scales.
+Caudal peduncle
+Operculum
+4
+
+
+MC
+Small white spots are a sign of waht disease?
+Ich
+Velvet
+Dropsy
+Carcinoma
+1
+
+
+MC
+A piscavore eats
+Fish.
+Plants.
+Frozen foods.
+Snails.
+1
+
+
+MC
+Barbs are named for:
+The flesh whiskers by their mouth.
+Sharp scale by their tail.
+Small hooks on the genital papillae.
+The breeding tubercules on the gill covers.
+1
+
+
+MC
+Which fish is NOT a rasbora?
+Scissortail.
+Harlequin.
+Spotted.
+Zebra.
+4
+
+
+MC
+Paradise fish get along with:
+Nothing.
+Each other.
+Tetras.
+Lionheads.
+1
+
+
+MC
+The Lionhead does NOT have a:
+Dorsal fin.
+Pectoral fin.
+Adipose fin.
+Operculum.
+1
+
+
+MC
+The best eater of algae is the:
+Chinese algae eater.
+Otocynclus.
+Pleco.
+Rosy barb.
+2
+
+
+MC
+Which fish is not a barb?
+Rosy.
+Blind cave fish.
+Zebra.
+Tiger.
+2
+
+
+MC
+The only coldwater freshwater fish is the:
+Goldfish.
+Tiger Barb.
+Angelfish.
+Clown loach.
+1
+
+
+MC
+Which fish is not from the Amazon?
+Black neon tetra.
+Ram cichlid.
+Orange chromide.
+Pencilfish
+3
+
+

@@ -1,0 +1,294 @@
+TITLE
+Allround 1.2 * by Sid Vicious *
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+30
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+"Akte X" trägt den Deutschen Untertitel :
+denn sie kennen kein Erbarmen
+Geschichten aus der Gruft
+die Unheimlichen Fälle des FBI
+Die Fabelhafte Welt Der Amelie
+3
+
+
+MC
+Alles Simpsons nur eine/r nicht ...
+Lisa Simpson
+Bart Simpson
+Maggie Simpson
+Ned Simpson
+4
+
+
+MC
+Wer ist kein Charakter bei den Simpsons
+Bart Simpson
+Knecht Ruprecht
+Pamela Barnes
+Mr. Burns
+3
+
+
+MC
+Hallo Spencer ! Wer war denn da nicht dabei
+Galactica
+Kasimir
+Grobi
+Nepomuk
+3
+
+
+MC
+Wer ist kein Neffe von Donald Duck
+Tick
+Trick
+Tack
+Track
+3
+
+
+MC
+In welcher Stadt spielt "Lindenstrasse"
+München
+Köln
+Düsseldorf
+Berlin
+1
+
+
+MC
+In den achtziger Jahren gab es sie noch, im ersten Programm, abends vor der Tagesschau ...
+die Dauerwerbesendungen
+die Regionalprogramme
+die Sendepause
+die Weihnachtsserien
+2
+
+
+MC
+Was war keine Weihnachtsserie der 80er?
+Anna
+Nonni und Manni
+Patric Pacard
+Black Beauty
+4
+
+
+MC
+"Sie baden gerade ihre Hände drin." "In Geschirrspülmittel?" "Nein, in ... !"
+Domestos
+Palmolive
+Fernet Branca
+Perwoll
+2
+
+
+MC
+"Ist der neu?" "Nein, mit ..."
+Wasser und CD gewaschen
+schrägen Borsten
+Perwoll gewaschen
+nur einer Kalorie
+3
+
+
+MC
+Es gab auch eine deutsche Science-Fiction-Serie, nämlich ...
+Raumschiff Enterprise
+Kampfstern Galactica
+Krieg der Sterne
+Raumpatrouille Orion
+4
+
+
+MC
+Wenn man gleich drei Wünsche auf einmal hat, dann bestimmt nicht den:
+Spannung
+Spiel
+Vitamine
+Schokolade
+3
+
+
+MC
+Wer lebt nach einem Raumschiff-Absturz versteckt bei Familie Tanner?
+Spock
+ALF
+E.T.
+Mork
+2
+
+
+MC
+Alice im Wunderland feiert beim verrückten Hutmacher welches ungewöhnliche Fest?
+den Christopher Street Day
+den Tag der deutschen Einheit
+den Nichtgeburtstag
+das Oktoberfest
+3
+
+
+MC
+Und den kennt doch nun auch wirklich jeder! Den rosaroten ...
+Bettvorleger
+Elefanten
+Panther
+Fitnesstrainer
+3
+
+
+MC
+Catweazle hatte eine Kröte als Haustier, mit dem Namen:
+sprechender Knochen
+Kühlwalda
+elektrik Trick
+Robin
+2
+
+
+MC
+Welchen Nachnamen trug Alexis aus Denver-Clan trotz zahlreicher Heiraten nie?
+Carrington
+Colby
+Jennings
+Dexter
+3
+
+
+MC
+In der tschechischen Version des Aschenbrödel wurde etwas dazuerfunden, dass es im Märchen der Gebrüder Grimm nicht gab. Was?
+ein Kürbis als Kutsche
+zwei Mäuse als Kutscher
+drei Haselnüsse
+vier Stiefschwestern
+3
+
+
+MC
+Welche Desperate Housewife hat sich gleich im Pilotfilm der Serie erschossen und ist seither nur noch als "Stimme aus dem Jenseits" zu hören?
+Susan Mayer
+Mary-Alice Young
+Bree van de Kamp
+Lynette Scavo
+2
+
+
+MC
+Der kleine Vampir hieß?
+Rainer
+Rüdiger
+Reginald
+Harald
+2
+
+
+MC
+Wie heißt die Haushaltshilfe von Dr. Snuggles?
+Madame Etepetete
+Fräulein Reinlich
+Wilhelma Weinessig
+Mathilde Dosenfänger
+2
+
+
+MC
+In den 80ern gab es eine faszinierende Science-Fiction-Serie der BBC. Vervollständige ihren Titel! "Die ... Herrscher"
+einsamen
+zweiköpfigen
+dreibeinigen
+
+3
+
+
+MC
+Viele erinnern sich noch an "Ein Colt für alle Fälle", doch was war Colt Seavers von Beruf?
+Stuntman
+Privatdetektiv
+Polizist
+Schauspieler
+1
+
+
+MC
+Wer war "Hart aber Herzlich"?
+Tim und Struppi
+Jennifer und Jonathan Hart
+Tom und Jerry
+Arnold Schwarzenegger
+2
+
+
+MC
+Wer arbeitet nicht im Hause Sesemann in Frankfurt?
+Johanna
+Tinette
+Fräulein Rottenmeier
+Sebastian
+1
+
+
+MC
+Wie heißt das Weingut im Tuscany Valley, deren Besitzerin Angela Channing ist?
+Falcon Crest
+Knots Landing
+Dynasty
+St. James
+1
+
+
+MC
+"Die unendliche Geschichte" entstammt der Feder von ...
+James Krüss
+Michael Ende
+Walter Moers
+Astrid Lindgren
+2
+
+
+MC
+Wer spielte die kleine Dorothy Gale, die durch einen Wirbelsturm in das Land über dem Regenbogen getragen wird?
+Fay Wray
+Elisabeth Taylor
+Judy Garland
+Sherley Temple
+3
+
+
+MC
+Welches Monster isst am liebsten Kekse?
+Krümelmonster
+Grobi
+Elmo
+Oskar
+1
+
+
+MC
+Laut "Per Anhalter durch die Galaxis" gibt es auf der Erde mehr intelligentes Leben als nur den Menschen. Wahre Genies sind auch die ...
+Affen
+Kaffeemaschinen
+Mäuse
+Hunde
+3
+
+

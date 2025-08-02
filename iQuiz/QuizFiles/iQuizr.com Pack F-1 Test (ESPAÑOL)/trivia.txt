@@ -1,0 +1,249 @@
+TITLE
+F-1 Test (ESPAÑOL)
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+25
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+¿Cuál fue el último equipo con el que corrió Juan Pablo Montoya en el año 2006?
+BMW Sauber F-1 Team
+Williams F-1 Team
+Team McLaren Mercedes
+Midland F-1 Racing
+3
+
+
+MC
+¿En qué año se retiró Mika Häkkinen?
+2002
+2006
+1992
+1999
+1
+
+
+MC
+¿Cómo se llama el actual mandamás de la F-1?
+Flavio Briatore
+Max Moesly
+Jean Todt
+Bernie Ecclestone
+4
+
+
+MC
+¿En cuál G.P. debutó el heptacampeón Michael Schumacher?
+G.P. de Australia
+G.P. de Bélgica
+G.P. de España
+G.P. de Italia
+2
+
+
+MC
+¿Cuántas poles ha lagrado Ayrton Senna?
+69
+55
+96
+65
+4
+
+
+MC
+¿Cuántas veces ha sido Kimi Raikkonnen subcampeón del mundo?
+1
+2
+3
+4
+2
+
+
+MC
+¿Cuántas veces se ha ido Andrea de Cesaris a otro equipo?
+10
+4
+1
+6
+1
+
+
+MC
+¿Ha ganado alguien un campeonato de F-1 tras haber muerto en un G.P.?
+No, eso es imposible
+NI DE COÑA
+Sí, Ayrton Senna
+Sí, Jochen Rindt
+4
+
+
+MC
+¿Que empresa ha adquirido los derechos de la F-1 desde la temporada 2009 hasta la 2013?
+Mediaprp
+Televisión Española
+TV3
+Telecinco
+1
+
+
+MC
+En el año 2004, ¿disputó Marc Gene algún G.P?
+No, era piloto de pruebas
+Sí, 2
+NI DE COÑA
+Sí, 1
+2
+
+
+MC
+¿Cúal fue el único G.P. de De La Rosa en el año 2005?
+G.P. de Hungría
+G.P. de San Marino
+G.P. de España
+G.P. de Bahrein
+4
+
+
+MC
+¿Dónde estuvo compitiendo Fernando Alonso en el año 2002?
+En Renault, pero una lesión en su rodilla le impidió participar en ese año
+En Renault, pero alternaba la F-1 con la DTM
+En Renault, pero era piloto de pruebas
+En esa época seguía en la F-3000
+3
+
+
+MC
+¿En cuál de los siguientes años murió Ayrton Senna?
+1985
+1999
+1973
+1994
+1
+
+
+MC
+¿Quién es el campeón de F-1 más joven?
+Juan Manuel Fangio
+Fernando Alonso
+Michael Schumacher
+Emerson Fittipaldi
+2
+
+
+MC
+¿Cómo ganó Jacques Villeneuve el campeonato de F-1 de 1997?
+Sobornó a Bernie Ecclestone
+Michael Schumacher fue campeón y no Villeneuve
+Michael Schumacher fue campeón, pero fue expulsado
+Corriendo con un depósito extra de gasolina
+3
+
+
+MC
+¿Cuál ha sido el G.P. que más enfado a los aficionados a la F-1?
+G.P. de U.S.A., año 2005
+G.P. de Jerez, año 1997
+G.P. de Bélgica, año 1998
+G.P. de Japón, año 2007
+1
+
+
+MC
+¿Cuál fue la primer mujer en correr en la F-1?
+Giovanna Amati
+Desire Wilson
+María Teresa de Filipi
+Lella Lombardi
+3
+
+
+MC
+¿Cuántos campeonatos consecutivos logró ganar Michael Schumacher?
+5
+4
+3
+2
+1
+
+
+MC
+¿Alguien ha lucido en su monoplaza el número 0?
+Nadie ha llevado ese número
+Sí, Michael Schumacher en su primer año
+Sí, Damon Hill durante los 1993-1994
+Sí, Juan Manuel Fangio por ser campeón del mundo
+3
+
+
+MC
+¿Cuántos coches se vieron involucrados en el accidente del G.P. de Bélgica del año 1998?
+Todos excepto uno
+Solamente uno
+11
+13
+1
+
+
+MC
+¿Quién ganó en el año 1988 la única carrera que no ganó ni Senna ni Prost?
+Nelson Piquet
+Gerhard Berger
+Nigell Mansell
+Andrea de Cesaris
+2
+
+
+MC
+¿En qué año logró Olivier Panis su única victoria?
+1996
+1995
+1997
+1994
+1
+
+
+MC
+¿En cuál G.P. ganó por primera vez Ralf Schumacher?
+G.P. de Bélgica
+G.P. de Australia
+G.P. de U.S.A.
+G.P. de San Marino
+4
+
+
+MC
+¿En cuál G.P. logró De La Rosa su primer podio?
+G.P. de China
+G.P. de Hungría
+G.P. de Italia
+G.P. de Bahrein
+2
+
+
+MC
+¿Cuál ha sido el mejor puesto de Marc Gene?
+Sexto - 6
+Noveno - 9
+Octavo - 8
+Quinto - 5
+4
+
+

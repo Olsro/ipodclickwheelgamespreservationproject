@@ -1,0 +1,78 @@
+TITLE
+Acure resp distress Syndrome
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+6
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+ARDS is: fluids build up  in the lungs  and causing them to stiffen? T or F
+True
+false
+Maybe
+
+1
+
+
+MC
+ABG result for ARDS
+metabolic acidosis
+respiratory acidosis
+Respiratory alkalosis
+A and B
+4
+
+
+MC
+Tx for ARDS;
+O2, MV using PEEP
+Antibiotics,bronchodilators
+Neuromuscular blocking agents,steroids
+All of the above
+4
+
+
+MC
+What to assess in pt with ards
+cardiovascular
+cardiovascular
+neurovascular
+All of the above
+4
+
+
+MC
+while giving bed rest, what should be the position for ARDS?
+Prone
+Side lying
+supine
+
+1
+
+
+MC
+should the nurse perform CPT?
+Yes
+No
+
+
+2
+
+

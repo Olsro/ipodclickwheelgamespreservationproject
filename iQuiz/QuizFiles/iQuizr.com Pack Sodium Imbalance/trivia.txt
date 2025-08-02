@@ -1,0 +1,141 @@
+TITLE
+Sodium Imbalance
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+13
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+s/sx of hyponatremia
+abd cramps, alt mental stat,cold clammy skin
+cyanosis, hypotension, oliguria, anuria
+seizures and tachycardia
+all of the above
+4
+
+
+MC
+s/sx of hypernatremia
+dry sticky mucuos membrane, exc wt gain, flushed skin
+Hypertension, intense thirst, oliguria, pitting edema
+rough, dry tounge, tachycardia
+all of the above
+4
+
+
+MC
+serum sodium level for hyponatremia
+Less than 135 mEq/L
+more than 145 mEq/L
+
+
+1
+
+
+MC
+serum sodium level for hypernatremia
+Less than 135 mEq/L
+more than 145 mEq/L
+
+
+2
+
+
+MC
+Tx for hyponatremia
+IV infusion of saline solution
+Potassium chloride (K-Lor)
+A and B
+
+3
+
+
+MC
+Tx for hypernatremia
+Low sodium diet
+Salt free IV solution  such as dextrose in water, followed by infusion of 0.45% sodium chloride to prevent hyponatremia
+A and B
+
+3
+
+
+MC
+Hyponatremia: Nsg interventions
+Monitor serum sodium and serum chloride levels
+Monitor pt's  urine spec gravity and fluids intake and output
+weigh the pt daily and assess for signs of fluid overload
+all of the above
+4
+
+
+MC
+Hypernatremia: Nsg interventions
+Monitor Serum sodium level every 6hrs and VS esp Rising PR
+Assess signs of hypovolemia esp with pt rec IV
+Monito Intake and output, chech body fluid loss, weigh the pt
+all of the above
+4
+
+
+MC
+Is the sodium major cation (positively charged ion in extracellular fluids?
+True
+false
+Maybe
+
+1
+
+
+MC
+What is the major cation in intracellular fluid?
+Sodium
+Potassium
+
+
+2
+
+
+MC
+Example of hypernatremia
+dehydration
+Low sodium diet
+excessive use of diuretics
+
+1
+
+
+MC
+Example of hypornatremia
+dehydration
+Low sodium diet
+excessive use of diuretics
+B and C
+4
+
+
+MC
+During adm of isosmolar hyperosmolar saline solution to pt with hyponatremia , whatch closely for
+Hypovolemia
+Hypervolemia
+
+
+2
+
+

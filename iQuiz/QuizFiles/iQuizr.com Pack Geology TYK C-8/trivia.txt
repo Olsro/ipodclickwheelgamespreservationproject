@@ -1,0 +1,141 @@
+TITLE
+Geology TYK C-8
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+13
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Geological Processes operating at present are the same processes that have operated in the past is the principal of
+correlation
+uniformitarianism
+catatrophism
+none of the proceding
+2
+
+
+MC
+Within a sequence of undisturbed sedimentary rocks, the layers get younger going from the top is the principle of
+origninal horizontality
+superposition
+cross cutting
+none of the proceding
+2
+
+
+MC
+If rock A cuts across rock B, then rock A is _____ rock B.
+Younger than
+Older than
+the same age as
+not this one
+1
+
+
+MC
+Which is a method of correlation?
+Physical Continuity
+fossils
+similarity of rock type
+all of the above
+4
+
+
+MC
+Eras are subdivided into
+periods
+ages
+eons
+epochs
+1
+
+
+MC
+Periods can be subdivided into
+eras
+epochs
+ages
+time zones
+2
+
+
+MC
+Whcih division of geologic time was the longest?
+Precambrian
+Paleozoic
+Mesozoic
+Cenozoic
+1
+
+
+MC
+C-14 dating can be used on all of the proceding except
+wood
+bone
+granite
+shell
+3
+
+
+MC
+Concentrations of radon are highest in areas where bedrock is
+granite
+gneiss
+limestone
+all of the above
+4
+
+
+MC
+Which is not a type of unconformity?
+triconformity
+disconformity
+nonconformity
+angular unconformity
+1
+
+
+MC
+A geologist could use the principle of inclusion to determine the relative age of
+fossils
+xenoliths
+shale layers
+metamorphism
+2
+
+
+MC
+The oldest abundant fossils of complex multicellular life with sheills and other hard parts date from the
+Precambrian
+Paleozoic
+Mesozoic
+Cenozoic
+2
+
+
+MC
+A contact between parallel sedimentary rock that records missing geologic time is
+a sedimentary contact
+an angular unconformity
+a non conformity
+a disconformity
+4
+
+

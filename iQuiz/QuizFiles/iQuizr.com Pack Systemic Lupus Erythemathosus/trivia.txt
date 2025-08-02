@@ -1,0 +1,96 @@
+TITLE
+Systemic Lupus Erythemathosus
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+8
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+SLE: s/sx EXCEPT
+Butterfly rash on face
+Lung collapse
+migratory pain, stiffness, joint swelling
+Fatigue
+2
+
+
+MC
+SLE: Lupus Erythemathosus cell prep
+Positive
+negative
+Normal
+
+1
+
+
+MC
+SLE; drugs
+Cytotoxic Drugs
+Immunosuppressants
+NSAIDs
+all of the above
+4
+
+
+MC
+SLE:Cytotoxic drugs
+AZathioprine IMURAN
+methotraxate FOLEX
+A and B
+
+3
+
+
+MC
+SLE:nsg interventions
+assess musculoskeletal stat,renal stat
+Provide prophylactic skin, mouth and perineal care
+minimiz env stress and provide rest periods
+all of the above
+4
+
+
+MC
+SLE: Precaution
+standard
+contact
+Seizure
+
+3
+
+
+MC
+Is SLE an autoimmune disorder?
+True
+false
+Maybe
+
+1
+
+
+MC
+SLE: signature finding
+fatigue
+butterfly rash on face
+
+
+2
+
+

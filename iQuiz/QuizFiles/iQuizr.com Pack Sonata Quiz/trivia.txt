@@ -1,0 +1,78 @@
+TITLE
+Sonata Quiz
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+6
+
+LOSE
+4
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Kuka on Sonata Arctican solisti?
+Timo Rautiainen
+Tony Kakko
+Tuomas Holopainen
+Ville Valo
+2
+
+
+MC
+Sonatan 2007 ilmestyneen albumin nimi?
+For The Sake Of Revenge
+The Collection
+Unia
+Reckoning Night
+3
+
+
+MC
+Minä vuonna Sonata Arctica on perustettu?
+1996
+2001
+2006
+1997
+1
+
+
+MC
+Minkälainen on nykyinen Sonata Arctica kokoonpano?
+Timo rautiainen, Tuomas Holopainen
+Ville Valo & Tony
+Tony, Tommi, Marko, Henrik, Elias
+Tony, Tommi, Marko, Henrik, Jani
+3
+
+
+MC
+Missä toisessa Suomalaisessa yhtyeessä Tony Kakko on myös mukana?
+Nightwish
+Northern Kings
+Children Of Bodom
+Popeda
+2
+
+
+MC
+Kelle Idols finalistille Kakko teki biisin?
+Hanna Pakarinen
+Kristiina Brask
+Antti Tuisku
+Agnes
+4
+
+

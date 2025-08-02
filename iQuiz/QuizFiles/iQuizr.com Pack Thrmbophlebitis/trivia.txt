@@ -1,0 +1,132 @@
+TITLE
+Thrmbophlebitis
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+12
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+2 types of thrombophlebitis
+Deep Vein Thrombophlebitis
+Superficial vein Thrombophlebitis
+A and B
+
+3
+
+
+MC
+where is the pain located in DVT
+arm
+legs
+calf
+toe
+3
+
+
+MC
+It shows venous filling defects
+ultrasound
+photoplethysmography
+CT scan
+
+2
+
+
+MC
+It shows decreased blood flow
+ultrasound
+photoplethysmography
+CT scan
+
+1
+
+
+MC
+what is the nursing intervention for the affected extremity?
+maintain BR
+elevate the affected extremity
+A and B
+
+3
+
+
+MC
+These are the anticoagulants for Thrombophlebitis
+warfarin coumadin
+heparin
+enoxaparin lovenox
+All of the above
+4
+
+
+MC
+It is a fibrinolytic agent for thrombophlebitis
+streptokinase streptase
+streptokinase monnaise
+streptokinase skrepnase
+
+1
+
+
+MC
+what is the nurse supposed to do to improve pt's circulation
+monitor bP and RR
+Give  a lot of fluids
+apply warm, moist compress
+apply cold wet compress
+3
+
+
+MC
+Always assess what?
+Genitourinary status
+respiratory status
+circulatory status
+neurovascular status
+4
+
+
+MC
+Virchow's triad
+venous stasis
+endothelial damage
+hypercoagulabiliy
+All of the above
+4
+
+
+MC
+what is the PTT in pt receiving heparin and Pt in pt receiving warfarin is
+1 1/2 to 2 times the control
+2 to 4 times
+4-5 times the control
+
+1
+
+
+MC
+a falling Hb and Hematocrit indicate?
+fluid retention
+fluid loss
+blood loss
+
+3
+
+

@@ -1,0 +1,195 @@
+TITLE
+New Mills Secondary School
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+19
+
+LOSE
+4
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Who Is Noodleboy?
+Ben Longden
+Ben Kent
+Ben Rowles
+Get Bent You Bastard
+1
+
+
+MC
+Whose Nose Was Once Climbed For Charity?
+Dan Cullens
+Adam Hindle's
+Charlie Iddon
+It Wasn't A Nose It Was Jamies Head
+3
+
+
+MC
+Who Is PinDick Rick?
+Ben Cooper
+Richard Jennings
+Josh Fussel
+
+2
+
+
+MC
+Charlie Is In The RAF Cadets?
+True
+False
+
+
+2
+
+
+MC
+Crudderz is...?
+Lloyd Haytack
+Luke Smailes
+Louis Nevett
+Louis Prince
+1
+
+
+MC
+Lydia Baldwin Is...?
+In Love With Lloyd
+Pissed Of With You
+The Biggest Swat Ever
+Deserving Of A Punch
+3
+
+
+MC
+According To A Survey Who Would People Rather Punch?
+Charlie Iddon
+Adam Barnes
+Lydia Baldwin
+Ben Cooper
+2
+
+
+MC
+Who is "The Cooper Classic"?
+Ben Bowker
+Jamie Brownson
+Ben Cooper
+Dan Cullen
+3
+
+
+MC
+"B B Be My Boyfriend Breeony" was once uttered by...?
+Adam Hindle
+Adam Barnes
+ADan Cullen
+Ben Kent
+1
+
+
+MC
+SuperSimon is...?
+Matt Baxter
+Catherine wild
+Ben Kent
+Simon Dolan
+4
+
+
+MC
+The Fattest Bastard?
+Matt Baxter
+Leah Bagshaw
+Lewis White
+Jake Hague
+2
+
+
+MC
+Tiny Trev...?
+Is A Figment Of Imagination
+Has sex with Big Mark
+Awesome
+Is Mark Evans
+4
+
+
+MC
+Finish The Line "Arny Barny..."?
+Billy Bear
+Willy Share
+'s Really Fair
+
+1
+
+
+MC
+Who Got Banned From The Mill?
+Ben Dan and Luke
+Crudderz Ginger and Stafford
+Ginger Mop And Crudderz
+Josh Fussell
+3
+
+
+MC
+Who Is Edward Scissorhands?
+Breeony
+Molly
+Dan
+Beth
+1
+
+
+MC
+Is GayDan Gay?
+Yes
+No - Because He Says So
+
+
+1
+
+
+MC
+Is Hindles Schlong Huge?
+No
+Yes
+Wouldn't Know Haven't Looked
+
+2
+
+
+MC
+Who Has The Biggest Head?
+Sam Stafford
+Jamie Brownson
+NoodleBoy
+
+3
+
+
+MC
+Noodle Boy Only Eats Pot Noodles?
+True
+False-He Also Eats Mars Bars
+
+
+2
+
+

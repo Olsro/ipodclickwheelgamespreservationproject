@@ -1,0 +1,177 @@
+TITLE
+Acute Head Injury
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+17
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Acute Head Injury: Key s/sx
+Disorientation to time, place or person
+unequal pupil size, loss of pupillary rx
+A and B
+
+3
+
+
+MC
+CT scan and MRI show:
+Hemorrhage
+cerebral edema
+shift of midline structures
+all of the above
+4
+
+
+MC
+Acute Head Injury: Anticonvulsant
+phenytoin DILANTIN
+Mannitol OSMITROL
+Furosemide LASIX
+Dexamethazone DECADRON
+1
+
+
+MC
+Acute Head Injury: diuretics
+phenytoin DILANTIN
+Mannitol OSMITROL
+Furosemide LASIX
+B and C
+4
+
+
+MC
+Acute Head Injury: diuretics is used to
+To control ICP
+To combat cerebral edema
+to eliminate all the sodium in the body
+
+2
+
+
+MC
+Acute Head Injury: Barbiturate
+Pentobarbital NEMBUTAL
+Mannitol OSMITROL
+Furosemide LASIX
+Dexamethazone DECADRON
+1
+
+
+MC
+Acute Head Injury: Barbiturate is used to
+To control ICP with diuresis
+To combat cerebral edema
+to eliminate all the sodium in the body
+
+1
+
+
+MC
+Glucocorticoids: to reduce cerebral edema
+phenytoin DILANTIN
+Mannitol OSMITROL
+Furosemide LASIX
+Dexamethazone DECADRON
+4
+
+
+MC
+Acute Head Injury: Histamine H2 receptor antogonists
+Ranitidine  ZANTAC
+Famotidine PEPCID
+Nizatidine AXID
+all of the above
+4
+
+
+MC
+Acute Head Injury: mucosal barrier  fortifier
+phenytoin DILANTIN
+sucralfate CARAFATE
+Furosemide LASIX
+Dexamethazone DECADRON
+2
+
+
+MC
+Acute Head Injury: pt needs this posterior pituitary hormone if she develops diabetes insipidus
+Prednisone DELTASONE
+Famotidine PEPCID
+Vasopressin PITRESSIN
+Dexamethazone DECADRON
+3
+
+
+MC
+Acute Head Injury: is cervical collar needed until the neck injury is ruled out?
+False
+True
+Maybe
+
+2
+
+
+MC
+Acute Head Injury: What should the nurse assess?
+Neurologic and GI stat
+Neurologic and Respiratory stat
+Neurologic and Cardio stat
+
+2
+
+
+MC
+Acute Head Injury: The nurse should monitor the ff
+VS, ICP, I/O, spec gravity, lab studies, Pulse oximetry
+Signs of diabetes insipidus
+A and B
+
+3
+
+
+MC
+signs of diabetes insipidus
+low urine spec gravity, high urine output
+high urine spec gravity, high urine output
+high urine spec gravity, low urine output
+
+1
+
+
+MC
+what is ventriculostomy
+insertion of a drain  into the ventricles to drain CSF
+insertion of a drain  into the atrium to drain CSF
+
+
+1
+
+
+MC
+Nsg interventions to avoid increase in ICP
+Give fluids
+Provide rest periods
+Give O2
+
+2
+
+

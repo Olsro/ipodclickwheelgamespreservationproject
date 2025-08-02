@@ -1,0 +1,114 @@
+TITLE
+State Capitals
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+New York
+Washington, D.C.
+Buffalo
+New York City
+Niagra Falls
+1
+
+
+MC
+Virginia
+Richmond
+Manassas
+Arlington
+Norfolk
+1
+
+
+MC
+Texas
+Dallas
+San Antonio
+Ft. Worth
+Austin
+4
+
+
+MC
+Kentucky
+Louisville
+Lexington
+Frankfurt
+Raleigh
+3
+
+
+MC
+Tennessee
+Nashville
+Knoxville
+Memphis
+Gatlinburg
+2
+
+
+MC
+California
+Los Angeles
+Sacremento
+San Francisco
+San Diego
+2
+
+
+MC
+Florida
+Orlando
+Miami
+Talahassee
+Daytona Beach
+3
+
+
+MC
+South Carolina
+Florence
+Myrtle Beach
+Columbia
+Charleston
+3
+
+
+MC
+Georgia
+Atlanta
+Macon
+Savannah
+Columbia
+1
+
+
+MC
+North Carolina
+Charlotte
+Raleigh
+Durham
+Greensboro
+2
+
+

@@ -1,0 +1,267 @@
+TITLE
+10 Agriculture : Vocab
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+27
+
+LOSE
+2
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Deliberate modification of Earth's surface through cultivation of plants and rearing animals to obtain sustenance or economic gain is what?
+Horticulture
+Ranching
+Agriculture
+Truck Farming
+3
+
+
+MC
+Any plant cultivated by people is a what?
+Swidden
+Crop
+Pasture
+Paddy
+2
+
+
+MC
+The reproduction of plants through annual planting of seeds that result from sexual fertilization is what type of agriculture?
+Subsistence Agriculture
+Commercial Agriculture
+Seed Agriculture
+
+3
+
+
+MC
+The reproduction of food primarily for consumption by the farmer's family is what type of agriculture?
+Subsistence Agriculture
+Seed Agriculture
+Commercial Agriculture
+
+1
+
+
+MC
+The reproduction of food primarily for sale off of the farm is what type of agriculture?
+Commercial Agriculture
+Subsistence Agriculture
+Seed Agriculture
+
+1
+
+
+MC
+What is the most productive farmland called?
+Pasture
+Prime Agricultural Land
+Plantation
+
+2
+
+
+MC
+What is the name of the system of commercial farming?
+Double Cropping
+Intensive Subsistence Agriculture
+Agribiusness
+Annual Cropping
+3
+
+
+MC
+What do you call the process of slash and burn agriculture, depleting the lands and leaving them fallow?
+Shifting Cultivation
+Desertification
+Crop Rotation
+
+1
+
+
+MC
+The process by which farmers clear land by slashing vegetation and burning the debris.
+Intensive Subsistence Agriculture
+Transhumance
+Slash and Burn Agriculture
+Green Revolution
+3
+
+
+MC
+The name of an area that has been cleared using slash and burn agriculture.
+Bush Fallow
+Swidden
+Sawah
+Crop
+2
+
+
+MC
+The seasonal migration of livestock between mountains and lowland pasture areas
+Transhumance
+Annual Cropping
+Milkshed
+Sustainable Agriculture
+1
+
+
+MC
+Grass or other plants grown for feeding grazing animals, land used for grazing
+Combine
+Bush Fallow
+Pasture
+Paddy
+4
+
+
+MC
+The name of when farmers work more intensively to subsist on a parcel of land
+Seed Agriculture
+Intensive Subsistence Agriculture
+Transhumance
+Ranching
+2
+
+
+MC
+A flooded field is called a what?
+Short Fallow
+Paddy
+Sawah
+
+3
+
+
+MC
+The Malay word for wet rice and incorrect term for Sawah
+Crop
+Paddy
+Winter Wheat
+Milkshed
+2
+
+
+MC
+The husk of a rice seed
+Hull
+Winnow
+Chaff
+
+3
+
+
+MC
+To beat and separate grain from husks
+Thresh
+Combine
+Ranching
+Ridge Tillage
+1
+
+
+MC
+The act of placing threshed rice in a tray so lighter chaff is blown away
+Winnow
+Chaff
+Cereal Grain
+Combine
+1
+
+
+MC
+The outer covering of rice
+Winter Wheat
+Hull
+Spring Wheat
+Cereal Grain
+2
+
+
+MC
+Obtaining two harvests per year from one field
+Intensive Subsistence Agriculture
+Annual Cropping
+Double Cropping
+Crop Rotation
+3
+
+
+MC
+The practice of rotating use of different fields from crop to crop each year to avoid soil exhaustion
+Annual Cropping
+Crop Rotation
+Ranching
+Transhumance
+2
+
+
+MC
+Oats, wheat, rye and Barely fall under this category. It is used in crop rotation.
+Spring Wheat
+Milkshed
+Cereal Grain
+Winter Wheat
+3
+
+
+MC
+Teh Ring surrounding a citly from which milk can be supplied without spoiling
+Milkshed
+Combine
+Hull
+Horticulture
+1
+
+
+MC
+The seed from various gasses (wheat, corn, oats, barely, rice, millet, ect.)
+Grain
+Reaper
+Combine
+Hull
+1
+
+
+MC
+A crop planted in Autumn and developes a strong root system before growth stops for the winter
+Winter Wheat
+Spring Wheat
+Annual Cropping
+Plantation
+1
+
+
+MC
+A crop planted in spring and harvested in late summer
+Annual Cropping
+Winter Wheat
+Spring Wheat
+Green Revolution
+3
+
+
+MC
+A machine that cuts grain standing in the field. It first permitted large sacle whet production.
+Reaper
+Combine
+Ride Tillage
+Chaff
+1
+
+

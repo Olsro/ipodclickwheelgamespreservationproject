@@ -1,0 +1,159 @@
+TITLE
+Glaucoma
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+15
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+2 types of glaucoma
+Acute angle closure
+Chronic open angle
+A and B
+
+3
+
+
+MC
+it is initially asymptomatic
+Acute angle closure
+Chronic open angle
+
+
+2
+
+
+MC
+Acute angle closure s/sx
+acute ocular pain
+blurred vision, dilated pupil
+HALO VISION
+all of the above
+4
+
+
+MC
+It shows atrophy and cupping of optic nerve head
+Opthalmoscopy
+TOnometry
+
+
+1
+
+
+MC
+shows inreased Intraocular pressure
+Opthalmoscopy
+TOnometry
+
+
+2
+
+
+MC
+Key tx for acute angle closure glaucoma
+Cholinergic agent
+Laser iridectomy or surgical iridectomy if pressure doesnt decrease with drug
+A and B
+
+3
+
+
+MC
+It is a cholinergic agent
+phenytoin DILANTIN
+Pilocarpine
+desmopressin DDAVP
+
+2
+
+
+MC
+Key tx for open angle  glaucoma
+Alpha adrenergic agonist
+Beta adrenergic  antagonist
+A and B
+
+3
+
+
+MC
+It is an Alpha adrenergic agonist
+Brimonidine Alphagan
+methotraxate FOLEX
+melphalan ALKERAN
+
+1
+
+
+MC
+Beta adrenergic  antagonist
+Brimonidine Alphagan
+Timolol Timoptic
+
+
+2
+
+
+MC
+Glaucoma: Nsg interventions
+assess eye pain and adm med as prescribed
+Modify the env for safety
+A and B
+
+1
+
+
+MC
+Is it true that galucoma damages the optic nerve that sends visual impulses for sight perception
+True
+false
+
+
+1
+
+
+MC
+Glaucoma: IOP is
+decreased
+Increased
+Normal
+
+2
+
+
+MC
+Which one is an emergency? that really needs  an immediate tx
+Acute angle closure
+Chronic open angle
+
+
+1
+
+
+MC
+Acute angle closure: if drugs doest lower the IOP .. what should be followed
+surgery
+Replacement of the affected eye
+
+
+1
+
+

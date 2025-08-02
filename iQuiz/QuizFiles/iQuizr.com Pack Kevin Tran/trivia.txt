@@ -1,0 +1,114 @@
+TITLE
+Kevin Tran
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What is Kevin's sister's name?
+Mary
+Jennifer
+Amy
+Christina
+2
+
+
+MC
+How old is Kevin?
+13
+10
+12
+11
+3
+
+
+MC
+Who does Kevin go out with?
+Tiffany
+Cindy
+Tong
+Carmen
+1
+
+
+MC
+Where does Kevin live?
+Oakland
+Alameda
+Las Vegas
+Hanoi
+2
+
+
+MC
+Who is Kevin's best friend?
+Doug
+Melissa
+Isaac
+Rory
+1
+
+
+MC
+What is Kevin's locker combo?
+14-16-30
+15-6-17
+14-16-22
+11-11-11
+3
+
+
+MC
+Who is Kevin's core teacher?
+Amajoiyi
+Muholland
+Peters
+Special Ed
+3
+
+
+MC
+How many sisters and brothers does Kevin have?
+3
+4
+2
+1
+4
+
+
+MC
+Where does Kevin go to school?
+Wood
+Home School
+Lincoln
+Chipman
+1
+
+
+MC
+What color iPod does Kevin have?
+Black
+Silver
+Green
+He doesn't have one
+2
+
+

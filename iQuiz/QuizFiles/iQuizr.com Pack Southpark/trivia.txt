@@ -1,0 +1,87 @@
+TITLE
+Southpark
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+7
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Butters pretends to be a girl. What's her name?
+Madeline
+Deborah
+Marjorine
+Sally
+3
+
+
+MC
+Cartman laves when he
+Has Cheezy Poofs
+Wins a bet
+Has Authoritah
+All of them
+4
+
+
+MC
+Chef makes these salty snacks
+Cakes
+Balls
+Cookies
+Sandwiches
+2
+
+
+MC
+What character replaces Mr. Hat?
+Mr. Hand
+Mr. Cat
+Mr. Slave
+Mr. Twig
+4
+
+
+MC
+What year was SOUTH PARK: BIGGER, LONGER & UNCUT made?
+1998
+1999
+2000
+2001
+2
+
+
+MC
+Southpark started as a
+Video Christmas Card
+Simpsons Spoof
+Short Commercial Break Film
+Joke Played On a Producer
+1
+
+
+MC
+'The Mr Hankey Show' was the origional title for South Park
+True
+False
+
+
+1
+
+

@@ -1,0 +1,105 @@
+TITLE
+Conjunctivitis
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+9
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Conjunctivitis: key s/sx
+EXcessive tearing
+burning and itching
+Mucopurulent discharge
+all of the above
+4
+
+
+MC
+Conjunctivitis: How is the causative bacaterial organism identified
+Culture and sensitivity test
+Biopsy
+Eye surgery
+
+1
+
+
+MC
+Conjunctivitis:If herpes simplex is the cause, what are the appropriate antiviral agents should be used?
+Vidarabine ointment VIRA A
+oral acyclovir ZOVIRAX
+A and B
+
+3
+
+
+MC
+Conjunctivitis:corticosteroids
+Prednisone DELTASONE
+C and D
+Flouromethalone FLOYR-OP Opthalmic
+Dexamethazone MAXIDEX
+2
+
+
+MC
+WHat is the mast cell stabilizer  for allegic conjunctivitis
+Cromolyn OPTICROM
+Cromolyn OPTICRON
+cyanocobalamin VIT B12
+
+1
+
+
+MC
+Conjunctivitis: Teaching topics
+Proper hand washing
+The risk of spreading infx
+How to instill eyedrops and oitment correctly  without touching the bottle tip to his eye or lashes
+all of the above
+4
+
+
+MC
+is the conjunctivitis inflammation of the conjunctiva?
+True
+false
+Maybe
+
+1
+
+
+MC
+can conjunctivitis be highly contagious?
+yes
+NO
+
+
+1
+
+
+MC
+It should be applied to conjunctivitis
+cold compress
+warm compress
+irrigate the eyes
+
+2
+
+

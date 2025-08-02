@@ -1,0 +1,114 @@
+TITLE
+Yankees
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+4
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Who has played shortstop for the Yankees since 1996?
+Derek Jeter
+Tony Fernandez
+Alex Rodriguez
+Nomar Garciaparra
+1
+
+
+MC
+Who was a former announcer for the Yankees and used to use the exclamation: Holy Cow?
+Phil Rizzuto
+Jim Kaat
+Vin Scully
+Bobby Murcer
+1
+
+
+MC
+Who used to play first base for the Yankees from 1927-1940?
+Lou Gehrig
+Babe Ruth
+Hank Greenberg
+Wally Pipp
+1
+
+
+MC
+Who played for the Yankees, pitched and won 41 games one year?
+Mike Mussina
+Whitey Ford
+Jack Chesbro
+Tony Lazzeri
+3
+
+
+MC
+Who used to manage the Yankees before Babe Ruth?
+Miller Huggins
+Joe Torre
+Billy Martin
+Jack McCarthy
+1
+
+
+MC
+Who used to wears number 44 for the Yankees and played Outfield?
+Reggie Jackson
+Catfish Hunter
+Chris Chambliss
+Bucky Dent
+1
+
+
+MC
+Who died from ALS Disease and now we call it his disease?
+Babe Ruth
+Lou Gehrig
+Graig Nettles
+Billy Martin
+2
+
+
+MC
+Who was a former catcher for the Yankees and currently has a museum named for him?
+Bill Dickey
+Jorge Posada
+Yogi Berra
+Thurman Munson
+3
+
+
+MC
+Who used to play first base for the Yankees from 2001-2009?
+Mark Teixeira
+Don Mattingly
+Tony Clark
+Jason Giambi
+4
+
+
+MC
+Who was a infielder for the Yankees in the 1990s?
+Omar Vizquel
+Miguel Tejada
+Derek Jeter
+Randy Velarde
+4
+
+

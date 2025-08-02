@@ -1,0 +1,294 @@
+TITLE
+hard math
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+30
+
+LOSE
+7
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+how many furlongs=1 mile
+7
+5
+8
+3
+1
+
+
+MC
+circumference of circle=
+diameter x3.1416
+radius x1.7142
+arc x4.671
+semcircle x5.290
+1
+
+
+MC
+area of circle=
+arc x.7854
+radius x.7854
+semcicle x.7854
+diameter squared x.7854
+1
+
+
+MC
+perimeter of rectangle=
+3F+4X=7(F plus X)
+2L+2W=2(L plus W)
+
+
+1
+
+
+MC
+volume of rectangle=
+chord x tangent x radius
+length x width x height
+
+
+1
+
+
+MC
+30 1/4 sq. yards=
+1 sq. rod
+2 sq. rods
+3 sq. rods
+
+1
+
+
+MC
+1,000,000 sq. meters=
+100 ares
+1 sq. kilometer
+1 hectare
+
+1
+
+
+MC
+1 liter=
+0.001 cubic meter
+1 decilter
+1 centiter
+
+1
+
+
+MC
+1,000 kilograms=
+1 hectogram
+1 decagram
+1 metric ton
+
+1
+
+
+MC
+10 milimeters=
+1 centimeter
+1 decameter
+1 hectometer
+
+1
+
+
+MC
+10 grams=
+1 decagram
+1 kilogram
+1 hectagram
+
+1
+
+
+MC
+1 sq. mile=
+1 township
+1 section
+640 acres
+
+1
+
+
+MC
+3 feet=
+1 rod
+1 furlong
+1 yard
+
+1
+
+
+MC
+320 rods=
+1 league
+1 mile
+1 foot
+
+1
+
+
+MC
+160 sq. rods=
+1 acre
+1 township
+1 section
+
+1
+
+
+MC
+50%=
+.5
+.15
+.25
+
+1
+
+
+MC
+1/5=
+10%
+20%
+30%
+
+1
+
+
+MC
+2/5=
+20%
+30%
+40%
+
+1
+
+
+MC
+3/5=
+50%
+60%
+70%
+
+1
+
+
+MC
+4/5=
+80%
+90%
+70%
+
+1
+
+
+MC
+1/6=
+17-2/3%
+16-2/3%
+15-2/4%
+
+1
+
+
+MC
+1/2=
+50%
+25%
+75%
+
+1
+
+
+MC
+1/4=
+20%
+25%
+30%
+
+1
+
+
+MC
+3/4=
+75%
+70%
+65%
+
+1
+
+
+MC
+1/3=
+33-1/3%
+34-1/4%
+35-1/5%
+
+1
+
+
+MC
+2/3=
+67-2/4%
+66-2/3%
+65-2/2
+
+1
+
+
+MC
+4 gills(2 cups)=
+1 quart
+1 gallon
+1 pint
+
+1
+
+
+MC
+2 pints=
+1 quart
+1 gallon
+
+
+1
+
+
+MC
+4 quarts=
+1 gallon
+1 pint
+
+
+1
+
+
+MC
+4 pecks=
+1 quart
+1 bushel
+1 ton
+
+1
+
+

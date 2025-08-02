@@ -1,0 +1,285 @@
+TITLE
+Driver's Ed
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+29
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Which of the following is a motorist not required to carry?
+A valid driver license
+Valid insurance
+A passport or proof of residency
+Vehicle registration cards
+3
+
+
+MC
+A motorist who changes addresses must report this change to the MVC:
+within one week of moving.
+within 60 days of moving.
+within 10 days of moving.
+before the current license expires.
+1
+
+
+MC
+A motorist who legally changes his/her name must report the change to the MVC:
+within three weeks.
+within one week.
+within ten days.
+within two weeks.
+4
+
+
+MC
+Which must a motorist with an out of state license who moves to New Jersey not do?
+Apply for a New Jersey license within 60 days or before current license expires (whichever is sooner)
+Have registration reissued
+Surrender their out-of-state license
+
+2
+
+
+MC
+Under what age are motorists issued a distinctive vertical-format DDL?
+19
+17
+21
+18
+3
+
+
+MC
+Altering or showing an altered driver license may result in?
+Loss of motorist's driving privelage
+Up to six months imprisonment
+A fine of up to $1,000
+All of the above
+4
+
+
+MC
+Getting a driver's license illegally may result in:
+Fines of $200-$500
+30-90 days imprisonment
+1 only
+1 and 2
+1
+
+
+MC
+Basics of the Basic Automobile License:
+Expires 4 years, age minimum 18(permit 16), $10 permit and $24 photo license fee, KVR test
+Expires 5 years, age minimum 17, $6 photo license fee, KVR test
+Expires 4 years, age minimum 18(premit 16), $5 premit and $24 photo license fee, KVR test
+Expires 4 years, age minimum 18/21, $35 permit and $32 photo license fee, CKVR test
+1
+
+
+MC
+Which doesn't fit in Early Bird Road Step 1: Get a special learner permit?
+Must be 16 years old and have signed paren or guardian consent
+Must be attend MVC with approved instructor having paid instructor fee
+Must be enrolled in a driver training course,an approved instuctor must purchase the permit
+Must pass MVC knowledge and vision tests and pay required fee
+2
+
+
+MC
+In Early Bird Road Step 2: Practice with an adult supervising driver, one must observe learner permit restrictions and practice at least six months.
+True
+False
+
+
+1
+
+
+MC
+In Early Bird Road Step 3: Get a provisional license, all of the following are true except:
+Must have completed six months of supervised driving without any suspensions of postponements
+Must pass MVC's road test
+Must be at least 17 years old.
+Must have license purchased by an approved instructor
+4
+
+
+MC
+In Early Bird Road Step 4: With a provisional license, one must practice unsupervised driving for at least one year while observing provisional driver license restrictions.
+True
+False
+
+
+1
+
+
+MC
+In Early Bird Road Step 5: Get the basic driver license, doesn't need to:
+Have signed parent or guardian consent.
+Be at least 18 years old.
+Have completed one year of unsupervised driving with provisional driver license restrictions.
+Pay the required fee.
+1
+
+
+MC
+Special Learner Permit Restrictions do not include:
+No driving between 11:01 pm and 5:00 am; no using cell phones, hand-held video games, hand-held electronic devices
+Must be accompanied in the front seat by an licensed adult supervising driver at least 21 years of age with minimum 3 years driving experience
+Permit holder and all passengers must wear seat belt; Passengers must be from the provisional license holder's household and up to one additional person.
+No driving without formal proof of U.S. Citizenship and residency.
+4
+
+
+MC
+Motorists with an examination permit are not allowed to drive between 12:59 am and 5:00 am
+False Motorists with an examination permit are not allowed to drive between 12:01 am and 5:00 am
+True
+
+
+1
+
+
+MC
+Motorists with a provisional driver license are not allowed to drive between:
+11:01 pm and 5:00 am
+12:00 pm and 5:00 am
+12:01 am and 5:00 am
+12:01 pm and 5:00 am
+3
+
+
+MC
+Even if the Examination Permit or Provisional License holder is 21 years of age or older, hour and passenger restrictions apply
+True
+False
+
+
+2
+
+
+MC
+If a student driver commits a traffic offense, noone is to blame but the student driver himself.
+True, he/ she should have been better prepared!
+False, the instructor or accompanying licensed driver is also at fault.
+
+
+2
+
+
+MC
+Which is not a requirement for a basic driver license?
+Having no health issues or impairments
+6 point ID verification
+A vision test
+A knowledge test
+1
+
+
+MC
+Which is not a part of the MVC's knowledge test?
+50 Questions
+A survey about organ donation
+A graph and questionaire of statistics
+None, all of the above are on the test.
+3
+
+
+MC
+The minimum requirements for eyesight for basic liscense applicants is:
+20/50 vision with or without corrective lenses
+20/30 vision with or without corrective lenses
+20/45 vision without corrective lenses
+20/30 vision with corrective lenses
+1
+
+
+MC
+In order to pass the written exam, 80% or 40 of the 50 questions must have correct answers
+True
+False
+That math is wrong!
+
+1
+
+
+MC
+An applicant for the road test must have:
+A vehicle with a valid inspection sticker and a valid insurance ID card
+A vehicle without obstructions or consoles that prevent the examiner from reaching the foot or parking brakes
+A valid permit, and be accompanied by a licensed driver
+All of the Above
+4
+
+
+MC
+During the basic road test, the examiner may test driving in reverse, following other vehicles, corners, and intersections.
+True, Also parking, starting, steering, stopping, turning, horn usage, yielding, sitting properly, and turning around.
+False, that stuff's only on the written exam.
+Some of those aren't covered at all!
+
+1
+
+
+MC
+Which is not a reason for rejection of road test vehicles?
+Torn or dismantled seats or interior
+Lack of examiner access to foot brake or parking brake, lack of or poor foot or parking brakes
+Defects or conditions that effect safe operation of the vehicle
+Vehicle not equipped with radial tires or snow tires or chains when road is snow covered
+1
+
+
+MC
+New Jersey seat belt law requires all occupants of passenger vehicles in New Jersey to wear a seat belt.
+True, everyone is required by law to wear a seatbelt.
+False, New Jerset law only requires all front-seat occupants of passenger vehicles in NJ to wear a seat belt.
+There's no such thing as a seat belt law!
+
+2
+
+
+MC
+While NJ seat belt law requires the motorist, front-seat passenger, and children under 18 to be belted, a police officer can't stop a motorist for seat belt law violation.
+True, they can only penalize you for seat belt violation if you were already pulled over for another reason.
+False, non-compliance with the seat belt law is a primary offense, and you can be pulled over for seat-belt law violation.
+
+
+1
+
+
+MC
+Seat belts can improve a motorist's chances of surviving a crash by
+50%
+60%
+40%
+25%
+2
+
+
+MC
+A motorist's chances are 3 to 4 times better if he/she is wearing:
+A shoulder strap
+A seat belt
+A shoulder strap and a seat belt
+None of the above.
+3
+
+

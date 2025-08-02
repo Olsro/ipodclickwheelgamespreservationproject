@@ -1,0 +1,87 @@
+TITLE
+Pleurisy
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+7
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+definition of pleurisy
+inflammation of the visceral and parietal plurae
+pleuritis
+A and B
+
+3
+
+
+MC
+Describe the pain  of pleurisy
+stabbing and sharp
+dull pain
+tearing pain
+
+1
+
+
+MC
+s/sx of pleurisy
+pleural friction rub
+sharp stabbing pain
+A and B
+
+3
+
+
+MC
+Analgesic for pleurisy
+tetracycline
+acetaminophen with oxycodone
+ibufropen
+
+2
+
+
+MC
+Anti-inflammatories for pleurisy
+indomethacin indocin
+ibufropen Motrin
+A and B
+
+3
+
+
+MC
+During coughing exercises, what is the pt supposed to do?
+BR
+apply frim pressure at the pain site
+
+
+2
+
+
+MC
+It is an inflammation of the membranes that line the inside  of the rib cage and envelope the lungs
+Pleurisy
+PCP
+Pleuritis
+A and C
+4
+
+

@@ -1,0 +1,42 @@
+TITLE
+General 1
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+2
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Who is the prime minister of England?
+tony Blair
+
+
+
+1
+
+
+MC
+Who is the prime minister of England?
+Tony Blair
+George Bush
+Gordon Brown
+Margaret Thatcher
+3
+
+

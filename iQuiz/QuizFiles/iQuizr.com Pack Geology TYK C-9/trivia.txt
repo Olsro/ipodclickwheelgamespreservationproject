@@ -1,0 +1,105 @@
+TITLE
+Geology TYK C-9
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+9
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What was the slowest type of mass wasting process?
+Debris flow
+Rockslide
+Creep
+Rockfall
+3
+
+
+MC
+The largest landslide has taken place
+on the sea floor
+in the Andes
+on active volcanoes
+in the Himalaya
+1
+
+
+MC
+A descending mass moving  downslope as a viscous fluid is referred to as a
+Fall
+landslide
+flow
+slide
+3
+
+
+MC
+The driving force behind all mass wasting processes is
+gravity
+slope angle
+type of bedrock material
+presence of water
+1
+
+
+MC
+The resistance to movement or deformation of debris is its
+mass
+shear strength
+shear force
+density
+2
+
+
+MC
+Flow of water-saturated debris over impermeable material is called
+solifluction
+flow
+slide
+fall
+1
+
+
+MC
+A flowing mixture of debris and water, usually moving down a channel is called a
+mudflow
+slide
+fall
+debris flow
+1
+
+
+MC
+An apron of fallen rock fragments that accumulates at the base of a cliff is called
+debris
+sedimant
+soil
+talus
+4
+
+
+MC
+How does construction desabilize a slope?
+adds weight to the top of the slope
+decreases water content of the slope
+adds weught to the bottom of the slope
+increases the shear strength of the slope
+1
+
+

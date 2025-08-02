@@ -1,0 +1,474 @@
+TITLE
+Simpsons Quiz
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+50
+
+LOSE
+2
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Cómo se llama el negocio de Apu en inglés ?
+QUICK MARKET
+QUICK-N-MARKET
+KWIK-E-MART
+TRY-N-SAVE
+3
+
+
+MC
+Como se llama el parque de atracciones ideado por Mod Flanders?
+Eden-park
+Jubilandia
+Jardín de Dios
+Paradise
+2
+
+
+MC
+Cuantos hijos tiene Apu ?
+6
+7
+8
+9
+3
+
+
+MC
+Cómo se llama el hermano gemelo de Bart ?
+Hugo
+Victor
+Bort
+Hector
+1
+
+
+MC
+Qué era en realidad el extraterrestre que veía Homer en "Expediente Springfield"?
+Bart
+Un montaje publicitario de unos grandes almacenes
+Alf
+El Sr. Burns
+4
+
+
+MC
+Cual es la muñeca preferida de Lisa ?
+Stacy Malibu
+Cintia
+Sasha Star
+Barbie
+1
+
+
+MC
+Contra quién combate Homer en el ring ?
+Mohamed Ali
+Drederick Tatum
+George Foreman
+Mike Tyson
+2
+
+
+MC
+Cual de estas obras no ha sido protagonizada por Troy McClure
+P de Psicopata
+McBain 4 : Descarga Fatal
+El planeta de los simios
+Los teleñecos medievales
+2
+
+
+MC
+Cómo se llama el bebé de una sola ceja, enemigo de Maggie ?
+Gerald
+Oscar
+Tommy
+Freddy
+1
+
+
+MC
+A quién odia Ned Flanders ?
+A Homer
+A sus padres
+A Bart
+A Lovejoy
+2
+
+
+MC
+Quién disparó al Sr. Burns ?
+Homer
+Smithers
+Maggie
+Abe Simpson
+3
+
+
+MC
+A cambio de qué vende Bart su alma ?
+cinco dolares
+unas chapas de Alf
+un videojuego
+una entrada a un festival de Krusty
+1
+
+
+MC
+Con qué papel debuta Milhouse en el cine ?
+Radiactivo man
+Fisión Boy
+George Washington
+McBain Jr.
+2
+
+
+MC
+Cómo se llama la cantante country a la que Homer representa ?
+Amber Dempsey
+Lurleen Lumpkin
+Mindy Simmons
+Princesa Kashmir
+2
+
+
+MC
+A qué tiene miedo Homer ?
+Arañas
+Payasos
+Marionetas
+Patos
+3
+
+
+MC
+Quién gana el premio en el festival de cine de Springfield ?
+Barnie
+Sr. Burns
+Hans Topo
+Moe
+1
+
+
+MC
+Cómo se llamaba el pelotón del abuelo en la guerra ?
+Los Solfamidas
+El Diabólico Pez Volador
+Los Canteros
+Alce Pulcro
+2
+
+
+MC
+A causa de qué muere Mod Flanders ?
+De un susto de Homer
+De un resvalón en la escalera
+De un disparo de camiseta
+Por comer gambas en mal estado
+3
+
+
+MC
+Cómo se llama el oso de peluche del Sr. Burns?
+Momo
+Bobo
+Bobby
+Burnsie
+2
+
+
+MC
+Qué salva a Homer y a su tripulación en el espacio ?
+Un pendiente
+Unas patatas rizadas
+Unas hormigas
+Una inanimada barra de carbón
+4
+
+
+MC
+Qué robaron los habitantes de Shelbyville al pueblo de Springfield?
+La cabeza de Jebbediah Springfield
+Un limonero
+La lengua de Jebbediah Springfield
+Las Olimpiadas
+2
+
+
+MC
+De quién no se ha enamorado Lisa?
+del Sr. Bergstrom
+de Milhouse
+de Nelson Muntz
+de Hugh Parkfield
+2
+
+
+MC
+Qué vendía Marge en puestos ambulantes ?
+Rosquillas saladas
+Pitas
+Camisetas
+Chapas
+1
+
+
+MC
+Quién se apellida Terwilliger ?
+Bob
+Carl
+Lenny
+Cletus
+1
+
+
+MC
+Qué animal no ha sido parte de los Simpson?
+Un pato
+Un elefante
+Un pony
+Una langosta
+1
+
+
+MC
+Cual era el ingrediente secreto del flameado de Moe ?
+Sangre de cabra
+Detergente con sabor a limón
+Jarabe para niños
+anticongelante
+3
+
+
+MC
+Quién no ha sido pareja de Selma ?
+Bob
+Seymour Skinner
+Troy McClure
+Apu
+4
+
+
+MC
+Cómo se llama el cometa que impactó en Springfield?
+Bart Simpson
+Seymour Skinner
+Alan el vaquero
+Lisa Simpson
+1
+
+
+MC
+Cómo se llama el ídolo musical de Lisa ?
+Tito Puente
+Barry White
+Murphy Encías Sangrantes
+Paul McCartney
+3
+
+
+MC
+Cómo se llama el perro "bueno" de Bart ?
+Pequeño ayudante de Santa Claus
+Lassie
+Bola de nieve II
+Laddie
+4
+
+
+MC
+Quién ganó el primer premio anual Montgomery Burns por la sobresaliente labor en el campo de la excelencia ?
+Smithers
+Carl
+Homer
+Lenny
+3
+
+
+MC
+Cual fué la primera palabra de Lisa ?
+Papi
+Bart
+Homer
+Ay caramba !
+2
+
+
+MC
+Quién fue "el enemigo de Homer"?
+Burns
+Flanders
+Frank Grimes
+Tony el gordo
+3
+
+
+MC
+Cual fué la primera palabra de Maggie ?
+Papi
+Bart
+Homer
+Ay caramba !
+1
+
+
+MC
+A qué fue adicta Marge ?
+Al whiskey
+Al licor de manzana
+A las tragaperras
+A los videojuegos
+3
+
+
+MC
+Cómo se llama la maqueta del avión del Sr.Burns?
+alce pulcro
+paloma feliz
+aguila feroz
+pez volador
+1
+
+
+MC
+Quién no compartió escenario con Homer en el Hullabalooza ?
+Pearl Jam
+Smashing Pumpkins
+Cypress Hill
+Sonic Youth
+1
+
+
+MC
+Qué fue en realidad Jebbediah Springfield ?
+Un ladrón
+Un estafador
+Un payaso
+Un pirata
+4
+
+
+MC
+Quién no formó parte del equipo de bolos de Homer ?
+Skinner
+Apu
+Otto
+El Sr.Burns
+1
+
+
+MC
+Quién es el alma gemela de Homer?
+Barnie
+Moe
+Marge
+Bart
+3
+
+
+MC
+Con quién Marge se dio a la fuga ?
+con Ruth Powers
+con Laura Powers
+con Mod Flanders
+con Jacques
+1
+
+
+MC
+En qué invirtió Abe el dinero de la herencia de su novia ?
+En remodelar el ancianatorio
+En una casa de oro macizo
+En su familia
+En una estatua
+1
+
+
+MC
+Quién era el General Sherman ?
+una empresa de comida rápida
+el superior a Homer en el ejercito
+el capitán del barco
+Un pez gigante
+4
+
+
+MC
+A quién vendió Burns la central ?
+a los rusos
+a los franceses
+a los alemanes
+a los japoneses
+3
+
+
+MC
+Qué instrumento regala Homer a Lisa cuando le roban su saxo?
+otro saxo
+un silbato
+una jarra
+una pandereta
+3
+
+
+MC
+Quién no sucumbió a la secta que atrapó a casi todo Springfield?
+Moe
+Lenny
+Bart
+Maggie
+2
+
+
+MC
+Para qué quiso Homer alcanzar los 135 Kg ?
+Para trabajar en un circo
+Para ser payaso
+Para trabajar en casa
+Para ser despedido
+3
+
+
+MC
+Cuantos años tiene Homer ?
+34
+35
+36
+37
+3
+
+
+MC
+Contra quién se enfrentaba Bart en el torneo de minigolf?
+contra Martin Prince
+contra Lisa Simpson
+contra Rodd Flanders
+contra Todd Flanders
+4
+
+
+MC
+Cuantos perros han tenido en la familia Simpson ?
+25
+27
+28
+29
+3
+
+

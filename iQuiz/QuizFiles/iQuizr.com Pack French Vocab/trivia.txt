@@ -1,0 +1,420 @@
+TITLE
+French Vocab
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+44
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+in fact
+former
+heir
+en fact
+en fait
+4
+
+
+MC
+at the top of
+en haut
+en hautre
+hier
+haut
+1
+
+
+MC
+capital of state
+chef-lieu
+cadeau
+chief-leau
+bavoir
+1
+
+
+MC
+mechanic
+dépanner
+dépanneur
+despanner
+esperer
+2
+
+
+MC
+amongst
+plein de
+hier
+auprés de
+aurpé de
+3
+
+
+MC
+chain
+bisou
+cadeau
+canon
+chaîne
+4
+
+
+MC
+bib
+bataille
+bavoir
+bisou
+bureau
+2
+
+
+MC
+gift, present
+canon
+bisou
+cadeau
+chaîne
+3
+
+
+MC
+battle
+bataille
+batille
+bavoir
+bureau
+1
+
+
+MC
+for example
+pour exempler
+par exemple
+pour exemple
+par example
+2
+
+
+MC
+everywhere
+pourtout
+partous
+partout
+en tous
+3
+
+
+MC
+so (very)
+d'accord
+très
+hier
+tellement
+4
+
+
+MC
+to get someone out of trouble
+dépanner
+dominer
+geler
+rapporter
+1
+
+
+MC
+to freeze
+former
+geler
+espérer
+dominer
+2
+
+
+MC
+to hope
+hoper
+epésere
+geler
+espérer
+4
+
+
+MC
+to break down
+tomber en panne
+tomber du panne
+tombe en panne
+tomber de panne
+1
+
+
+MC
+river
+fleue
+fleuve
+soldat
+fleuvre
+2
+
+
+MC
+piece
+naissance
+cadeau
+morceau
+bavoir
+3
+
+
+MC
+cycle path
+pathe cyclable
+path du cyclable
+paste cyclable
+piste cyclable
+4
+
+
+MC
+soldier
+un morceau
+soldot
+soldieu
+soldat
+4
+
+
+MC
+drum
+tambour
+tambre
+rempart
+drume
+1
+
+
+MC
+low
+bloque
+bas
+frit
+haut
+2
+
+
+MC
+surrounded by
+bloqué
+entouragé
+entouré
+haut
+3
+
+
+MC
+underground
+sub-terrain
+bloqué
+soubtérrain
+souterrain
+4
+
+
+MC
+used to
+auprés de
+en fait
+habite du
+habitué à
+4
+
+
+MC
+how come?
+Ça s’est bien passé?
+c'est passé?
+Ça passé?
+Pourquoi est-ce que?
+1
+
+
+MC
+you're joking!
+tu blagues!
+tu rigole!
+tu blague!
+tu rigoles
+4
+
+
+MC
+the bell's gone
+on a sonné
+on sonnes
+c'est sonne
+on a soné
+1
+
+
+MC
+to be about to
+être sur point pour
+être sur le point de
+être sonne
+être sur poin de
+2
+
+
+MC
+prohibited
+interdit
+limpid
+bas
+bloque
+1
+
+
+MC
+flavour
+vol
+parfum
+flavoir
+glace
+2
+
+
+MC
+filght
+bas
+glace
+vol
+langue
+3
+
+
+MC
+to be a part of
+fait un partie
+faire part de
+faire un partie
+faire partie de
+4
+
+
+MC
+moving, swaying
+borde de
+en movemant
+en movement
+moi non plus
+3
+
+
+MC
+rope
+la corde
+le noed
+le port
+le corde
+1
+
+
+MC
+beginning
+la comencement
+le commencement
+le comencement
+le begine
+2
+
+
+MC
+lighthouse
+la phare
+le port
+le phare
+la partie
+3
+
+
+MC
+Presentation
+la céremonie
+le remise
+la cérémonie
+la remise
+4
+
+
+MC
+life saver
+le sauveteur
+la monitrice
+le sauveter
+le suavetage
+1
+
+
+MC
+to follow
+sauver
+suivre
+suiver
+serré
+2
+
+
+MC
+tight
+seré
+suivre
+serré
+serre
+3
+
+
+MC
+I couldn't care less!
+Je m'en fiche!
+Moi non plus
+J'en fiche
+J'ai m'en fiche!
+1
+
+
+MC
+What a joke!
+Quelle rigole!
+Quelle blague!
+Quelle rigoles!
+Quelle blagues!
+2
+
+
+MC
+it's mine
+moi non plus
+c'est à moi
+c'est a mon
+c'est à mon
+3
+
+

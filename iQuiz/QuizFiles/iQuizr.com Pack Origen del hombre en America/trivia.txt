@@ -1,0 +1,348 @@
+TITLE
+Origen del hombre en America
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+36
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+El primero en plantearse la problemática en torno al poblamiento de América fue:
+Florentino Ameghino
+Alex Hrdlicka
+Jose Imbelloni
+Jose de Acosta
+4
+
+
+MC
+El papa que finalizo con la discucion sobre la humanidad de los indios fue:
+Paulo IV
+Paulo  III
+Clemente V
+Alejandro IV
+2
+
+
+MC
+Considera que la cuna de la humanidad es America y que el hombre llego a los demas continentes por puentes continentales
+Teoria Asiatica
+Teoria Oceanica
+Teoria Inmigracionista
+Teoria Monogenista
+4
+
+
+MC
+Que allasgos resientes hacen pensar que ubieron rutas alternativas complementarias a la teoría de Alex Hrdlcka
+Cuevas Fell - Tequendama
+Jobo - Minas Gerais
+Monte Verde - Minas Gerais
+Monte Verde - Piedra Furada
+4
+
+
+MC
+Hrdlicka sostubo en su obra ............ que el hombre de America proviene de Asia y llego a nuestro territorio hace 12000 años
+"El origen del indio americano"
+"Filogenesis"
+"El origen del hombre en America"
+"Antiguedad del hombre del Plata"
+1
+
+
+MC
+Las principales pruebas presentadas por la teoria Asiaca son :
+Geologicas
+Escritas
+Antropologicas
+Arqueologicas
+3
+
+
+MC
+Fenomeno Geologico que permitio la formacion del Itsmo de Beringia
+Eustacia Glacial
+Isostacia Glacial
+Corrientes marinas
+Grandes terremotos
+1
+
+
+MC
+Probo que no existio el Optimum Climaticum mas bien defendio que el hombre australiano llego por las islas de Pasco Chile
+Thor Heyerdhal
+Alex Hrdlicka
+George Montandon
+Jose Imbelloni
+3
+
+
+MC
+Los hombres que llegaron a nuestro continente lo isieron en un grado cultural correspondiente al.......... mientras que su grado evolutivo fue.....
+Paleolítico Superior- Homo Habilis
+Paleolitico Superior - Homo Sapiens Moderno
+Paleolitico Medio - Homo Erectus
+Paleolítico Superior - Homo Neanderthalensis
+2
+
+
+MC
+¿Cuando llegaron los hombres a America?
+A finales del Tercieario durante el Periodo Mioceno
+A finales del Pleistoceno, glaciacion de Wisconsin
+A finales del Holeoceno
+A fines del Holeoceno durante la glaciacion de Wisconsin
+2
+
+
+MC
+Noruego propuse que hombres del amtiguo Peru habrian llagado a la Polinesia, Para probarlo realizo la Expedicion Kontiki
+Thor Heyerdhal
+Alex Hrdlicka
+Jose Imbelloni
+Florentino Ameghino
+1
+
+
+MC
+La teoria autoctonista sobre el origen del hombre fue Americano fue rebatida por Alex Hrdlicka con el metodo :
+Uranio - Argon
+Polen
+Estratigrafico
+carbono 14
+4
+
+
+MC
+Porque los hombres de Asia migraron a America
+Por los constantes cambios climaticos
+En busca de alimentos con los cuales sobrevivir
+Por la glaciacion de Wisconsin
+Por que fracasaron en su lucha contra la naturaleza
+2
+
+
+MC
+El uso del boomerang , la churinga, las mantas de piel asi como de 93 palabras similares son pueba del taoria
+Oceanica
+Australiana
+Africana
+Autoctonista
+2
+
+
+MC
+Sostuvo que los hombres asiaticos habrian llegado a traves de las islas Aleutianas a traves de la corriente del Kuroshivo
+Samuel Haven
+Jose Acosta
+Jose Imbelloni
+George Montandom
+3
+
+
+MC
+Los primero pobledores habian ingresado por el estrecho de Beringia, durante:
+La tormenta glacial de wurm
+El penultimo tornado de Kansas
+La ultima glaciacion de Wisconsin
+El desarrollo de la glaciacion de Mindel
+3
+
+
+MC
+De acuerdo al cuadro Filogenico presentado por Florentino Ameghino el primer ser de postura erecta seria
+Homo Pampeanus
+Tetraprotohomo
+Diprotohomo
+Plano angulado
+2
+
+
+MC
+Las primeras precensias de seres humanos en America lo constituyen los:
+Restos de ceramica
+Restos oseos
+Restos liticos
+Restos arquitectonicos
+3
+
+
+MC
+Olaf Heyerdhal, nieto de Thor Heyerdhal, emulando la expedicion al Kon Tiki dirigio la expedicion:
+Tangora
+Cantura II
+Ra I
+Ra II
+1
+
+
+MC
+El litico es considerado el primero periodo de la Historia del Peru. La economia desarrollada fue:
+Economia de autosuficiencia
+Economia autarquica
+Economia depredadora
+Economia de subsistencia
+4
+
+
+MC
+El nomadismo las bandas endogamicas y las armas de piedra son características del periodo denominado
+Litico
+Arcaico Temprano
+Arcaico Superior
+Arcaico Inicial
+1
+
+
+MC
+El sitio de Piquimachay forma parte del Periodo Litico y se encuentra ubicado en Ayacucho. En este lugar se encotraron:
+Instrumentos de caza de material oseo
+Redes de pescar hechas con fibras de cactus
+Pinturas rupestres con escenas de caza
+Instrumentos líticos tallados mas antiguos
+4
+
+
+MC
+En el complejo de Nanchoc se encontro:
+Las primeras evidencias de ganaderia
+Las ultimas aldeas de la costa norte
+Las primeras evidencias de horticultura temprana
+Los centros ceremoniales de la sierra
+3
+
+
+MC
+En el sitio de Huaca Prieta ubicado en la Libertad se hallaron:
+Conjuntos de plataformas ecalonadas
+Tejidos teñidos de algodon trenzados
+Indicios de domesticacion de cuyes
+Gruesas puntas de proyectil con pendulo
+2
+
+
+MC
+No corresponde a la fauna pleistocenica americana
+Megaterio
+Mastodonte
+Esmilodonte
+Llamas
+4
+
+
+MC
+Periodo de la Historia del Peru en donde se produjo la revolucion agropecuaria:
+Litico Inferior
+Litico Superior
+Arcaico Medio
+Arcaico Superior
+4
+
+
+MC
+Fue una caracteristica del Periodo Litico peruano, excepto:
+Uso de armas de piedra como el silex
+Nomadismo
+Habita las cavernas
+Desarrollo de la horticultura
+4
+
+
+MC
+Estudiosos como Claude Chauchat, entre otros sostienen que en la costa norte del Peru se desarrollo una tradicion litica conocida como:
+Chivateros
+Oquendo
+Pacaicasa
+Paijan
+4
+
+
+MC
+Segun Thomas Patterson, en ......... capa estratigrafica de Chivateros, habrian existido buriles, que son instrumentos punzo-cortantes
+Zona Roja
+Chivateros I
+Chivateros II
+Piquimachay
+3
+
+
+MC
+En esta region se dio una temprana sedentarisacion, con la construccion de aldeas. Una de las causas seria una intensa actividad de marisqueo.
+Costa norte
+Costa sur
+Costa Central y Sur
+Costa septentrional
+3
+
+
+MC
+Es considerado el primer domesticador de auquenidos. Fue estudiado por Danielle Lavalle y se ubico en Junin.
+Piquimachay
+Jayhuamachay
+Telarmachay
+Panalauca
+3
+
+
+MC
+Caral, Vichama, Bandurria son sitios arqueologicos correspondientes al periodo denominado:
+Arcaico Temprano
+Arcaico Medio
+Arcaico Superior
+Litico Superior
+3
+
+
+MC
+Se encontraron pinturas rupestres. 11 esqueletos humanos incompletos. Fue estudiado por Augusto Cardich.
+Paccaicasa
+Chivateros
+Toquepala
+Lauricocha
+4
+
+
+MC
+Caral, redescubierta por Ruth Shady es un complejo arqueologico muy importante. Fue contemporánea con:
+El imperio Asirio
+Las piramides de Gizeh
+Las piramides Mayas
+Las piramides Aztecas
+2
+
+
+MC
+el primer cultivo del Peru fue:
+Frijol
+Pallar
+Calabaza moschata
+Pacae
+3
+
+
+MC
+Huaca Prieta se ubica en el Valle de Chicama departamento de la Libertad fue estudiado por Junius Bird.Se encontro:
+Los restos liticos mas antiguos del Peru
+Los restos humanos mas antiguos del Peru
+Un batan de piedra
+Un mate pirograbado y el primer tejido hecho de algondon
+4
+
+

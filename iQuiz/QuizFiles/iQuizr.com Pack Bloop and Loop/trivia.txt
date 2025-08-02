@@ -1,0 +1,204 @@
+TITLE
+Bloop and Loop
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+20
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+where was the pharse " bloop it and loop it" born?
+gallerian
+wells fargo bank
+compass bank
+lids
+3
+
+
+MC
+We Drove which vehicle at jaime's ranch first
+ATV
+Horse
+Gator
+me...
+3
+
+
+MC
+who does tim duncan play for?
+chicago bulls
+los angeles lakers
+san antonio spurs
+houston rockets
+3
+
+
+MC
+what phrase did you first use your 'hick"accent?-
+zach...take me home boy
+who took my straw now?
+the sun is setting in the west ya see
+there's a snake in my boot
+2
+
+
+MC
+who did joe montana play for
+Dallas Cowboys
+Sanfrancisco 49ers
+Patriots
+Houston Texasn
+1
+
+
+MC
+what was my moms car called
+navigator
+tahoe
+rendezvous
+4runner
+3
+
+
+MC
+how much did the lemonade cost at the hills
+.50
+.25
+1.00
+1.50
+3
+
+
+MC
+finish this sentence... he beat me to the______
+step
+door
+handshake
+food
+3
+
+
+MC
+what was the brunette's characters name in sex and the city/
+carrie
+miranda
+charolette
+samantha
+3
+
+
+MC
+finish the sentence...so liza do you have any___for me?
+goodies
+questions
+money
+suga
+2
+
+
+MC
+how mayny strigns are there on a guitar/
+4
+5
+6
+7
+3
+
+
+MC
+who works at sonic that i hate
+tiffany
+ashley
+samantha
+jill
+3
+
+
+MC
+which word did you steal from me
+zebra
+legit
+oh.my.gosh.
+bloop
+2
+
+
+MC
+what is the song called that i think you hat but you really like?
+clocks
+violet hill
+single again
+apologize remix
+3
+
+
+MC
+what was the exct date batman came out?
+july17
+july18
+july19
+luly16
+2
+
+
+MC
+randalls re-grand opening lasted for
+1 week
+2 weeks
+2.5 weeks
+3 weeks
+4
+
+
+MC
+after chili's what did your mom do that was kinda awkward?
+handshake
+give me a hug
+ask for money
+go with her instead
+2
+
+
+MC
+which store did the tacky phrase originate?
+michaels
+target
+randalls
+lobster camp
+2
+
+
+MC
+you texted me at what exact time in the morning
+215am
+133am
+243am
+301am
+3
+
+
+MC
+remember when you backed into a ditch?
+yes
+no
+mabye
+so
+1
+
+

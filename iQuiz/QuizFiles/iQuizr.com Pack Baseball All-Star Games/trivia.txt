@@ -1,0 +1,114 @@
+TITLE
+Baseball All-Star Games
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+5
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What team won the All-Star game in 2005?
+Neither, Rained Out
+American League
+National League
+
+2
+
+
+MC
+Who has pitched in the most All-Star Games?
+Roger Clemens
+Nolan Ryan
+Randy Johnson
+Bob Gibson
+1
+
+
+MC
+What pitcher has achieved the most All-Star Game career strikeouts with 19?
+Walter Johnson
+Nolan Ryan
+Roger Clemens
+Don Drysdale
+4
+
+
+MC
+Who is the oldest player to play in an All-Star game at 47 years old?
+Willie Mays
+Ted Williams
+Mickey Mantle
+Satchel Paige
+4
+
+
+MC
+In what year was the first All-Star game played at night?
+1934
+1937
+1943
+1952
+3
+
+
+MC
+Who holds the record for total bases in a single All-Star Game?
+Jackie Robinson
+Ted Williams
+Ty Cobb
+Derek Jeter
+2
+
+
+MC
+Who was awarded the All-Star Game MVP in the year 2000?
+Sammy Sosa
+Cal Ripken
+Derek Jeter
+Randy Johnson
+3
+
+
+MC
+Who holds the record for most home runs in career All-Star games?
+Stan Musial, 6
+Willie May, 7
+Mickey Mantle, 7
+Babe Ruth, 18
+1
+
+
+MC
+Where was the All-Star game played in 1980?
+St. Louis
+Chicago
+New York
+Los Angeles
+4
+
+
+MC
+Where was the All-Star game played in 2000?
+New York
+Atlanta
+Dallas
+Washington DC
+2
+
+

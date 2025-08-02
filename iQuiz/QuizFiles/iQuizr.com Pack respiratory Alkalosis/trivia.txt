@@ -1,0 +1,60 @@
+TITLE
+respiratory Alkalosis
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+4
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+deficiency of CO2 in the blood as ind by a decrease PACO2
+Respiratory acidosis
+Respiratory alkalosis
+metabolic acidosis
+
+2
+
+
+MC
+Respiratory Alkalosis is caused by
+Alveolar Hypoventilation
+Alveolar hyperventilation
+
+
+2
+
+
+MC
+Normal arterial Ph
+7.65-8
+6.5-7
+7.35 to 7.45
+
+3
+
+
+MC
+Key tx for resp alkalosis
+O2
+Have the pt breathe into the paper bag
+
+
+2
+
+

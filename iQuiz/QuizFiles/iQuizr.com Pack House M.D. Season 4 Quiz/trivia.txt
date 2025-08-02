@@ -1,0 +1,105 @@
+TITLE
+House M.D. Season 4 Quiz
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+9
+
+LOSE
+7
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What is the favorite bottled water in the diagnostics department?
+Dasani
+Fiji Water
+Aquafina
+Toilet Water
+2
+
+
+MC
+What is House's Favorite Energy Drink
+Monster
+Ons
+Red Bull
+Cocaine Energy Drink
+2
+
+
+MC
+House seems to go nowhere without his what? (other than the cane)
+Cell Phone
+Gun
+iPod
+Computer
+3
+
+
+MC
+House listens to his vintage vinyl on this:
+A CD Player
+Expensive Twin Sota Turntables
+A DJ Table
+He does'nt
+2
+
+
+MC
+House is a one brand man when it comes to guitars.
+Gibson
+First Act
+Epiphone
+Peavey
+1
+
+
+MC
+The one with the ginormous scrape
+His Life
+His Motorcycle
+His Posterior
+Don't make me say it.....
+2
+
+
+MC
+Amber was never far from her mobile phone (before she died anyway,) what kind of phone did she have?
+Treo
+Blackberry
+Nokia
+HTC
+1
+
+
+MC
+The laptop of choice around the PPTH:
+Apple
+GreenPC
+Dell
+Asus
+1
+
+
+MC
+House's insanely expensive headphones:
+Bose QuietComfort
+Monster Beats by Dr Dre
+Apple Earbuds
+Zune In Ear Headphones
+1
+
+

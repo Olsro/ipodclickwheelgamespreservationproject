@@ -1,0 +1,150 @@
+TITLE
+RAP
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+14
+
+LOSE
+4
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+WHEN did Ready to die come out
+1993
+1994
+1995
+1996
+1
+
+
+MC
+who is Nas
+rapper
+comedian
+tv star
+DJ
+1
+
+
+MC
+when did illmatic come out
+1992
+1998
+1994
+1997
+3
+
+
+MC
+who came out with ante up
+50 cent
+big Pun
+buju banton
+mop
+4
+
+
+MC
+which album is by BIG PUN
+capital punishment
+get  rich  or die trying
+zero riddim
+Jay z
+1
+
+
+MC
+which album came out in 2000's
+Til'Shiolh
+the boss
+infamous
+Wu Tang
+2
+
+
+MC
+Who is isaiah's favorite rapper
+Nas
+Joe Budden
+50 cent
+BIG PUN
+4
+
+
+MC
+WHICH is  the best song of hip hop
+Wu Tang [enter the 36 chambers]
+illmatic
+capital punishment
+infamous
+2
+
+
+MC
+what is the least favored album in 2000's
+joe budden
+zero riddim
+Joe budden
+G unit radio
+3
+
+
+MC
+when did Raising Hell come out
+2005
+1996
+1987
+2007
+3
+
+
+MC
+When did Wu tang [enter the 36 chambers]
+1994
+1995
+1997
+2000
+1
+
+
+MC
+which album is the best to me
+Enter the Wu tang
+illmatic
+capital pinishment
+underground legand's
+3
+
+
+MC
+When did get rich or die trying come out
+2003
+2000
+2002
+1987
+1
+
+
+MC
+Which song is this
+halftime
+many men [wish death]
+Beware
+focus
+3
+
+

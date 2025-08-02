@@ -1,0 +1,51 @@
+TITLE
+Allgemeinwissen
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+3
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Was war die erste Next Gen Konsole ?
+N 64
+Wii
+XBOX
+PS3
+1
+
+
+MC
+Wie groß ist der größte ipod
+1 Terrabyte
+80 GB
+1 GB
+% GB
+3
+
+
+MC
+Wie lautet die neuste Pokemon Edition ?
+Perl & Diamant
+Gold
+Silber
+Gelb
+4
+
+

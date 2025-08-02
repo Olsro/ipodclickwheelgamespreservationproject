@@ -1,0 +1,78 @@
+TITLE
+Mario
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+6
+
+LOSE
+2
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+How many siblings do I have?
+5
+6
+7
+8
+3
+
+
+MC
+What size shirt do I wear?
+XL
+Medium
+Small
+Large
+2
+
+
+MC
+What's my mom's name?
+Teri
+Christina
+Joanne
+Hazel
+1
+
+
+MC
+What is my favorite food?
+Anything on a plate, napkin, or relatively clean surface...
+Pizza
+Ice Cream
+Sphagetti
+1
+
+
+MC
+What is my Birthday?
+July 24, 1983
+July 24, 1984
+July 23, 1985
+July 25, 1984
+2
+
+
+MC
+What is my favorite mythical creature?
+Griffon
+Sphynx
+Dragon
+Manticore
+3
+
+

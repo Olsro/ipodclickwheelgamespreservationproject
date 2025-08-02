@@ -1,0 +1,60 @@
+TITLE
+Prueba :)
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+4
+
+LOSE
+4
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Quien Eres?
+Pelos
+Chris
+Mocos
+Chalo?
+3
+
+
+MC
+Cual es nuestro canal
+Umbrella343
+Umbreall343
+Umbrella434
+Umbrellla343
+1
+
+
+MC
+Equivocate aqui
+Elige esta
+no
+no
+no
+1
+
+
+MC
+sda
+dsa
+das
+dsa
+sda
+4
+
+

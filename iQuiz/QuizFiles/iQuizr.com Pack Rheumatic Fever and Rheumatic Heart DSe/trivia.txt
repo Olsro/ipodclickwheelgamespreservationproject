@@ -1,0 +1,78 @@
+TITLE
+Rheumatic Fever and Rheumatic Heart DSe
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+6
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+in Rheumatic Fever this are increased?
+WBC
+ESR
+cardiac enzyme lvel
+All of the above
+4
+
+
+MC
+During the acute phase of rheumatic fever, this is positive?
+C reactive protein
+B reactive protein
+A reactive protein
+
+1
+
+
+MC
+what kind of antibiotics for Rheumatic Fever
+Erythromycin Erythrocin
+Penicillin Pfizerpen
+A and B
+
+3
+
+
+MC
+Surgery for Rheumatic Fever
+corrective valvular Sx
+cardiactomy
+arteriography
+
+1
+
+
+MC
+skin lesion of pt with rheumatic fever
+erythema marginatum
+erythema polyarthritis
+erythematosus
+
+1
+
+
+MC
+in Rheumatic Fever, what should be done in order to prevent gingival infx?
+brush the teeth after taking meds
+stop eating sweet food
+dental hygeine
+
+3
+
+

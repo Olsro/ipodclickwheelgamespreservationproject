@@ -1,0 +1,78 @@
+TITLE
+AOD
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+6
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+N/I for Arterial Occlussive Dse post-operatively
+Monitor pt's V/S
+Check for distal pulses
+A,B and D
+Watch for s/sx of hemrrhage and bleeding
+3
+
+
+MC
+Hwat should be assessed in carotid,innominate, vertebral, subclavian artery occlussion?
+I/O
+Neurologic status F for LOC,ms strength and pupil size
+Abd pain
+
+2
+
+
+MC
+In mesenteric occlussion, should the NGT be connected to low intermittent suction?
+True
+false
+
+
+1
+
+
+MC
+what should be checked in saddle block occlussion?
+hypotension
+peripheral pulses
+distal pulses/abd pain
+
+3
+
+
+MC
+In iliac artery occlussion, this should be monitored for s/sx of renal failure?
+Urine output
+HR
+Intake
+
+1
+
+
+MC
+in this arterial occlussion, peripheral pulses should be monitored?
+Femoral
+popliteal
+Both
+
+3
+
+

@@ -1,0 +1,159 @@
+TITLE
+Comic Heroes
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+15
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What is the later alter ego of Dick Grayson after leaving Batman?
+Knightwing
+Nightwing
+Nightthing
+Batboy
+2
+
+
+MC
+What is the name of the third person to be "The Flash"?
+Barry Allen
+Wally West
+Bruce Alex
+Wally Allen
+2
+
+
+MC
+Which is the power source of Superman?
+The Moon
+The Sun
+The Earth
+The Mars
+1
+
+
+MC
+What was the reason for Peter Parker to become Spider-Man?
+The death of his parents
+The murder of his uncle Ben
+The return of Harry Osbourne
+The accident of his Aunt May
+2
+
+
+MC
+Who is "The Greatest Detective of the world"?
+The Phantom
+Question
+Spider-Man
+Batman
+4
+
+
+MC
+From where does the butler of Bruce Wayne/Batman come from?
+England
+France
+Canada
+Ireland
+1
+
+
+MC
+What is the super hero group in which Iron Man is a member?
+The Revengers
+The Avangers
+The Strangers
+The Gamers
+2
+
+
+MC
+Which is one of the founding members of the Justice League Of America?
+Martian Manhunter
+Question
+The Huntress
+Static Shock
+1
+
+
+MC
+What is the mutant power of Wolverine?
+A skeletton made of Adamantium
+Superhuman strength
+Fast healing and regeneration
+A sixth sense
+3
+
+
+MC
+From which country does "The Mask" from the comics originally come from?
+The planet Yautja
+India
+Southern America
+Africa
+1
+
+
+MC
+Who is the leader of the X-Men?
+Cyclops
+Charles Xavier
+Xavier Naidoo
+Abraham Whistler
+2
+
+
+MC
+What is the disguise of the secret base of the X-Men?
+A military point in New York
+A school for highly talented students
+A huge hovercraft flying around New York
+The Empire State Building
+2
+
+
+MC
+Which super hero is a lawyer in his true life?
+Daredevil
+Ghostrider
+Wonder Woman
+Captain America
+1
+
+
+MC
+Why does Magneto wear a helmet?
+to look more mysterious
+to protect himself from psychic attacks
+to enstrength his mutant powers
+to be able to fly
+2
+
+
+MC
+What is the name of Batman's friend at the Gotham City Police Department?
+Marshall Gordon
+Comissioner Gordon
+Leutenant Grant
+Special Agent Grayson
+2
+
+

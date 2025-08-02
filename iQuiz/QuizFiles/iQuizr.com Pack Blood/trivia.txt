@@ -1,0 +1,474 @@
+TITLE
+Blood
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+50
+
+LOSE
+0
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+It is called as a universal donor because there are no antigens on RBC or no RH factor.
+O - Negative
+A positive
+AB Positive
+AB Negative
+1
+
+
+MC
+It is a universal recipient  because it has no antibodies in the serum and RH factor is present.
+A positive
+O Negative
+AB Positive
+B Negative
+3
+
+
+MC
+This blood disease has a lower RBC count ,lower hemoglobin and lower hematocrit values?
+Hemophilia
+Anemia
+Multiple Myeloma
+Hodgkin's Disease
+2
+
+
+MC
+How many months does the infant have adequate iron storage?
+7-8 mos
+3-5 mos
+4-6 mos
+5-6 mos
+4
+
+
+MC
+Iron Deficiency Anemia occurs during all of the following, except
+During menses
+With adolescent and infants ho have primary diet of milk
+Pregnancy
+When the patient collapses
+4
+
+
+MC
+It is a clear and straw colored
+leukocytes
+Amniotic fluid
+plasma
+Platelets
+3
+
+
+MC
+The plasma consists of how many percent of water?
+85-90% of water
+96-100% of water
+60-85% of water
+91-92% of water
+4
+
+
+MC
+How many percent of protein does the plama consist?
+6-8%
+9-11%
+8-11%
+7-9%
+1
+
+
+MC
+It is the most abundant protein and it maintains normal  colloid osmotin pressure.
+Globulin
+Albumin
+Fibrinogen
+Phrothrombin
+2
+
+
+MC
+A type of plasma that is necessary element in Normal clot formation.
+Globulin
+Phrothrombin
+Fibrinogen
+Albumin
+3
+
+
+MC
+What are the normal nutrients carried by plasma?
+Carbo
+Protein
+Fat
+All of the above
+4
+
+
+MC
+This plasma is essential Factor in clotting mechanisms.
+Albumin
+Alpha/Beta globulins
+Phrothrombin
+Fibrinogen
+2
+
+
+MC
+Essential element in normal coagulation and produces in the liver.
+Globulin
+Albumin
+Phrothrombin
+Fibrinogen
+3
+
+
+MC
+Normal Value of Albumin?
+5.9-8.3 gm/dl
+3.0-6.5 gm/dl
+2.6-4.0 gm/dl
+3.5-5.5 gm/dl
+4
+
+
+MC
+It has a normal value of 4.5 - 6.2 million/mm3
+Erythrocyte
+Hemoglobin
+Hematocrit
+Fibrinogen
+1
+
+
+MC
+What is the normal hemoglobin for female?
+14 -20
+13 - 18 gm/dl
+12-16 gm/dl
+4.5 - 6.0 gm/dl
+3
+
+
+MC
+What is the normal hemoglobin for male?
+12 - 16 gm/dl
+14 - 20 gm/dl
+10 - 15 gm/dl
+13 - 18 gm/dl
+4
+
+
+MC
+It is the primary component of RBC?
+Hemoglobin
+Hematocrit
+Erythrocyte
+Oxygen
+1
+
+
+MC
+What is the lifespan of an erythrocyte?
+147 days
+120 days
+116 days
+143 days
+2
+
+
+MC
+What is the normal hematocrit level for female?
+27-29%
+37-47%
+57-67%
+72-85%
+2
+
+
+MC
+What is the normal hematocrit level for male?
+10-25%
+20-45%
+30-50%
+40-50%
+4
+
+
+MC
+Production of RBC. What is this process?
+Erythropoiesis
+granulocytosis
+Leukocytosis
+
+1
+
+
+MC
+what is the normal hemoglobin level for newborn?
+16-22 gm/dl
+14-20 gm/dl
+10-15 gm/dl
+17-22gm/dl
+2
+
+
+MC
+It is necessary for production  of Normal erythrocytes?
+Vit D and Vit C
+Vit B6 and Iron
+Vit E
+Vit B12 and Folic Acid
+4
+
+
+MC
+What is the normal hematocrit level for newborn?
+50-78%
+18-22%
+50-62%
+64-70%
+3
+
+
+MC
+What is the primary function of erythrocytes RBC?
+Hemostasis
+Transports O2 and CO2
+Transports nutrients throughout the body
+
+2
+
+
+MC
+Fraction of the blood occupied by the erythrocytes
+Hematocrit
+Hemoglobin
+Fibrinogen
+WBC
+1
+
+
+MC
+Major component of hemoglobin
+Calcium
+Folic
+Vitamin
+Iron
+4
+
+
+MC
+It is a buffer in the acid-base balance and combines with the O2
+Iron
+Hematocrit
+Hemoglobin
+Leukocytes
+3
+
+
+MC
+Erythrocytes RBC are formed in bone marrow such as
+Humerus
+Femur
+Iliac Crest
+All of the above
+4
+
+
+MC
+What is the primary function of WBC?
+Destroy bacteria
+Essesntial in phagocytosis process
+All of the above
+
+3
+
+
+MC
+What is Leukocytosis?
+It refers to all increase in leukocytes or WBC
+It refers to decrease in WBC
+
+
+1
+
+
+MC
+What is Leukopenia?
+It refers to all increase in leukocytes or WBC
+It refers to decrease in WBC or leukocytes
+
+
+2
+
+
+MC
+What is normal value of leukocytes?
+2000-5000/mm3
+20000-25000/mm3
+10000-15000/mm3
+5000-10000/mm3
+4
+
+
+MC
+Types of WBC
+Granulocytes
+Agranular Leukocytes
+All of the above
+
+3
+
+
+MC
+Type of Granulocytes WBC
+Neutrophils
+Eosinophils
+Basoplhils
+All of the above
+4
+
+
+MC
+Types of Agranular  Leukocytes
+Lymphocytes
+Basophils
+Monocytes
+A and C
+4
+
+
+MC
+Characteristics of platelets
+They are called thrombocytes
+they are the smallest type
+They are involved with hemostasis
+All of the above
+4
+
+
+MC
+What is Thrombocytopenia?
+Increase number in platelets
+Decrease number in platelets
+
+
+2
+
+
+MC
+What is thrombocytosis
+Marked abnormal increase in platelets
+Marked decreased  in platelets
+
+
+1
+
+
+MC
+What phase of hemostasis where tissue injury occurs
+1st phase
+2nd phase
+3rd phase
+
+1
+
+
+MC
+What phase of hemostasis where prothrombin converts to thrombin?
+1st phase
+2nd phase
+3rd phase
+
+2
+
+
+MC
+What phase of hemostasis where  thrombin converts fibrinogen to insoluble fibrin?
+1st phase
+2nd phase
+3rd phase
+
+3
+
+
+MC
+Process by which clots, formed in small tissue/small vessels, are dissolved by fibrinolysin.
+Fibrinolytosis
+Fibrinolysis
+
+
+2
+
+
+MC
+what is the normal Growth Hormone for men?
+<20 ng/ml
+<10 ng/ml
+<5 ng/ml
+<30 ng/ml
+3
+
+
+MC
+what is the normal Growth Hormone for women?
+<7 ng/ml
+<6 ng/ml
+<5 ng/ml
+<10 ng/ml
+4
+
+
+MC
+What are the pituitary diagnostic Test?
+Growth Hormone Test
+Osmolarity Urine
+Osmolarity Serum
+All of the above
+4
+
+
+MC
+What is the normal osmolarity urine?
+150-250 mosm/kg of water
+300-900 mosm/kg of water
+750-1500 mosm/kg of water
+50-79 mosm/kg of water
+2
+
+
+MC
+what is the normal  osmolarity serum?
+285-295 mosm/kg of water
+300-350 mosm/kg of water
+400-415 mosm/kg of water
+115-185 mosm/kg of water
+1
+
+
+MC
+Nursing interventions before Growth Hormone Test is performed
+NPO after midnight
+Maintain bedrest until serum sample is drawn
+Explain the procedure to the client
+All of the above
+4
+
+

@@ -1,0 +1,204 @@
+TITLE
+Das Ultimative Lost Quiz (Staffel 2)
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+20
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Mit welchem Flug waren die gestrandeten Unterwegs?
+Southwest 1080
+Oceanic 815
+Dharma 910
+Hanso Air 450
+2
+
+
+MC
+Was ist Sawyers wahrer Name?
+James Ford
+Robert Ford
+Jack Andrews
+James Johnson
+1
+
+
+MC
+Um was hat Lockes Vater seinen Sohn betrogen?
+$100.000
+Eine Niere
+Ein Bein
+Eine Bluttransfusion
+1
+
+
+MC
+Welche Zahlen müssen alle 108 Minuten in den Computer eingegeben werden?
+1, 2, 4, 8, 16, 32
+2, 4, 6, 8, 20, 40
+4, 8, 15, 16, 23, 42
+4, 8, 12, 16, 18, 22
+3
+
+
+MC
+Wieso war Kate auf der Flucht?
+Mord
+Steuerhinterziehung
+Betrug
+Illegales Glücksspiel
+1
+
+
+MC
+Wie nennen die Gestrandeten die andere Gruppe auf der Insel?
+Die Verrückten
+Die Anderen
+Die Bösen
+Die Eingeborenen
+2
+
+
+MC
+Wie kommt Desmond auf die Insel?
+Flugzeugabsturz
+Heißluftballon
+Schiffsunglück
+U-Boot
+3
+
+
+MC
+Wie heisst Charlies Band?
+First Start
+Brit Rockers
+All in the Valley
+Drive Shaft
+4
+
+
+MC
+Was veränderte Hurleys Leben, bevor er auf der Insel abstürzte?
+Seine Mutter starb
+Er schrieb einen Bestseller
+Er gewann den Lotterie-Jackpot
+Er heiratete seine Traumfrau
+3
+
+
+MC
+Wie heisst die Station, in der Desmond festsaß?
+The Pearl
+The Swan
+The Ring
+The Hawk
+2
+
+
+MC
+Welche zwei Personen hatten ihren Vater mit im Flugzeug?
+Mike und Walt
+Walt und Charlie
+Jack und Walt
+Kate und Jack
+3
+
+
+MC
+Wie kamen die Losties in den ersten Bunker?
+Sie haben ihn ausgebuddelt und einen Eingang gefunden
+Sie haben eine Luke aufgesprengt
+Durch einen Unterwassereingang
+Mit einem Schlüssel von Locke
+2
+
+
+MC
+Wo hatten die gestrandeten das Dynamit her?
+Es war im Frachtraum des Flugezugs
+Vom Schwarzen Felsen
+Aus einem kleinen Flugzeug
+Von Rousseau
+2
+
+
+MC
+Worin war Charlies Heroin versteckt?
+In Babuschkas
+In Lebensmittelverpackungen
+In Marienstatuen
+In ausgehöhlten Kokosnüssen
+3
+
+
+MC
+Wer war in dem kleinen Privatflugzeug, mit dem Boon zu Boden stürzte
+Mr. Ekos Bruder
+Ein reicher Geschäftsmann
+Zigarettenschmuggler
+Charlies Bruder
+1
+
+
+MC
+Welche Krankheit hatte Rose vor ihrem Absturz?
+Krebs
+Aids
+Tuberkulose
+Malaria
+1
+
+
+MC
+Was konnten die Gestrandeten in der Überwachungsstation der Dharma Initiative sehen?
+Eine Frau im Arztkittel
+Einen Mann mit Augenklappe
+Eine Frau mit Gewehr
+Einen Mann mit Skimaske
+2
+
+
+MC
+Was war Hurleys Problem in der Psychiatrie?
+Er hatte starke Depressionen
+Er dachte er sei Schuld am tot seiner Mutter
+Er hatte einen unsichtbaren Freund
+Er hatte Suizidgedanken
+3
+
+
+MC
+Wie überwindet Jack seine Angst?
+Er zählt langsam bis drei
+Er nimmt einen tiefen Schluck Whiskey
+Er denkt an seinen Vater
+Er macht die Augen zu und denkt an was schönes
+1
+
+
+MC
+Wonach soll Mike ausschau halten, als er sich auf den Weg zu Walt macht?
+Nach dem schwarzen Felsen
+Nach einem Gemüsegarten
+Nach ungewöhnlichen Magnetschwingungen
+Nach einem viereckigen Felsen mit Loch in der Mitte
+4
+
+

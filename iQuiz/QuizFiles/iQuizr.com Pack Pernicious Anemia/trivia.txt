@@ -1,0 +1,141 @@
+TITLE
+Pernicious Anemia
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+13
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+s/sx of pernicious anemia
+tingling and paresthesia of hands and feet
+wt loss, anorexia, dyspepsia
+A and B
+
+3
+
+
+MC
+dx preocedure that shows increased megaloblasts, few maturing erythrocytes, and defective leukocyte maturation
+Bone marrow aspiration
+Lung aspiration
+MRI
+
+1
+
+
+MC
+what are the chraacteristics of erythrocytes
+Oval,macrocytic
+hyperchromic
+A and B
+
+3
+
+
+MC
+tx for pernicious anemia
+Pyridoxine VIT B6/folic acid VIT C
+Ascorbic acid VIT C
+cyanocobalamin VIT B12
+all of the above
+4
+
+
+MC
+Cause of pernicious anemia:
+def of intrinsic factor
+def of extrinsic factor
+
+
+1
+
+
+MC
+intrinsic factor is secreted by the
+bones
+bone marrow
+stomach
+kidney
+3
+
+
+MC
+without intrinsic factor, what gonna happen to Vit B12
+It will flow to the body system
+It cant be absorbed by the ileum
+
+
+2
+
+
+MC
+It is a lack of VIT B12 absorption
+anemia
+pernicious anemia
+
+
+2
+
+
+MC
+In pernicious anemia, Romberg test and aschilling test are
+Positive
+negative
+Normal
+
+1
+
+
+MC
+In pernicious anemia, transfusiion therapy is
+packed WBC
+packed plasma cells
+Packed RBC
+
+3
+
+
+MC
+these are antianemics drugs
+Ferrous sulfate FEOSOL
+iron dextran  DEXFERRUM
+A and B
+
+3
+
+
+MC
+How is the Vit B12 being adm?
+every month
+every year
+lifelong
+A and C
+4
+
+
+MC
+How to reduc the risk of oral mucus membrane breakdown
+provide mouth care before and after meals
+drink a lot of fluids
+
+
+1
+
+

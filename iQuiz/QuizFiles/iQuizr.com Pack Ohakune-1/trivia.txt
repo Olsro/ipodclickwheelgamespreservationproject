@@ -1,0 +1,96 @@
+TITLE
+Ohakune
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+8
+
+LOSE
+2
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What Is Ohakune
+Town
+Swamp
+Village
+City
+1
+
+
+MC
+Where Is The Big Carrot
+Wellington
+Ohkune
+Paeroa
+Matarangi
+2
+
+
+MC
+Why Is There The Big Carrot
+Because They Eat Friut
+Because They Grow Carrots And They Have Festivals
+Cause Its Big
+Cause They Want To
+2
+
+
+MC
+When Was The Ohakune Market Established
+1969
+1925
+1824
+2000
+2
+
+
+MC
+There Is A Carrot Festival In Ohkune
+Yes Every Year
+Only Once Every Couple Of Years
+No There Is Not
+
+1
+
+
+MC
+Why Do People Most Like To Go To Ohakune?
+Carrot Festival
+Bread Making
+To Have A Look
+The Skying And Snow Bording
+4
+
+
+MC
+Is There A Ski  And Snown Bordng Field In Ohakune
+No There Is Not
+Only a Ski Feild
+Yes There Is
+
+3
+
+
+MC
+Have You Been To Ohakune
+No
+Where Is It
+Yess
+Maybe
+3
+
+

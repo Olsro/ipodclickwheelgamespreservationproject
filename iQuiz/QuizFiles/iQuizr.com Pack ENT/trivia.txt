@@ -1,0 +1,42 @@
+TITLE
+ENT
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+2
+
+LOSE
+1
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What malignancy is associated with Pendred's Syndrome?
+Wilm's tumor
+Rhabdomyosarcoma of the Nose
+Medullary Thyroid Cancer
+Papillary Thyroid Cancer
+4
+
+
+MC
+What is the best surgical approach to an acoustic neuroma that is 4 cm in size and the patient has intact hearing?
+Middle Fossa
+Retrosigmoid
+Translabyrinthine
+Transcochlear
+2
+
+

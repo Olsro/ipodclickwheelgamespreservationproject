@@ -1,0 +1,105 @@
+TITLE
+Connaissez-vous le Final Cut Studio 2
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+9
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Quel est le nom du nouveau codec haute performance intégré à Final Cut Pro 6?
+H.264
+ProRes 4:2:2
+Intermediate Codec
+DNxHD
+2
+
+
+MC
+QUel est la fonction première du logiciel Color?
+Correction de couleur
+Animation 3D
+Colorier des dessins animés
+Imprimer de la pellicule
+1
+
+
+MC
+Que permet de faire la fonction "Open timeline Format" ?
+Ouvrir un séquence préalablement fermée
+Ouvrir des séquences Avid
+Ouvrir des séquence Final Cut dans iMovie
+Mettre plusieurs formats de clips dans une même séquence
+4
+
+
+MC
+Quel logiciel de la suite Final Cut Studio n'a pas suivi de mise-à-jour majeure?
+Final Cut Pro
+Motion
+Compressor
+DVD Studio Pro
+4
+
+
+MC
+Quel est la plus haute résolution de vidéo avec laquelle Color peut travailler?
+HD 1080i
+2K
+HD 720p
+4K
+2
+
+
+MC
+Quel logiciel peet s'intégrer à Compressor pour compreser du WMV?
+Quicktime pro 7
+Episode Pro
+Batch Monitor
+Shake
+2
+
+
+MC
+Quel outil de Shake sont maintenant intégrés dans MOTION?
+Stabilisateur d'image, Keyer
+Optical Flow, Keyer
+Stabilisateur d'image, Optical Flow
+Keyer, Motion
+3
+
+
+MC
+Qul application à été intégrée à Compressor pour facilité le processus de compression?
+LiveType
+Motion
+Quicktime
+Batch Monitor
+1
+
+
+MC
+Quel technologie utilise les filtres "real-times" de Final Cut Pro 6?
+FxSscipt
+Direct X
+AppleScript
+FxPlug
+4
+
+

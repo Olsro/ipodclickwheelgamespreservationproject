@@ -1,0 +1,204 @@
+TITLE
+UK Football
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+20
+
+LOSE
+4
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Which English Football Team Play Their Home Games At Anfield?
+Arsenal
+Liverpool
+Manchester United
+Leeds United
+2
+
+
+MC
+Which Premier League Club Does Stephen Ireland Play For?
+Aston Villa
+Manchester United
+Manchester City
+Tottenham Hotspurs
+3
+
+
+MC
+Who became the most expensive British goalkeeper this year after a transfer of over £9million to Sunderland?
+Tim Howard
+Jussi Jaaskelainen
+Kelvin Davies
+Craig Gordon
+4
+
+
+MC
+Which one of these teams did not feature in the 2007/2008 Premier League?
+West Brom
+Birmingham City
+Liverpool
+Derby County
+1
+
+
+MC
+Which one of these players has never featured in the Premier League before?
+Darren Anderton
+Danny Shittu
+Dele Adebola
+David Thompson
+3
+
+
+MC
+Which of these managers has been at his current club for the longest period of time?
+Rafa Benitez
+Alex Ferguson
+Arsene Wenger
+David Moyes
+2
+
+
+MC
+Which of these players is of the nationality Zimbabwean?
+Benjani
+Dickson Ethuhu
+Benni McCarthy
+Lucas Radebe
+1
+
+
+MC
+The current manager of Manchester City is..
+Guus Hiddink
+Stuart Pearce
+Joe Royle
+Sven Goran Eriksson
+4
+
+
+MC
+Which one of these players has never played for England?
+Steve Bruce
+Gareth Barry
+Wes Brown
+Alan Thompson
+1
+
+
+MC
+Who plays their home games at St Andrews?
+Ipswich Town
+Birmingham City
+Wolverhampton Wanderers
+Glasgow Rangers
+2
+
+
+MC
+The Chairman Of Everton FC is?
+David Gold
+George Gillett
+Bill Kenwright
+Malcolm Glazer
+3
+
+
+MC
+Highest Average Attendance Of 2006/2007 Premier League Season?
+Manchester United
+Arsenal
+Chelsea
+Liverpool
+1
+
+
+MC
+Winner Of The 2006 FIFA World Cup?
+Brazil
+Spain
+France
+Italy
+4
+
+
+MC
+Thierry Henry Signed For Arsenal From Which Italian Club?
+AC Milan
+Inter Milan
+Juventus
+Lazio
+3
+
+
+MC
+Not a French Club?
+Bordeaux Riveira
+Paris St Germain
+Olympique Lyonnais
+Olympique Marseilles
+1
+
+
+MC
+Not a Spanish Team?
+Barcelona
+Atletico Bilbao
+Atletico Madrid
+Atletico Barcelona
+4
+
+
+MC
+Scored Over 100 Goals In The Preimer League?
+Alan Shearer
+Rio Ferdinand
+Massimo Maccarone
+Cameron Jerome
+1
+
+
+MC
+Which of these players have never played for Newcastle?
+Phillip Albert
+Chris Sutton
+Rob Lee
+Temuri Ketsbia
+2
+
+
+MC
+Managed Chelsea To Their Only Premier League Titles?
+Jose Mourinho
+Claudio Ranieri
+Avram Grant
+Ruud Gullit
+1
+
+
+MC
+Blue Moon is the anthem of which Premier League Club?
+Liverpool
+Manchester City
+Manchester United
+Portsmouth
+2
+
+

@@ -1,0 +1,114 @@
+TITLE
+CellResp-Voc#1
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+A process by which large molecules are broken down to produce energy is called _____,
+Cellular Respiration
+Respiration
+Photosynthesis
+Breathing
+1
+
+
+MC
+An energy transfer molecule is called _____.
+NAD+
+NADH2
+ATP
+C6H12O6
+3
+
+
+MC
+A molecule used to bind and transfer hydrogens is called _____.
+ADP
+ATP
+NADH2
+NAD+
+4
+
+
+MC
+Free Hydrogen ions in solution will tend to make the solution _____.
+watery
+neutral
+acidic
+basic
+3
+
+
+MC
+ADP --> ATP is a _____ reaction.
+biosynthesis
+decomposition
+breaking
+destruction
+1
+
+
+MC
+The amount of energy neede to raise 1ml water 1 degree C
+Celsius
+Calorie
+Farenheit
+Horsepower
+2
+
+
+MC
+One Calorie equals _____.
+1000 calories
+1000 kcal
+1 calorie
+20 degrees
+1
+
+
+MC
+Stored energy is called _____.
+Activation Energy
+Thermal Energy
+Kinetic Energy
+Potential Energy
+4
+
+
+MC
+Means "breaking sugar" & 1st step in cellular respiration
+Kreb's Cycle
+Glycolysis
+Electron Transport Chain
+Lactic Acid Fermentation
+2
+
+
+MC
+A process of breaking large molecules that does NOT require oxygen.
+alcohol fermentation
+aerobic respiration
+anaerobic respiration
+glycolysis
+3
+
+

@@ -1,0 +1,168 @@
+TITLE
+hematologic and immune system
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+16
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+AIDS: definition
+Defect in T cell immunity caused by HIV
+defect in B cell immunity
+
+
+1
+
+
+MC
+Key s/sx of AIDS
+Anorexia, wt loss recurrent diarrhea
+night sweats, opportunistic infx
+confusion dementia
+all of the above
+4
+
+
+MC
+In AIDS, CD4 T cell count level
+more than 200 cells/ul
+Less than 200 cells/ul
+less than 300 cells /ul
+
+2
+
+
+MC
+Meaning of ELISA
+Enzyme linked immunosorbent assay
+Enzyme linked immunosufficient assey
+
+
+1
+
+
+MC
+It shows positive HIV
+Western blot
+ELISA
+T cell count
+
+2
+
+
+MC
+in AIDS, western blot is
+normal
+negative
+posiive
+
+3
+
+
+MC
+Transfusion Therapy for AIDS
+Fresh frozen plasma
+Packed RBc
+Platelets
+all of the above
+4
+
+
+MC
+Antibiotics for AIDS
+Co-trimoxazole BACTRIM
+Cotrimoxazole Bictrim
+
+
+1
+
+
+MC
+Fusion inhibitors for AIDS
+dapsone
+Cotrimoxazole Bictrim
+Enfuvertide FUZEON
+
+3
+
+
+MC
+Protease Inhibitors ends with NAvir
+indinavir crixivan
+nelfinavir Viracept, Saquinavir INVIRASE
+retonavir Norvir
+all of the above
+4
+
+
+MC
+Precaution for AIDS
+standard
+AIrborne
+CONTACT
+
+1
+
+
+MC
+Diet for AIDS
+High calorie
+high protein
+A and B
+
+3
+
+
+MC
+Albumin level of AIDS
+Increase
+Decrease
+Normal
+
+2
+
+
+MC
+WHat is this specialized bed for AIDS Pt
+Air therapy bed
+Negative pressure bed
+
+
+1
+
+
+MC
+hematology level for AIDS: RBC<,WBC. PLATELETS
+Increase
+Decrease
+Normal
+
+2
+
+
+MC
+Mouth care is very important in taking care of AIDS pt
+False
+True
+
+
+2
+
+

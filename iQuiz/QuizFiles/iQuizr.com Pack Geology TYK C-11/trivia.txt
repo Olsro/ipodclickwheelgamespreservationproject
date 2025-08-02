@@ -1,0 +1,96 @@
+TITLE
+Geology TYK C-11
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+8
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Porosity is
+a percentage of a rock's volume that is openings
+the capacity of a rock to transmit a fluid
+the ability of a sediment to retard water
+none of the proceding
+1
+
+
+MC
+Permeability is
+the percentage of a rock's vloume that is openings
+the capacity of a rock to transmit a fluid
+the ability of a sediment to retard water
+none of the proceding
+2
+
+
+MC
+The subsurface zone in which all rock openings are filled with water is called the
+saturated zone
+water table
+vadose zone
+
+1
+
+
+MC
+An aquifer is
+a body of saturated rock or sediment through which water can move easily
+a body of rock that retards the flow of ground water
+a body of rock that is impermeable
+
+1
+
+
+MC
+Which rock type would makethe best aquifer?
+shale
+mudstone
+sandstone
+all of the preceding
+3
+
+
+MC
+Which of the following determines how quickly ground water flows?
+elevation
+water pressure
+permeability
+all of the preceding
+4
+
+
+MC
+Ground water flows
+always down hill
+from areas of high hydraulic head
+from high elevation to low elevation
+from high permeability to low permeability
+2
+
+
+MC
+The drop in the water table around a pumped well is the
+Drawdown
+hydraulic head
+porosity
+fluid potential
+1
+
+

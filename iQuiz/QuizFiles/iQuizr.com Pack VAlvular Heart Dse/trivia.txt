@@ -1,0 +1,78 @@
+TITLE
+VAlvular Heart Dse
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+6
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+type: where in the blood flows back into the left ventricle during diastole
+aortic insufficiency
+mitral insufficiency
+mitral stenosis
+mitral valve prolapse
+1
+
+
+MC
+Type: in which blood from the left ventricle flows back into the left atrium during asystole
+aortic insufficiency
+mitral insufficiency
+mitral stenosis
+mitral valve prolapse
+2
+
+
+MC
+Type: narrowing of the valve
+aortic insufficiency
+mitral insufficiency
+mitral stenosis
+mitral valve prolapse
+3
+
+
+MC
+Type: one or both valve leaflets protrude into the left atrium
+aortic insufficiency
+mitral insufficiency
+mitral stenosis
+mitral valve prolapse
+4
+
+
+MC
+what is the anticoagulant for the valvular heart dse
+heparin
+warfarin coumadin
+nsaid
+
+2
+
+
+MC
+What is the tx for valvular heart dse
+open heart surgery using cardiopulm bypass
+closed heart surgery using cardiopulm bypass
+
+
+1
+
+

@@ -1,0 +1,123 @@
+TITLE
+Pania of the Reef
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+11
+
+LOSE
+2
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What town does Pania come from?
+Hamilton
+Dunedin
+Napier
+Te Puke
+3
+
+
+MC
+Where is Napier located?
+Australia
+New Zealand
+China
+Thailand
+2
+
+
+MC
+What element is Pania made of?
+Gold
+Metal
+Bronze
+Silver
+3
+
+
+MC
+Who was Pania's husband?
+Karitoki
+Rangi
+Maui
+Viliame
+1
+
+
+MC
+Who was Pania Modelled off?
+Helen Clark
+Ashleigh Raikuna
+Mary Horne
+May Robin
+4
+
+
+MC
+What is Napier famous for?
+Tsunami
+Hurricane
+Earthquake
+Tornado
+3
+
+
+MC
+When was the Napier Earthquake?
+Feburary 1931
+January 1831
+Feburary 1831
+January 1931
+1
+
+
+MC
+What is Napier's Neighbouring Town?
+Invercargill
+Auckland
+Rotorua
+Hastings
+4
+
+
+MC
+What culture does Pania come from?
+Samoan
+Maori
+European
+Niuan
+2
+
+
+MC
+Was Pania taken?
+yes
+We dont know
+No
+Possibly
+1
+
+
+MC
+What group of people was Pania kidnapped and returned by?
+Some Elderly Grandparents
+A group of Girls
+A few Adults
+A gang of Teenagers
+4
+
+

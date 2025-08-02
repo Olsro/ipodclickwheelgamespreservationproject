@@ -1,0 +1,91 @@
+TITLE
+Saved by the Bell
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You won!
+
+LOST MESSAGE
+You lost!
+
+MC
+What was the name of the adorable duck that perished in the great Bayside High Oil Spill?
+Petunia
+Polly
+Becky
+Peking
+3
+
+TF
+Kelly, Lisa and Jesse were in an all-girl Pop trio called Hot Monday.
+It was Hot Sunday!!!!!
+FALSE
+
+MC
+Screech sneaks into the girls locker room dressed as an elderly cleaning lady to snag a recording of the girls singing to send to a record label executive. What does "she" say "her" name is?
+Mary Reilly
+Sineade O'Connor
+Elizabeth Taylor
+Judy Garland
+2
+
+MC
+A.C. Slater, played by Mario Lopez of Dancing With The Stars fame, was totally awesome at everything. What does A.C. stand for, other than a policy on no homework?
+Antwon Curtis
+Alfalfa Crandall
+Albert Clifford
+Ace Crowbar
+3
+
+MC
+Drugs are bad. Zack witnesses a celebrity hero of his doing drugs, thus crushing his dream to be just like him, teaching us all a valuable lesson. What was the name of this fictional celebrity?
+Slappy Jones
+Barry B. Wonderful
+Rick Magic
+Johnny Dakota
+4
+
+TF
+In the documentary episode about the rise and fall and reunion of Zack Attack, at his darkest and lowest point of his professional career as a sellout, Zack finds himself to be a horrible parody of Robert Van Winkle, also known as Vanilla Ice.
+TRUE
+
+MC
+The series was originally called...
+Wake Me In Summer
+Good Morning, Miss Bliss
+School Days
+Homework Squad 2
+2
+
+MC
+Due to contract disputes and rumored pregnancy, Jesse Spano, played by Elizabeth Berkley, sat out for a season and was replaced by tough-as-nails chica that went by the name...
+Tori
+Susie
+Joni
+Chachi
+1
+
+MC
+Screech is a nerd and has a hard time keeping friends. His best companion is his robot. What is his robot's name?
+Gary
+Kevin
+Murray
+Friendbot 2000
+2
+
+MC
+Kelly was on crack for an entire season because she decided to dump Zack for an older, less attractive dude by the name of Jeff. We all knew he was a sleazebag, but Kelly needed to see if for herself, in person. One night while at an over 18 nightclub, fake IDs in hand, Kelly sees her man kissing and awkwardly dancing with another woman. Kelly went nuts. What was the name of the club where all of this went down?
+The Roost
+8 Ball
+Monkey Business
+The Attic
+4
+

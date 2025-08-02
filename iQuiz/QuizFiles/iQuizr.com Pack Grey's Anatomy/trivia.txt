@@ -1,0 +1,159 @@
+TITLE
+Grey's Anatomy
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+15
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+On Thanksgiving, who ends up shot?
+Dr. Burke
+Meredith
+Mr, O'Malley
+George
+3
+
+
+MC
+What did Izzy orginally name her baby?
+Hannah
+Lilly
+Alison
+Sarah
+4
+
+
+MC
+What flavor of ice cream did Finn bring Meredith?
+Chocolate
+Peach
+Strawberry
+Vanilla
+3
+
+
+MC
+What college is on the sweater Meredith often wears?
+Dartmouth
+Princeton
+Harvard
+Yale
+1
+
+
+MC
+What is the name of Meredith's youngest half sister?
+Lexie
+Molly
+Susan
+Maria
+2
+
+
+MC
+What is the name of Addison's friend who wanted her ovaries tied off and her breasts cut off?
+Sally
+Savvy
+Naomi
+Anna
+2
+
+
+MC
+On the first day of work, who is mistaken by Alex as a nurse?
+Meredith
+George
+Dr. Bailey
+Izzy
+1
+
+
+MC
+When Dr. Burke asks Dr. Baily who "McDreamy" is, who does she say it is?
+Dr. Sheperd
+Him
+Herself
+George
+3
+
+
+MC
+Which nickname has Alex not been called?
+Evil Spawn
+007
+Frat Boy
+Dirty Uncle Sal
+2
+
+
+MC
+How old was Christina when her father died?
+Seven
+Twelve
+Fourteen
+Nine
+4
+
+
+MC
+In Season 1, what sport did Izzy's boyfriend Hank play?
+Baseball
+Hockey
+Soccer
+Tennis
+2
+
+
+MC
+Whose beverage of choice is Scotch?
+Alex
+Christina
+Mark
+Derek
+3
+
+
+MC
+What was the name of the prisioner that Denny jokingly told Izzy she would be with?
+Hildy
+Cindy
+Helga
+Helda
+1
+
+
+MC
+What animal made George oveuse the phrase "Carpe Diem!"?
+A cat
+A cow
+A pigeon
+A deer
+3
+
+
+MC
+What was the name of the bar that held the underground bike race in Season 1?
+Joe's
+The Dead Baby Bar
+Tequila Time
+The Pink Lady
+2
+
+

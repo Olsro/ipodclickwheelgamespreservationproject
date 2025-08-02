@@ -1,0 +1,141 @@
+TITLE
+Kaposi's Sarcoma
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+13
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+This dse has one or more obvious lesions in VA shapes, sizes and colors(from red -brown to dark purple) that appear most commonly on the skin, buccal mucosa, hard and soft palates, lips gums,tongue, tonsils , conjunctivae and sclerae
+Kaposi's sarcoma
+Hemophilia A
+Oppotunistic infex
+
+1
+
+
+MC
+this dx procedure identifies the lesions's type and stage
+Skin biopsy
+Tissue Biopsy
+Radiation biopsy
+
+2
+
+
+MC
+Diet for Kaposi's Sarcoma
+high calorie
+High Protein
+A and B
+
+3
+
+
+MC
+Tx for Kaposi's Sarcoma
+Radiattion Therapy
+Chemotherapy
+Antiemetic
+all of the above
+4
+
+
+MC
+These drugs are chemotherapy tx for kaposi's Sarcoma
+Doxorubicin (adriamycin)
+Etoposide (Ve Pesid)
+Vinblastin(VELBAN), Vincristine(ONCOVIN)
+all of the above
+4
+
+
+MC
+This is an antiemetic drug
+Trimethobenzamide TIGAN
+Vincristine ONCOVIN
+
+
+1
+
+
+MC
+The nurse should assess for the adverse reactions  to radiation therapy or chemo
+anorexia
+N/V
+Diarrhea
+all of the above
+4
+
+
+MC
+Precaution for Kaposi's Sarcoma
+standard
+Contact
+Respiratory
+
+1
+
+
+MC
+Nsg interventions for Kaposi's Sarcoma
+Provide skin care, assess for breakdown or new lesions
+adm pain meds. Provide high calorie and protein diet
+Teach infx-Prevention control
+all of the above
+4
+
+
+MC
+What is the most common AIDS related cancer
+SArconoma
+Kaposi's Sarcoma
+
+
+2
+
+
+MC
+Definition of the Kaposi's Sarcoma
+Cancer of the Skin
+Lesion CA
+A CA of the lymphatic cell Wall
+
+3
+
+
+MC
+Unknown, cause odKaposi's Sarcoma
+True
+false
+Maybe
+
+1
+
+
+MC
+Involved organs of Kaposi's sarcoma
+Lymph nodes
+internal organs
+digestive tract
+all of the above
+4
+
+

@@ -1,0 +1,249 @@
+TITLE
+50 States
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+25
+
+LOSE
+7
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+When did CO become a state?
+1904
+1876
+1710
+1860
+2
+
+
+MC
+What is the capital of CA?
+Los Angeles
+San Fracisco
+Toledo
+Sacremento
+4
+
+
+MC
+Which state produces the most toothpicks?
+Maine
+North Dakota
+Oregon
+California
+1
+
+
+MC
+What event does OR hold every year?
+Balloon Rodeo
+Flugtag
+Jim Kelly Classic
+Eugene Elephant Rally
+2
+
+
+MC
+What region has ID?
+West
+New England
+Southeast
+Mexico
+1
+
+
+MC
+What is the capital of West Virginia?
+Toledo
+West Virginia City
+Albany
+Charleston
+4
+
+
+MC
+What is the biggest state in size?
+AR
+AK
+CA
+TX
+2
+
+
+MC
+This state has great roasted garlic jelly.
+Kentucky
+Iowa
+Georgia
+Kansas
+1
+
+
+MC
+This state is the only one with one syllable
+A
+b
+cA
+d
+1
+
+
+MC
+Who is California's governor?
+A
+B
+CA
+D
+1
+
+
+MC
+In what year did Connecticut become a state?
+1788
+1765
+1802`
+1858
+1
+
+
+MC
+Name the capital of each state
+NE
+OR
+NM
+TX
+1
+
+
+MC
+What year was our country officially "born."
+1812
+1607
+1776
+1750
+3
+
+
+MC
+Write the abbreviations for these states:
+Michigan
+Montana
+Florida
+Alabama
+1
+
+
+MC
+This state is known for its potatoes.
+Washington
+New York
+Idaho
+North Carolina
+3
+
+
+MC
+This state produces the most apples.
+Washington
+Oregon
+New York
+Colorado
+1
+
+
+MC
+This is known as the "Sunshine State."
+California
+Alaska
+Florida
+Georgia
+3
+
+
+MC
+The Mississippi River forms one of my borders.
+Atlanta
+Kansas
+Missouri
+Pennsylvania
+1
+
+
+MC
+I border Canada.
+North Dakota
+South Dakota
+Wisconsin
+Indiana
+1
+
+
+MC
+Which was our first state?
+Delaware
+Virginia
+Washington
+Hawaii
+1
+
+
+MC
+Which state is home to the Statue of LIberty?
+New Jersey
+Rhode Island
+New York
+Massachusetts
+3
+
+
+MC
+Detroit, Lansing, and Grand Rapids are in this state.
+MI
+MA
+NY
+LA
+1
+
+
+MC
+New Orleans in is this state.
+NE
+LA
+ID
+NV
+2
+
+
+MC
+This state has the fewest amount of people.
+Alaska
+Rhode Island
+Wyoming
+Maine
+3
+
+
+MC
+BONUS: label as many states in 1 minute as possible.  Abbreviations are fine.
+nE
+g
+gr
+d
+1
+
+

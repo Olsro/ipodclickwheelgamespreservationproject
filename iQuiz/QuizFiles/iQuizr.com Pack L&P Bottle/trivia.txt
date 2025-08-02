@@ -1,0 +1,69 @@
+TITLE
+L&P Bottle
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+5
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What Is The Slogan For L&P?
+Sweet As
+World Famous In NZ Since Ages Ago
+L&P
+
+2
+
+
+MC
+When Was The First L&P Made?
+1978
+1881
+1990
+1907
+4
+
+
+MC
+What Are The Colours On The Very First L&P Bottle?
+Black, Brown & Green
+Blue, White, & Orange
+Brown, Yellow & Red
+Red, Black & White
+3
+
+
+MC
+What Is L&P Made Out Of?
+Lemon And Salt
+Apples And Oranges
+Mineral Water And Lemon
+Water And Flour
+3
+
+
+MC
+Where Is They L&P Bottle Located?
+Roturua
+Paeroa
+Okahune
+Napier
+2
+
+

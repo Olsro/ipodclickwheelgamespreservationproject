@@ -1,0 +1,105 @@
+TITLE
+Bell's palsy
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+9
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+bell's palsy: s/sx
+inability  to close eyes completely  on the affected side
+pain around  the jaw  or ear of affected side
+Unilateral Facial weakness
+all of the above
+4
+
+
+MC
+bell's palsy: Key tx
+Moist heat
+cortecosteroid
+artificial tears to protect  the cornea  from injury
+all of the above
+4
+
+
+MC
+bell's palsy: cortecosteroids are used  to
+reduce facial nerve edema
+improve nerve conduction and blood flow
+A and B
+
+3
+
+
+MC
+what are the adverse reactions of prednisone
+GI distress
+fluid retention
+Hyperglycemia
+all of the above
+4
+
+
+MC
+bell's palsy: what should dthe nurse do with the pt's affected side of the face
+apply cold compress
+apply moist heat
+
+
+2
+
+
+MC
+How many times a day should the nurse massage pt's face?
+3 times daily for 5-10 mins
+5 times daily for 5-10 mins
+10 times daily for 5-10 mins
+
+1
+
+
+MC
+bell's palsy: Active exercise for the pt
+Jumping rope
+Laughing
+grimacing infront of mirror
+
+3
+
+
+MC
+bell's palsy: recovery
+1-10 weeks
+1-8 weeks
+4-12 weeks
+
+2
+
+
+MC
+It is the inflammation around the seventh cranial facial nerve
+Bell's palsy
+Velhl's palsy
+
+
+1
+
+

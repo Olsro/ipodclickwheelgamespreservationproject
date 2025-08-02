@@ -1,0 +1,132 @@
+TITLE
+Math Vocabulary
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+12
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What is word form
+a way to write numbers using words
+a way to write numbers to show place value
+a way to spell words
+a way to write numbers on the number line
+1
+
+
+MC
+What is less than <
+a little bit
+a whole lot
+not as many as
+a little more than less
+3
+
+
+MC
+What is greater than >
+a lot more than before
+a little bit more
+more than
+a whole lot more
+3
+
+
+MC
+What is ones period
+numbers from 1 to 100
+numbers from 1 to 999
+numbers from 0 to 10
+numbers from 1000 to 10000
+2
+
+
+MC
+What is thousands period
+four places to the left of the ones period
+three places to the left of the ones period
+five places to the left of the ones period
+two places to the left of the ones period
+2
+
+
+MC
+What is millions period
+the period six times greater than the thousands period
+the period 1 times greater than the thousands period
+the period ten times greater than the thousands period
+the period 3 times less than the thousands period
+3
+
+
+MC
+What is a digit
+part of your finger
+ten numbers
+any one of the numerals 0,1,2,3,4, etc
+18 x3
+3
+
+
+MC
+What is a number line
+a ruler with lines on it
+a ruler with lines and numbers
+a line that is used to show the order of numbers
+a line that has words on it
+3
+
+
+MC
+What is place value
+value of a digit depending on its place in a number
+value of ruler
+value of digit with thousands period
+4x3
+1
+
+
+MC
+What is expanded form
+a way of writing numbers
+a way to write numbers to show place value
+a way to spell words
+a way to write numbers on the number line
+2
+
+
+MC
+What is standard form
+a way of saying the same
+a way of writing math words
+a way of writing numbers by using digits
+Words that form math stuff
+3
+
+
+MC
+What does halfway point mean
+there already
+be there in a jiffy
+midway or half there
+close your eyes we are there
+3
+
+

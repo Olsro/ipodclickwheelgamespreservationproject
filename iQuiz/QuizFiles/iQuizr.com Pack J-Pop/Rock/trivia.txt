@@ -1,0 +1,114 @@
+TITLE
+J-Pop/Rock
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What was the name of the song in the first Bleach Opening?
+Ichirin no Hana
+Asterisk
+Fly Away
+Hana no Ska Dnce
+2
+
+
+MC
+What are the names of the two main brothers in "Fullmetal Alchemist?"
+Teesha and mike elrik
+Number 3 and Number 4
+Alfonse and Edward
+Kusanagi and Hayate
+3
+
+
+MC
+What is the name of the second "Fullmetal Alchemist" Opening?
+Ready, Steady, Go!
+Sakura
+Unerasable sin
+Buiki Kaesu
+1
+
+
+MC
+Who is the artist for the song "Modern Strange Cowboy?"
+Granrodeo
+Fumie Kumatani
+Maximum the Hormone
+Fire Bomber
+1
+
+
+MC
+Which song is not included in the Nirgilis album,"RGB?"
+Broken Piece
+Rainy Day
+Kiseki
+Koi no Homework
+4
+
+
+MC
+What is the name if the artist tha created "Funny Bunny?"
+Ray-Guns
+Rays of Sunshine
+The Pillows
+Unicorn Table
+3
+
+
+MC
+Which group had a smash hit in the first "Death Note" opening
+Maximum the Hormone
+Nightmare
+The World
+Supercar
+2
+
+
+MC
+The opening song is "Kimi no Uta," by Abingdon Boys School. What anime did it cone out in?
+They are my Noble Masters
+Gurren Lagann
+Bleach
+Tokyo Magnitude 8.0
+4
+
+
+MC
+Which two artists sing "Karakoi" from one of the anime openings in "Hayate no Gotoku?"
+Kana Asumi and Ryoko Shraishi
+Rie Kugiyama and Rie Takacha
+Rie Kugimiya and Ryoko Shiraishi
+Kana Asumi and Saki Fujita
+3
+
+
+MC
+What is the name of the Anime Opening sung by Kishida Kyoudan & The Akeboshi Rockets?
+Highschool of the dead
+Agressive Zone
+Akai Usagi
+Higurashi no naku no
+1
+
+

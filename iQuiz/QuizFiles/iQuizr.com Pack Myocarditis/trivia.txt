@@ -1,0 +1,123 @@
+TITLE
+Myocarditis
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+11
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What does the FFAD means in myocarditis
+Fatigue,Fever
+Arrythmias
+Dyspnea
+All of the above
+4
+
+
+MC
+gallops of myocarditis
+S3 S4 gallops faint S1
+S6 S7 gallops
+S1 S2 gallops
+
+1
+
+
+MC
+ECG result in Myocarditis
+depressed ST
+diffuse ST segment
+T wave abnorma;ities,prolonged PR interval
+B and C
+4
+
+
+MC
+What should be administered to increase Myocardial contractility?
+Thrombolytic therapy
+Antiarrythmias
+Cardiac glycosydes digoxin lanoxin
+Diuretics
+3
+
+
+MC
+This a biopsy that confirms the Myocarditis diagnosis
+Myocardial biopsy
+ENdomyocardial biopsy
+cardiac biopsy
+
+2
+
+
+MC
+diuretic for Myocarditis
+Furosemide lasix
+digoxin
+warfarin
+
+1
+
+
+MC
+In myocarditis, the middle muscular layer of the heart becomes inflamed
+True
+false
+
+
+1
+
+
+MC
+signs of digoxin toxicity
+anorexia,blurred vision
+N/V
+cardiac arrythmias
+All of the above
+4
+
+
+MC
+what should be checked in before taking digoxin at home
+BP
+CVP
+PR for 1 full min
+circulation
+3
+
+
+MC
+When to withhold Digoxin?
+if the pulse rate falls below the predetermined rate
+if the BP falls below the normal
+if the CVP falls below the normal
+
+1
+
+
+MC
+Paradoxical sensitivity: Result from
+Thrombolytic therapy
+Arrythmias
+Cardiac glycosydes digoxin lanoxin
+Diuretics
+3
+
+

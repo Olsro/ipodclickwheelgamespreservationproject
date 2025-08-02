@@ -1,0 +1,195 @@
+TITLE
+Driving
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+19
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+If you are driving on the road that ends at a T intersection, you must give way to?
+All traffic on the continuing road
+No one
+All other traffic must give way to you
+Explanation: If you are driving on the road that ends at a T intersection, you must give way to all traffic on the continuing road. Vehicle A must give way to Truck B.
+1
+
+
+MC
+At a roundabout you must give way to?
+No one go staight ahead
+All vehicles on the roundabout
+All traffic
+Explanation: At a roundabout you must give way to all vehicles on the roundabout.
+2
+
+
+MC
+Does a Police Officer's direction overrule stop and Give Way signs?
+Yes, only at Give Way signs
+Yes, only at Stop signs
+Yes
+Explanation: Directions given by Police Officers overrule Stop signs and Give Way signs.
+3
+
+
+MC
+Which of the following statements is true?
+You can only drink and drive while you have your learner licence
+The risk of causing a crash increases as your blood alcohol concentration rises
+Driving with a blood alcohol concentration over 0.05% is legal
+Explanation: Drinking alcohol impairs your ability to drive safely. The risk of causing a crash increases as your blood alcohol concentration rises.
+2
+
+
+MC
+Where there are no line markings on the road, where should you drive?
+On any part of the road
+Within two metres of the left-hand side of the road
+As close as practical to the left side of the road
+Explanation: When you drive on a road where there are no line markings, you must drive as near as practical to the left side of the road.
+3
+
+
+MC
+You can do a U-turn at an intersection with traffic lights -
+Between 9 p.m. and 6 am
+Only when there is U-turn permitted sign
+If there is no oncoming traffic
+Explanation: You are not permitted to make a U-turn at traffic lights unless there is a sign that says you can.
+2
+
+
+MC
+When doing a U-turn who must you give way to?
+All vehicles and pedestrians
+Pedestrians and cyclists only
+Oncoming vehicles only
+Explanation: If you are doing a U-turn you must give way to all vehicles and pedestrians.
+1
+
+
+MC
+You are driving towards a large roundabout that has multi-lanes. At the roundabout, you intend to turn off more than halfway around the roundabout. What signals must you give?
+Providing it is safe, a signal is not required at all
+On approach to the roundabout, give a left signal then a right signal when turning off
+On entering the roundabout give a right signal. Just before you exit the roundabout, give a left signal
+Explanation: At a roundabout, if you are intending to turn off more than half way round, you must signal right as you enter the roundabout then signal left just before you exit the roundabout.
+3
+
+
+MC
+Can a Police Officer stop you and require you to undergo a random breath test for alcohol when you are driving?
+Only when the driver can not walk in a straight line
+Yes
+Only after a crash
+Explanation: When you are driving a vehicle, police are able to stop you and require you to undergo a random breath test.
+2
+
+
+MC
+On approaching this sign at an unsupervised children's crossing you must -
+Stop and remain stopped for children only
+Slow down until pedestrians are clear of your vehicle
+Stop and remain stopped while any pedestrian is on or entering the crossing
+Explanation: At an unsupervised children's crossing displaying Children Crossing flags you must stop at the stop line if there are any pedestrians on or entering the crossing. You must not move onto the crossing until all pedestrians have reached the foot
+3
+
+
+MC
+When approaching an intersection with a flashing yellow traffic light. You must -
+Slow down and sound the horn
+Slow down and be prepared to give way. Treat the intersection as if there were no lights or signs or lines on it
+Stop and give way to all traffic approaching from the left and right
+Explanation: If you face a flashing yellow traffic light or arrow, you may drive past it applying give way rules and driving with caution.
+2
+
+
+MC
+Which statement is WRONG?
+You can turn into a road when the broken line is on your side
+You can not cross the centre lines at any time
+You can overtake another vehicle when the broken line is on your side
+Explanation: If the broken line is on your side you can cross it to turn into a driveway, to turn into another road or to overtake another vehicle. If the unbroken line is on your side, you can cross it to turn into a driveway or another road but you are
+2
+
+
+MC
+If you pass a school bus which is displaying flashing yellow lights you should -
+Look out for children and slow down
+Stop
+Take no special action
+Explanation: If you are approaching a school bus displaying yellow flashing lights, you should slow down and watch out for children.
+1
+
+
+MC
+What distance are you allowed to drive in a special purpose lane, not being a bicycle lane, when entering or leaving a road?
+100 metres
+50 metres
+Not at all
+Explanation: You may drive in a bicycle lane for up to 50m and all other special purpose lanes for up to 100m to enter or leave a road.
+1
+
+
+MC
+How close to a pedestrian crossing can you legally park?
+5 metres on either side
+3 metres before and 5 metres after the crossing
+20 metres before and 10 metres after the crossing
+Explanation: Unless there is an official sign saying you can, you must not park or stop less than 20m before and 10m after a pedestrian crossing.
+3
+
+
+MC
+How close to an intersection without traffic lights can you legally park?
+15 metres
+10 metres
+3 metres
+Explanation: Unless there is an official sign saying you can, you must not park or stop less than 10m from an intersection without traffic lights.
+2
+
+
+MC
+If you are turning at an intersection must you give way to pedestrians that are crossing the road you are turning into?
+Yes
+Only if the pedestrians are under the age of 16 years
+Only if the pedestrians are over the age of 16 years
+Explanation: When you turn at an intersection, you must give way to pedestrians crossing the road you are entering.
+1
+
+
+MC
+What is the maximum speed limit (unless signposted otherwise) for vehicles in a built-up area (like a town or a city)?
+70 km/h
+60km/h
+50km/h
+Explanation: The default speed limit on a road in a built-up area is 50km/h. This means you may only drive at a maximum speed of 50km/h in a built-up area, unless you see a speed limit sign on a road showing a different speed limit.
+3
+
+
+MC
+As a driver, you must wear a seatbelt -
+When the vehicle is moving or stationary in traffic, unless reversing
+When the vehicle is parked
+When travelling over 60km/h
+Explanation: The driver of a vehicle must wear a seatbelt when the vehicle is moving or stopped but not parked, however, a driver is not required to wear a seatbelt while reversing.
+1
+
+

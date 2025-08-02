@@ -1,0 +1,105 @@
+TITLE
+all about me
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+9
+
+LOSE
+4
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+when is my birthday?
+june 5
+August 7
+November 29
+March 12
+3
+
+
+MC
+what color is my hair
+blonde
+blonde and  black
+red
+brown
+2
+
+
+MC
+what is my dogs name
+dog
+pepper
+john
+lucky
+2
+
+
+MC
+what is my favorite brand of shoes
+vans
+DC
+nike
+converse
+4
+
+
+MC
+what is my boyfreinds name
+mark
+george
+greg
+bill
+1
+
+
+MC
+why did i fail 7th grade?
+i wouldnt dissect
+i failed too many classes
+i got suspended too much
+i didnt fail
+1
+
+
+MC
+what discibes me best
+dairy allergy ,vegetarian,democrat
+meat eater, republican
+a donkey
+a yankees fan
+1
+
+
+MC
+does Robin have balls?
+yes
+maybe
+NO!!!!!!!!!!!!!!!!!!!!
+no
+3
+
+
+MC
+what is my favorite makeup product(s)
+mascara
+eyeliner,nail polish
+lipgloss,eyeshadow
+eyeshadow,foundation
+2
+
+

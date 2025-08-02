@@ -1,0 +1,408 @@
+// title shown on the New Game menu
+TITLE
+Sample Trivia
+
+// this pack won't appear in the new game menu, unless the YES is changed to NO
+HIDDEN
+YES
+
+// will be placed under "Examples" on the New Game menu (if it's not hidden)
+GROUP
+Examples
+
+// ask 5 questions
+ASK
+5
+
+// lose if 2 answered incorrectly
+LOSE
+2
+
+// black question text
+QUESTION COLOR
+0, 0, 0
+
+// red answer text
+ANSWER COLOR
+255, 0, 0
+
+// green score text
+SCORE COLOR
+0, 255, 0
+
+// white question count text
+COUNT COLOR
+255, 255, 255
+
+// blue titles in the menus
+MENU TITLE COLOR
+0, 0, 200
+
+// dark yellow button text in the menus
+MENU BUTTON COLOR
+100, 100, 0
+
+// purple clock text
+MENU TIME COLOR
+200, 0, 200
+
+WON MESSAGE
+You win!
+
+LOST MESSAGE
+You lose!
+
+
+// questions follow
+
+
+TF
+The question text goes here.  The correct answer for this question is True.
+TRUE
+
+TF
+This is another true/false question.  The answer is False.
+This text explains the true answer when the correct answer is false.  It's optional.
+FALSE
+
+TF
+The answer is false, but there is no explanation.
+FALSE
+
+MC
+This is a multiple choice question.  There are 4 answer choices.  The correct answer is number 2.
+This is the first answer choice.
+This is the second (correct) answer choice.
+This is the third answer choice.
+This is fourth answer choice.
+2
+
+MC
+This is another multiple choice question.  It has only 3 answer choices.
+This is the first (correct) answer choice.
+This is the second answer choice.
+This is the third answer choice.
+1
+
+MC
+Which 1982 album was the debut of the English duo Blancmange?
+Happy Families
+Second Helpings
+Let Me Go
+Replicas
+1
+
+MC
+Which Elvis Costello and The Attractions album came out first?
+Out Of Our Idiot
+Get Happy!!
+Punch The Clock
+My Aim Is True
+4
+
+MC
+Who did Whitney Houston sing back-up for before going out on her own?
+Marvin Gaye
+The Rolling Stones
+Lou Rawls And Chaka Khan
+Thelma Houston And Gloria Gaynor
+3
+
+MC
+What was the title of the 1989 EP by A Flock Of Seagulls?
+Wild Boys
+Official Version
+Magic
+Trip
+3
+
+MC
+Which band recorded only one proper studio album named "Get Smart"?
+Swervedriver
+Sugar
+Stiff Little Fingers
+Squire
+4
+
+MC
+What year did "Cold Case" originally premiere?
+2003
+2004
+2002
+1999
+1
+
+MC
+What actress plays the character Lilly Rush on TV's "Cold Case"?
+Marisol Nichols
+Marg Helgenberger
+Kathryn Morris
+Jorja Fox
+3
+
+MC
+What was Special Agent DiNozzo's previous job on "NCIS"?
+Homicide Detective
+Chief Of Police
+Navy Interrogator
+Private Investigator
+1
+
+MC
+On "Big Brother", what food do guests eat for a week if they lose the food contests?
+Soup And Salad
+Peanut Butter And Jelly
+Egg Salad
+Bologna Sandwich
+2
+
+MC
+How do you vote on the show "Celebrity Duets"?
+By Fax
+By Internet
+By Mail
+By Calling A Toll Free Number
+4
+
+MC
+Who was the runner-up on the 2006 Fox reality series "Celebrity Duets"?
+Lucy Lawless
+Alfonso Ribeiro
+Hal Sparks
+Jai Rodriguez
+1
+
+MC
+Who won the first season of "Celebrity Duets"?
+Alfonso Ribeiro
+Cheech Marin
+Christina Applegate
+Lucy Lawless
+1
+
+MC
+Which celebrity was a judge for nine episodes in the first season of "Celebrity Duets"?
+Janet Jackson
+Paula Abdul
+Little Richard
+Randy Jackson
+3
+
+MC
+What actor and improv legend hosted the 2006 TV show "Celebrity Duets"?
+Dave Chappelle
+Wayne Brady
+Alfonso Ribeiro
+Bill Murray
+2
+
+MC
+Which celebrity was voted off first in the show "Celebrity Duets" in 2006?
+Jai Rodriguez
+Lucy Lawless
+Marie Osmond
+Christopher "Jericho" Irvine
+4
+
+MC
+What is the name of the BBC show that the TV show "Dancing With The Stars" is based on?
+Dance The Night Away
+Strictly Come Dancing
+International Dance Competition
+Stars Come Dancing
+2
+
+MC
+Current judge on "Dancing With The Stars" Carrie Ann Inaba has toured with which of these acts?
+Madonna And Ricky Martin
+P. Diddy Combs And Shakira
+Aerosmith And The Goo Goo Dolls
+Janet Jackson And Britney Spears
+1
+
+MC
+In what month and year did the show "Deal or No Deal" have its U.S. premiere?
+December 2005
+June 2006
+September 2005
+January 2006
+1
+
+MC
+"House" star Hugh Laurie played opposite Rowan Atkinson in which British sitcom?
+The Thin Blue Line
+Red Dwarf
+Blackadder
+Mr. Bean
+3
+
+MC
+How many people watched the first episode of "Survivor"?
+3 Million
+15.5 Million
+19 Million
+12.5 Million
+2
+
+MC
+Where was the fifth season of "Survivor" held?
+Africa
+Vanuatu
+Palau
+Thailand
+4
+
+MC
+Who won the first season on the TV Show "The Apprentice"?
+Bill
+Bowie
+David
+Heidi
+1
+
+MC
+2006 "Celebrity Duets" winner Alfonso Ribeiro was a cast member of what 1980's sitcom?
+Who's the Boss?
+Growing Pains
+Family Ties
+Silver Spoons
+4
+
+MC
+Which Latin American show is "Ugly Betty" inspired from?
+Brazilian "City Of God"
+Mexican Drama "Maria"
+Colombian Telenovela "Betty La Fea"
+Mexican Talk Show "Laura"
+3
+
+MC
+"Ugly Betty" costume designer Patricia Field previously worked for five years on which television program?
+Monk
+Sex And The City
+Lizzie McGuire
+Malcolm In The Middle
+2
+
+MC
+What is the proper name for the followers of "He Who Shall Not Be Named" from the "Harry Potter" movies?
+Black Knights
+Death Eaters
+His Dark Following
+Dark Riders
+2
+
+MC
+Who was the narrator in the film "March of the Penguins"?
+Tom Hanks
+Morgan Freeman
+James Earl Jones
+Samuel L. Jackson
+2
+
+MC
+What season does "March of the Penguins" take place in?
+Spring
+Fall
+Summer
+Winter
+4
+
+MC
+In the 2006 movie "Monster House", what do the kids fill the vacuum cleaner dummy with?
+Termites
+Nails
+Explosives
+Cough Medicine
+4
+
+MC
+In "Monster House" Chowder is saving money to buy what item?
+A Kite
+Tickets To A Concert
+A Basketball
+A Video Game
+3
+
+MC
+In the 2006 movie "Monster House", what is the babysitter's boyfriend's name?
+Skull
+Killer
+Bones
+Spike
+3
+
+MC
+What musical artist was hired to create the Robot Philharmonic in the movie "Robots"?
+Prince
+Elton John
+The Blue Man Group
+Bobby McFerrin
+3
+
+MC
+What famous newswoman had a cameo voice role in the movie "Shark Tale"?
+Barbara Walters
+Katie Couric
+Diane Sawyer
+Connie Chung
+2
+
+MC
+In "Shrek 2", which character is made into a giant version of himself to help out Shrek?
+Gingerbread Man
+Pinocchio
+Donkey
+The Big Bad Wolf
+1
+
+MC
+In "The Sisterhood of the Traveling Pants" what brand is the pair of pants?
+Guess
+Levi's
+Wranglers
+Cherokee
+2
+
+MC
+In "The SpongeBob SquarePants Movie", King Neptune is voiced by which actor?
+Chuck Norris
+Nick Nolte
+Jeffrey Tambor
+Tom Cruise
+3
+
+MC
+Which Baldwin brother voiced the character of Dennis in "The SpongeBob SquarePants Movie"?
+Alec Baldwin
+Daniel Baldwin
+William Baldwin
+Stephen Baldwin
+1
+
+MC
+Which studio is responsible for the movie "Wallace & Gromit: The Curse of the Were-Rabbit"?
+Tri-Star
+Columbia
+Dreamworks
+Pixar
+3
+
+MC
+What is the name of the army that Magneto forms in "The Last Stand"?
+The Mutant Army
+The Decepticons
+The Brotherhood
+The New Breed
+3
+
+MC
+Who directed the movie "X-Men: The Last Stand"?
+Steven Spielberg
+Bryan Singer
+Brett Ratner
+George Lucas
+3
+
+
+

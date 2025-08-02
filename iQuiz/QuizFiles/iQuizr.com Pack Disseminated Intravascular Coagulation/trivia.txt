@@ -1,0 +1,159 @@
+TITLE
+Disseminated Intravascular Coagulation
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+15
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+s/sx of DIC
+abN bleedin without an accompanying hx of hemmorhagic dse
+Oliguria
+Shock
+all of the above
+4
+
+
+MC
+In DIC, Theprothrombin time is greater than
+20 sec
+15 sec
+5 sec
+
+2
+
+
+MC
+In DIC, The PartialThromboplastin time is greater than
+60-80 secs
+100 sec
+50 sec
+
+1
+
+
+MC
+In DIC, te fibrinogen level is less than
+160 mg/dl
+150 mg/dl
+120mg/dl
+
+2
+
+
+MC
+In DIC, platelets is less than
+100,000/ul
+200,000/ul
+300,000ul
+
+1
+
+
+MC
+In DI, fibrin degradation is greater than
+200 mcg/ml
+300 mcg/ml
+100 mcg/l
+
+3
+
+
+MC
+IN DIC D-Dimer test is
+Positive
+negative
+Normal
+
+1
+
+
+MC
+all of the ff are tx for DIC, except
+anticoagulant HEPARIN IV
+Bedrest
+Transfusion therapy; FFP, platelets, PAcked RBC
+WARFARIN
+4
+
+
+MC
+During bleeding episodes, BR is really important
+True
+false
+
+
+1
+
+
+MC
+TO every injection sites, what the nurse should do?
+Give the pt a lot of water
+apply pressure for at least 10 mins
+Check the BP
+
+2
+
+
+MC
+During transfusion therapy, the nurse should
+monitor for pt's raections
+monitor for fluid overload
+A and B
+
+3
+
+
+MC
+other term for DIC
+Consumption COagulopathy
+Defibrination syndrome
+A and B
+
+3
+
+
+MC
+definition of  DIC
+blockages in the small vessels
+depletes the body's supply of clotting factors and platelets
+destroys fibrin and leads to hemorrage
+all of the above
+4
+
+
+MC
+what is the most common cause of DIC
+Infx
+neoplastic dse
+abstetric complications
+burns trauma
+1
+
+
+MC
+Prolonged  times of PTT increases
+risk of vomiting
+risk of bleeding
+risk of infx
+
+2
+
+

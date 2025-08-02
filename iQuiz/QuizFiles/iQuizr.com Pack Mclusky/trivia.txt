@@ -1,0 +1,204 @@
+TITLE
+Mclusky
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+20
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Lightsaber Round: I'm fearful I'm fearful I'm fearful of flying ...
+Are you coming?
+And it opened a can of worms
+And flying is fearful of me
+But believe me I'm innocent
+3
+
+
+MC
+Lightsaber Round: I know what I do but it all points to you ...
+But believe me I'm innocent
+Did you sell me to wanderlust?
+And flying is fearful of me
+And it opened a can of worms
+2
+
+
+MC
+Lightsaber Round: The gun's in my hand and I know it looks bad ...
+Nicotine stained on account of her crutch
+I'm fearful I'm fearful I'm fearful of flying
+Eat what you are while you're falling apart
+But believe me I'm innocent
+4
+
+
+MC
+General McKnowledge: How many members of Mclusky were there?
+Two
+Four
+Three
+Five
+3
+
+
+MC
+General McKnowledge: When did Mclusky break up?
+1999
+2005
+2006
+2004
+2
+
+
+MC
+General McKnowledge: Who was not a member of Mclusky?
+Andy Falkous
+Falco Simmons
+Jack Egglestone
+Jonathan Chapple
+2
+
+
+MC
+General McKnowledge: Who left Mcluskyin 2003?
+Matthew Harding
+Jack Egglestone
+Ryan Harvey
+Jamie Green
+1
+
+
+MC
+General McKnowledge: Who is Danger Sablefish?
+A Roadie
+Former lead singer
+What the hell are you talking about?
+The person to which Mclusky Do Dallas is dedicated to
+3
+
+
+MC
+General McKnowledge: Which band is Jonathan Chapple a member of?
+Shooting At Unarmed Men
+Jarclusky
+Future Left
+God Raisers
+1
+
+
+MC
+General McKnowledge: When was Mcluskyism released?
+January 2005
+June 2000
+February 2006
+December 2006
+3
+
+
+MC
+McMusic: Under which band name was "Huwuno" released under?
+First
+Best
+The Derelicts
+The Falcolites
+2
+
+
+MC
+McMusic: Which was not released as a single?
+Rice Is Nice
+There Ain't No Fool In Ferguson
+To Hell With Good Intentions
+Love Song For A Mexican
+4
+
+
+MC
+McMusic: Which song was the first ever played 3 times in one show by Colin Murray?
+That Man Will Not Hang
+She Will Only Bring You Happiness
+Undress For Success
+To Hell With Good Intentions
+3
+
+
+MC
+McAlbums: Which was not a song on Mclusky Do Dallas?
+Clique Application Form
+The World Loves Us and Is Our Bitch
+Gareth Brown Says
+Whiteliberalonwhiteliberalaction
+4
+
+
+MC
+McAlbums: Which was not a song on My Pain And Sadness Is More Sad And Painful Than Yours?
+(Sometimes) I Have to Concentrate
+Flysmoke
+Day of the Deadringers
+mi-o-mai
+3
+
+
+MC
+McAlbums: Which was not a song on The Difference Between Me and You Is That I'm Not on Fire?
+Collagen Rock
+KKKitchens, What Were You Thinking?
+Slay!
+You Should Be Ashamed, Seamus
+1
+
+
+MC
+McAlbums: Which was not a song featured on the deluxe edition of Mcluskyism?
+Love Song For A Mexican (2nd Version)
+Love Song For A Mexican
+Rods on Crutches
+Comeuppance Come
+3
+
+
+MC
+McSingle: Which single was released in 2001
+Whoyouknow
+Rice Is Nice
+Huwuno
+Joy
+1
+
+
+MC
+McSingle: Which single was released in 2002?
+There Ain't No Fool in Ferguson
+Undress for Success
+Alan Is a Cowboy Killer
+That Man Will Not Hang
+3
+
+
+MC
+McSingle: Which single was released in 2002?
+Rice Is Nice
+There Ain't No Fool in Ferguson
+She Will Only Bring You Happiness
+To Hell with Good Intentions
+4
+
+

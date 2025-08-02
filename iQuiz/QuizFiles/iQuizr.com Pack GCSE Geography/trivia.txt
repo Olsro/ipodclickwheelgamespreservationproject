@@ -1,0 +1,123 @@
+TITLE
+GCSE Geography
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+11
+
+LOSE
+5
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Complete the sentence. 'Rostow's Model of...'
+Economic Development
+Educational Development
+Economical Descent
+Educational Dummy
+1
+
+
+MC
+What are TNC's?
+Transnational Centre
+Transnational Country
+Transnational Corporations
+Taking No Currencies
+3
+
+
+MC
+Which of the following is NOT an effect of Malnutrition?
+Marasmus
+Anaemia
+Kwashiarkor
+Measles
+4
+
+
+MC
+A cash crop...
+A crop which is worth a lot of money.
+A crop that grows money.
+A crop that is grown to make money.
+A crop that means money is double its real value.
+3
+
+
+MC
+'The _ _ _ _ _ Dam'
+Astar
+Aswan
+Achoo
+Dummy
+2
+
+
+MC
+Which of the following is NOT a type of disease?
+Water borne disease
+Water based disease
+Water washed disease
+Water contaminate disease
+4
+
+
+MC
+The Montserrat Eruption is a case study for which of the following?
+LEDC - Volcano
+MEDC - Volcano
+LEDC - Tsunami
+MEDC - Tsunami
+1
+
+
+MC
+Which of the following is a PLATE on Earth?
+Horlicks Plate
+Arctic Plate
+Cocos Plate
+Areyouthick Plate
+3
+
+
+MC
+A Resergence is also known as what?
+Impermeable Rock
+Pillar
+Spring
+Gorge
+3
+
+
+MC
+Hurricanes tend to develop...
+Over cold seas.
+Over warm tropical oceans.
+Over warm seas.
+Over cold tropical oceans.
+2
+
+
+MC
+The Great Storm in the UK happened in which year?
+1967
+1977
+1987
+2007
+3
+
+

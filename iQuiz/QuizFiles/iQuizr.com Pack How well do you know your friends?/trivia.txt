@@ -1,0 +1,132 @@
+TITLE
+How well do you know your friends?
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+12
+
+LOSE
+4
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Who does sam like?
+Tyler
+Austin
+Daniel
+Kent
+2
+
+
+MC
+What are Taylor's favorite colors?
+Orange and Pink
+Purple and Yellow
+Green and Blue
+Red and Silver
+1
+
+
+MC
+How many kinds of pets does Sam have?
+2
+5
+1
+3
+4
+
+
+MC
+What is Ellie and Anna's favorite movie?
+Music and Lyrics
+Titanic
+American Pie
+The Christmas story
+2
+
+
+MC
+What is the name of Tabitha's dog?
+Sandy
+Emma
+Ella
+Sally
+3
+
+
+MC
+Ellie's dog's name is_____?
+Freddy
+Jacks
+Max
+Teddy
+4
+
+
+MC
+Anna has how many sisters?
+2
+1
+0
+3
+1
+
+
+MC
+What happened at the Christmas walk 2006?
+Someone slipped and broke their leg
+Two people had their first kiss
+Santa chased a kid out of a store
+Someone got punched
+2
+
+
+MC
+When is Tabitha's birthday?
+November 20
+November 16
+November 14
+November 18
+3
+
+
+MC
+Who does Tabitha like?
+Kevin
+Austin
+Lucas
+Nate
+3
+
+
+MC
+Which word makes ellie and Tabitha laugh?
+Patootie
+Sour cream
+Kipos
+Lemon
+1
+
+
+MC
+What color socks?
+REd
+Green
+Purple
+Yellow
+4
+
+

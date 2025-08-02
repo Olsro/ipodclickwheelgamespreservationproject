@@ -1,0 +1,123 @@
+TITLE
+Emphysema
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+11
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+S/s of emphysema
+Barrel Chest
+Dyspnea
+Pursed lip breathing
+all of the above
+4
+
+
+MC
+Fluids: for emphysema
+2L a day
+1L a day
+3L a day
+
+3
+
+
+MC
+O2 therapy for emphysema
+1-2 L/min
+2-3L/Min
+4-5L/Min
+
+2
+
+
+MC
+aminophylline an theophylline are what kind of drugs
+Bronchodilators
+Aspirin
+Antibiotics
+
+1
+
+
+MC
+Beclamethasone and triamcinolone are what kind of drugs
+Bronchodilators
+Steroids via nebulizer
+Antiarrythmics
+
+2
+
+
+MC
+ABG results of emphysema
+Increased PaCO2
+Normal PaCO2
+Reduced PaO2
+B and C
+4
+
+
+MC
+PFT results in emphysema, Increased in
+Residual Volume
+Total Capacity
+Compliance
+all of the above
+4
+
+
+MC
+Breathing for Emphysema
+purse lip
+diapraghmatic breathing
+A and B
+
+3
+
+
+MC
+Aluminum Hydroxide Gel amphojel is an
+Antacid
+Bronchodilator
+Antibiotics
+
+1
+
+
+MC
+Guaifenesin (Robitussin) is a
+Expectorant
+Bronchodilator
+Mucomyst
+
+1
+
+
+MC
+Why is it low flow O2 only is being adminitered in pt with emphysema
+Because they have hypoxemia
+Because they have chronic hypercapnea
+so they have hypoxic resp drive
+B and C
+4
+
+

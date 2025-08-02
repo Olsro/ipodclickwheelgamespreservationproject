@@ -1,0 +1,204 @@
+TITLE
+Capitals of the World
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+20
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+The capital of Togo is...
+Freetown
+Lusaka
+Lomé
+Dakar
+3
+
+
+MC
+Niamey is the capital of...
+Niger
+Nigeria
+Namibia
+Ruanda
+1
+
+
+MC
+The capital of the former German Democratic Republic was ...
+Potsdam
+Bonn
+East Berlin
+Dresden
+3
+
+
+MC
+Which is the capital of the USA?
+New York
+Los Angeles
+Washington
+Camp Davis
+3
+
+
+MC
+The capital of Ecuador is ...
+Ecuador
+San Francisco de Quito
+Guayaquil
+Galápagos
+2
+
+
+MC
+Ottawa is the capital of...
+USA
+France
+Canada
+no country
+3
+
+
+MC
+Pretoria/Tshwane is the capital of...
+Germany
+DR Congo
+Tanzania
+South Africa
+4
+
+
+MC
+Which is the capital of France?
+Paris
+Lyon
+Versailles
+Marseille
+1
+
+
+MC
+Which is the capital of Australia?
+Sydney
+Canberra
+Melbourne
+Victoria
+2
+
+
+MC
+Which is the capital of Luxembourg?
+Diekirch
+Esch-sur-Alzette
+Luxembourg
+Brussels
+3
+
+
+MC
+Which is the capital of Kyrgyzstan?
+Moscow
+Bishkek
+Astana
+Tashkent
+2
+
+
+MC
+Tbilisi is the capital of...
+Bahrain
+Lebanon
+Georgia
+Syria
+3
+
+
+MC
+Cambodia's capital is called...
+Phnom Penh
+Jakarta
+Singapore
+Kathmandu
+1
+
+
+MC
+Nepal's capital is called...
+Amman
+Colombo
+Singapore
+Kathmandu
+4
+
+
+MC
+Taipei is the capital of...
+Republic of China
+People's Republic of China
+Hong Kong
+Philippines
+1
+
+
+MC
+Which is the capital of the Philippines?
+Manila
+Jakarta
+Vientiane
+Dili
+1
+
+
+MC
+The capital of the United Arab Emirates is?
+Abu Dhabi
+Dubai
+Bahrain
+Berlin
+1
+
+
+MC
+The capital of Austria is...
+Bern
+Zürich
+Salzburg
+Wien
+4
+
+
+MC
+Which is the capital of Switzerland?
+Zürich
+Wien
+Berne
+Geneva
+3
+
+
+MC
+Portugal's capital is...
+Lisbon
+Madrid
+Milano
+Faro
+1
+
+

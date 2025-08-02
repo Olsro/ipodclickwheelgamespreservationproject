@@ -1,0 +1,114 @@
+TITLE
+Pania of the Reef
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What element is Pania made out of?
+Silver
+Bronze
+Gold
+Iron
+1
+
+
+MC
+Who is Pania modelled off?
+May Robin
+Helen Clark
+Kate Shepard
+Hannah Sunde
+1
+
+
+MC
+What culture does Pania come from?
+Samoan culture
+Niuan Culture
+Fijian culture
+Maori Culture
+4
+
+
+MC
+Where was Pania made?
+France
+Spain
+Italy
+Iceland
+3
+
+
+MC
+What type of natural disaster is Napier famous for?
+An earthquake
+A volcanic eruption
+A hurricane
+A tsunami
+1
+
+
+MC
+What is Napier's neighbouring town?
+Ohakune
+Kaikoura
+Hastings
+Invercargill
+3
+
+
+MC
+What type of place is Napier?
+City
+Town
+Villiage
+Tribe
+2
+
+
+MC
+Where in New Zealand is Napier situated?
+The top of the North island
+The top of the South island
+The middle of the South island
+The middle of the North island
+4
+
+
+MC
+What people group was Pania kidnapped by?
+Children
+Youths/teenagers
+Adults
+Elderly
+2
+
+
+MC
+Where is Pania situated?
+Kaikoura
+Napier
+Whongapoa
+Pauanui
+2
+
+

@@ -1,0 +1,114 @@
+TITLE
+Layers of the Atmosphere
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Light displays, called auroras, occur in which level of the atmosphere?
+thermosphere
+stratospehere
+exosphere
+mesosphere
+1
+
+
+MC
+The ionosphere is located in which layers of the atmosphere?
+troposphere and stratosphere
+upper mesospehere and thermosphere
+exospehere and thermosphere
+dtratosphere and exosphere
+2
+
+
+MC
+Which layer of the atmosphere contains 99% of the air molecules in the atmosphere?
+stratosphere
+thermossphere
+troposphere
+mesosphere
+1
+
+
+MC
+Which layer of the atmosphere contains 99% of the water vapor in the atmosphere?
+stratosphere
+troposphere
+exosphere
+thermosphere
+2
+
+
+MC
+What layer of the atmosphere contains the ozone layer?
+exosphere
+thermossphere
+stratosphere
+troposphere
+3
+
+
+MC
+Which layer of the atmosphere merges with outer space?
+thermosphere
+troposphere
+exosphere
+mesosphere
+3
+
+
+MC
+Which layer of the atmosphere starts just above the stratosphere?
+mesosphere
+thermosphere
+troposphere
+stratosphere
+1
+
+
+MC
+Which layer of the atmosphere starts just above the mesospehere?
+stratosphere
+troposphere
+mesosphere
+thermosphere
+4
+
+
+MC
+Which layer of the atmosphere is closest to the surface of the Earth's surface?
+stratosphere
+troposphere
+thermosphere
+mesosphere
+2
+
+
+MC
+The only layer of the atmosphere that contains and suports life is the:
+mesosphere
+troposphere
+stratosphere
+exosphere
+2
+
+

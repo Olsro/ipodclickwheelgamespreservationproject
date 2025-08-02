@@ -1,0 +1,177 @@
+TITLE
+Hemophilia
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+17
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+s/sx of hemophilia
+Hematuria (bloody urine)
+Joint tenderness, pain and swelling
+tarry stools, prolonged bleeding, subQ and IM hematomas
+all of the above
+4
+
+
+MC
+In Hemophilia, factor VIII assay reveals
+0-25% of N factor VIII(hemophilia A)
+37% of n factor VIII
+
+
+1
+
+
+MC
+Factor IX assay shows
+Hamophilia A
+Hemophilia B
+
+
+2
+
+
+MC
+Tx for hemophilia A
+Cryoprecipitate antihemophilic factor AHF
+Lyophilized(dehydrated) AHF
+A and B
+
+3
+
+
+MC
+Tx for hemophilia B
+Factor VIII concentrate
+Factor IX concentrate
+
+
+2
+
+
+MC
+Analgesic for hemophilia
+ibuprofen
+morphine
+biogesic
+
+2
+
+
+MC
+Hormone adminstered for hemophilia
+desmapressin DDAVP
+desprofessin DDAVP
+desmopressin DDAVP
+
+3
+
+
+MC
+Nsg interventions for hemophilia
+montior for signs of bleeding
+adm clotting factors or plasma as ordered, analgesics
+A and B
+
+3
+
+
+MC
+If the pt has bled into a joint, what does the nurse do?
+elevate the head of the bed
+elevate the painful  joint as ordered
+elevate the pt's head
+
+2
+
+
+MC
+In Hemophilia, IM injections, aspirin, and aspirin containing meds should be avoided
+True
+false
+Maybe
+
+1
+
+
+MC
+Is hemophilia a hereditary bleeding disorder?
+True
+false
+Maybe
+
+1
+
+
+MC
+It is called a classic hemophilia
+Hemophilia B
+Hemophilia A
+
+
+2
+
+
+MC
+It is called a christmas Dse
+Hemophilia B
+Hemophilia A
+
+
+1
+
+
+MC
+Term for bloody vomit
+Hematoma
+Hematemesis
+Hematuria
+
+2
+
+
+MC
+DRug therapy for both types hemophilia
+Amino acid
+amino caproic acid Amicar
+A and B
+
+2
+
+
+MC
+Hemophilia is an inherited as an
+Y linked recessive trait
+X linked recessive trait
+YX linked recessive trait
+
+2
+
+
+MC
+what does the X linked recessive trait
+female carriers have 50%chance of transmitting the gene  to a daughter and making her as a carrier
+50% chance of transmitting the gene  to a son, who would be born with the dse
+A and B
+
+3
+
+

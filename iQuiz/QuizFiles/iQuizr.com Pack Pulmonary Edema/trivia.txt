@@ -1,0 +1,123 @@
+TITLE
+Pulmonary Edema
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+11
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+The 3 nea's of pulmonary edema
+Dyspnea
+Orthopnea
+Tachypnea
+All of the above
+4
+
+
+MC
+Describe the  sputum in pulmonary edema pt
+Frothy and bloody
+yellowish
+greenish
+
+1
+
+
+MC
+In pulmonary edema, does the CXR show cardimegaly and pleural effusion?
+True
+false
+
+
+1
+
+
+MC
+Describe the cardiac utput in pulmonary edema
+Increase
+Decrease
+Normal
+
+2
+
+
+MC
+Describe the PAP, PAWP, CVP  in pulmonary edema
+Increase
+Decrease
+Normal
+
+1
+
+
+MC
+Everything is correct. Tx for pulmonary edema
+O2 therapy, diuretics
+Nitrates, VAsodilator
+Cardiac Glycosides
+Inotrophic agents
+4
+
+
+MC
+what is the appropriate positon for pulmonary edema
+semi fowler
+Upright position
+High Fowler's
+
+3
+
+
+MC
+If the pt of pulm edema is  is hypotensive, what should be the proper position
+semi fowler
+Upright position
+Sitting
+
+1
+
+
+MC
+How to increasealveolar O2 concentration  and enhance arterial blood O2 in pulm edema
+O2 therapy
+intubation
+mechanical ventilation
+All of the above
+4
+
+
+MC
+Tachycardia, S3,Hypotension, Inc RR, Crackles indicate??
+Increased Pulmonary edema
+increased CVP
+increased fluid volume
+
+3
+
+
+MC
+Nsg intervention that should be done to detect fluid retention
+take the PR
+Weigh the pt
+record intake and output
+
+2
+
+

@@ -1,0 +1,69 @@
+TITLE
+Place Value
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+5
+
+LOSE
+0
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What is the value of the 4 in 642,896
+400
+4,000
+40,000
+400,000
+3
+
+
+MC
+How is fifty thousand seventeen written in standard form?
+5,170
+50,017
+50,170
+50,107
+2
+
+
+MC
+How is 43,265 written in expanded form?
+four three thousand two sixty five
+forty three thousand two six five
+forty three hundred thousand twenty six five
+forty three thousand two hundred sixty five
+4
+
+
+MC
+Which number has a 2 in the thousands place, a 5 in the ones place, and 8 in the ten thousands place?
+185,505
+182,605
+182,082
+185,072
+2
+
+
+MC
+Which answer shows 20,000 + 4,000 + 600 + 5
+2,465
+20,465
+24,650
+24,605
+4
+
+

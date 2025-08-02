@@ -1,0 +1,150 @@
+TITLE
+Depressions
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+14
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+The upper air jet stream has
+No effect on the formation of a depression
+Variable speeds
+An effect by 'pulling' the depression along from the west to the east
+No effect on the movement of a depression
+3
+
+
+MC
+The rotation of the earth produces the
+Seasons
+Coriolis Force
+Air pressure to drop
+Air pressure to rise
+2
+
+
+MC
+When the 2 air masses converge they
+Move in different directions
+Subside to ground level
+Spiral upwards in the 'vacuum cleaner' effect
+Form an anticyclone
+3
+
+
+MC
+The trigger for a depression is
+A bad day
+Development of upper air movement  ahead of a trough
+Low pressure
+Cyclogenesis
+2
+
+
+MC
+Depressions originate in
+The North Sea
+The Thames
+The North Atlantic
+London
+3
+
+
+MC
+The 2 most important air masses in their formation are
+Tropical maritime and Arctic maritime
+Polar continental and Arctic maritime
+Tropical continental and polar Maritime
+Tropical maritime and Polar continental
+1
+
+
+MC
+Depressions tend to
+Last for 3 or 4 days
+Last for longer than anticyclones
+Result in dry conditions
+Loom close to exams
+1
+
+
+MC
+Air which rises is
+Stable
+Warmed
+Unstable
+On the up
+3
+
+
+MC
+Which is the correct sequence?
+ACRCRC
+ARCCCR
+RACCCR
+CACARRC
+2
+
+
+MC
+Widely spaced isobars indicate
+Steep pressure gradient
+Gentle pressure gradient
+Strong winds
+Heavy rain
+2
+
+
+MC
+Air pressure is measured in
+Millibars
+At the bar
+Isobars
+Millimetres
+1
+
+
+MC
+Air which is warm
+Expands and rises
+Cools and subsides
+Floats about a bit
+Is nice
+1
+
+
+MC
+Pressure continues to fall and
+Wind speeds increase
+Cold front rapidly undercuts the warm air which rises even faster
+Warm sector progressively shrinks in size
+All of the above
+4
+
+
+MC
+When the cold front catches up with the warm front it is called
+An occlusion
+A shame
+An anticyclone
+A cold front
+1
+
+

@@ -1,0 +1,114 @@
+TITLE
+Harry Potter
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Who does Harry want most to come back as a ghost?
+Sirius Black
+Albus Dumbledore
+James Potter
+Lily Potter
+1
+
+
+MC
+According to JK Rowling, how many characters who were originally going to die get a reprieve in book 7?
+3
+2
+4
+1
+4
+
+
+MC
+About how many pages are there in the ENTIRE Harry Potter series (Includes Deathly Hallows)
+4000
+5000
+3000
+6000
+1
+
+
+MC
+Is Harry a Horcrux?
+Of course he is!
+Heck no he isn't!
+Ummm...does anyone actually KNOW that?
+
+1
+
+
+MC
+Sorry bout the last one...that's more of an opinion...here is a freebie...the Answer is C!
+A
+C
+D
+E
+2
+
+
+MC
+How many directors for the movies have there been?
+3
+1
+4
+2
+3
+
+
+MC
+What is the most powerful magic number?
+13
+69
+420
+7
+4
+
+
+MC
+Who played Umbridge in the movie of "Order of the Phoenix"?
+Maggie Smith
+Evanna Lynch
+Imelda Staunton
+
+3
+
+
+MC
+Too obvious...Who is Harry's archnemesis?
+Duh, Lord Voldamort
+Tom Marvolo Ridle
+Tom Riddle
+Lord Voldemort
+4
+
+
+MC
+Finally, the last question...Where do the Weasley's go on their vacation after winning the Daily Prophet's prize money?
+Egypt
+California
+France
+Rome
+1
+
+

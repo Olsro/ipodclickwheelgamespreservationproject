@@ -1,0 +1,78 @@
+TITLE
+hemothorax and pneumothorax
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+6
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Blood accumulates in the pleural space when a rib acerate lung tissue or an intercostal artery
+pneumothorax
+hemothorax
+
+
+2
+
+
+MC
+dx procedure that reveals pneumothorax or hemothorax
+CXR
+Angiography
+Bronchoscopy
+
+1
+
+
+MC
+Key tx for hemo/pneumothorax
+antibiotics
+Chest tube to water seal drainage or continuous suction
+
+
+2
+
+
+MC
+Is Blood trnsfusion necessary for hemothorax?
+true
+false
+
+
+1
+
+
+MC
+Diff types of pneumothorax
+Open
+tension
+spontaneous
+all of the above
+4
+
+
+MC
+NAlgesic for hemo/pneumothorax
+morphine IV
+ibufropen Motrin
+
+
+1
+
+

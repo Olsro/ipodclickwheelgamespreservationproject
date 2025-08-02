@@ -1,0 +1,195 @@
+TITLE
+Metal Gear Solid
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+19
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Year Metal Gear Solid 1 (The Twin Snakes) Takes Place
+1990
+2008
+2004
+2005
+4
+
+
+MC
+The DARPA Chief's Name
+Donald Anderson
+Micheal Stevens
+Ruben Anderson
+David Anderson
+1
+
+
+MC
+Who Attacks Snake on a M1 Abrams Tank
+Revolver Ocelot
+Vulcan Raven
+Vamp
+Solidus Snake
+2
+
+
+MC
+Hal Emmerich's Nickname
+Otakon
+Otaku
+Otacon
+Molly
+3
+
+
+MC
+Snake said: "What are you doing! Don't think! Shoot!", Who Was He Talking To?
+Gray Fox
+Meryl
+Liquid
+Raiden
+2
+
+
+MC
+What Appears On a Blue Screen During The Pshyco Mantis Fight?
+Video
+Fideo
+Mideo
+Hideo
+4
+
+
+MC
+Why Did Meryl Join The Military?
+To Feel Closer To Her Father
+To Kill!
+To Destroy Metal Gear
+To Be Like Her Father
+1
+
+
+MC
+Who Is Shalashaska?
+Roy Campbell
+Alex Louis Armstrong
+Otacon
+Revolver Ocelot
+4
+
+
+MC
+Who's Talking on The Phone At the End Of MGS
+Liquid
+Ocelot
+Campbell
+Anderson
+2
+
+
+MC
+The DARPA Chief Died Where?
+On a Prison Cell Next to Snake
+On a Empry Room
+On a Corridor
+On a Prison Cell
+4
+
+
+MC
+Decoy Octopus Was a...
+Master of Disguise
+Martial Arts Aprentice
+Assistant Regional Manager
+Whore
+1
+
+
+MC
+Who Activates Metal Gear REX
+Liquid
+Snake
+Johnny
+Wolf
+2
+
+
+MC
+Who is Deepthroat
+Otacon
+Roy Campbell
+Gray Fox
+Meryl
+3
+
+
+MC
+Who Says: "Well... I'll tell you then. You enjoy all the killing, that's why."
+Liquid
+Solidus
+Meryl
+Master
+1
+
+
+MC
+This Quote "I'm like you... I have no name." is Said During
+The Torture
+The Final Battle
+The Fight With The Cyborg Ninja
+The Opening Credits
+3
+
+
+MC
+Metal Gear Solid Series Comic Relief
+Snake
+Raiden
+Johnny Sasaki
+Ocelot
+3
+
+
+MC
+Who is Sergei Gurlukovich's Daughter
+Olga
+Meryl
+Naomi
+Eva
+1
+
+
+MC
+Who is Iroquois Pliskin
+Solid Snake
+Just a Marine Survivor
+David Hayter
+Vamp
+1
+
+
+MC
+Name Of The Bomb Specialist
+Peter Stillman
+Peter Petrelli
+Peter Griffin
+Peter Sallman
+1
+
+

@@ -1,0 +1,420 @@
+TITLE
+Test de Película (Corregido)
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+44
+
+LOSE
+4
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+en cual de estas peliculas aparece jim carrey
+la mascara, recien casados
+mentiroso mentiroso, scarface
+eterno resplandor, batman
+hitman, scream
+3
+
+
+MC
+britney spears ha actuado en una pelicula alguna vez
+verdadero
+falso
+
+
+1
+
+
+MC
+tom cruise aparece en la pelicula scarface
+verdadero
+falso
+
+
+2
+
+
+MC
+paris hilton a actuado en una pelicula
+verdadero
+falso
+
+
+1
+
+
+MC
+quien protagonizo la pelicula forrest gump
+tom cruise
+cameron diaz
+tom hanks
+jennifer garner
+3
+
+
+MC
+en cual de estas peliculas trabajo ben stiller
+mi novia polly
+jumanji
+forrest gump
+hey, donde esta mi auto
+1
+
+
+MC
+quien dirigio la pelicula forrest gump
+stanley kubrick
+robert zemeckis
+steven spielberg
+james cameron
+2
+
+
+MC
+De que año es la pelicula El Exorcista
+1973
+1974
+1975
+1976
+1
+
+
+MC
+Snoop Dogg a actuado en alguna pelicula
+verdadero
+falso
+
+
+1
+
+
+MC
+quien hizo el papel de steven stifler en american pie
+ashton kutcher
+jason biggs
+robbin williams
+seann williams scott
+4
+
+
+MC
+en que pelicula Ashton Kutcher y Seann William Scott actuan juntos
+guerra de los mundos
+hey, donde esta mi auto
+ciudad de dios
+american pie
+2
+
+
+MC
+Demi Moore aparecio en algun capitulo de los cuentos de la cripta
+Verdadero
+Falso
+
+
+1
+
+
+MC
+Quien es el gran amor de Demi Moore
+Mel Gibson
+Seann William Scott
+Ashton Kutcher
+Al Pacino
+3
+
+
+MC
+quien dirigio la pelicula el resplandor
+Stanley Kubrick
+Steven Spielberg
+James Cameron
+Robert Zemeckis
+1
+
+
+MC
+Quien protagonizo la pelicula el resplandor
+Robert De Niro
+Jack Nicholson
+Edward Norton
+Mel Gibson
+2
+
+
+MC
+de que año es la pelicula el resplandor
+1977
+1978
+1979
+1980
+4
+
+
+MC
+de que año es la pelicula scream primera parte
+1994
+1996
+1999
+2000
+2
+
+
+MC
+drew barrymore actua en scream
+verdadero
+falso
+
+
+1
+
+
+MC
+johnny deep actuo en la pesadilla en la calle elm
+verdadero
+falso
+
+
+1
+
+
+MC
+que actor interpreto a freddy krugger
+jason biggs
+robert de niro
+steven spielberg
+robert englund
+4
+
+
+MC
+cual de estas peliculas esta dirigida por james cameron
+titanic
+terminator
+titanic y terminator
+ninguna de las anteriores
+3
+
+
+MC
+cual de estas peliculas esta dirigida por stanley kubrick
+como si fuera cierto
+titanic
+rocky
+ninguna de las anteriores
+4
+
+
+MC
+quien dirigio la pelicula volver al futuro
+steven spielberg
+robert zemeckis
+stanley kubrick
+wes craven
+2
+
+
+MC
+de que año es la primera pelicula de poltergeist
+1980
+1981
+1982
+1983
+3
+
+
+MC
+de que año es la primera pelicula de rocky
+1976
+1977
+1978
+1979
+1
+
+
+MC
+de que año es la primera pelicula de rambo
+1978
+1979
+1981
+1982
+4
+
+
+MC
+owen wilson tiene un hermano que tambien actua
+verdadero
+falso
+
+
+1
+
+
+MC
+quien dirigio la pelicula la naranja mecanica
+sylvester stallone
+stanley kubrick
+Darren Aronofsky
+woody allen
+2
+
+
+MC
+quien protagoniza la pelicula la naranja mecanica
+stanley kubrick
+woody allen
+malcolm mcdowell
+sean connery
+3
+
+
+MC
+de que año es la pelicula 007 goldfinger
+1963
+1964
+1965
+1966
+2
+
+
+MC
+quien protagonizo a james bond en goldfinger
+daniel craig
+pierce brosnan
+sean connery
+ninguno de los anteriores
+3
+
+
+MC
+que actor protagoniza la pelicula indiana jones
+harrison ford
+mel gibson
+daniel craig
+sean connery
+1
+
+
+MC
+quien protagoniza a frodo en el señor de los anillos
+elijah wood
+jason biggs
+orlando bloom
+brittany murphy
+1
+
+
+MC
+que actor de estos no aparece en la pelicula sin city
+elijah wood
+brittany murphy
+clive owen
+jimmy page
+4
+
+
+MC
+de que año es la pelicula jumanji
+1995
+1996
+1997
+1998
+1
+
+
+MC
+quien protagoniza la pelicula papa por siempre
+sean penn
+brendan fraser
+robbin williams
+sean connery
+3
+
+
+MC
+el vocalista de 30 seconds to mars actuo en alguna pelicula
+verdadero
+falso
+
+
+1
+
+
+MC
+de que año es la pelicula lolita en blanco y negro
+1961
+1962
+1963
+1964
+2
+
+
+MC
+leonardo di caprio es el vocalista de una banda llamada the black cats
+verdadero
+falso
+
+
+2
+
+
+MC
+cual de estas peliculas se centra en las drogas
+filadelfia
+kill bill
+top gun
+requiem por un sueño
+4
+
+
+MC
+en cual de estas peliculas aparece antonio banderas
+el zorro
+holocausto canibal
+fiebre de sabado por la noche
+filadelfia
+1
+
+
+MC
+quien hizo la voz de la princesa fiona en shrek
+jennifer aniston
+jennifer conelly
+cameron diaz
+britney spears
+3
+
+
+MC
+quien hizo la voz del gato con botas en shrek 2
+robbin williams
+antonio banderas
+ricardo arjona
+leonardo di caprio
+2
+
+
+MC
+miguel bose a actuado en alguna pelicula
+verdadero
+falso
+
+
+1
+
+

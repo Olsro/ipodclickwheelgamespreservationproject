@@ -1,0 +1,114 @@
+TITLE
+The Ultimate LOST Quiz
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+Congratulations! You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Try again. Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What flight number were the losties on when it crashed?
+Southwest 1080
+Oceanic 815
+Dharma 910
+Hanso Air 450
+2
+
+
+MC
+What is Saywer's real name?
+James Ford
+Jason Morris
+Jack Andrews
+Robert Ford
+1
+
+
+MC
+What did Locke's father con him out of?
+Life Insurance Plan
+Blood Transfusion
+Kidney
+$100,000
+3
+
+
+MC
+What numbers were required to be typed in the computer ever 108 minutes?
+1, 2, 4, 8, 16, 32
+2, 4, 6, 8, 20, 40
+4, 8, 15, 16, 23, 42
+4, 8, 12, 16, 18, 22
+3
+
+
+MC
+Why is Kate a fugitive?
+She Killed her Father
+Unpaid Taxes
+Fraud
+A Hit and Run Accident
+1
+
+
+MC
+What do the losties nicknamed the other group of people on the island?
+"The Nasties"
+"Islanders"
+"The Snakes"
+"The Others"
+4
+
+
+MC
+How did Desmond end up on the island?
+Plane Crash
+Helicopter Crash
+Boating Accident
+Hot Air Balloon
+3
+
+
+MC
+What is Charlie's band's name?
+Drive Shaft
+First Start
+Heavy
+Brit Rockers
+1
+
+
+MC
+What life-chaning thing happend to Hurley before crashing on the island?
+He killed his brother
+He wrote a best-selling novel
+He won the lottery
+He owned a pet shop
+3
+
+
+MC
+What accident resulted in Locke in a wheelchair?
+A Car Accident
+He was robbed and shot
+Ski Accident
+His father pushed him out a window
+4
+
+

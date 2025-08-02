@@ -1,0 +1,114 @@
+TITLE
+Paeora
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+When gold was found in Paeroa what was it found inside?
+food
+more gold
+quartz
+seridium
+1
+
+
+MC
+what is the name of the gorge found next to Paeroa
+harangakake
+karangahake
+hamangarake
+samanglake
+2
+
+
+MC
+how high is the ORIGINAL bottle of L&P
+614metres
+1metre
+7metres
+12metrez
+1
+
+
+MC
+when was the original bottle of L&P built?
+1970
+1790
+0197
+9170
+1
+
+
+MC
+What does Paeroa translate into?
+big bottle
+hot spring
+clean water
+mountain range
+1
+
+
+MC
+what is the name of the park the ORIGINAl bottle of L&P is situated on?
+onimehuri
+ominehuri
+onihemuri
+ohinemuri
+3
+
+
+MC
+what were the first tribes to rrive at Paeroa?
+Paitui, Awara
+Arawa, Taniu
+Naitui, raawa
+Arata, Nawui
+2
+
+
+MC
+fish?
+pie!!!!
+ohhh....
+mmmmmmm
+yay!!!!
+2
+
+
+MC
+when was gold found in Paeroa?
+1870
+1871
+1869
+18700
+1
+
+
+MC
+what is the color of the L&P bottle?
+green
+lightbrown
+brown
+darkbrown
+4
+
+

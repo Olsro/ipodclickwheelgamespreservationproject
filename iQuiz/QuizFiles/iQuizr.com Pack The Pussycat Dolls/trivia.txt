@@ -1,0 +1,114 @@
+TITLE
+The Pussycat Dolls
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+5
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What Are All Of PCD' S Names
+Ashley,Nicole,Carmit,Jessica,Asia,Melody,and Kimberley
+Carmen,Carmit,Harmony,Nicole,,Robin,Kimberley,and Asia
+Nicole and The Pussycat Dolls
+Ireene,Kelsey,Jessica,Asia,Melody,Ashley,Carmit
+1
+
+
+MC
+What is the Pussycat Dolls' First Single
+Beep
+Don' Cha
+Sway
+Buttons
+3
+
+
+MC
+Who is the BEST Dancer?
+Nicole
+Melody
+Jessica
+Kimberley
+4
+
+
+MC
+What are the 3 bonus tracks from PCD?
+Show Us What You Got,Sway,Flirt
+Santa Baby,Show Us What You Got,Sway
+Sway,Flirt,We Went As Far As We Felt Like Going
+We Went As Far As We Felt Like Going,Sway,Santa Baby
+3
+
+
+MC
+Who was the leader of the old pcd?
+Robin
+Carmen
+Nicole
+Carmit
+2
+
+
+MC
+What is the name of PCD's Next Album?
+Double The Trouble
+PCD2
+(Self Title)
+There is no Album
+1
+
+
+MC
+The Very First Refined Doll?
+Jessica
+Carmit
+Nicole
+Melody
+1
+
+
+MC
+The Name of thier only Album
+(Self Title)
+Don' Cha
+The Pussycat Dolls
+PCD
+4
+
+
+MC
+Don' Cha Was Released in wht year?
+2006
+2005
+2003
+2007
+2
+
+
+MC
+The Only 2 Dolls To Have A BoyFriend
+Carmit,Melody
+Ashley,Kimberley
+Nicole,Kimberley
+Ashley,Jessica
+3
+
+

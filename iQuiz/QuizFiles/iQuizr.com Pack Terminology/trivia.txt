@@ -1,0 +1,294 @@
+TITLE
+Terminology
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+30
+
+LOSE
+0
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+what type of time is 17:30 GMT -5?
+24 hour local
+24 hour international
+24 hour relative
+
+2
+
+
+MC
+how much should a KB hold?
+1000 * 8 bits
+1000 * bits
+1024 * bits
+1024 * 8 bits
+4
+
+
+MC
+What does 10-4 mean?
+ok
+good luck
+watch out
+bye
+1
+
+
+MC
+what is the value of 10010101
+128
+137
+149
+155
+3
+
+
+MC
+what is the decimal value of 0h31?
+31
+39
+49
+55
+3
+
+
+MC
+what type of time is 3:30 pm
+12 hour local
+24 hour local
+12 hour international
+24 hour international
+1
+
+
+MC
+what does CSS stand for?
+Cubic Space Squared
+Cascade Style Sheets
+Camera Stand Store
+
+2
+
+
+MC
+What tag is not implemented by HTML?
+head
+body
+foot
+html
+3
+
+
+MC
+How many 10-codes are currently known?
+10
+50
+80
+120
+4
+
+
+MC
+What is Morse Code
+dots and dashes
+1's and 0's
+beeps
+5 tone
+1
+
+
+MC
+Which is not part of a website?
+Flash
+Java
+Python
+HTML
+3
+
+
+MC
+what is the size of a sheet of paper in mm?
+200 x 250
+210 x 275
+230 x 290
+250 x 320
+2
+
+
+MC
+how big is a legal sheet in mm?
+180 x 320
+210 x 350
+240 x 400
+250 x 440
+2
+
+
+MC
+About how many kilos makes 5 pounds?
+1.50
+1.85
+2.25
+2.66
+3
+
+
+MC
+How many Joules are in a Kilowatt Hour?
+3k
+120k
+1900k
+3600k
+4
+
+
+MC
+What is Linux a type of?
+Operating System
+Programming IDE
+Spyware
+Virus
+1
+
+
+MC
+How are cars rated in FM3?
+Performance Index
+Car Class
+Horse Power
+Tourqe
+1
+
+
+MC
+What does MTG stand for?
+Moonlight Times Garden
+Magic The Gathering
+Man Ties Giant
+Metal To Gas
+2
+
+
+MC
+What is You Tube?
+Video Publisher
+Video Producer
+Community Forum
+Community Webhost
+4
+
+
+MC
+What is a "Com Killer"?
+Operating Systems
+Virus
+Spyware
+Serial Killer
+2
+
+
+MC
+Who makes IPODS?
+Mac
+Microsoft
+Sony
+Apple
+4
+
+
+MC
+What is a NES?
+Nintendo Entertainment System
+Nintendo Enjoyment System
+Not Expected Storm
+Not Experianced Stalker
+1
+
+
+MC
+What is the computer term for a MB?
+1,000,000 * 8 bits
+1,024,000 * 8 bits
+1,000,000 * bits
+1,024,000 * bits
+2
+
+
+MC
+what is a bit?
+0 or 1
+0 to 3
+0 to 5
+0 to 8
+1
+
+
+MC
+if someone calls out a 10-32 what are they calling?
+Fire
+Homicide
+Suicide
+Gun
+4
+
+
+MC
+if someone calls out a 10-70 what are the calling?
+Guns
+Murders
+Fire
+Electricity
+3
+
+
+MC
+If your caught on a 10-98 what is going on?
+Murder
+Rape
+Assault
+Jail Break
+4
+
+
+MC
+Who makes Solaris?
+Sun
+Redhat
+Microsoft
+Novell
+1
+
+
+MC
+What OS is MS-S2k?
+Microsoft 2000 Stand Alone
+Microsoft 2000 Server
+Microsoft 2000 Sigil
+Microsoft 2000 SQL
+2
+
+
+MC
+Who makes Opensuse?
+Microsoft
+Sun Micro
+Novell
+Debian
+2
+
+

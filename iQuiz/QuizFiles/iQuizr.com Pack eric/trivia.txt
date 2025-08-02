@@ -1,0 +1,51 @@
+TITLE
+eric
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+3
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+was ist meine lieblingsfarbe?
+grün
+orange
+blau
+kackbraun
+3
+
+
+MC
+welchen fußballverein mag ich nicht?
+bvb
+hsv
+1899 hoffenheim
+s04
+1
+
+
+MC
+der name meines vaters ist...
+mr. arschsau
+thomasek kryczekski
+karsten sommer
+flämch
+3
+
+

@@ -1,0 +1,132 @@
+TITLE
+Geology TYK C-10
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+12
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+The total area drained by a stream and its tributaries is called the
+hydrologic cycle
+tributary area
+divide
+drainage basin
+4
+
+
+MC
+Stream erosion and deposition are controlled primarily by a river's
+velocity
+discharge
+gradient
+channel shape
+1
+
+
+MC
+What is the gradient of a stream that drops 10 vertical feet over a 2-mile horizontal distance?
+20 feet per mile
+10 feet per mile
+5 feet per mile
+2 feet per mile
+3
+
+
+MC
+What are typical units of discharge?
+miles per hour
+cubic meters
+cubic feet per second
+meters per second
+3
+
+
+MC
+Hydraulic action, solution, and abrasion are all examples of stream
+erosion
+transportation
+deposition
+
+1
+
+
+MC
+Cobbles are more likely to be transported in its stream's
+bed load
+suspended load
+dissolved load
+all of the preceding
+1
+
+
+MC
+A rivers velocity is __ on the outside of a meander curve compared to the inside
+higher
+equal
+lower
+
+1
+
+
+MC
+Sandbars deposited on the inside of meander curves are called
+dunes
+point bars
+cutbanks
+none of the proceding
+2
+
+
+MC
+Which is not a drainage pattern?
+dendritic
+radial
+trellis
+none of the proceding
+4
+
+
+MC
+The broad strip of land built up by sedimentation on either side of a stream channel is
+a flood plain
+a delta
+an alluvail fan
+a meander
+1
+
+
+MC
+The average time between floods of a given size is
+the discharge
+the gradient
+the recurrence interval
+the magnitude
+3
+
+
+MC
+A platform of sediment formed where a stream flows into standing water is
+an alluvail fan
+a delta
+a meander
+a flood plain
+1
+
+

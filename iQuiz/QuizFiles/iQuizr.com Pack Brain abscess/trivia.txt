@@ -1,0 +1,150 @@
+TITLE
+Brain abscess
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+14
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Brain abscess: key s/sx
+Headache, chills
+fever, confusion
+Drowsiness
+all of the above
+4
+
+
+MC
+Brain abscess: PE shows
+Increased ICP
+Increased BP
+
+
+1
+
+
+MC
+Brain abscess:It shows the abscess site
+MRI
+CT scan
+Biopsy
+
+2
+
+
+MC
+Brain abscess:Used to drain and culture abscess
+CT guided Stereotactic biopsy
+NGT
+A catheter
+
+1
+
+
+MC
+Brain abscess: Penicillinase resistant antibiotics
+Nafcillin UNIPEN
+Methicillin STAPHCILLIN
+Furosemide LASIX
+A and B
+4
+
+
+MC
+Brain abscess: key tx
+Antibiotics
+diuretics
+Surgical aspiration or drainage
+A and C
+4
+
+
+MC
+Brain abscess: Monitor
+BP, I/O, neuro stat
+signs  of meningitis
+A and B
+
+3
+
+
+MC
+Signs of meningitis
+Nuchal rigidity
+headaches, chills
+sweats
+all of the above
+4
+
+
+MC
+Where should the pt be positioned?
+Prone
+On the operative side
+with HOB elevated
+
+2
+
+
+MC
+The drainage should be
+Measure
+thrown away
+
+
+1
+
+
+MC
+Brain abscess: ages affected
+60 and above
+10 - 35 yrs old
+6 months
+
+2
+
+
+MC
+signs of increasing ICP EXCEPT
+narrowing pulse pressure
+widening pulse pressure
+slowing Heart rate
+increasing sysotlic pressure
+1
+
+
+MC
+It is used to assess LOC
+Sleeping pattern
+GLascow coma scale
+Equilibrium scale
+
+2
+
+
+MC
+The 3 observation of glascow Coma scale
+Eye response
+Best Motor Response
+Verbal Response
+all of the above
+4
+
+

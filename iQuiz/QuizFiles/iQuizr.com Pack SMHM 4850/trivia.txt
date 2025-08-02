@@ -1,0 +1,42 @@
+TITLE
+SMHM 4850
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+2
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+(Vanessa Morse)  Line extension generally yields what type of success?
+Long Term
+Short Term
+No Success
+All of the above
+2
+
+
+MC
+(Rannette Zaidle)  After understanding the law of contraction, which business would best suite the definition?
+Sam's Club
+Costco
+Victoria's Secret
+Wal-Mart
+3
+
+

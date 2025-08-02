@@ -1,0 +1,96 @@
+TITLE
+Multiple myeloma
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+8
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+s/sx of multiple myeloma
+anemia, thrombocytopenia, hemorrhage
+bone pain
+pathologic fx
+all of the above
+4
+
+
+MC
+In multiple myeloma,Xray shows
+round punched out bone lesions
+osteoporosis, dimineralization
+,lesions of the skull
+all of the above
+4
+
+
+MC
+nsg interventions for Multiple myeloma
+assess renal status
+assess pain level
+enc oral fluds and adm IV fluids
+all of the above
+4
+
+
+MC
+definition of multiple myeloma
+abN proliferation of plasma cells
+immature and malignant plasma cells invade the bone marrow, lymph nodes liver spleen and kidneys
+leads to bone destruction throughout the body
+all of the above
+4
+
+
+MC
+In multiple myeloma,Bence Jones protein assay is
+Positive
+negative
+Normal
+
+1
+
+
+MC
+orthopedic devices for Multiple myeloma
+splints
+braces
+casts
+all of the above
+4
+
+
+MC
+5 A's tx for mulitple myeloma
+Alkylating agents, androgen
+antibiotics, antigout
+antineoplastics
+all of the above
+4
+
+
+MC
+It is an antigout
+Melphalan
+allopurinol zyloprin
+Vinblastin(VELBAN), Vincristine(ONCOVIN)
+
+2
+
+

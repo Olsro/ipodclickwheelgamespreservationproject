@@ -1,0 +1,168 @@
+TITLE
+Musique Métal
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+16
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Quel Album est de Gojira?
+Les Fleurs du Mal
+From Mars To Sirius
+Nine Destinies and a Downfall
+Once
+2
+
+
+MC
+Nom de groupe? Sopor Aeternus &...?
+The Ensemble of Shadows
+The Dead voices
+Bringers of Sadness
+The GOAT
+1
+
+
+MC
+Quel est le dernier album d' Anathema?
+Eternity
+Judjement
+Alternative 4
+A Natural Disaster
+4
+
+
+MC
+Quel titre n'est pas d'Evanescence?
+Lose Control
+Good Enough
+Final Destination
+Lacrymosa
+1
+
+
+MC
+"The Perpetual Motion" date de ?
+2005
+2006
+1999
+2003
+1
+
+
+MC
+Quel titre est de IRON MAIDEN ?
+Prowler
+Rutsah
+Memories
+Futurnal
+1
+
+
+MC
+Séléctionnez le dernier album/DVD de Nightwish avec Tarja Türünen
+The End of An Era
+Wishmaster
+Once
+Oceanborn
+1
+
+
+MC
+Le clip de Eths, Crucifère, est tiré de leur album...
+Mort Blanche
+Autopsie
+Sôma
+
+3
+
+
+MC
+Quel artiste est à l'origine de "Gore Baby Gore"?
+Bérurier Noir
+Norma Loy
+Chrome
+Punish Yourself
+4
+
+
+MC
+Le logo du groupe "TYR" est écrit en runes.
+Vrai
+Faux
+
+
+1
+
+
+MC
+La tournée d'Opeth à l'occasion de "Ghost Reveries" à duré?
+6 mois
+9 mois
+19 mois
+11 mois
+3
+
+
+MC
+Mypollux a sorti son premier album nommé
+Contraires
+Coffre à souhaits
+Trouble Amarante
+Jeu
+3
+
+
+MC
+UneXpecT est un groupe de métal expérimental Québecois.
+Vrai
+Faux
+
+
+1
+
+
+MC
+Quels groupes intègrent dans leur formation moins de 4 instruments d'orchestre classique?
+Welten Brand
+Eths
+Sopor Aeternus & The Ensemble of Shadows
+Inhepsie
+2
+
+
+MC
+La formation de Metallica est apparue dans la série "Les Simpsons"
+Vrai
+Faux
+
+
+1
+
+
+MC
+BONUS : Tokio Hotel est un bon groupe.
+Vrai.
+Faux.
+Peu importe.
+
+2
+
+

@@ -1,0 +1,186 @@
+TITLE
+lets see what you got uptown girl
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+18
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+who is zachs favorite team
+dallas cowboys
+philadelphia eagles
+houston astros
+new york yankees
+2
+
+
+MC
+what color was the pen i saved for you
+blue
+black
+purple
+pink
+4
+
+
+MC
+who is a pro football player
+brian westbrook
+barry bonds
+lebron james
+kobe bryant
+1
+
+
+MC
+my dad said my longer hair was what
+hot
+sexy
+cute
+gay
+3
+
+
+MC
+how many classes together
+1
+2
+3
+4
+4
+
+
+MC
+what characters role did i play in the Crucible
+proctor
+paris
+danforth
+mary
+3
+
+
+MC
+where did i tell you i went but really didnt
+target
+wendys
+witch witch
+home
+3
+
+
+MC
+how long did spring show last
+3 hous
+2.5
+3.5
+2
+3
+
+
+MC
+how do you spell justins real name
+huy twang
+huy tong
+huy tuong
+hu tuong
+3
+
+
+MC
+what color was the pen you stole from me
+blue
+black
+green
+red
+1
+
+
+MC
+fill in the blank- oh thanks zach you got me a ___ thats great ( you said it sarcastically_
+hat
+candy
+shirt
+money
+3
+
+
+MC
+what is mr. fongs sons name
+chris
+miles
+andy
+steven
+3
+
+
+MC
+finish sentence.. Jaime..
+pay attention
+bend over and let me pull it out
+metscher mom
+go home
+3
+
+
+MC
+how much does diana charge per night
+100
+50
+45
+we pay her
+4
+
+
+MC
+how much do i charge per night
+100
+50
+45
+it's all on me
+4
+
+
+MC
+who got caught on angie's backpack
+colton
+dustin king
+drew naylor
+aj
+3
+
+
+MC
+what is zach's cats name
+tony
+miles
+toby
+chris
+3
+
+
+MC
+what is zach's shoe size
+10.5
+11
+11.5
+9
+2
+
+

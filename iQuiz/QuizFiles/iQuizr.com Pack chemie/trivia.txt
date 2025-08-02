@@ -1,0 +1,42 @@
+TITLE
+chemie
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+2
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+was ist eine chemische reaktion
+eine metallverarbeitung
+ein vorgang mit stoffveränderung
+ein spiel
+frischen
+2
+
+
+MC
+gut
+good
+bad
+miserable
+worse
+1
+
+

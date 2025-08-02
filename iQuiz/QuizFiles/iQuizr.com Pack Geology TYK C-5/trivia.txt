@@ -1,0 +1,114 @@
+TITLE
+Geology TYK C-5
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Physical disintegration of rock into smaller pieces is called
+chemical weathering
+transportation
+deposition
+mechanical weathering
+4
+
+
+MC
+The  decomposition of rock from exposure to water and atmospheric gases is called
+chemical weathering
+transportation
+deposition
+mechanical weathering
+1
+
+
+MC
+Which is not a type of mechanical weathering?
+frost wedging
+frost heaving
+pressure release
+oxidation
+4
+
+
+MC
+The single most effective agent of chemical weathering at Earth's surface is
+carbonic acid H2CO3
+water H2O
+carbon dioxide CO2
+Hydrochloric acid HCI
+1
+
+
+MC
+The most common end product of the chemical weathering of feldspar is
+clay  minerals
+pyroxene
+amphibole
+calcite
+1
+
+
+MC
+The most common end product of the chemical weathering of quartz is
+clay minerals
+pyroxene
+amphibole
+quartz does not usually weather chemically
+4
+
+
+MC
+Soil with approximately equal amounts of sand, silt, and clay along with a generous amount of organic matter is called
+loam
+inorganic
+humus
+caliche
+1
+
+
+MC
+The soil horizon containing only organic material is the
+A horizon
+B horizon
+C horizon
+O horizon
+4
+
+
+MC
+Hardpan forms in the
+A horizon
+B horizon
+C horizon
+E horizon
+2
+
+
+MC
+Tropical soils are typically
+rich in organic material
+very fertile
+deeply leached
+easily replenished
+3
+
+

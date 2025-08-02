@@ -1,0 +1,159 @@
+TITLE
+Forensic Science
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+15
+
+LOSE
+7
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Who was the first known serial killer?
+John Ramsey
+Ted Bundy
+Gary Ridgway
+Wayne Williams
+2
+
+
+MC
+What is forensic science?
+criminal laws
+civil laws
+criminal and civil laws
+none of the above
+3
+
+
+MC
+What was the first system of personal identification called?
+dermal papillae
+Freon
+Hybridization
+anthropometry
+4
+
+
+MC
+What is Locard's exchange principle?
+When two or more objects come into with each other, a cross-trasnfer of matericals occurs
+A solid in which the constituent atoms or molecules are aranged in random or disordered positions
+a difference in the two indices of refraction exhibited by most crystalline materials
+A screening test giveing quck insight into the likelihood that a specimen contains a drug substance
+1
+
+
+MC
+What is the Polygraph unit?
+examines body fluids
+involves telephoned threats or tape recorded messages
+lie detector
+deals with fingerprints
+3
+
+
+MC
+The oldest forensic laboratory in the US is?
+Los Angelas Poliece Department
+New Jersey State Police Laboratory
+New York City’s Crime Laboratory
+F.B.I. Laboratory
+1
+
+
+MC
+All of the following are basic services provided by “full-service crime laboratories” except?
+Biology Unit
+Toxicology Unit
+Firearms Unit
+Document Examination Unit
+2
+
+
+MC
+Which of the following is not an optional service, which may be provided by a full-service crime laboratory?
+Polygraph Unit
+Voiceprint Analysis Unit
+Photography Unit
+Latent Fingerprint Unit
+3
+
+
+MC
+The examination of bitemark evidence and its relation to a criminal investigation is known as?
+Forensic Entomology
+Forensic Odontology
+Forensic Anthropology
+Forensic Biology
+2
+
+
+MC
+The scientist who maintained that when a criminal came in contact with an object or person a cross-transfer of evidence would occur was?
+Walter McCrone
+Albert Osborn.
+Edmond Locard
+Hans Gross
+3
+
+
+MC
+Who is known as "the father of toxicology"?
+Karl Landstiner
+Francis Henry Galton
+Walter C. McCrone
+Mathieu Orfila
+4
+
+
+MC
+Which of the following people did not make a contribution to forensic toxicology?
+Valentin Ross
+Alphonse Bertillon
+Carl Wilhelm Scheele
+Mathieu Orfila
+2
+
+
+MC
+Which discipline does not fall under the umbrella of forensic science?
+entomology
+anthropology
+cryptology
+pathology
+3
+
+
+MC
+Which individual contributed knowledge to the forensic characterization of blood?
+Alec Jeffries
+Albert Osborn
+Thomas Taylor
+Calvin Goddard
+1
+
+
+MC
+A basic function of a forensic scientist includes?
+providing expert testimony
+furnishing training on the proper collection of physical evidence
+analysis of physical evidence
+all of the above
+1
+
+

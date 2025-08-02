@@ -1,0 +1,78 @@
+TITLE
+asphyxia
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+6
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+These are the s/sx of asphyxia
+Agitation, Alt RR,Anxiety
+Central and peripheral cyanosis,Confusion
+Decreased Breath sounds, Dyspnea
+All of the above
+4
+
+
+MC
+ABG result of Asphyxia
+Increased PaCO2
+Decreased PaO2
+Increased Both
+A and B
+4
+
+
+MC
+How is the hemoglobin SAturation with O2
+decreased
+increased
+Normal
+
+1
+
+
+MC
+What should be done to extract the foreign body
+O2
+NGT
+Bronchoscopy
+
+3
+
+
+MC
+what is Opoid antogonist? for opoid overdose
+Nalaxin
+Naloxone Narcan
+naloxotin
+
+2
+
+
+MC
+for poisoning?
+activated charcoal
+charcoal
+Milk
+
+1
+
+

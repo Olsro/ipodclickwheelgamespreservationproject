@@ -1,0 +1,168 @@
+TITLE
+Cardiogenic Shock
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+16
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+S/sx of cardiogenic shock
+cold clammy skin, Hypotension
+Narrow Pulse pressure,Oliguria
+Tachycardia
+All of the above
+4
+
+
+MC
+Systolic pressure below 90mmhg
+hypotension
+Hypertension
+
+
+1
+
+
+MC
+Urine output of less than 30ml/hr
+Polyuria
+Oliguria
+Hematoma
+
+2
+
+
+MC
+In Cardiogenic Shock, ECG shows MI
+enlarged Q wave
+Elevated ST segment
+ST compression
+A and B
+4
+
+
+MC
+Tx for CArdiogenic Shock
+Pericardiocentesis
+ECG
+intra artic balloon pump
+
+3
+
+
+MC
+Digoxin (lanoxin) is what kind of drug?
+Cardiac glycosides
+Cardiac Inotropes
+Adrenergic agent
+
+1
+
+
+MC
+These are adrenergic agents for Cardiogenic shock?
+Digoxin (lanoxin)
+Epinephrine (adrenaline)
+phenylephrine(Neo_synephrine)
+B and C
+4
+
+
+MC
+Cardiac Inotropes for Cardiogenic shock? INE/ONE
+Dopamine(intropin)
+dobutamine(dobutrex)
+inamrinone(inocor),milrinone(primacor)
+All of the above
+4
+
+
+MC
+It is a vasopressor drug?
+Dopamine
+Epinephrine (adrenaline)
+Norepinephrine (Levophed)
+
+3
+
+
+MC
+Nitroglycerine is a
+Diuretics
+VAsodilator
+Vasopressor
+
+2
+
+
+MC
+N/I for Cardiogenic Shock
+Assess cardiovascular status
+Assess Respi status
+Admin. IV fluids,O2 and meds
+All of the above
+4
+
+
+MC
+These s/sx indicates Pulmonary Edema EXCEPT
+Tachypnea
+Abd pain
+Crackles
+hypoxemia
+2
+
+
+MC
+In Intra aortic balloon pump, where is the inflatable balloon inserted?
+Descending aorta
+ascending aorta
+stomach of the aorta
+
+1
+
+
+MC
+In Intra aortic balloon pump, the inflatable balloon inserted into the descending aorta through what artery?
+Mesenteric artery
+Carotid artery
+Femoral artery
+
+3
+
+
+MC
+The balloon inflates during diastole, when....
+when the aortic valve is closed
+When the aortic valve is open
+When he ventricular valve is closed
+
+1
+
+
+MC
+The balloon inflates during systole, when...
+when the aortic valve opens
+When the aortic valve is closed
+When he ventricular valve is closed
+
+1
+
+

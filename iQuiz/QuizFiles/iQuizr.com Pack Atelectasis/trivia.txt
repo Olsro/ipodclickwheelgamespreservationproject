@@ -1,0 +1,78 @@
+TITLE
+Atelectasis
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+6
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What is definition of atelectasis?
+is the incomplete expansion of the lung which may result in partial/complete collapse
+Complete expansion of the lung
+partial expansion of the lung tissues
+
+1
+
+
+MC
+how can the nurse make the pt involved in the nursing care?
+by having them do their own care
+by using incentive spirometer
+
+
+2
+
+
+MC
+S/sx of atelectasis Except
+diminished breathe/bronchial sounds.
+Dyspnea,Cyanosis,Diaphoresis
+Substernal/intercostal retraction
+Fluids in the lungs
+4
+
+
+MC
+Bronchodilator for atelectasis?
+Acetylcysteine Mucomyst
+albuterol Proventil
+
+
+2
+
+
+MC
+In atelectasis, should the pt use mucolytic inhalation therapy?
+yes
+No
+Maybe
+
+1
+
+
+MC
+How should the pt with atelectasis use the incentive spirometer ?
+every 1-2 hours
+every 3-4 hours
+every 4-6 hours
+
+1
+
+

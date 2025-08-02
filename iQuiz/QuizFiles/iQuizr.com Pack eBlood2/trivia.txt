@@ -1,0 +1,924 @@
+TITLE
+eBlood2
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+100
+
+LOSE
+0
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+It is used in evaluation of ADH
+Osmolarity Blood
+Osmolarity Urine
+Osmolarity Serum
+
+2
+
+
+MC
+When are serum and urine being done?
+Morning
+Same time
+Evening
+It depends
+2
+
+
+MC
+W/c is higher normally,serum or urine?
+Osmolarity Blood
+Osmolarity Urine
+Growth hormone
+has the same result
+2
+
+
+MC
+Normal result of ACTH suppression?
+39% lower in cortisone production
+25% lower in cortisone production
+45% lower in cortisone production
+50% lower in cortisone production
+4
+
+
+MC
+ACTH Suppression Test an overnight test?
+No
+MAybe
+Yes
+
+3
+
+
+MC
+Term for ACTH Suppression?
+Plasma Cortisol Test
+Dexamethasone Suppression Test
+Blood Urine Test
+
+2
+
+
+MC
+N value of cortisol?
+<5 mcg/dl
+>5 mcg/dl
+<10mcg/dl
+<25 mcg/dl
+1
+
+
+MC
+In ACTH Suppression Test, When to admin dexamethasone?
+Morning
+Afternoon
+Evening
+Depends
+3
+
+
+MC
+When to eval serum & urine
+Evening
+Midnight
+Morning
+depends
+3
+
+
+MC
+Plasma cortisol increase
+Morning
+Afternoon
+Evening
+depends
+1
+
+
+MC
+Plasma cortisol decrease
+Morning
+Afternoon
+Evening
+depends
+3
+
+
+MC
+N:24 hour urine for hydroxycorticosteroids ketosteroids for male?
+16-30mg/24 hour
+15-40mg/24 hour
+2-10mg/24 hour
+6-20mg/24 hour
+4
+
+
+MC
+Increase in the 24 hour urine for hydroxycorticosteroids indicates
+Hypoadrenal fx
+Hyperadrenal Fx
+
+
+2
+
+
+MC
+N plasma cortisol level at 8am?
+34-49mcg/dl
+24-30mcg/dl
+2-4mcg/dl
+5-23mcg/dl
+4
+
+
+MC
+signs of allergic reaction of Blood Transfusion
+Facial flushing
+Pruritus
+Urticaria(hives)
+ABC
+4
+
+
+MC
+Signs of allergic reaction of Blood Transfusion
+Severe SOB
+Bronchospasm
+AB
+
+3
+
+
+MC
+N plasma cortisol level at 4pm?
+15-18mcg/dl
+3-13mcg/dl
+19-21mcg/dl
+
+2
+
+
+MC
+N:24 hour urine for hydroxycorticosteroids ketosteroids for F?
+6-17mg/24 hour
+21-26mg/24 hour
+27-32mg/24 hour
+
+1
+
+
+MC
+N/I for allergic reaction from Blood Transfusion?
+Notify the MD
+Give some H2O
+Give Some O2
+Stop the BT
+4
+
+
+MC
+N:24 hour urine for hydroxycorticosteroids ketosteroids for child under 15y/o
+>7 mg/24 hour
+<5mg/24 hour
+>5mg/24 hour
+>2mg/24 hour
+2
+
+
+MC
+S/sx of febrile reaction from BT
+Chills
+Fever
+Inc Anxiety
+ABC
+4
+
+
+MC
+S/sx of febrile reaction from BT
+Headache
+Flushing
+Ms stiffness/pain
+ABC
+4
+
+
+MC
+Most common Rx from BT?
+Febrile Rx
+Resp Rx
+Allergic Rx
+
+1
+
+
+MC
+N/I for febrile RX from BT
+Notify the MD
+Keep pt warm
+Stop the BT
+BC
+4
+
+
+MC
+Purpose of Bone MArrow Transplant?
+restore GI fx
+restore musculo fx
+restore neuro fx
+restore hemato and immuno fx
+4
+
+
+MC
+Adult:ml of bone marrow aspirated from donor's iliac crest?
+350-380 ml
+900-1120ml
+400-800 ml
+680-900 ml
+3
+
+
+MC
+BMT Typing:matches with histocompatible donor?
+Allogenic
+Autologous
+Syngeneic
+
+1
+
+
+MC
+Uses client's bone marrow?
+Allogenic
+Autologous
+Syngeneic
+
+2
+
+
+MC
+Donor is the identical twin with perfect tissue match?
+Allogenic
+Autologous
+Syngeneic
+
+3
+
+
+MC
+Complications of BMT
+Infx
+GI prob
+Alt Liver enzyme
+ABC
+4
+
+
+MC
+Complications of BMT
+Sev Thrombocytopenia
+Erhymatous
+Rash on feet/palm
+ABC
+4
+
+
+MC
+RBC,WBC,platelets start to form?
+6-8wks after BMT
+2-5wks after BMT
+10-12wks after BMT
+12-13wks after BMT
+2
+
+
+MC
+Do before BT
+Med Hx
+Pt Social HX
+Inf Consent
+
+3
+
+
+MC
+Check before BT
+ABO grp
+Rh type
+name
+ABC
+4
+
+
+MC
+Check before BT
+Hosp #
+Crossmatch
+Exp Date
+ABC
+4
+
+
+MC
+Admin Blood immed after rec from the bank
+Yes
+No
+Maybe
+
+1
+
+
+MC
+Store blood @ rm temp
+No
+Yes
+Maybe
+
+1
+
+
+MC
+Store blood in unit ref
+No
+Yes
+Maybe
+
+1
+
+
+MC
+Max time blood can be out of storage
+1 hour
+50 mins
+40 mins
+30 mins
+4
+
+
+MC
+To DO's for BT
+Dont add med to blood
+Dont warm blood
+No microwave
+ABC
+4
+
+
+MC
+To DO's for BT:Inspect
+leaks,air
+AbN color
+Bubbles
+ABC
+4
+
+
+MC
+Infusion pump in BT?
+Yes
+No
+Inc RBC hemolysis
+BC
+4
+
+
+MC
+Ave rate of BT in adult
+1"u"of blood(6 hrs)
+1"u"of blood(3-4hr)
+2"u"of blood(3-4hr)
+
+2
+
+
+MC
+TO DO's for Platelet/FF admin
+type and crossmatch rec
+unit ID
+Infuse fast
+ABC
+4
+
+
+MC
+Goal Leukemia
+Restore ms strength
+Prevent body weakness
+Prevent infx
+Maintain N skin int
+3
+
+
+MC
+N/I for Leukemia
+Monitor Temp
+skin care
+oral hygiene
+ABC
+4
+
+
+MC
+N/I for Leukemia
+perineal care
+adeq protein
+adeq calorie
+ABC
+4
+
+
+MC
+Leukemia:Avoid
+Polio
+Varicella
+MMR
+ABC
+4
+
+
+MC
+Leukemia:Avoid
+Urin Cath
+Aspirin
+AB
+
+3
+
+
+MC
+Bleeding Prec for Leukemia
+Xoverinflated BPcuff
+Xvigorous coughing
+Xnose blowing
+ABC
+4
+
+
+MC
+Bleeding Prec for Leukemia
+Xcatheters
+GUAIAC Test
+Soft TB
+ABC
+4
+
+
+MC
+GUAIAC Test
+Stool
+Urine
+Blood
+
+1
+
+
+MC
+MAlignancy of plasma cells
+Hematoma
+Multiple Myeloma
+Hemophilia
+
+2
+
+
+MC
+Cells inv in Multiple Myeloma
+platelets
+RBC
+Lymphocytes
+
+3
+
+
+MC
+Infiltration in bones
+Hematoma
+Hypercalcemia
+Multiple Myeloma
+
+3
+
+
+MC
+Char of Multiple Myeloma?
+Bone pain
+HyperCa
+Renal Fail
+ABC
+4
+
+
+MC
+Tx for Multiple Myeloma
+Ca and rad
+Chemo & Rad Therapy
+P. Rad & Ca
+
+2
+
+
+MC
+Dx Test for Multiple Myeloma
+Serum Test
+Protein Electrophoresis
+Urine Test
+AB
+4
+
+
+MC
+For Multiple Myeloma
+hydration
+analgesic
+AB
+
+3
+
+
+MC
+Not allowed for Multiple Myeloma
+less than 10 lbs
+less than 20 lbs
+more than 10 lbs
+
+3
+
+
+MC
+Defect in clotting mechanism,rec during toddler
+Anemia
+Sickle Cell
+Multiple Myeloma
+Hemophilia
+4
+
+
+MC
+Carrier of Hemophilia
+Gay
+Male
+Female
+Guys
+3
+
+
+MC
+Types of Hemophilia
+Hem A
+Hem B
+AB
+
+3
+
+
+MC
+Fx of Hemophilia types
+FactorVIII
+FactorIX
+AB
+
+3
+
+
+MC
+Names of Hemophilia types
+Xmas
+Def Fx
+AB
+
+3
+
+
+MC
+Risk Fx:Hemophilia
+Male
+female
+AB
+
+3
+
+
+MC
+S/sx:Hemophilia
+Hematuria
+Hematoma
+Hemiarthrosis
+ABC
+4
+
+
+MC
+S/sx:Hemophilia
+IC Hemorrhage
+Exc bleeding
+Petechiae
+ABC
+4
+
+
+MC
+Dx:Hemophilia
+Hx
+Family inheritance
+AB
+
+3
+
+
+MC
+N in Hemophila
+Platelet
+Plasma
+RBC
+
+1
+
+
+MC
+Tx:Hemophilia
+DDAVP
+FF plasma
+Sterile H2O
+ABC
+4
+
+
+MC
+Tx:FxVIII Hemo
+Sterile H2O
+O2
+none
+
+1
+
+
+MC
+N/I:Hemophilia
+Reg exercise
+dental care
+N weight
+ABC
+4
+
+
+MC
+Hemophilia:Avoid
+Aspirin
+Acetaminophen
+Tylenol
+
+1
+
+
+MC
+Tx:Bleeding
+P,cold pack
+Immobilize
+Elev joint
+ABC
+4
+
+
+MC
+S/sx:Internal Bleeding
+Tarry stools
+slur speech
+H/A
+ABC
+4
+
+
+MC
+Prevent:Joint Deg
+Elev joint
+immob
+Passive ROM
+ABC
+4
+
+
+MC
+Clotting in small vessels
+Hematoma
+Hemophilia
+DIC
+
+3
+
+
+MC
+It is a 2nd Coagulation
+Hemophilia
+DIC
+Hemiarthrosis
+
+2
+
+
+MC
+S/sx:DIC
+Thrombocyt
+Bleeding
+hypotension
+ABC
+4
+
+
+MC
+Fibrin Level of DIC
+Increase
+Decrease
+Normal
+
+2
+
+
+MC
+Phrothrombin:DIC
+Normal
+Prolonged
+Depends
+
+2
+
+
+MC
+Tx:DIC
+Platelet
+FFplasma
+heparin
+ABC
+4
+
+
+MC
+Hydration:SC Anemia
+IVHypotonic
+Hypertonic
+Isotonic
+
+1
+
+
+MC
+Longterm Cx of Leukemia
+Sickling episode
+Vomiting
+Hypovolemic
+
+1
+
+
+MC
+Dec sickling episode
+IV
+Morphine
+HydroxyureaDroxia
+
+3
+
+
+MC
+Pain:SC Anemia
+Morphine,pca
+Methadone
+Hydromorphone
+ABC
+4
+
+
+MC
+Proliferation of Red marrow cells
+Molycythemia
+Polycythemia
+Hemophilia
+
+2
+
+
+MC
+S/sx:Polycythemia
+Inc RBC
+Inc Hematocrit
+Inc WBC
+ABC
+4
+
+
+MC
+polycythemia:Inc platelets
+Yes
+No
+
+
+1
+
+
+MC
+3H:Polycythemia
+Headache
+HPN
+Hepatospleno
+ABC
+4
+
+
+MC
+CAT:Polycythemia
+Claudication
+Angina
+Thrombophlebitis
+ABC
+4
+
+
+MC
+Tx:Polycythemia
+Phlebotomy
+Anticoagulants
+AB
+
+3
+
+
+MC
+Polycythemia:Phlebotomy
+2-3x/wk
+0-2x/wk
+7x/wk
+
+1
+
+
+MC
+Most curable Lymphoma
+Hodgkin's Dse
+NonHodgkin's
+Tumor
+
+1
+
+
+MC
+Painless enlargement of L nodes
+Hodgkin's Dse
+NonHodgkin's
+Tumor
+
+1
+
+
+MC
+Organs inv w/ hodgkin's Dse
+Liver
+Spleen
+Heart
+AB
+4
+
+
+MC
+Hodgkin:Common Metastatic Sites
+Spleen
+Lungs
+Liver,BM
+ABC
+4
+
+
+MC
+Tx:Hodgkin's Dse
+Chemo
+Radiation
+Operation
+AB
+4
+
+
+MC
+S/sx:Hodgkin's Lymphoma
+Fever
+Malaise
+Night Sweat
+ABC
+4
+
+

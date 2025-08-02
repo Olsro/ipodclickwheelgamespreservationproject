@@ -1,0 +1,159 @@
+TITLE
+Maebori's English Vocab (Semester 2)
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+15
+
+LOSE
+7
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+not having; being without; lacking the necessities of life; living in complete poverty (adj)
+virile
+destitute
+chaste
+cantankerous
+2
+
+
+MC
+to pass into or through and affect every part of; penetrate and spread through (verb)
+despise
+aspire
+chaste
+permeate
+4
+
+
+MC
+not spoken; implied or inferred (adj)
+tacit
+chaste
+destitute
+virile
+1
+
+
+MC
+the quality of prudent, cautious or showing good judgment (noun)
+barrage
+debacle
+discretion
+repertoire
+3
+
+
+MC
+the range or selection of skills belonging to a person or group (noun)
+nostalgia
+discretion
+repertoire
+barrage
+2
+
+
+MC
+ill-tempered and quarrelsome; disagreeable (adj)
+punctilious
+destitute
+cantankerous
+virile
+3
+
+
+MC
+attentive to detail; precise (adj)
+virile
+punctilious
+chaste
+destitute
+2
+
+
+MC
+morally pure, decent or modest (adj)
+chaste
+virile
+punctilious
+tacit
+1
+
+
+MC
+to strive toward or aim at a goal (verb)
+permeate
+despise
+aspire
+virile
+3
+
+
+MC
+in a mild, gentle or easy-going manner (adv)
+debacle
+virile
+chaste
+affably
+4
+
+
+MC
+an overwhelming, concentrated outpouring of words or blows (noun)
+debacle
+barrage
+repertoire
+nostalgia
+2
+
+
+MC
+a disastrous failure or defeat; fiasco (noun)
+jubilation
+repertoire
+debacle
+discretion
+3
+
+
+MC
+having much energy, vigor or force in a manly way (adj)
+virile
+cantankerous
+punctilious
+destitute
+1
+
+
+MC
+the act of rejoicing or celebrating (noun)
+barrage
+discretion
+repertoire
+jubilation
+4
+
+
+MC
+bittersweet longing for things, persons or situations of the past (noun)
+barrage
+repertoire
+nostalgia
+discretion
+3
+
+

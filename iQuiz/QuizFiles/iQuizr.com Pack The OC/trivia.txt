@@ -1,0 +1,204 @@
+TITLE
+The OC
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+20
+
+LOSE
+5
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What is the first line said in The OC & by who?
+"Welcome to The OC, bitch." -Luke
+"You could do worse." -Sandy
+"I'm your big brother. If I don't teach you this, who will?" -Trey
+"Hey kid. Need any help?" -Ryan
+3
+
+
+MC
+Who does the theme tune 'California' for The OC?
+The Killers
+Phantom Planet
+Death Cab for Cutie
+The Thrills
+2
+
+
+MC
+What is the name of Summer's character in 'Atomic County', the comic book Seth created?
+Little Miss Vixen
+CosmoLass
+Fierce Girl
+Dangerous Diva
+1
+
+
+MC
+What is the name of the Cohen's maid, seen at the start of season 1?
+Rose
+Rosa
+Rosie
+Rosanne
+2
+
+
+MC
+What does Marissa auction at the OC Charity Yard sale, not knowing it belonged to Kirsten's late mother?
+A vintage dress
+A china doll
+A gold necklace
+A silver tea set
+4
+
+
+MC
+Why does Marissa shoot Trey?
+As revenge for trying to rape her
+To save Ryan, as Trey was about to kill him
+Ryan dared her to
+She was high on drugs & didn't know any better
+2
+
+
+MC
+What does Jess have a tattoo of?
+A butterfly
+Three stars
+A buddha smoking a joint
+A skull
+3
+
+
+MC
+What is the name of Seth's beloved plastic horse?
+Captain Oats
+Mister Oak
+Princess Sparkle
+Pancakes
+1
+
+
+MC
+What is the name of Oliver's made-up girlfriend?
+Naomi
+Nina
+Nadine
+Natalie
+4
+
+
+MC
+What does Alex call Seth when he offers to fix her a sandwich?
+Cute
+Annoying
+Nice
+Friendly
+3
+
+
+MC
+Which designer does Julie demand Marissa wears to the Riviera Magazine photoshoot in Season 2?
+Marc Jacobs
+Chanel
+Louis Vuitton
+Vera Wang
+1
+
+
+MC
+Why does Seth want to stay off school in 1.12 - The Secret?
+He has the flu
+He is afraid of facing Summer and Anna
+He forgot to study for a history exam, so he is trying to put it off
+He is trying to be a 'bad boy'
+2
+
+
+MC
+Which rapper guest stars in 2.21 - Return of The Nana at the MVN Spring Break Special?
+Kanye West
+Lupe Fiasco
+Common
+T.I.
+4
+
+
+MC
+Where does Seth 'shop for girlfriends' in 2.04 - The New Era?
+The mall
+The Bait Shop
+His school yearbook
+The beach
+3
+
+
+MC
+What does Taylor try to give Ryan for Christmas in 4.07 - The Chrismukk-huh?
+A kiss
+A George Foreman grill
+A new wifebeater
+A book
+2
+
+
+MC
+What is the name of the bunny Summer gives to Ryan when she leaves for G.E.O.R.G.E. in the final episode?
+Flapjacks
+Cupcake
+Pancakes
+Muffin
+1
+
+
+MC
+What statement that Marissa makes in 2.14 - The Rainy Day Women shocks Julie?
+"I'm pregnant."
+"I'm dropping out of school."
+"Alex is my girlfriend."
+"I'm moving out."
+3
+
+
+MC
+Why does Seth propose to Summer in 4.08 - The Earth Girls Are Easy?
+He realizes he loves her so much that he wants to spend the rest of his life with her.
+He thinks she's pregnant.
+Ryan dared him to.
+He wanted to give her a New Year's Eve she would never forget.
+2
+
+
+MC
+Which blonde-haired airhead starred in Season 1's 'The LA'?
+Jessica Simpson
+Nicole Richie
+Ashley Tisdale
+Paris Hilton
+4
+
+
+MC
+What is the name of the last ever OC episode?
+The Dearly Beloved
+The Graduates
+The End's Not Near, It's Here
+The Final Goodbye
+3
+
+

@@ -1,0 +1,259 @@
+TITLE
+Beer
+
+HIDDEN
+NO
+
+ASK
+6
+
+LOSE
+2
+
+WON MESSAGE
+You won!
+
+LOST MESSAGE
+You lost!
+
+TF
+Lager beers are different from ales in that they are only made in the USA.
+Lager beers are brewed using bottom fermenting yeast and at colder temperatures than ales.
+FALSE
+
+TF
+In the USA, making homemade beer is completely legal.
+TRUE
+
+MC
+Which of the following ingredients is not specified by the Reinheitsgebot of 1516?
+Water
+Hops
+Barley
+Yeast
+4
+
+MC
+The master beer brewer Pierre Celis is originally from what country?
+Germany
+Belgium
+France
+Portugal
+2
+
+TF
+Hops is only a relatively recent addition to traditional beer ingredients.
+TRUE
+
+MC
+The New Belgium Brewing Company is located in what USA state?
+Colorado
+Maine
+Oregon
+Utah
+1
+
+TF
+Beer is the world's oldest form of alcoholic beverage.
+TRUE
+
+MC
+To make beer, yeast eats sugar and produces what two byproducts?
+Alcohol and Carbon dioxide
+Mash and Wort
+Hops and Nitrogen
+1
+
+TF
+Monks are allowed to make beer.
+TRUE
+
+TF
+Lambic beer uses wild yeast instead of cultivated yeast.
+TRUE
+
+MC
+Schneider Weiss is produced in what country?
+USA
+Germany
+Belgium
+2
+
+MC
+Who is the creator of Hoegaarden White?
+Frederick Miller
+Adolphus Busch
+Adolph Coors
+Pierre Celis
+4
+
+TF
+Guinness uses nitrogen in addition to carbon dioxide for achieving its creamy head.
+TRUE
+
+TF
+Hefeweizen is a style of beer using only malted barley.
+Hefeweizen is a German wheat beer that does not filter out its yeast.
+FALSE
+
+TF
+Fat Tire beer is named from a bicycle trip the brewery founder, Jeff Lebesch, took through Belgium.
+TRUE
+
+MC
+Which of the following is not a beer produced by the New Belgium Brewing Company?
+1554
+Fat Tire
+Abbey du Leffe
+Sunshine Wheat
+3
+
+TF
+Skinny Dip is the name of a New Belgium Brewing Company seasonal beer.
+TRUE
+
+TF
+Clint Eastwood had a beer made for him named "The Beer With No Name".
+Clint Eastwood's beer was named "Pale Rider" and produced by the (now defunct) Celis Brewery.
+FALSE
+
+MC
+Which of the following is not the name of an Abita beer?
+Purple Haze
+Turbodog
+Golden
+Amber Weizen
+4
+
+TF
+Billy Beer was homemade by Billy Carter.
+FALSE
+
+MC
+Which of the following beers does not come in a corked bottle?
+Chimay
+Grottenbier
+Lindemans Framboise
+Paulaner Salvator
+4
+
+TF
+The Hacker-Pschorr brewery has history dating back to 1417.
+TRUE
+
+MC
+Which of the following breweries is the oldest in the world?
+Hacker-Pschorr
+Weinstephaner
+Paulaner
+St. James's Gate
+2
+
+MC
+Red Stripe beer comes from what country?
+Canada
+Jamaica
+USA
+Italy
+2
+
+MC
+Peroni beer comes from what country?
+Canada
+Jamaica
+USA
+Italy
+4
+
+MC
+Steam Whistle beer comes from what country?
+Canada
+Jamaica
+USA
+Italy
+1
+
+MC
+Anchor Steam beer comes from what country?
+Canada
+Jamaica
+USA
+Italy
+3
+
+MC
+Which brewery makes the famed Guinness beer?
+Harp
+St. James's Gate
+Greene King
+St. Francis Abbey
+2
+
+TF
+The porter style of beer originated from Italy.
+Porter beers originated from London, England.
+FALSE
+
+TF
+A porter beer style is light to amber in color with a negligible hop aroma.
+A porter is dark in color and often brewed using soft water instead of hard water.
+FALSE
+
+TF
+St. Arnold is the patron saint of beer.
+King Gambrinus is the patron saint of beer.  St. Arnold is the patron saint of brewing.
+FALSE
+
+TF
+The world's oldest trademark (registered in 1876) is the Bass symbol, a red triangle.
+TRUE
+
+TF
+A typical 12 oz. beer has fewer calories than 2% milk and contains no fat or cholesterol.
+TRUE
+
+TF
+The proper temperature to serve a beer is 36ºF, almost ice cold.
+Cold temperatures shock and paralize taste buds.  To taste beer properly, it should be slightly cool.
+FALSE
+
+MC
+What is the oldest brewery in the USA?
+Anchor Brewing Company
+Anheuser-Busch
+D.G. Yuengling & Son
+Pabst
+3
+
+MC
+Zymurgy is the science pertaining to what topic?
+Fermentation
+Drinking
+Beer
+1
+
+TF
+A steam beer is one that uses a bottom fermenting lager style yeast but is brewed at warmer ale temperatures.
+TRUE
+
+MC
+Which of the following is the original pilsner beer?
+Pilsner Urquell
+Paulaner Pils
+Budweiser
+Staropramen Premium Lager
+1
+
+TF
+The maibock style of beer is traditionally served in the warm summer months.
+Maibock is usually served in the springtime, and its name is attributed to the month of May.
+FALSE
+
+MC
+Which beer was the first Oktoberfest beer?
+Spaten Oktoberfest
+Augustiner Bräu Oktoberfestbier
+Paulaner Oktoberfest Bier
+Hofbräu Oktoberfestbier
+1
+

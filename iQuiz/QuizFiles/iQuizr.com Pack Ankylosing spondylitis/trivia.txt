@@ -1,0 +1,96 @@
+TITLE
+Ankylosing spondylitis
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+8
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+ankylosing spondylitis, definition
+inflammatory dse begins in the lower back and progresses up the spine to the neck
+stiffness and limited motion of the lumbar spine
+A and B
+
+3
+
+
+MC
+Describe the spine in ankylosing spondylitis
+bamboo spine
+curved spine
+
+
+1
+
+
+MC
+It strongly suggest ankylosing spondylitis
+HLA-B27
+HLB_B28
+HLB-B26
+
+1
+
+
+MC
+does family hx of A. Spondylitis contribute to the dse?
+True
+false
+
+
+1
+
+
+MC
+Why is it anti inflammatory agents very impt for A. spondylitis
+to reduce inflammation of the airways
+to control pain and inflammation
+
+
+2
+
+
+MC
+Nsg/interventions for A. Spondylitis
+Promote good posture,stretching
+deep breathing exercises
+braces and lightwt support
+all of the above
+4
+
+
+MC
+for pain:
+LOcal heat
+provide massage
+A and B
+
+3
+
+
+MC
+IN ankylosing spondylitis, assess:
+pain
+mobility
+degree of discomfort
+all of the above
+4
+
+

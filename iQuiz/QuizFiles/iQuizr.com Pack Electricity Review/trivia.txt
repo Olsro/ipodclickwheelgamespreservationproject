@@ -1,0 +1,258 @@
+TITLE
+Electricity Review
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+26
+
+LOSE
+4
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+A circuit that has two or more separate branches for a current is a?
+Series Circuit
+Parallel Circuit
+Circuit Diagram
+Electron Circuit
+2
+
+
+MC
+The statement, current is equal to the voltage difference divided by the resistance, is known as
+Ohm's Law
+Newton's Law
+Einstein's Equation
+Faraday's Law
+1
+
+
+MC
+A static discharge differs from an electric current in that a static discharge
+is a flow of electrons
+lasts for only a fraction of a second
+results because a force is exerted on the electrons
+involves the movement of ions as well as electrons
+2
+
+
+MC
+Resistance is measured in a unit called the
+Ampere
+Volt
+Ohm
+Coulomb
+3
+
+
+MC
+The rate at which an electrical device converts energy from one form to another is called
+Electrical Energy
+Electrical Resistance
+Electrical Power
+Voltage Regulation
+2
+
+
+MC
+A Path that allows only one route for a current is called a
+Series Current
+Parallel Current
+Parallel Circuit
+Series Circuit
+4
+
+
+MC
+Which of the following is the correct relationship among power, current, and voltage?
+P=I/V
+V=P x I
+P= I x V
+&#937;= P x I
+3
+
+
+MC
+A television that requires an average of 0.40 ampere of current is operated on a 120-volt service for 5.0 hours. How much energy is used?
+1.5 kWh
+0.15 kWh
+0.24 kWh
+0.67 kWh
+3
+
+
+MC
+One source of constant electric current is a
+Switch
+Transformer
+Dry Cell
+Coulomb
+3
+
+
+MC
+A Material through which electrons do not move easily is a (n) _____
+Transformer
+Insulator
+Conductor
+Fuse
+2
+
+
+MC
+Lightning is
+A very large discharge of static electricity
+A buildup of neutrons
+A low voltage electric current
+Harmless
+1
+
+
+MC
+The voltage _____  as current moves through a circuit.
+Remains the same
+Varies
+Doubles
+Increases
+2
+
+
+MC
+Which of the following is a device designed to open an overloaded circuit and prevent overheating?
+Transformer
+Magnet
+Resistor
+Circuit Breaker
+4
+
+
+MC
+The wise and careful use of energy resources is called
+Utilization
+Conservation
+Fuel Economy
+Recycling
+2
+
+
+MC
+Petroleum, natural gas, and coal are the three kinds of
+Nuclear Wastes
+Synthetic fuels
+Fossil Fuels
+Nuclear Fuels
+3
+
+
+MC
+The type of fossil fuel that forms only from the remains of plants is
+Crude oil
+Coal
+Natural Gas
+Uranium
+3
+
+
+MC
+Devices that use semiconductors to produce electricit from solar energy are
+Photometers
+Flash Bulbs
+Fuel Cells
+Photovoltaic Cells
+2
+
+
+MC
+Electricity produced by falling water is called
+Tidal Energy
+Hydroelectricity
+Thermodynamics
+Geothermal Energy
+2
+
+
+MC
+Water that flows due to the gravitational forces among Earth, the Moon, and the Sun has energy referred to as
+Tidal Energy
+Hydroelectricity
+Solar Energy
+Geothermal
+1
+
+
+MC
+Which of the following is common to both nuclear fusion and nuclear fission?
+The fuel must be in the plasma state
+Temp. over on million degrees Celsius are needed for the reaction to occur
+Matter is converted into energy
+A chain reaction is needed to start the reaction
+4
+
+
+MC
+Which of the following is an example of a nonrenewable source of energy?
+Coal
+Wind
+the Sun
+Water
+1
+
+
+MC
+The most abundant fossil fuel is
+Petroleum
+Natural Gas
+Coal
+Uranium-283
+3
+
+
+MC
+Renewable organic matter, such as wood and rice hulls, are examples of
+Biomass
+Nuclear Fuels
+Fossil Fuels
+Fission Products
+1
+
+
+MC
+Which of the following is a major problem with developing a fusion reactor?
+Maintaining very high temperatures
+Obtaining Fuel
+Producing Radioactive wastes
+Disposing of radioactive wastes
+2
+
+
+MC
+Petroleum is separated into gasoline, lubrication oils, and other products through a process called
+Nuclear Reaction
+Combustion
+Fractional Distillation
+Condensation
+3
+
+
+MC
+One Reason alternative energy sources are needed is because
+There is no limit to the supply of fossil fuels
+The Supply of fossil fuels is diminishing
+The energy needs of the world are decreasing
+The pop. of the world is decreasing
+2
+
+

@@ -1,0 +1,78 @@
+TITLE
+Test
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+6
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Hvad er en katapult
+Et Sværd
+En Belejringsmaskine
+En Økse
+En Bog
+2
+
+
+MC
+Hvad Er Fibonacci-Talrækken
+2-1-3-2-4-3-5.
+1-2-3-5-8-13-21.
+2-4-16-256.
+1-2-4-8-16-32-64.
+2
+
+
+MC
+Hvad Er Et Anagram
+Det Samme Som Et Diagram
+Latinsk Ord For Diagram
+Der Står Det Samme Under Som Over
+Alfabetet På Latinsk
+3
+
+
+MC
+Hvad Er Bjørn Borg
+Et Tøjmærke
+Et Undertøjsmærke
+En Tennis-Spiller
+En Badminton-Spiller
+1
+
+
+MC
+Hvad Er 100 Kroner I 25 Øre
+1000, 25 Øre
+500, 25 Øre
+400, 25 Øre
+100, 25 Øre
+3
+
+
+MC
+Hvad Betyder ''Et Tveægget Sværd''
+Et Sværd Der Er Skarp På Begge Sider
+Et Sværd Med 2 Blodrender
+Et Sværd Med 2 Skarpe Spidser
+Et Sværd Med 2 Sløve Spidser
+1
+
+

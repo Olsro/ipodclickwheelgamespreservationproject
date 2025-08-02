@@ -1,0 +1,91 @@
+TITLE
+TV Sayings
+
+HIDDEN
+NO
+
+ASK
+4
+
+LOSE
+2
+
+WON MESSAGE
+You won!
+
+LOST MESSAGE
+You lost!
+
+MC
+Where's the _______?
+Remote Control
+Beef
+Candy
+2
+
+MC
+_______ it does the body good.
+Exercise
+Love
+Milk
+3
+
+MC
+_______ the other white meat.
+Chicken
+Fish
+Pork
+Beef
+3
+
+MC
+What you _______ 'bout Willis?
+Talking
+Jiving
+Asking
+1
+
+MC
+Help!  I've _______ and can't get up!
+Eaten
+Slipped
+Fallen
+3
+
+MC
+How many _______ does it take to get to the Tootsie Roll center of a Tootsie Pop?
+Dollars
+Ice Picks
+Owls
+Licks
+4
+
+MC
+C'mon down, you're the next _______ on the Price Is Right!
+Victim
+Contestent
+Loser
+2
+
+MC
+You killed Kenny!  You _______!
+Idiots
+Bastards
+Criminals
+Murderers
+2
+
+MC
+Scooby-_______-Doo
+Scrappy
+Doobie
+Sleepy
+2
+
+MC
+Yabba Dabba _______
+Doo!
+Doh!
+Dum!
+1
+

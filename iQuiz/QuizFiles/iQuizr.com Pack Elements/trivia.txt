@@ -1,0 +1,204 @@
+TITLE
+Elements
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+20
+
+LOSE
+0
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What is Element 1?
+H Hydrogen
+B-Boron
+Zn-Zinc
+Si-Silicon
+1
+
+
+MC
+What is Element 2?
+N-Nitrogen
+He-Helium
+Ne-Neon
+C-Carbon
+2
+
+
+MC
+What is Element 3?
+B-Boron
+Li-Lithium
+Be-Berylium
+Na-Sodium
+2
+
+
+MC
+What is Element 4?
+Be-Berlyium
+Be-Berylium
+Be-Beryllium
+Be-Berilium
+3
+
+
+MC
+What is Element 5?
+B-Boron
+S-Sulfer
+Mg-Magnesium
+O-Oxygen
+1
+
+
+MC
+What is Element 6?
+C-Carbon
+N-Nitrogen
+Cl-Chlorine
+Ar-Argon
+1
+
+
+MC
+What is Element 7?
+O-Oxygen
+C-Carbon
+N-Nitrogen
+Ne-Neon
+3
+
+
+MC
+What is Element 8?
+C-Carbon
+N-Nitrogen
+O-Oxygen
+B-Boron
+3
+
+
+MC
+What is Element 9?
+Si-Silicon
+F-Fluorine
+Cl-Chlorine
+Ca-Calcium
+2
+
+
+MC
+What is Element 10?
+Ne-Neon
+Ca-Calcium
+Mg-Magnesium
+Cu-Copper
+1
+
+
+MC
+What is Element 11?
+P-Phosphorus
+Na-Sodium
+O-Oxygen
+Be-Beryllium
+2
+
+
+MC
+What is Element 12?
+S-Sulfer
+Si-Silicon
+Mg-Magnesium
+F-Fluorine
+3
+
+
+MC
+What is Element 13?
+Al-Aluminum
+S-Sulfer
+Cl-Chlorine
+Ne-Neon
+1
+
+
+MC
+What is Element 14?
+B-Boron
+C-Carbon
+F-Fluorine
+Si-Silicon
+4
+
+
+MC
+What is Element 15?
+O-Oxygen
+P-Phosphorus
+S-Sulfer
+Cl-Chlorine
+2
+
+
+MC
+What is Element 16?
+Cl-Chlorine
+S-Sulfer
+Si-Silicon
+As-Arsenic
+2
+
+
+MC
+What is Element 17?
+P-Phosphorus
+S-Sodium
+S-Sulfer
+Cl-Chlorine
+4
+
+
+MC
+What is Element 18?
+Li-Lithium
+Ar-Argon
+S-Sulfer
+P-Phosphorus
+2
+
+
+MC
+What is Element 19?
+K-Potassium
+Mg-Magnesium
+Cl-Chlorine
+C-Carbon
+1
+
+
+MC
+What is Element 20?
+Si-Silicon
+S-Sulfer
+Ca-Calcium
+As-Arsenic
+3
+
+

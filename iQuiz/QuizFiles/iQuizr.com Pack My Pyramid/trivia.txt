@@ -1,0 +1,69 @@
+TITLE
+My Pyramid
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+5
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+The food guide pyramid is a visual representation of what?
+American Guide to Good Health
+United State Department of Nutrition
+Dietary Guidelines
+My Mother's Opinion
+3
+
+
+MC
+Which food group is represented by the color red on the new food guide pyramid?
+vegetables
+fruit
+fats
+dairy
+2
+
+
+MC
+What was added to the newest food guide pyramid that was not on the old one?
+fats
+exercise
+protein
+it looks exactly the same
+2
+
+
+MC
+Which food group do you need the most of?
+fats
+protein
+dairy
+grains
+4
+
+
+MC
+How many food groups are found on the food guide pyramid?
+6
+3
+5
+8
+1
+
+

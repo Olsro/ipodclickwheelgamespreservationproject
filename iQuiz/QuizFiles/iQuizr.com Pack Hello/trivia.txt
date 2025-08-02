@@ -1,0 +1,69 @@
+TITLE
+Hello
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+5
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Whats my name?
+John
+Greg
+Darcy
+Hamish
+3
+
+
+MC
+I am how many years old?
+12
+13
+14
+15
+4
+
+
+MC
+I have a how many gig iPod?
+4
+80
+30
+1
+2
+
+
+MC
+What is my fav colour?
+Green
+Blue
+Yellow
+Red
+2
+
+
+MC
+Whats A+B+C?
+I don't know ABC
+348765964`
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+1
+1
+
+

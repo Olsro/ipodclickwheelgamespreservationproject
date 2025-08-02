@@ -1,0 +1,132 @@
+TITLE
+Thoracic Aortic Aneurysm
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+12
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+this type of aneurysm has a severe, boring, and rippng  and extending  to the neck,shoulder, lower back and abdomen pain?
+ascending aneurysm
+descending aneurysm
+Transverse aneurysm
+
+1
+
+
+MC
+this type of aneurysm has a sharp and tearing pain
+ascending aneurysm
+descending aneurysm
+Transverse aneurysm
+
+2
+
+
+MC
+this type of aneurysm has a sharp and tearing pain radiating to shoulders and has dyspnea
+ascending aneurysm
+descending aneurysm
+Transverse aneurysm
+
+3
+
+
+MC
+the definitive test that shows the lumen of the aneurysm ,its size and location and the false lumen in a dissecting aneurysm
+Arteriography
+cardiography
+aortagraphy
+
+3
+
+
+MC
+what does the CXR show?
+widened mediastenium
+widening of the aorta
+cardiomegaly
+
+2
+
+
+MC
+what is the graft replacement that used in resection  of the aneurysm
+Dacron
+Tefron
+Teflon
+A and C
+4
+
+
+MC
+In thoracic aortic aneurysm, what is the analgesic that is usually used?
+Ibufrofen
+Morphine
+
+
+2
+
+
+MC
+In thoracic aortic aneurysm, what is the negative inotrophic that is usually used?
+Ibufrofen
+Morphine
+propanolol Inderal
+
+3
+
+
+MC
+In monitoring nitroprusside IV infusion rate, is it supposed to use a separate IV line for infusion
+True
+false
+
+
+1
+
+
+MC
+Describe the TAA.. Is it widening of what part of the aorta
+ascending
+descending
+Transverse
+All of the above
+4
+
+
+MC
+what is the key assessment finding ith thoracic aortic aneurysm
+stomachache
+PAin
+increased RR
+
+2
+
+
+MC
+To adequately replace deficient fluid volume, what is supposed to do?
+Give a lot of fluids
+monitor urine output
+give a whole blood transfusion
+
+3
+
+

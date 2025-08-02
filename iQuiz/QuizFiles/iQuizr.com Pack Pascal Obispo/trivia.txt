@@ -1,0 +1,105 @@
+TITLE
+Pascal Obispo
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+9
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+En quelle année est né Pascal ?
+1963
+1964
+1965
+1966
+3
+
+
+MC
+Quel est le prénom de son fils ?
+Michel
+Lucas
+Mathieu
+Sean
+4
+
+
+MC
+Sous quel personnage revient t-il ?
+Captain Samouraï Flower
+Capitaine samourai Flower
+Capitaine Samourai Flowers
+Captain Samourai Flowers
+1
+
+
+MC
+Comment s'appelle son dernier album ?
+Welcome to the magic world of Captain Samourai Flowers
+Welcome to the magic world
+Welcome at my home
+Autre
+1
+
+
+MC
+De quel groupe humanitaire fait-il partie ?
+les tarés
+les bronzés
+les enfoirés
+les abrutis
+3
+
+
+MC
+Où est t-il né ?
+Nice
+Bordeaux
+Metz
+Bergerac
+4
+
+
+MC
+Comment s'appelle son père ?
+Max Obispo
+Patrick Obispo
+Philippe Obispo
+François Obispo
+1
+
+
+MC
+Quelle équipe de foot supporte t-il ?
+Marseille
+Lyon
+Saint-Etienne
+Bordeaux
+4
+
+
+MC
+Quel est l'annagramme de son Nom et Prénom ?
+Pablo Picasso
+Pablo Piscasso
+
+
+1
+
+

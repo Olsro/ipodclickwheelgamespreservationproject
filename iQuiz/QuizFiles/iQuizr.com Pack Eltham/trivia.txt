@@ -1,0 +1,114 @@
+TITLE
+Eltham
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What is Eltham's icon?
+Sky Tower
+Big Cheese
+Huge Carrot
+Big Gumboot
+2
+
+
+MC
+Where is Eltham located?
+45km Sout of New Plymouth
+65km West of New Plymouth
+130km North of New Plymouth
+50km South of New Plymouth
+4
+
+
+MC
+Why does Eltham have a big cheese?
+It is a painted water reservoir
+They wanted to put it there
+It was randomly placed there
+Cheese lovers put it there
+1
+
+
+MC
+Eltham was the first town to have a water reservoir?
+Yes
+no
+
+
+2
+
+
+MC
+Around how many people does Eltham have?
+Around 3000 people
+Around 2100 people
+Around 600 people
+Around 900 people
+2
+
+
+MC
+The classic pound butter was made in Eltham?
+yes
+no
+
+
+1
+
+
+MC
+What is Eltham's cheese known as?
+Holey cheddar
+THE BIG CHEESE
+cheeseeey
+yellow chedder
+1
+
+
+MC
+Eltham held the first ever world Axemens carnival?
+no
+yes
+
+
+2
+
+
+MC
+What does the name Eltham mean?
+Old house, Castle or dwelling
+Food
+Cows, dogs and animals
+cheese
+1
+
+
+MC
+Eltham is known as...?
+The town of food
+The town of Firsts
+The town of people
+The town of houses
+3
+
+

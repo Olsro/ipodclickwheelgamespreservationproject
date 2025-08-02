@@ -1,0 +1,141 @@
+TITLE
+Geology TYK C-3
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+13
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+A surface seperating different rock types is called a
+xenolith
+contact
+chill zone
+none of the proceding
+2
+
+
+MC
+The major difference between intrusive igneous rocks and extrusive igneous rocks is
+where they solidify
+chemical composition
+type of minerals
+all of the preceding
+1
+
+
+MC
+Which is not an instrusive igneous rock?
+gabbro
+diorite
+granite
+andesite
+4
+
+
+MC
+By definition, stocks differ from batholiths in
+size
+shape
+chemical composition
+all of the preceding
+1
+
+
+MC
+Which is not a source of heat for melting rock?
+geothermal gradient
+the hotter mantle
+mantle plumes
+water under pressure
+4
+
+
+MC
+The geothermal gradient is, on the average, about
+1 degree C/km
+10 degrees C/km
+30 degrees C/km
+50 degrees C/km
+3
+
+
+MC
+The continuous branch of Bowen's reaction series contains the mineral
+pyroxene
+plagioclase
+amphibole
+biotite
+2
+
+
+MC
+The discontinuous branch of Bowen's reaction series contains the mineral
+pyroxene
+amphibole
+biotite
+all of the preceding
+4
+
+
+MC
+The most common igneous rock of the continents is
+basalt
+granite
+rhyolite
+ultramafic
+2
+
+
+MC
+Granitic magmas are associated with
+convergent boundaries and magmatic underplating
+divergent boundaries nad differentiation
+convergent boundaries and decompression melting
+divergent boundaries and water release
+1
+
+
+MC
+The difference in texture between intrusive and extrusive rock is primarily due to
+different mineralogy
+different rates of cooling and crystalization
+different amounts of water in the magma
+
+2
+
+
+MC
+Mafic magma is generated at divergent boudaries because of
+water under pressure
+decompression melting
+magmatic underplating
+melting of the lithosphere
+2
+
+
+MC
+A change in magma composition due to melting of surrounding country rock is called
+magma mixing
+assimilation
+crystal setting
+partial melting
+2
+
+

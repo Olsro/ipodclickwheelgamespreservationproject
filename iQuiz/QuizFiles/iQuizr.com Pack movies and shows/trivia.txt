@@ -1,0 +1,87 @@
+TITLE
+movies and shows
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+7
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Which film won the most academy awards in this list in 2009
+Avatar
+Hurt Locker
+Ghostbusters
+Up
+2
+
+
+MC
+Who played the joker in the Dark Knight?
+Heath Ledger
+Jack Nicholson
+The Joker
+Johnny Depp
+1
+
+
+MC
+What 1987 film starred Eddie Murphy?
+Cops
+Moonstruck
+Haunted Mansion
+Beverly Hills Cop 2
+4
+
+
+MC
+How long was the tv show M*A*S*H on for?
+25 seasons
+2 seasons
+11 seasons
+a day
+1
+
+
+MC
+The Hurt Locker star Jeremy Renner wanted what to be real in the film The Hurt Locker?
+Bomb
+Bomb suit
+Guns
+Real deaths
+2
+
+
+MC
+The Hurt Locker star Jeremy Renner played in what 2003 film
+Cops
+S.W.A.T
+Gone with the Wind
+Police
+2
+
+
+MC
+What's the longest running kid's sitcom show in this list of shows?
+Simpsons
+Rugrats
+Mister Roger's Neighborhood
+Muppet babies
+3
+
+

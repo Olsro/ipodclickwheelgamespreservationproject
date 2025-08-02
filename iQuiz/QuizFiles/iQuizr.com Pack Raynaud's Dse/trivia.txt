@@ -1,0 +1,105 @@
+TITLE
+Raynaud's Dse
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+9
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+RD is char by episodes of vasospasm  in the small peripheral artery and arterioles
+True
+false
+
+
+1
+
+
+MC
+population that most prevalent in Reynaud's Dse
+gay
+men
+women
+
+3
+
+
+MC
+age for RD
+50 and above
+puberty and age 40
+10-25 yrs old
+
+2
+
+
+MC
+How are  tingling and numbness being relieved
+Cold
+warmth
+medication
+
+2
+
+
+MC
+in Reynaud's Dse, what happens to the skin on the fingers?
+numb
+inflamed
+blanched
+
+3
+
+
+MC
+It reveals vasospasm
+arteriogram
+arteriography
+
+
+2
+
+
+MC
+Surgery for Reynaud's Dse
+Sympathectomy
+peridectomy
+
+
+1
+
+
+MC
+Diltiazem Cardizem and nifedipine Procadia is what kind of med?
+ANtibiotics
+Antiaarhythmics
+CAlcium Channel Blockers
+
+3
+
+
+MC
+These type of drugs are typically used in RD bec the adverse effects may be more bothersome than the dse itself
+Anticoagulants
+Acetaminophen
+CAlcium Channel Blockers
+vasodilator
+4
+
+

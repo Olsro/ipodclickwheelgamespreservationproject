@@ -1,0 +1,132 @@
+TITLE
+Lung Cancer
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+12
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+CHAW means;s/sx  of lung Ca
+Cough Hemoptysis
+Anorexia
+Weight loss
+all of the above
+4
+
+
+MC
+CXR shows in lung ca..
+lesion/mass
+damaged cells
+divided lungs
+
+1
+
+
+MC
+It is a resection of the affected lobe
+pneumonectomy
+Lobectomy
+
+
+2
+
+
+MC
+It is a resection of the affected lung
+pneumonectomy
+Lobectomy
+
+
+1
+
+
+MC
+development of neoplasm is caused by?
+unregulated cell growth
+uncontrolled cell division
+A and B
+
+3
+
+
+MC
+Type of lung Ca:slow growing Ca that originates from bronchial epithelium
+squamous cell (epidermoid)
+adenocarcinoma
+Large cell anaplastic
+small cell OAT CELL Ca
+1
+
+
+MC
+Type of lung Ca:located in peripheral areas of the lungs. IT metastasize through the bloodstream to other organs
+squamous cell (epidermoid)
+adenocarcinoma
+Large cell anaplastic
+small cell OAT CELL Ca
+2
+
+
+MC
+Type of lung Ca:Very fast growing Ca
+squamous cell (epidermoid)
+adenocarcinoma
+Large cell anaplastic
+small cell OAT CELL Ca
+3
+
+
+MC
+Type of lung Ca:Very fast growing Ca that metastazise through lymph vessels
+squamous cell (epidermoid)
+adenocarcinoma
+Large cell anaplastic
+small cell OAT CELL Ca
+4
+
+
+MC
+Diet for lung CA
+High calorie
+high protein
+small F meals
+all of the above
+4
+
+
+MC
+A low WBC increases the risk of what?
+TB
+Lung CA
+Infection
+Bronchopneumonia
+3
+
+
+MC
+In pt receiving Chemo,make sure to reduce the risk of what?
+ABd pain
+Back pain
+contamination
+Stomatitis
+4
+
+

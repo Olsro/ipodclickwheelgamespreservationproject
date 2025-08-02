@@ -1,0 +1,114 @@
+TITLE
+Arterial Occlussive Dse
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Is Arterial Occlussive Dse more common in males than in Woman?
+True
+false
+
+
+1
+
+
+MC
+characteristic of femoral, popliteal or innominate arteries
+Mottling of the extremity
+Pallor, paralysis, paresthesia
+Pulselessness,pain
+All of the above
+4
+
+
+MC
+It is characterized  by the backflow of blood from the brain through the vertebral artery on the same side
+Subclavian syndrome
+Sublavian artery
+subclavian Steel Syndrome
+
+3
+
+
+MC
+Dx Test for Arterial Occlussive Dse
+Arteriography
+Doppler Ultrasonography
+A and B
+
+3
+
+
+MC
+It demonstrates the type, location and degree of obstruction and collateral circulation
+Doppler Ultrasonography
+Arteriography
+Angioplasty
+
+2
+
+
+MC
+It shows decreased blood flow  distal to the occlusion
+Doppler Ultrasonography
+Arteriography
+Angioplasty
+
+1
+
+
+MC
+Thrombolytic agents for arterial occlussive Dse
+digoxin
+alteplase(activase)
+streptokinase(streptase)
+B and C
+4
+
+
+MC
+Tx for Arterial Occlussive Dse
+Atherectomy
+angioplasty
+Bypass graft
+All of the above
+4
+
+
+MC
+N/I for Arterial Occlussive Dse preoperatively
+assess pt's crculatory status
+Administer heparin by cont IVdrip, using an infusion pump
+watch for s/sx of fluid and electrolyte imbalance
+All of the above
+4
+
+
+MC
+How are u going to assess the circ status of the the pt
+check the BP
+Check the skin color and temp
+check the most distal pulses
+B and C
+4
+
+

@@ -1,0 +1,87 @@
+TITLE
+Keith
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+7
+
+LOSE
+5
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What is his last name?
+Wolcott
+Smith
+Williams
+Adams
+1
+
+
+MC
+Which of these is not a song by him?
+Say No To Oreos
+We Are Here
+Billy The Bad Brown Dog
+What Now
+1
+
+
+MC
+How many pets does he have?
+1
+2
+3
+4
+1
+
+
+MC
+What is his 4th period?
+Mr. Justice
+Mrs. Edwards
+Mrs. Dunklin
+Mrs. Thomas
+1
+
+
+MC
+What song has Keith danced to?
+Hot n Cold
+Milkshake
+Where Have You Been
+Don't Trust Me
+1
+
+
+MC
+What year was he born in?
+1996
+1995
+1997
+Skip and get wrong
+1
+
+
+MC
+Shine bright like a
+diamond
+ring
+light
+skip and get wrong
+1
+
+

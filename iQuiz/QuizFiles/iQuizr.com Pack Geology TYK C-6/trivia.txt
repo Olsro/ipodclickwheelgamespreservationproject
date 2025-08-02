@@ -1,0 +1,150 @@
+TITLE
+Geology TYK C-6
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+14
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Particles of sediment from 1/16  to 2 millimeters in diameter are of what size?
+gravel
+sand
+silt
+clay
+1
+
+
+MC
+Rounding is
+The rounding of a grain to a spherical shape
+the grinding away of sharp edges and corners of rock fragments during transportation
+a type of mineral
+none of the proceding
+2
+
+
+MC
+Compaction and cementation are two common processes of
+erosion
+transportation
+deposition
+lithification
+4
+
+
+MC
+Which is not a chemical or organic sedimentary rock?
+rock salt
+shale
+limestone
+gypsum
+2
+
+
+MC
+The major difference between breccia and conglomerate is
+size of grains
+rounding of the grains
+composition of grains
+all of the preceding
+2
+
+
+MC
+Which is not a type of sandstone?
+quartz sandstone
+arkose
+graywacke
+coal
+4
+
+
+MC
+shale differs from mudstone in that
+shale has larger grain
+shale is visibly layered and fissile; mudstone is massive and blocky
+shale has smaller grains
+there is no difference between shale and mudstone
+2
+
+
+MC
+The chemical element found in dolomite not found in limestone is
+Ca
+Mg
+composite
+O
+2
+
+
+MC
+In a graded bed, the particle size decreases
+upward
+downward
+in the direction of the current
+particle size stays the same
+1
+
+
+MC
+A body or rock of considerable thickness with characteristics that distinguish it from adjacent rock units is calles a/an
+formation
+contace
+bedding plane
+outcrop
+1
+
+
+MC
+If sea level drops or the land rises, what is likely to occur?
+a flood
+a regression
+a transgression
+no geologic change will take place
+2
+
+
+MC
+Think accumulations of graywacke and volcanic sediments can indicate an ancient
+divergent plate boundary
+convergent boundary
+transform boundary
+
+2
+
+
+MC
+A sedimentary rock made of fragments of preexisting rocks is
+organic
+chemical
+clastic
+
+3
+
+
+MC
+Clues to the nature of the source area of sediment can be found in
+the composition of the sediment
+sedimentary structures
+rounding of sediment
+all of the preceding
+1
+
+

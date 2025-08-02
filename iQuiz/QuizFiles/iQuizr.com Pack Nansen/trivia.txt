@@ -1,0 +1,150 @@
+TITLE
+Nansen
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+14
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+What is Nansen's name?
+Nansen
+Trevor
+Adolf
+Nansen
+1
+
+
+MC
+What is Nansen's favourite animal?
+Llama
+Trevor
+Dolphin
+Penguin
+4
+
+
+MC
+What is Nansen's Favourite number?
+14
+Trevor
+23
+69
+3
+
+
+MC
+What is Nansen's favourite letter?
+A
+Trevor
+Z
+N
+4
+
+
+MC
+What is Nansen Scared of?
+Homosexuals
+Trevor
+Flying things
+Jesus
+3
+
+
+MC
+How does Nansen release his Awesome?
+Has Some Fun with his hand
+Trevor
+It oozes out of through his skin
+though fecal matter
+3
+
+
+MC
+When was Nansen born?
+23rd November 1992
+Trevorth Trevor 199trevor
+23/11/1992
+11/23/92
+1
+
+
+MC
+On the 16th of June every year, something happens to Nansen. What is it?
+Explode
+Trevor
+Nothing
+Turns into a goose
+3
+
+
+MC
+How long has Nansen been Awesome for?
+15 years
+Trevor
+2008 years
+6 months
+1
+
+
+MC
+What is the meaning of Nansen?
+42
+Trevor
+A really awesome person.
+A north American mammal, similar to a moose, that often eats rabbits.
+3
+
+
+MC
+Whats the serial number for my Gameboy Color?
+CH1 3852895
+Trevor
+CH1 58437388
+CH1 58672093
+1
+
+
+MC
+How many times has Nansen turned super saiyan?
+23
+Trevor
+0
+1
+4
+
+
+MC
+What is the phonetic Spelling on Nansen?
+N-an-s-en
+Tr-e-v-or-r
+N-un-z-an
+N-an-s-on
+1
+
+
+MC
+Trevor Trevor Trevor Trevor Trevor?
+Trevor
+Trevor
+Trevor
+Trevor
+2
+
+

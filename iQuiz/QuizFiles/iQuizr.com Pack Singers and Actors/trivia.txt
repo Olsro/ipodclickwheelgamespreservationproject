@@ -1,0 +1,114 @@
+TITLE
+Singers and Actors
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Who plays Xeva David on NCIS?
+Pauley Perrette
+Cote de Pablo
+Jennifer Lopez
+Mariska Hargitay
+2
+
+
+MC
+Who won the very first season of American Idol?
+Jordin Sparks
+Carrie Underwood
+Kelly Clarkson
+Kellie Pickler
+3
+
+
+MC
+What YouTube sensation came out with her hit single "Friday" in 2011?
+Savannah Outen
+Jennifer Chung
+Erika David
+Rebecca Black
+4
+
+
+MC
+Which of these celebrities is NOT a vegetarian?
+Selena Gomez
+Miley Cyrus
+Meatloaf
+Zendaya
+1
+
+
+MC
+What breakout actress starred as Ramona in the 2010 film "Ramona and Beezus"?
+Jordanna Beatty
+Abigail Breslin
+Sierra McCormick
+Joey King
+4
+
+
+MC
+Which movie did Beyonce star in in 1997?
+Romy and Michelle's High School Reunion
+My Best Friend's Wedding
+Austin Powers: International Man of Mystery
+As Good As It Gets
+3
+
+
+MC
+What band won the 2011 Kid's Choice Award for Favorite Band?
+The Black-Eyed Peas
+Lady Antebellum
+Jonas Brothers
+Selena Gomez & The Scene
+1
+
+
+MC
+What rapper interrupted Taylor Swift's acceptance speech at the 2009 VMA's?
+Jay-Z
+Kanye West
+SnoopDog
+Pitbull
+2
+
+
+MC
+"Price Tag" singer, Jessie J, wrote what hit song that was sung by another artist?
+Rolling In The Deep by Adele
+Perfect by P!nk
+Born This Way by Lady Gaga
+Party in the USA by Miley Cyrus
+4
+
+
+MC
+On the popular TV series "Little House on the Prairie", the two actresses who played Laura and Mary had the same first name. What was it?
+Melissa
+Macy
+Maureen
+Marcy
+1
+
+

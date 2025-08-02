@@ -1,0 +1,96 @@
+TITLE
+Pericarditis
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+8
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+It is inflammation of the pericardium
+myocarditis
+Pericarditis
+MI
+
+2
+
+
+MC
+sign that both acute and chronic have
+Pericardial friction rub (grating sound)
+Pain
+hypertension
+
+1
+
+
+MC
+ECG result in Pericarditis is elevation of ST segment
+True
+false
+
+
+1
+
+
+MC
+What is the tx for recurret pericarditis
+partial pericardectomy
+total pericardectomy
+
+
+1
+
+
+MC
+What is the tx for constrictive pericarditis
+partial pericardectomy
+total pericardectomy
+
+
+2
+
+
+MC
+Dx test that confirms pericarditis when it shows an echo-free space bet the ventricular wall and peicardium
+Echomyocardiogram
+Echomyocardiography
+Echocardiography
+
+3
+
+
+MC
+How to decrease O2 demand in pt with pericarditis
+Elevate the head
+side lie positon
+give more O2
+Bed REst
+4
+
+
+MC
+what is the position for pericarditis pt?
+Side lying
+Upright position
+Sitting
+
+2
+
+

@@ -1,0 +1,96 @@
+TITLE
+The Jobby Quiz
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+8
+
+LOSE
+5
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+If I was to quote a definition from "Urban Dictionary.com" on the word Jobby, which would it be?
+C'mere ye wee Jobby!
+Ma maw just dont a pure jobby!
+What ye jobbying in ma hoose fur ya jobby!
+Thats pure jobby mate...!
+1
+
+
+MC
+When I am concerning a word beginning with 'W' - which one would it be?
+Walloper
+Wonky
+Winner
+Willy
+4
+
+
+MC
+Finish the sentence...."Ahm gonnae pump..."
+Yer dug.
+Yer paw.
+Yer maw.
+Yer granmaw.
+3
+
+
+MC
+For the next 4 questions finish the sentences. (Click OK)
+Ok
+...
+
+
+1
+
+
+MC
+Jobby is made of...
+Mush
+JJ.....(Just Jobby)
+Greg, Sacha, Danielle, Stuart and Ailsa mixed with Nicole.
+Peepee!!!!!!
+2
+
+
+MC
+I have two...(Think like my sick mind)
+Eyes
+Legs
+Arms
+Balls
+4
+
+
+MC
+There is something behind me, its.....
+A willy
+Someone's jinky willy
+An ace of spades!!!!
+Someone nice.
+2
+
+
+MC
+Nicole likes to...
+(Quote from Sacha) "Jilly in the late hours of the night"
+Willy around.
+Jump like Mr Boooombastic.
+Sing.
+1
+
+

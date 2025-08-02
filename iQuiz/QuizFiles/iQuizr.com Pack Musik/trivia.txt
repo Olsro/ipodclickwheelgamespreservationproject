@@ -1,0 +1,132 @@
+TITLE
+Musik
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+12
+
+LOSE
+5
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Was ist der zweite Vorname von Ciara?
+Queen
+Elizabeth
+Princess
+Fergie
+3
+
+
+MC
+Was bedeutet "Scissor Sisters"?
+eine lesbische Sexstellung
+ein englischer Bastelclub
+New Yorker Schneiderinnen-Vereinigung
+die Krankenschwestern von London
+1
+
+
+MC
+Was ist Emo-Punk?
+Punkmusik über Liebe
+Punk über Suizid-Ideen und Selbstmitleid
+Punks, die ihren Emotionen freien Lauf lassen
+eine amerikanische Comicserie
+2
+
+
+MC
+Wie heißt das neue Album von Billy Talent?
+Billy Talent rocks
+Billy Talent 2007
+Billy Talent Songs
+Billy Talent II
+4
+
+
+MC
+Was ist ersguterjunge?
+das Erziehungsbuch von Katja Saalfrank
+das Hip-Hop-Label von Bushido
+der Name von Xavier Naidoos Hund
+der neue Song von Roger Cicero
+2
+
+
+MC
+Wie heißt das aktuelle Album von Nelly Furtado?
+Loose
+Lost
+Loser
+Looses
+1
+
+
+MC
+Wie heißt der gemeinsame Song von Beyoncé und Shakira?
+Beautiful Face
+Beautiful Boy
+Beautiful Liar
+Beautiful Look
+3
+
+
+MC
+Justin Timberlake ist nicht nur back, er ist...
+HeroBack
+PrettyBack
+LonelyBad
+SexyBack
+4
+
+
+MC
+Wer nahm 2005 für Deutschland am Eurovision Song Contest teil?
+Jeanette Biedermann
+Gracia Baur
+Texas Lightning
+Michelle
+3
+
+
+MC
+Das neue Album von Herbert Grönemeyer heißt...
+10
+11
+12
+13
+3
+
+
+MC
+Die RnB-Sängerin Rihanna ist geboren auf der Insel...
+Barbados
+Haiti
+Kuba
+Jamaika
+1
+
+
+MC
+Von wie vielen Luftballons sang Nena 1983?
+22
+55
+66
+99
+4
+
+

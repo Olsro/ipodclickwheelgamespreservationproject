@@ -1,0 +1,132 @@
+TITLE
+41-er Quiz
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+12
+
+LOSE
+7
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Wie ist es 41 zu sein???
+gut
+mittel
+schlecht
+
+1
+
+
+MC
+Wieviele Geburtstage hat ein normaler Mensch, wenn er 58 Jahre alt ist???
+58
+57
+1
+59
+4
+
+
+MC
+Die meisten Monate haben 31 Tage, manche haben 30 Tage, wieviele Monate haben 28 Tage???
+1
+2
+6
+alle
+4
+
+
+MC
+Wenn sie Zünder haben und in einen dunklen Raum treten, in dem sich eine Kerze, eine Öllampe und ein Holzofen befindet. Was zünden sie zuerst an???
+Die Kerze
+Die Öllampe
+Die Zünder
+Den Holzofen
+3
+
+
+MC
+Ein Bauer hat 17 Schafe. Alle sterben, bis auf 9. Wieviele bleiben übrig???
+17
+9
+1
+0
+2
+
+
+MC
+Ist es in Lateinamerika möglich, dass ein Mann die Schwester seiner Witwe heiratet???
+ja
+nein
+
+
+2
+
+
+MC
+Wieviele Tiere brachte Mose auf die Arche mit???
+1.000.000 Tiere
+1.000 Tiere
+100 Tiere
+kein Tier
+4
+
+
+MC
+Ein Flugzeug stürzt in das Teilstück zwischen der ehemaligen UdSSR und Ungarn. Wo werden die Überlebenden begraben???
+UdSSR
+Ungarn
+Heimatland
+Sie werden gar nicht begraben
+4
+
+
+MC
+3 Katzen fressen 3 Mäuse in 3 Minuten. 100 Katzen fressen 100 Mäuse in wieviel Minuten???
+1 Minute
+100 Minuten
+3 Minuten
+99 Minuten
+3
+
+
+MC
+9 Spatzen sitzen auf einem Draht. Ein Jäger schießt einen herunter. Wieviele bleiben sitzen???
+0
+1
+7
+8
+1
+
+
+MC
+Bekommt ein Nachtwächter, wenn er am Tag stirbt, eine Rente???
+ja
+nein
+
+
+2
+
+
+MC
+Mit wem stand Edmund Hillary 1953 auf dem Gipfel des Mount Everest???
+Nasreddin Hodscha
+Nursay Pimsorn
+Tensing Norgay
+Abrindranath Singh
+3
+
+

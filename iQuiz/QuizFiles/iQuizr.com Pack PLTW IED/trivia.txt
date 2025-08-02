@@ -1,0 +1,69 @@
+TITLE
+PLTW IED
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+5
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+An appearance model.
+Mock-up
+Prototype
+Model
+Product
+1
+
+
+MC
+Value that occurs most frequently.
+Median
+Average
+Mode
+Meter
+3
+
+
+MC
+Unit of length equal to 100 centimeters.
+Yard
+Millimeter
+Foot
+Meter
+1
+
+
+MC
+The average of a set of quantities.
+Mode
+Median
+Mean
+Data
+3
+
+
+MC
+Unit of linear measure equal to 12 inches.
+Foot
+Meter
+Yard
+Ton
+1
+
+

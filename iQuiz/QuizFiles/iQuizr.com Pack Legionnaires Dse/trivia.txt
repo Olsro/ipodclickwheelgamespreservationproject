@@ -1,0 +1,114 @@
+TITLE
+Legionnaires Dse
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+definition of Legionnaires DSe
+inflammation of the lungs that begins in the bronchioles
+inflammation of the L lobe of the lungs
+inflammation of the R lobe of the lungs
+
+1
+
+
+MC
+Describe the cough of Legionnaires Dse
+Nonproductive initially.
+Grayish nonpurulent
+Blood streaked sputum
+all of the above
+4
+
+
+MC
+What is the gram negative rods that causes Legionnaires Dse
+Pegionella Pneumophilla
+legionella Pneumophila
+Regionella Pneumophilia
+
+2
+
+
+MC
+What is the shape of L. Pneumophila
+round
+Long
+star shaped
+rod
+4
+
+
+MC
+Antibiotics that used in treating L. DSe
+Erythromycin Erythrocin
+Tetracycline Achromycin V
+Rifampin Rifadin
+all of the above
+4
+
+
+MC
+It is an antipyretics
+Acetaminophen Tylenol
+Aspirin
+A and B
+
+3
+
+
+MC
+What are the s/sx of shock EXCEPT
+decreased BP
+Increased BP
+thready pulse
+Diaphoresis,clammy skin
+2
+
+
+MC
+L. Dse is produced by fastidious gram negative bacterium
+True
+false
+
+
+1
+
+
+MC
+These Blood test are increased in pt with L. Dse Except?
+ESR
+Liver enzymes level
+sodium
+leukocytosis
+3
+
+
+MC
+what is the antobiotic of choice for legionnaires Dse?
+Erythromycin Erythrocin
+Tetracycline Achromycin V
+Rifampin Rifadin
+
+1
+
+

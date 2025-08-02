@@ -1,0 +1,204 @@
+TITLE
+Länder & Städte
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+20
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Wieviele Menschen leben in Australien?
+ungefähr 10 Mio.
+ungefähr 15 Mio.
+ungefähr 22 Mio.
+ungefähr 58 Mio.
+3
+
+
+MC
+Wie heißt die Hauptstadt von Marokko?
+Rio de Janeiro
+Rabat
+Rom
+Ruanda
+2
+
+
+MC
+Wieviele Menschen sind in Finnland zuhause?
+5.5 Mio.
+6.6 Mio.
+7.7 Mio.
+8.8 Mio.
+1
+
+
+MC
+Wie hoch ist die Bevölkerungsdichte in Schweden?
+ungefähr 10 Menschen pro km²
+ungefähr 15 Menschen pro km²
+ungefähr 20 Menschen pro km²
+ungefähr 25 Menschen pro km²
+3
+
+
+MC
+Wie groß ist Europa?
+10 Mio. km²
+20 Mio. km²
+25 Mio. km²
+30 Mio. km²
+1
+
+
+MC
+Wieviele Menschen leben in Asien?
+1 Mrd.
+2 Mrd.
+3 Mrd.
+4 Mrd.
+4
+
+
+MC
+Wie groß sind die USA?
+11 Mio. km²
+17 Mio. km²
+19 Mio. km²
+23 Mio. km²
+3
+
+
+MC
+Wie heißt die größte Insel der Erde?
+Island
+Madagascar
+Grönland
+Rügen
+3
+
+
+MC
+Wie groß ist Deutschland?
+350.000 km²
+450.000 km²
+300.000 km²
+1 Mio. km²
+1
+
+
+MC
+Wieviele Menschen leben in Indien?
+0,8 Mrd.
+1,2 Mrd.
+1,7 Mrd.
+2,1 Mrd.
+2
+
+
+MC
+Wie lang ist der Rhein?
+2000 km
+3100 km
+1200 km.
+4100 km
+3
+
+
+MC
+Wie heißt der größte Berg Deutschlands?
+Mount Everest
+Kahler Asten
+Langkofel
+Zugspitze
+4
+
+
+MC
+Wie heißt das Gebirge, welches die beiden Kontinente Europa und Asien voneinander trennt?
+Uran
+Ural
+Urin
+Urua
+2
+
+
+MC
+Welches ist die südlichste Millionenstadt der Welt?
+Santiago de Chile (Chile)
+Melbourne (Australien)
+Rio de Janeiro (Brasilien)
+Buenos Aires (Argentinien)
+2
+
+
+MC
+Welche Stadt liegt auf zwei Kontinenten?
+London
+Istanbul
+Ankara
+Köln
+2
+
+
+MC
+Welches ist die nördlichste Hauptstadt der Welt?
+Reykjavík (Island)
+Nuuk (Grönland)
+Moskau (Russland)
+Juneau (Alaska)
+1
+
+
+MC
+Der Äquator durchquert 11 Staaten. Welcher gehört nicht dazu?
+Indonesien
+Kenia
+Indien
+Kolumbien
+3
+
+
+MC
+Drei Staaten liegen sowohl auf dem europäischen als auch asiatischen Kontinent. Türkei und Russland zählen dazu - wer ist der Dritte im Bunde?
+Kasachstan
+Ukraine
+Zypern
+Weißrussland
+1
+
+
+MC
+Durch welches Land verläuft die Grenze zwischen Asien und Australien?
+Indonesien
+Thailand
+Neuguinea
+Philippinen
+1
+
+
+MC
+Abschlussfrage: Wieviel Prozent der Erdoberfläche werden von den Kontinenten abgedeckt?
+19%
+29%
+39%
+49%
+2
+
+

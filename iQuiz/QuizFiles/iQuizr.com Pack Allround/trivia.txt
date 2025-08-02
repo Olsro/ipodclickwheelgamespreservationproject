@@ -1,0 +1,78 @@
+TITLE
+Allround
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+6
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Welches dieser Games gibt es nicht
+Zuma
+Duckhunt
+Tetris
+Sims Pool
+2
+
+
+MC
+Wie heiﬂt apple's chef
+Steve Jobs
+Elton Jhon
+Bill Gates
+Phill Harrison ?
+1
+
+
+MC
+Welches Betriebssystem gibt es nicht
+Linux
+Windows
+Macintosh
+Windoof
+4
+
+
+MC
+Was ist ein ipod
+mp3 player
+Stereoanlage
+Modem
+Prozessor
+1
+
+
+MC
+Welche Band gibt es nicht ?
+Shame Pistols
+Sex Pistols
+Game Pistols
+Blink182
+3
+
+
+MC
+Welche Sendung gibt es nicht
+Takeshi's Castle
+Southpark
+Zwei Bei Kallwas
+Zwergenland
+4
+
+

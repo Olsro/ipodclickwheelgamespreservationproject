@@ -1,0 +1,51 @@
+TITLE
+Generaciones de Computadores
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+3
+
+LOSE
+2
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+La primera generación de computadores aparece en los años
+1955
+1945
+1965
+1940
+1
+
+
+MC
+Los transistores aparecieron en la
+Primera Generación
+Segunda Generación
+Tercera Generación
+Cuarta Generación
+1
+
+
+MC
+Los tubos al vacío aparecen en la
+Primera Generación
+Segunda Generación
+Tercera Generación
+Cuarta Generación
+1
+
+

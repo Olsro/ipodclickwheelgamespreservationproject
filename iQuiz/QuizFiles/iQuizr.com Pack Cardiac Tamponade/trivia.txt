@@ -1,0 +1,159 @@
+TITLE
+Cardiac Tamponade
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+15
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+A rapid rise in intrapericardial pressure that impair diastolic filling of the heart
+Cardiomyopathy
+Cardiac TAmponade
+CArdiogenic shock
+
+2
+
+
+MC
+There are s/sx of Cardiac tampnade EXCEPT
+Wide pulse pressure
+muffled heart sounds
+Jugular Vein Distention
+Pulsusparadoxus
+1
+
+
+MC
+It is an abN inspiratory drop in systemic BP greater than 15mmhg
+Narrow Pulse pressure
+Pulsus paradoxitis
+Pulsus Paradoxus
+
+3
+
+
+MC
+One of the s/sx of cardiac tamponade
+Knee chest position
+upright backward position
+upright leaning forward position
+
+3
+
+
+MC
+In cardiac tamponade, what should be shown in chest XRay?
+widened mediastenium
+cardiomegaly
+hepatomegaly
+A and B
+4
+
+
+MC
+In cardiac tamponade, what should be shown in chest Echocardiography?
+Pericardial effusion
+R ventricular compression
+Atrial compression
+All of the above
+4
+
+
+MC
+what is this surgery for cardiac tamponade in which needle aspiration of the pericardial cavity is being done?
+Pericardiocentesis
+Perecentisis
+Aortacentesis
+
+1
+
+
+MC
+Adrenergic agent that used in cardiac tamponade?
+Dopamine
+Epinephrine (adrenaline)
+Digoxin
+
+2
+
+
+MC
+Inotrophic agent tha used in cradiac tamponade
+Digoxin
+Epinephrine (adrenaline)
+Dopamine(intropin)
+
+3
+
+
+MC
+In cardiac tamponade, What are the things that should be maintained?
+Pericardial aspiration needle attached to a 50ml syringe by a 3way stock
+ECG machine
+Emergency cart with defibrillator
+All of the above
+4
+
+
+MC
+In cardiac tamponade, The patient should be position in what positon during pericardiocenetesis?
+60-70 D angle
+45-60 degree angle
+20-45 D angle
+
+2
+
+
+MC
+During pericardiocenetesis, where is the precordial ECG lead should be connected?
+to the hub of the aspiration needle with an alligator clamp and connecting wire
+to the 3way stock with an alligator clamp and connecting wire
+to the IV catheter with an alligator clamp and connecting wire
+
+1
+
+
+MC
+During pericardiocenetesis, what should be expected when the needle touches the myocradium during aspiration?
+A QRS segment elevation
+A ST segment elevation appears
+A premature ventricular contractions appear
+B and C
+4
+
+
+MC
+what should be monitored during and after pericardioncentesis?
+BP and CVP
+BP and HR
+BP and PR
+
+1
+
+
+MC
+complications of Pericardiocentesis EXCEPT
+Ventricular fibrillation
+Vasovagal response
+coronary artery/cardiac chamber puncture
+Postural Hypotension
+4
+
+

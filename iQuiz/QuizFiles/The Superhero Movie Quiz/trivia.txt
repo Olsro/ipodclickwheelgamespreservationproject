@@ -1,0 +1,98 @@
+TITLE
+The Superhero Movie Quiz
+
+HIDDEN
+NO
+
+ASK
+10
+
+LOSE
+3
+
+WON MESSAGE
+You won!
+
+LOST MESSAGE
+You lost!
+
+MC
+Which superhero didn't acquire his or her power by accident?
+Storm
+The Hulk
+Thing
+Spider-Man
+1
+
+MC
+Which character can fly?
+Storm
+Batman
+Wolverine
+The Hulk
+1
+
+MC
+Which actor plays Superman's fother, Jor-El in Superman Returns
+Nicholas Cage
+Gene Hackman
+Kevin Spacey
+Marlon Brando
+4
+
+MC
+Which of these four isn't a member of the Fantastic Four?
+Michael Chikis
+Jessica Alba
+Brandon Routh
+Chris Evans
+3
+
+MC
+Which superhero love interest is a character created specifically for the screen?
+Mary Jane
+Rachel Dawes
+Lois Lane
+Elektra
+2
+
+MC
+Which actor didn't wear face paint to paly a superhero or supervillan
+Jessica Alba
+Jack Nicholson
+Rebecca Romijin
+Kelsey Grammer
+1
+
+MC
+Which member of the X-Men has the mutant power to heal instantly from injury?
+Beast
+Xavier
+Wolverine
+Storm
+3
+
+MC
+Which actor has player two comic-book hereos?
+Nicolas Cage
+Halle Barry
+Ben Affleck
+Jennifer Garner
+2
+
+MC
+Which hero doesn't live in a mansion
+Storm
+Beast
+Batman
+Invisible Woman
+4
+
+MC
+Which character doesn't hold a day job with a newspaper?
+Spiderman
+Superman
+Lois Lane
+Daredevil
+4
+

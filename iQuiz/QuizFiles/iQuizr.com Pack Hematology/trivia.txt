@@ -1,0 +1,474 @@
+TITLE
+Hematology
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+50
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+It is used in evaluation of ADH
+Osmolarity Blood
+Osmolarity Urine
+Osmolarity Serum
+
+2
+
+
+MC
+When are serum and urine being done?
+Morning
+Same time
+Evening
+Depends
+2
+
+
+MC
+W/c is higher normally,serum or urine?
+Osmolarity Blood
+Osmolarity Urine
+Growth hormone
+same result
+2
+
+
+MC
+N result of ACTH suppression?
+39% lower in cortisone prodn
+25% lower in cortisone prodn
+45% lower in cortisone prodn
+50% lower in cortisone prodn
+4
+
+
+MC
+ACTH Suppression Test an overnight test?
+No
+MAybe
+Yes
+
+3
+
+
+MC
+Term for ACTH Suppression?
+Plasma Cortisol Test
+Dexamethasone Suppression Test
+Blood Urine Test
+
+2
+
+
+MC
+N value of cortisol?
+<5 mcg/dl
+>5 mcg/dl
+<10mcg/dl
+<25 mcg/dl
+1
+
+
+MC
+In ACTH Suppression Test, When to admin dexamethasone?
+Morning
+Afternoon
+Evening
+Depends
+3
+
+
+MC
+When to eval serum & urine
+Evening
+Midnight
+Morning
+Depends
+3
+
+
+MC
+Plasma cortisol increase
+Morning
+Afternoon
+Evening
+Depends
+1
+
+
+MC
+Plasma cortisol decrease
+Morning
+Afternoon
+Evening
+Depends
+3
+
+
+MC
+N:24 hr urine for hydroxycorticosteroids ketosteroids for male?
+16-30mg/24 hour
+15-40mg/24 hour
+2-10mg/24 hour
+6-20mg/24 hour
+4
+
+
+MC
+Increase in the 24 hr urine for hydroxycorticosteroids indicates
+Hypoadrenal fx
+Hyperadrenal Fx
+
+
+2
+
+
+MC
+N plasma cortisol level at 8am?
+34-49mcg/dl
+24-30mcg/dl
+2-4mcg/dl
+5-23mcg/dl
+4
+
+
+MC
+signs of allergic reaction of BT
+Facial flushing
+Pruritus
+Urticaria(hives)
+ABC
+4
+
+
+MC
+Signs of allergic reaction of BT
+Severe SOB
+Bronchospasm
+AB
+
+3
+
+
+MC
+N plasma cortisol level at 4pm?
+15-18mcg/dl
+3-13mcg/dl
+19-21mcg/dl
+
+2
+
+
+MC
+N:24 hr urine for hydroxycorticosteroids ketosteroids for F?
+6-17mg/24 hour
+21-26mg/24 hour
+27-32mg/24 hour
+
+1
+
+
+MC
+N/I for allergic reaction from BT
+Notify the MD
+Give some H2O
+Give Some O2
+Stop the BT
+4
+
+
+MC
+N:24 hour urine for hydroxycorticosteroids ketosteroids for child under 15y/o
+>7 mg/24 hour
+<5mg/24 hour
+>5mg/24 hour
+>2mg/24 hour
+2
+
+
+MC
+S/sx of febrile reaction from BT
+Chills
+Fever
+Inc Anxiety
+ABC
+4
+
+
+MC
+S/sx of febrile reaction from BT
+Headache
+Flushing
+Ms stiffness/pain
+ABC
+4
+
+
+MC
+Most common Rx from BT?
+Febrile Rx
+Resp Rx
+Allergic Rx
+
+1
+
+
+MC
+N/I for febrile RX from BT
+Notify the MD
+Keep pt warm
+Stop the BT
+BC
+4
+
+
+MC
+Purpose of Bone MArrow Transplant?
+restore GI fx
+restore musculo fx
+restore neuro fx
+restore hemato and immuno fx
+4
+
+
+MC
+Adult:ml of bone marrow aspirated from donor's iliac crest?
+350-380 ml
+900-1120ml
+400-800 ml
+680-900 ml
+3
+
+
+MC
+BMT Typing:matches with histocompatible donor?
+Allogenic
+Autologous
+Syngeneic
+
+1
+
+
+MC
+Uses client's bone marrow?
+Allogenic
+Autologous
+Syngeneic
+
+2
+
+
+MC
+Donor is the identical twin with perfect tissue match?
+Allogenic
+Autologous
+Syngeneic
+
+3
+
+
+MC
+Complications of BMT
+Infx
+GI prob
+Alt Liver enzyme
+ABC
+4
+
+
+MC
+Complications of BMT
+Sev Thrombocytopenia
+Erhymatous
+Rash on feet/palm
+ABC
+4
+
+
+MC
+RBC,WBC,platelets start to form?
+6-8wks after BMT
+2-5wks after BMT
+10-12wks after BMT
+12-13wks after BMT
+2
+
+
+MC
+Do before BT
+Med Hx
+Pt Social HX
+Inf Consent
+
+3
+
+
+MC
+Check before BT
+ABO grp
+Rh type
+name
+ABC
+4
+
+
+MC
+Check before BT
+Hosp #
+Crossmatch
+Exp Date
+ABC
+4
+
+
+MC
+Admin Blood immed after rec from the bank
+Yes
+No
+Maybe
+
+1
+
+
+MC
+Store blood @ rm temp
+No
+Yes
+Maybe
+
+1
+
+
+MC
+Store blood in unit ref
+No
+Yes
+Maybe
+
+1
+
+
+MC
+Store blood in unit ref
+1 hour
+50 mins
+40 mins
+30 mins
+4
+
+
+MC
+To DO's for BT
+Dont add med to blood
+Dont warm blood
+No microwave
+ABC
+4
+
+
+MC
+To DO's for BT:Inspect
+leaks,air
+Abn color
+Bubbles
+ABC
+4
+
+
+MC
+Infusion pump in BT?
+Yes
+No
+Inc RBC hemolysis
+BC
+4
+
+
+MC
+Ave rate of BT in adult
+1"u"of blood(6 hrs)
+1"u"of blood(3-4hr)
+2"u"of blood(3-4hr)
+
+2
+
+
+MC
+TO DO's for Platelet/FF admin
+type and crossmatch rec
+unit ID
+Infuse fast
+ABC
+4
+
+
+MC
+Goal Leukemia
+Restore ms strength
+Prevent body weakness
+Prevent infx
+Maintain N skin int
+3
+
+
+MC
+N/I for Leukemia
+Monitor Temp
+skin care
+oral hygeine
+ABC
+4
+
+
+MC
+N/I for Leukemia
+perineal care
+adeq protein
+adeq calorie
+ABC
+4
+
+
+MC
+Leukemia:Avoid
+Polio
+Varicella
+MMR
+ABC
+4
+
+
+MC
+Leukemia:Avoid
+Urin Cath
+Aspirin
+AB
+
+3
+
+
+MC
+Bleeding Prec for Leukemia
+Xoverinflated BPcuff
+Xvigorous coughing
+Xnose blowing
+ABC
+4
+
+

@@ -1,0 +1,132 @@
+TITLE
+Geology TYK C-7
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+12
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Which is not regarded as a low-grade metamorphic rock?
+greenschist
+phyllite
+slate
+gneiss
+4
+
+
+MC
+Shearing is a type of
+compressive stress
+confining pressure
+lithostatic pressure
+differential stress
+4
+
+
+MC
+Metamorphic rocks with planar texture (the constituents of the rock are parallel to one another) are said to be
+concordant
+foliated
+discordant
+nonfoliated
+2
+
+
+MC
+Metamorphic rocks are classified primarily on
+texture- the presence or absence of foliation
+mineralogy- the presence or absence of quartz
+environment of deposition
+chemical composition
+1
+
+
+MC
+Which is not a foliated metamorphic rock?
+gneiss
+schist
+quartzite
+slate
+3
+
+
+MC
+Limestone recrystallizes during metamorphism into
+hornfels
+marble
+quartzite
+schist
+1
+
+
+MC
+Quartz sandstone is changed during metamorphism into
+hornfels
+marble
+quartzite
+schist
+3
+
+
+MC
+The correct sequence of rocks that are formed when shale undergoes prograde metamorphism is
+slate,gneiss,schist,phyllite
+phyllite,slate,schist,gneiss
+slate,phyllite,schist,gneiss
+schist,phyllite,slate,gneiss
+3
+
+
+MC
+The major difference between metamorphism and metasomatism is
+temperature at which each takes place
+the minerals involved
+the area or region involved
+metasomatism is metamophism coupled with the introductions of ions from an external source
+4
+
+
+MC
+Ore bodies at divergent plate boundaries can be created through
+contact metamorphism
+regional metamorphism
+hydrothermal processes
+
+3
+
+
+MC
+Metamorphic rocks with the same mineral assemblage belong to the same
+metamorphic facies
+prograde metamorphism
+schistosity
+isograd
+1
+
+
+MC
+A metamorphic rock that has undergone partial melting to produce a mixed igneous-metamorphic rock is a
+gneiss
+hornfels
+schist
+migmatite
+4
+
+

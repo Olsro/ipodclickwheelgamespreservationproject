@@ -1,0 +1,141 @@
+TITLE
+Chloride IMbalance
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+13
+
+LOSE
+3
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+In hyperchloremia, what is the level of chloride
+greater than 108 MEq/L
+less than 98 MEq/L
+
+
+1
+
+
+MC
+What is hyperchloremia
+metabolic acidosis
+metabolic alkalosis
+Respiratory alkalosis
+
+1
+
+
+MC
+In hypochloremia, what is the level of chloride
+greater than 108 MEq/L
+less than 98 MEq/L
+
+
+2
+
+
+MC
+s/sx of hypechloremia
+HPN Pitting edema
+tachycardia
+deep rapid breathing
+all of the above
+4
+
+
+MC
+what is hypochloremia
+metabolic acidosis
+metabolic alkalosis
+resp acidosis
+
+2
+
+
+MC
+s/sx of hypochloremia
+ms weakness, twitching
+shallow depressed breathing
+ms hypertoniciity
+all of the above
+4
+
+
+MC
+chloride is an
+Canion
+anion
+
+
+2
+
+
+MC
+Chloride is secreted by stomah mucosa as hydrochloride acid and provides an acid medium conducive  to digestion  and activation  of enzymes
+True
+false
+
+
+1
+
+
+MC
+deficient chloride level
+hypochloremia
+hyperchloremia
+
+
+1
+
+
+MC
+tx for hypochloremia
+acidifying agent
+ammonium chloride
+saline solution IV
+all of the above
+4
+
+
+MC
+Diet for hypochloremia
+acid broth
+salty broth
+
+
+2
+
+
+MC
+tx for hyperchloremia
+alkalinizing agent
+sodium bicarbonate IV
+LRS
+all of the above
+4
+
+
+MC
+Monitor serum cholride levels frequently part during
+IV therapy
+drug admin
+the pt is asleep
+
+1
+
+

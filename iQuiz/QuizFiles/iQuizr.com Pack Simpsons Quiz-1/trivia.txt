@@ -1,0 +1,33 @@
+TITLE
+Simpsons Quiz
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+1
+
+LOSE
+2
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+Cuantos perros han tenido en la familia Simpson ?
+25
+27
+28
+29
+3
+
+

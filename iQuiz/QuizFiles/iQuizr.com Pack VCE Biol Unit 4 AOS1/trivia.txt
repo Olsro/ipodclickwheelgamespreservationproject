@@ -1,0 +1,564 @@
+TITLE
+VCE Biol Unit 4 AOS1
+
+GROUP
+iQuizr.com
+
+HIDDEN
+NO
+
+ASK
+60
+
+LOSE
+7
+
+WON MESSAGE
+You Won! Visit iQuizr.com for more quizpacks!
+
+LOST MESSAGE
+You lose! Visit iQuizr.com for more quizpacks!
+
+VERSION
+1.0
+
+MC
+A maize plant of genotype L D/l d was involved in a test cross.  The genotype of the plant to which it was crossed would be
+L d/l D
+l d/l d
+L D/l d
+L D/L D
+2
+
+
+MC
+Two genes in watermelons with their alternate alleles are:  Gene 1: S - spots, s - solid colour and Gene 2: B - bitter fruit, b - sweet fruit.  The two genes assort independently.  Two plants, both heterozygous at each gene locus, were crossed and 1600 se
+100 of the plants produced spotted-coloured, bitter fruit.
+300 of the plants produced solid-coloured, bitter fruit.
+300 of the plants produced solid-coloured, sweet fruit.
+1600 of the plants produced spotted-coloured, sweet fruit.
+2
+
+
+MC
+The following nucleotide sequence forms part of the template strand of a gene coding for protein X - TGGaTGAC.  The complementary base found at the fourth nucleotide (lower case) in a sequence transcribed from this sequence would be
+C
+G
+T
+U
+4
+
+
+MC
+In a double-stranded molecule formed from the DNA template strand TGGATGAC, the number of deoxyribose sugar units you would expect to find is
+4
+8
+16
+32
+3
+
+
+MC
+Reverse transcriptase catalyses the production of
+DNA from an mRNA template.
+DNA from a protein template.
+mRNA from a DNA template.
+tRNA from a DNA template.
+1
+
+
+MC
+The list 1 - 4 below describes the events and outcomes of the replication of DNA within a eukaryotic cell.  (1) Complementary nucleotides bind to each of the two strands.  (2) Sugar phosphate bonds form between the nucleotides.  (3) The newly formed DNA m
+1, 2, 3, 4
+1, 4, 3, 2
+4, 2, 1, 3
+4, 1, 2, 3
+4
+
+
+MC
+Several male mice with bent tails were mated to female mice with straight tails.  All of the F1 males had straight tails and all of the F1 females had bent tails.  It is reasonable to conclude that:
+the gene involved in this cross is autosomal.
+the female parent with a straight tail is heterozygous.
+the cross demonstrates that bent tails is the recessive phenotype.
+the F1 female is heterozygous.
+4
+
+
+MC
+With respect to the ABO blood group locus it is possible to produce children of four different phenotypes if the parents are
+type B x type B
+type A x type B
+type O x type AB
+type AB x type AB
+2
+
+
+MC
+In DNA, the number of
+phosphate groups equals the number of nitrogen bases.
+adenine nucleotides equals the number of cytosine nucleotides.
+phosphate groups equals twice the number of sugar molecules.
+guanine nucleotides equals the number of uracil molecules.
+1
+
+
+MC
+During DNA replication
+messenger RNA (mRNA) is produced.
+reverse transcriptase enzymes play an important role.
+bonds between phosphate and sugar molecules break.
+each of the DNA strands acts as a template strand.
+4
+
+
+MC
+The gene responsible for the autosomal recessive condition PKU controls the production of an enzyme that converts the amino acid phenylalanine to tyrosine.  The gene has the alleles: P - produced enzyme, p - no enzyme produced.  In a person lacking the en
+the special diet for babies with the disease would also contain reduced levels of tyrosine.
+each person in a population would have one of three possible genotypes at the PKU gene locus.
+a PKU individual treated from soon after birth would not be able to pass allele p onto their offspring.
+because the disease can be treated, one would expect the number of babies born with PKU to decline over time.
+2
+
+
+MC
+Colour blindness is inherited as an X-linked recessive condition.  It is reasonable to claim that a
+colour-blind female must have a colour-blind father.
+colour-blind male must have a colour-blind mother.
+colour-blind male must have a colour-blind grandfather.
+colour-blind female must have a colour-blind grandmother.
+1
+
+
+MC
+In cattle, the presence or absence of a white saddle-shaped marking across the back of an otherwise coloured coat is under the control of a single autosomal gene.  The gene has the alleles:  S - white saddle present, s- solid-coloured coat (for example, b
+SS x Ss results in both solid-coloured and white-saddle cattle.
+Ss x Ss results in both solid-coloured and white-saddle cattle.
+SS x SS results in only solid coloured cattle.
+ss x ss results in only white-saddle cattle.
+2
+
+
+MC
+The AB?O blood group is under the control of a single gene with the alleles: A - presence of protein A on red blood cells, B - presence of protein B on red blood cells, i - presence of neither protein A or B on red blood cells.  With respect to this gene
+an individual could have one of eight different genotypes.
+an individual could have one of six different phenotypes.
+a child could have protein A even if both parents lacked protein A on their red blood cells.
+a child with neither protein A or B could have a mother with protein A and a father with protein B.
+4
+
+
+MC
+A particular species of plant has the following genes and alleles:  Leaf shape: L - normal shape, l - wrinkled and Number of seed cases: P - one seed case, p - three seed cases.  A cross between two parents produced 32 offspring with three seed cases and 
+ppll x PPLL
+Ppll x PPLL
+PpLl x PpLl
+PPLl x PpLl
+3
+
+
+MC
+The diploid number of the platypus is 52.  The number of chromosomes present in a somatic cell of a platypus is
+13
+26
+52
+104
+3
+
+
+MC
+A goldfish has 94 chromosomes in its somatic cells.  The diploid number for a goldfish is
+47
+94
+188
+376
+2
+
+
+MC
+An organism with more than two copies of each chromosome in its somatic cells is desribed as
+polygenic.
+polymorphic.
+polypeptic.
+polyploid.
+4
+
+
+MC
+Mitosis occurs during growth of human tissues.  The number of chromosomes present in human cells before and after mitosis is best represented by
+n -> n.
+n -> 2n.
+2n -> n.
+2n -> 2n.
+4
+
+
+MC
+In gametes produced by meiosis in mammals the
+chromosomes in a gamete are identical to those in the parent cell.
+number of chromosomes in each gamete is half the number in the parent cell.
+amount of DNA in each gamete is the same as in the parent cell.
+number of alleles in each gamete is the same as in the parent cell.
+2
+
+
+MC
+Compared with the amount of nuclear DNA in a nerve cell, the amount of nuclear DNA in an unfertilised egg cell will be
+double.
+the same.
+half.
+a quarter.
+3
+
+
+MC
+In tomatoes the shape of the fruit is an inherited trait.  In crosses between plants which are pure breeding for spherical fruit, and others which are pure breeding for oval fruit, all offspring have spherical fruit.  From this information you can conclud
+a cross between tomatoes, each heterozygous for spherical fruit, could produce offspring with two phenotypes.
+oval-shaped fruit is the dominant trait.
+any cross between tomatoes with spherical and oval fruit will produce offspring with one phenotype.
+all tomatoes with spherical fruit are homozygous.
+1
+
+
+MC
+In animals, being unable to produce pigment is called albinism.  This condition occurs in humans as well as in other animals.  Albinism is inherited as an autosomal recessive trait.  A cross between two individuals, both heterozygous for albinism, could b
+AA x AA
+aa x aa
+Aa x Aa
+Aa x aa
+3
+
+
+MC
+In animals, being unable to produce pigment is called albinism.  This condition occurs in humans as well as in other animals.  Albinism is inherited as an autosomal recessive trait.  A cross that could confirm that a prize-winning dog was a carrier for al
+AA x AA
+aa x aa
+Aa x Aa
+Aa x aa
+4
+
+
+MC
+In cats, folded ears is dominant to straight ears.  Two cats, each with folded ears, were mated and produced offspring, some with folded ears and some with straight ears.  It is reasonable to conclude that
+all offspring with folded ears have the same genotype.
+all offspring with straight ears are homozygous.
+neither of the parents is heterozygous.
+no offspring could be homozygous dominant.
+2
+
+
+MC
+In rabbis, a single autosomal gene determining coat colour has four different alleles.  At this locus the maximum number of different alleles a rabbit can have is
+one.
+two.
+three.
+four.
+2
+
+
+MC
+In rabbits, a single autosomal gene determining coat colours has four different alleles.  The number of genotypes possible with respect to this gene for coat colour is
+four.
+six.
+eight.
+ten.
+4
+
+
+MC
+Happle syndrome is an X-linked dominant disorder for which the phenotype includes short stature and skin abnormalities.  For this X-linked dominant disorder
+males with Happle syndrome will inherit the disorder from their fathers.
+all sons of a heterozygous female will have Happle syndrome.
+a homozygous female with Happle syndrome will have a father who has Happle syndrome.
+half the daughters of a male with Happle syndrome will have Happle syndrome.
+3
+
+
+MC
+In peach plants the presence or absence of hairs on fruit and the colour of fruit flesh are under the control of two unlinked genes.  The alleles of these two genes are as follows:  Hair on fruit: H - hair present, h - no hair present and Fruit colour: W 
+three-quarters of the fruit would have hair.
+half the fruit without hair would have white flesh.
+all of the fruit with hair would have yellow flesh.
+three-quarters of the fruit would have white flesh.
+1
+
+
+MC
+A trait such as egg size in chickens is polygenic.  This means that
+one gene locus with many alleles is involved.
+the population can be sorted into one or two phenotypic classes.
+the distribution of phenotypes is continuous.
+one gene locus with incomplete dominance is involved.
+3
+
+
+MC
+The base composition of the DNA of a particular bacterium was analysed.  It was found that 18 per cent of the bases were adenine.  You coluld reasonably conclude that
+the DNA comprised 18 per cent adenine-thymine pairs.
+32 per cent of the bases were cytosine.
+the DNA comprised 32 per cent of cytosine-guanine pairs.
+36 per cent of the bases were thymine.
+2
+
+
+MC
+The genetic code
+has 64 codons all of which code for an amino acid.
+may have more than one amino acid for each codon.
+is read in groups of 4 bases.
+may have several codons for a single amino acid.
+4
+
+
+MC
+The sequences in a eukaryotic gene which are spliced out during processing of RNA and are not translated are called
+exons.
+codons.
+inclusions.
+introns.
+4
+
+
+MC
+Polyypeptide synthesis occurs at the
+nucleus.
+ribosomes.
+mitochondria.
+mucleolus.
+2
+
+
+MC
+The codon, CAU, codes for the amino acid histidine.  It is reasonable to say that
+the DNA sequence on the template strand coding for histidine is GUA.
+the anticodon which matches with this codon is GTA.
+other amino acids, apart from histidine would be coded by CAU.
+other codons may code for histidine.
+2
+
+
+MC
+In a eukaryotic organism, gene expression may involve
+translation of the template strand of DNA.
+processing of the primary RNA transcript duirng which exons are cut out.
+complementary pairing of the codon and anticodon so tha A pairs with T and G with C.
+movement of the mRNA from the nucleus to the ribosome.
+4
+
+
+MC
+In eukaryotic organisms genes are
+composed of DNA.
+alternative forms of an allele.
+composed of DNA and protein.
+the same length as a chromosome.
+1
+
+
+MC
+In prokaryotic organisms
+translation occurs at the ribosome.
+transcription occurs in the nucleus.
+chromosomes are usually linear.
+DNA is only found in plasmids.
+1
+
+
+MC
+In bees, females are diploid and males are haploid.  This means that male bees
+produce gametes with half the haploid number of chromosomes.
+produce gametes by meiosis.
+produce gametes by mitosis.
+do not produce gametes.
+3
+
+
+MC
+In the Australian human population, when collecting data about the frequency of different phenotypes at the ABO blood group locus, it is possible to group all members of the population into four phenotypic classes.  This is an example of
+hybridisation.
+continuous variation.
+polygenic inheritance.
+discontinuous variation.
+4
+
+
+MC
+A fisherman was surprised to catch a fish which had no scales (nude). To investigate the origin of this phenotype the nude fish was mated several times to fish with scales and the result of each cross was recorded. In the crosses of nude with scaled, a th
+there is incomplete dominance between the nude and scaled phenotype.
+the environment is the reason for the loss of scales in the nude fish.
+all of the linear fish are homozygous.
+the nude fish are heterozygous.
+1
+
+
+MC
+In guinea pigs two genes have the following alleles:  Gene 1 (hair length): S – long hair, s- short hair; Gene 2 (hair type): W – straight hair, w – wavy hair.  A breeder carried out the cross SSWW × ssww and obtained a number of SsWw offspring.  The bree
+more with long, wavy hair than short, wavy hair.
+more with short, straight hair than short, wavy hair.
+approximately equal numbers of long, straight hair and long, wavy hair.
+approximately equal numbers of long, straight hair and short, wavy hair.
+4
+
+
+MC
+For humans, the term nuclear genome refers to all the genes in
+an autosome.
+an X chromosome.
+a Y chromosome.
+a set of autosomes plus the sex chromosomes.
+4
+
+
+MC
+All the alleles in a population are referred to as the
+phenotypic family.
+proteome.
+gene pool.
+genotype.
+3
+
+
+MC
+Amplification of DNA in the polymerase chain reaction requires
+nucleotides of uracil.
+DNA polymerase.
+amino acids.
+ribose sugar.
+2
+
+
+MC
+In the Australian sheep blowfly, the length of the wing is a polygenic trait.  This means that
+there is a small number of clearly defined phenotypes.
+wing length is controlled by one gene with many alleles.
+the wing length phenotype shows continuous variation.
+the phenotype is controlled by many genes on the same chromosome.
+3
+
+
+MC
+Achondroplasia is an autosomal dominant trait in humans that results in a form of dwarfism.  In some cases a child with achondroplasia is born to parents who have normal height.  The most likely reason for the appearance of the child with achondroplasia i
+the parents are carriers and the child has inherited the mutant allele from each parent.
+a mutation has occurred in a gamete of either the mother or the father.
+a mutation has occurred in a somatic cell of one of the parents.
+a mutation has occurred in the tissues of the child.
+2
+
+
+MC
+When comparing eukaryotic chromosomes with prokaryotic chromosomes, it is true that both
+exist in homologous pairs.
+are linear chromosomes.
+are situated within a nucleus.
+are made of double-stranded DNA molecules.
+4
+
+
+MC
+The edible pea (Pisum sativum) has a diploid number of 14. Specific cells in the ovary undergo meiosis to produce gametes.  The number of DNA molecules in one of these cells at the beginning of meiosis would be
+7
+14
+21
+28
+4
+
+
+MC
+The action of apoptosis
+causes the production of new cells.
+is only initiated by signals exterior to a cell.
+involves the reuse of all parts of a dead cell.
+can involve the death of perfectly healthy cells.
+4
+
+
+MC
+New alleles arise in a sexually reproducing population by
+mutations in DNA sequences prior to meiosis.
+random fertilisation of gametes during reproduction.
+random assortment of homologous chromosomes during meiosis.
+exchange of chromatin between homologous chromosomes during meiosis.
+1
+
+
+MC
+Two gene loci in an organism have the following alleles.  Gene locus one : T and t.  Gene locus two: P and p  An organism showing both dominant traits, but with unknown genotype, is represented by T- P-.  An appropriate test cross to establish the genotyp
+T- P- x TT PP
+T- P- x Tt PP
+T- P- x tt pp
+T- P- x tt Pp
+3
+
+
+MC
+Domestic dogs vary greatly in adult size. All dog breeds have the IGF-1 gene coding for a hormone which promotes growth to adolescence. Scientists have discovered that all small dog breeds have an allele, called S, of another gene close to IGF-1.  The bes
+the gene product of the S allele is a promoter of IGF-1.
+IGF-1 is the only gene controlling growth in dogs.
+when S is translated its product inhibits IGF-1 gene expression.
+large breeds cannot produce a transcript of the IGF-1 gene.
+3
+
+
+MC
+In maize plants, two gene loci on different chromosomes have the following alleles.  Gene one:  R – green stems, r – red stems; and Gene two:  D – normal height, d – dwarf plants.  The cross Rr Dd x Rr Dd was carried out and the seeds collected.  1600 of 
+100 offspring would be homozygous at both gene loci.
+600 of the offspring will have green stems and be of normal height.
+2/3 of the green stem, dwarf offspring will be heterozygous at gene locus one.
+1/3 of the red stem, normal height offspring will be heterozygous at both gene loci.
+3
+
+
+MC
+A soil bacterium (Agrobacterium tumefaciens) infects roses and fruit trees, stunting their growth.   similar bacterium (A. radiobacter) was genetically modified to include a plasmid gene coding for an antibiotic lethal to A. tumefaciens.  A. radiobacter h
+removal of all plasmids.
+removal of the antibiotic gene.
+destruction of the antibiotic resistance gene.
+removal of the plasmid transfer gene.
+4
+
+
+MC
+In sheep, white wool (B) is dominant to black wool (b).  In 2005, a farmer with a flock of sheep containing a few black sheep decided to prevent all black sheep from breeding in the future.  White sheep in the flock continued to reproduce in that year and
+no black lambs were born in 2006 and beyond.
+black lambs were born in 2006 but none in the following years.
+the proportion of black lambs born in 2006 was the same as in previous years.
+the proportion of black lambs born would decline gradually in the years following 2005.
+4
+
+
+MC
+Mitochondrial DNA
+is a linear molecule.
+is inherited only from the female parent.
+exists in mammalian cells but not plant cells.
+contains the same amount of uracil bases as adenine bases.
+2
+
+
+MC
+When comparing normal meiosis in human males and females
+equal numbers of functional gametes are formed from each participating cell.
+each egg and sperm contain a single sex chromosome.
+each egg produced contains one more autosome than a sperm cell.
+all sperm contain the same kind and amount of DNA.
+2
+
+
+MC
+An amoeba only reproduces asexually.  Variation in an amoeba most commonly occurs through
+mutation.
+random fusion of gametes.
+chiasmata formation and crossing over.
+independent assortment of chromosomes.
+1
+
+
+MC
+Beta-cells in the human pancreas produce insulin.  mRNA transcripts from these cells can be used to produce complementary (cDNA) copies of the active gene.  The enzyme needed to produce cDNA from an mRNA transcript is
+restriction endonuclease.
+reverse transcriptase.
+ligase.
+RNA polymerase.
+2
+
+
