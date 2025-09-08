@@ -1,7 +1,5 @@
 # iPod Clickwheel Games Preservation Project
-55/56 clickwheel games preserved for the moment and playable right now on your own pod !
-
-**ONLY Real Soccer 2009 is missing on the archive !!!! Contact me if you own it to complete the archive !!!!!**
+All games have been preserved and are playable right now on your own compatible iPod !
 
 ![Alt text](images/banner.jpeg?raw=true "Banner")
 
@@ -316,7 +314,7 @@ Contact me especially if you own any clickwheel game so we can preserve it toget
 | Phase                                  | ✅ | 1D000 | MTV Games - Harmonix | Rythm | 2007-11-06 |
 | Pirates of the Caribbean: Aegir's Fire | ✅ | 22000 | Disney Online Studios | Action | 2008-02-20 |
 | Pole Position Remix                    | ✅ | 14003 | Namco Networks America | Sports | 2008-01-21 |
-| Real Soccer 2009                       | ❌ | 22018 | Gameloft | Sports | 2008-12 |
+| Real Soccer 2009                       | ✅ | 22018 | Gameloft | Sports | 2008-12 |
 | Reversi                                | ✅ | 11800 | Apple Inc. | Cards, Casino, & Board | 2008-12 |
 | Royal Solitaire                        | ✅ 📹 | 50514 | Electronic Arts | Cards, Casino, & Board | 2006-12 |
 | SAT Prep Mathematics - 2008            | ✅ (v1.1) | 11052 (v1.1 is 11072) | Kaplan | Education | 2007-06-22 |

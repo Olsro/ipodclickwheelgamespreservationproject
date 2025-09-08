@@ -70,3 +70,6 @@
 
 # Version 14 (2025-07-08)
 - Added game: Tiger Woods PGA Tour
+
+# Version 15 (2025-09-08)
+- Added game: Real Soccer 2009
