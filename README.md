@@ -183,7 +183,7 @@ You need to extract "iPod Clickwheel Games Preservation Project.utm.7z.001" whic
 3) Install Qemu and dependencies: ```chmod a+x ./install_qemu.sh && ./install_qemu.sh``` (Ubuntu-only script, if not using Ubuntu 24.04 you will need to adapt it to your needs)
 4) Run Qemu: ```chmod a+x ./start_qemu.sh && ./start_qemu.sh``` or if your arch is ARM64 (for example if you are using an Apple Silicon Mac on Asahi Linux) you can emulate the x64 arch (which will be much slower) with this script ```chmod a+x ./slow_start_qemu.sh && ./slow_start_qemu.sh```.
 5) Now you can start Remmina to control it
-6) Setup a new SPICE connection with the following address: 127.0.0.1:17474 and connect to it
+6) Setup a new SPICE connection with the following address: localhost:17474 and connect to it
 ![Alt text](images/linux/remmina.png?raw=true "Remmina")
 7) You should now see the Virtual Machine booting and be able to interact with it
 8) You can USB passthrough your iPod to the Virtual Machine by clicking on the "Adjustable wrench" icon that is located near the bottom of the left panel to redirect your iPod to the Virtual Machine.
