@@ -95,6 +95,8 @@ Fix guide: [Click here](win-fix-error-while-powering-on-amd-v.md)
 ### [Linux only] The script "start_qemu.sh" does not start on my machine, what can I do ?
 It looks like your computer is an ARM64 one or a very old Intel/AMD computer, so you should use ```slow_start_qemu.sh``` instead to start the virtual machine.
 
+You may also want to try the new script called ```start_qemu_then_remmina.sh```.
+
 ### [Mac only] My iPod can't connect to the Virtual Machine, what can I do ?
 Some users reported that configuring the Virtual Machine to use USB2 helped to get a stable connection with the device.
 
@@ -181,7 +183,7 @@ You need to extract "iPod Clickwheel Games Preservation Project.utm.7z.001" whic
 1) Copy the .utm file on your workplace folder, because it will be needed by the script "start_qemu.sh".
 2) Open a Terminal on the folder of this cloned repo where start_qemu.sh is located.
 3) Install Qemu and dependencies: ```chmod a+x ./install_qemu.sh && ./install_qemu.sh``` (Ubuntu-only script, if not using Ubuntu 24.04 you will need to adapt it to your needs)
-4) Run Qemu: ```chmod a+x ./start_qemu.sh && ./start_qemu.sh``` or if your arch is ARM64 (for example if you are using an Apple Silicon Mac on Asahi Linux) you can emulate the x64 arch (which will be much slower) with this script ```chmod a+x ./slow_start_qemu.sh && ./slow_start_qemu.sh```.
+4) Run Qemu: ```chmod a+x ./start_qemu.sh && ./start_qemu.sh``` or if your arch is ARM64 (for example if you are using an Apple Silicon Mac on Asahi Linux) you can emulate the x64 arch (which will be much slower) with this script ```chmod a+x ./slow_start_qemu.sh && ./slow_start_qemu.sh```. You can also try the new script ```chmod a+x ./start_qemu_then_remmina.sh && ./start_qemu_then_remmina.sh``` then go directly to step 7. This new script is known to be more reliable with certain Linux distros.
 5) Now you can start Remmina to control it
 6) Setup a new SPICE connection with the following address: localhost:17474 and connect to it
 ![Alt text](images/linux/remmina.png?raw=true "Remmina")
