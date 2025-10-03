@@ -73,3 +73,6 @@
 
 # Version 15 (2025-09-08)
 - Added game: Real Soccer 2009
+
+# Version 16 (2025-10-03)
+- Reduce the size of the games inside the virtual machine to transfer the accounts keys much faster
